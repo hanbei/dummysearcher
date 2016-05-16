@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -Ddw.server.applicationConnectors[0].port=$PORT -Ddw.server.adminContextPath=/admin -cp './build/install/dummysearch/lib/*' de.hanbei.dwserver.SearchServerApplication server
