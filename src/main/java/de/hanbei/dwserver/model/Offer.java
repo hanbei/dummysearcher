@@ -1,4 +1,4 @@
-package de.hanbei.model;
+package de.hanbei.dwserver.model;
 
 import java.util.List;
 
