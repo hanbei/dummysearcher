@@ -1,7 +1,4 @@
 rx-search.iml
 .idea
 .gradle/
-gradle
 build
-gradlew
-gradlew.bat
