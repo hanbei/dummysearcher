@@ -33,10 +33,21 @@ public class SearchResource {
         this.random = new Random();
     }
 
+    @GET
+    @Produces(MediaType.APPLICATION_JSON)
+    public Response respond(@QueryParam("q") String query, @QueryParam("size") int size) {
+        return getResponse(size);
+    }
+
     @Path("/{searcher}")
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    public Response respond(@PathParam("searcher") String keyword, @QueryParam("size") int size) {
+    public Response respondAsSearcher(@PathParam("searcher") String searcher, @QueryParam("q") String query, @QueryParam("size") int size) {
+        return getResponse(size);
+    }
+
+    private Response getResponse(@QueryParam("size") int size) {
+        checkState(StaticResponse.offers != null);
         checkState(StaticResponse.offers != null);
 
         ArrayList<Offer> resultList = Lists.newArrayList(StaticResponse.offers);
@@ -48,4 +59,5 @@ public class SearchResource {
         Uninterruptibles.sleepUninterruptibly(random.nextInt(2000), TimeUnit.MILLISECONDS);
         return Response.ok(resultList.subList(0, Math.min(size, resultList.size()))).build();
     }
+
 }
