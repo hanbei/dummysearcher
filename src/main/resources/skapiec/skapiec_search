@@ -1,0 +1,29 @@
+{"user": {}, "pagination": {
+    "totalRows": 30464,
+    "offset": 0,
+    "limit": 3,
+    "first": "http:\/\/api.skapiec.pl\/beta_searchOffers.json?q=Samsung+50JU6800+&amount=3&offset=0",
+    "next": "http:\/\/api.skapiec.pl\/beta_searchOffers.json?q=Samsung+50JU6800+&amount=3&offset=3",
+    "last": "http:\/\/api.skapiec.pl\/beta_searchOffers.json?q=Samsung+50JU6800+&amount=3&offset=30461"
+}, "components": {
+    "component": [
+        {
+            "score": 4.4343815,
+            "link": "http:\/\/www.skapiec.pl\/cat\/200\/comp\/13314362",
+            "id_skapiec": 13314362,
+            "name": "Samsung Galaxy S6 G9200"
+        },
+        {
+            "score": 4.4343815,
+            "link": "http:\/\/www.skapiec.pl\/cat\/200\/comp\/12977790",
+            "id_skapiec": 12977790,
+            "name": "Samsung Galaxy A7 Bia\u0142y"
+        },
+        {
+            "score": 4.4339614,
+            "link": "http:\/\/www.skapiec.pl\/cat\/200\/comp\/13946097",
+            "id_skapiec": 13946097,
+            "name": "Samsung Galaxy J1 Bia\u0142y"
+        }
+    ]
+}, "timeStamp": 1448632963, "genTime": 0.2498459815979}

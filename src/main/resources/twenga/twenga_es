@@ -1,0 +1,3474 @@
+{
+    "code": 200,
+    "infos": {
+        "info_code": 0,
+        "nb_tw_objects": 1
+    },
+    "tw_objects": [{
+        "nb_results": 50,
+        "confkey": "56e8a384c1aee",
+        "tracking_url": "http:\/\/api.wtpn.twenga.es\/track\/display.js",
+        "results": [{
+            "item_id": 6886715068187735097,
+            "name": "PANTALON PIRATA anticelul\u00edtico \/ adelgazante APPLE SKIN G",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87dlqT5am-wcZgQYtIKJySUpSmL1qVZm4ImxH_H6QZSDvbzs9-z8402NSqFUkISjoUiSsqc40JmqLoEi0pUoQztXLSJJwtOmYDagwkGlXhBqMjQa7fV8QBU_Lak7G35PD1ouwsBUN00zruoa0C2fffR61OaRTK06nzstYlTyhnlGXq0F2jhRAuitCykMQbankIdHZCQSDNuMc05ZKuD9t62kNe20WMbk91xPzEgfPHtJLVOGggkuCSYCSLyomA4LxRw1nUq4hTs7HmKdt3Ym2llxmiG7kfX1tWQRDHhc0znFM8IKXNccplM6HgbcbMzqRFFkhnz7zAGr4M7nBewLJ7Md745_m0ssWC5UNg0UNkMlR3iSrepDycg2tPVFQCDO7khOd_4z-5orz-VZ-j4le4dQmtnUN332tfv6RKU_fwC",
+            "tag": "4255710461639940398-6886715068187735097",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_6886715068187735097.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_6886715068187735097b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_6886715068187735097vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 9201996811184581099,
+            "name": "FAJA anticelul\u00edtica \/ adelgazante APPLE SKIN P-M",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHBbsMgDP2VymfaAgESctvaHappWqVmO02aKCErakpoQjZV0_59kHaTONjPz37P5hs2NZSSYiKlKAghBeMFwVIiqC7eQAkVINjZYBIvl5wykSN40F5DiReECgSv3VaFQ6TityVlb8vn6cW2O-8jqprGOhtUHZFt33306pRmEQSrzoVe6TClnFGO4NFcYgsnSpBC5TLXWse2J18HG0kg0oxbTDMes9VBOWfamNemUWMbkt1xPzFi-OLaSWqdNCBK8JxgJojIpGQ4k0XkrOtUxCnYmfMU7bqx19PKjFEE96Nt62pIopjwOaZzimeElBkueZ5MqHAbcbMzqZGCJDP632HwTnl7OC_isngy37nm-LdxjgXLRIF1EyuboTJDWKk29eEEBHO6uorAYE92SM437rM7mutPZQiOX-ne3rdmFqv7Xrn6PV2Csp9f",
+            "tag": "4255710461639940398-9201996811184581099",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "38,00 \u20ac",
+            "price_raw": 38,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_9201996811184581099.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_9201996811184581099b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_9201996811184581099vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 2649936775527884072,
+            "name": "FAJA anticelul\u00edtica \/ adelgazante APPLE SKIN G-SG",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87dlqT5aHuDjcOEEJNWOCGhLE1ZtC7N2hQ0If47TjaQcrCfn_2enW-0aVBFBSvLXEjJOZVFwbCkGaov3qAK1ShDOxtM5MmSUyZkhh6016jCC0JFhl77rQoHoOK3JWVvy-f0oO3Oe0BV21png2oA2Q79x6BOcRbJ0Kp3YVA6pJQzyjP0aC7QwokSpFCylFpraHvyTbBAQiLOuMU055CtDso500HemFZNXYh2p31iQPjiuiS1jhoIJLgkmAki8rJkOC8L4KybWMQx2Jlzinb9NOi0MmNwivvJdk09RlFM-BzTOcUzQqocV1xGEyrcRtzsJDVSkGhG_zsM3ilvD-cFLIuT-d61x7-NJRYsFwXWLVQ2Y23GsFJd7MMRCOZ0dQXAaE92jM437rM_mutP5Rk6fsV7e9-ZGVT3g3LNe7wEZT-_",
+            "tag": "4255710461639940398-2649936775527884072",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "38,00 \u20ac",
+            "price_raw": 38,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2649936775527884072.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2649936775527884072b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2649936775527884072vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 1526801589071215657,
+            "name": "LEGGINS anticelul\u00edtico \/ adelgazante APPLE SKIN P",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PZFNT8MwDIb_ypRztyVpPtreYOMwIcSkFU5IKEtTFq1LszYFTYj_jpMNpBwc-3Xex8432jSoIpyKAhNelFgSSrjgMkP1xRtUoRplaGeDiTpZcsoE1B6016jCC0JFhl77rQoHkOK3JWVvy-d0oO3Oe8iqtrXOBtVAZjv0H4M6Jc8MrXoXBqXDFYFRnqFHc4EWTpQghZKl1FpD25NvggUREvGNW0xzDrfVQTlnOrg3plVTFyLutE8KCF9cl6zW0QOBBZcEM0FEXpYM52UBmnUTizgGO3NO0a6fBp1GZoxm6H6yXVOP0RS2NMd0TvGMkCrHFZcRQoXbEzec5EYKEmH0P2HwTnl7OC9gWJzge9ce_yaWWLAcvkG3UNmMtRnDSnWxD8dEMKcrFSRGe7JjJN-4z_5orj-VZ-j4FfftfWdmUN0PyjXvcROU_fwC",
+            "tag": "4255710461639940398-1526801589071215657",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_1526801589071215657.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_1526801589071215657b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_1526801589071215657vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 8110737116223817996,
+            "name": "LEGGINS anticelul\u00edtico \/ adelgazante APPLE SKIN SG",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87dlu-0vcHGYUKISSuckFCWpixal2ZtCpoQ_x2nG0g52M_Pfs_ON9rUqMwJwYopQiSlLCeqKGSGqkuwqEQVytDORZt4qhCUS5WhBxMMKvGCUCC-dlsdD0DFb0vK35bP04O2uxAA1U3jvIu6BmTbdx-9PqVZJEOrzsdemzilglORoUd7gRZBtCS5VoUyxkDbU6ijAxKSacYtpkxAtjpo720LeW0bPbYx2R33EwPCF99OUuukgUBCKIK5JJIVBcesyIGzrlMRp2Bnz1O068beTCtzTjN0P7q2roYkiomYYzqneEZIyXApVDKh423Ezc6kRnKSzJh_hzF4HdzhvIBl8WS-883xb2OFJWcyx6aBymao7BBXuk19OAHRnq6uABjcyQ3J-cZ_dkd7_SmWoeNXuncIrZ1Bdd9rX7-nS1D-8ws%2A",
+            "tag": "4255710461639940398-8110737116223817996",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8110737116223817996.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8110737116223817996b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8110737116223817996vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 1165076769021978656,
+            "name": "LEGGINS anticelul\u00edtico \/ adelgazante APPLE SKIN G",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87dlqT5aHuDjcOEEJNWOCGhLE1ZtC7N2hQ0If47TjaQcrCfn_2enW-0aVBFiOBYCilKTEkpC8FFhuqLN6hCNcrQzgYTebLklAmZoQftNarwglAgvvZbFQ5AxW9Lyt6Wz-lB2533gKq2tc4G1QCyHfqPQZ2SZoZWvQuD0iGlnFGeoUdzgRZOlCCFkqXUWkPbk2-CBRISccYtpjmHbHVQzpkO8sa0aupCtDvtEwPCF9clqXXUQCDBJcFMEJGXJcN5WQBn3cQijsHOnFO066dBp5UZoxm6n2zX1GMUxYTPMZ1TPCOkynHFZTShwm3EzU5SIwWJZvS_w-Cd8vZwXsCyOJnvXXv821hiwXJRYN1CZTPWZgwr1cU-HIFgTldXAIz2ZMfofOM--6O5_lSeoeNXvLf3nZlBdT8o17zHS1D28ws%2A",
+            "tag": "4255710461639940398-1165076769021978656",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_1165076769021978656.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_1165076769021978656b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_1165076769021978656vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 5982497030619337382,
+            "name": "PANTALON PIRATA anticelul\u00edtico \/ adelgazante APPLE SKIN SG",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87dlu80vcHGYUKISSuckFCWpqxal2ZtCpoQ_x2nG0g52M_Pfs_ON9pUqBA6p1wrzLAkmjHFcpqh8hIcKlCJMrRroks8pQXlUmXowQaLCrwgVGbotduaeAAqfltS_rZ8nh603YUAqKnrxjfRVIBs--6jN6c0i2Ro1fnYGxunVHAqMvToLtAiiJEkN0oray20PYUqNkBCMs24xZQJyFYH471rIa9cbcY2JrvjfmJA-OLbSWqdNBBICEUwl0QyrTlmOgfOukpFnIKdO0_Rrht7O63MOZzifmzaqhySKCZijumc4hkhBcOFUMmEibcRNzuTGslJMmP_HcbgTWgO5wUsiyfzna-PfxsrLDmTObY1VDZD6Ya4Mm3qwwmI7nR1BcDQnJohOd_4z-7orj_FMnT8SvcOoXUzqO5746v3dAnKf34B",
+            "tag": "4255710461639940398-5982497030619337382",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_5982497030619337382.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_5982497030619337382b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_5982497030619337382vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 6523991891361587248,
+            "name": "PANTALON PIRATA anticelul\u00edtico \/ adelgazante APPLE SKIN P",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87ZlqT5aHuDjcOEEJNWOCGhLE1ZtC7N2hQ0If47TjeQcrCfn_2enW-0qVEpBcuKguYFzSQVuWI8x6i6BItKVCGMdi7axFOFYFwqjB5MMKgkC8okRq_dVscDUMnbkvG35fP0oO0uBEB10zjvoq4B2fbdR69PaRbFaNX52GsTp1RwJjB6tBdoEVRLmmtVKGMMtD2FOjogIZlm3GKWCchWB-29bSGvbaPHNia7435iQPji20lqnTQQSAhFCZdUwr6cZEUOnHWdiiQFO3ueol039mZamXOG0f3o2roakiihYk7YnJEZpWVGSqGSCR1vI252JjWa02TG_DuMwevgDucFLEsm851vjn8bKyJ5JnNiGqhshsoOcaXb1EcSEO3p6gqAwZ3ckJxv_Gd3tNefyjA6fqV7h9DaGVT3vfb1e7oE4z-_",
+            "tag": "4255710461639940398-6523991891361587248",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6523991891361587248.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6523991891361587248b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6523991891361587248vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 1435177074592821511,
+            "name": "PANTALON PIRATA anticelul\u00edtico \/ adelgazante APPLE SKIN M",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87dlqT5aHuDjcOEEJNWOCGhLE1ZtC7N2hQ0If47TjaQcrCfn_2enW-0aVBFWM6JlFgyXtKCEk5IhuqLN6hCNcrQzgYTebLklAmZoQftNarwglCRodd-q8IBqPhtSdnb8jk9aLvzHlDVttbZoBpAtkP_MahT0szQqndhUDqklDPKM_RoLtDCiRKkULKUWmtoe_JNsEBCIs64xTTnkK0OyjnTQd6YVk1diHanfWJA-OK6JLWOGggkuCSYCSLysmQ4LwvgrJtYxDHYmXOKdv006LQyYzRD95PtmnqMopjwOaZzimeEVDmuuIwmVLiNuNlJaqQg0Yz-dxi8U94ezgtYFifzvWuPfxtLLFguCqxbqGzG2oxhpbrYhyMQzOnqCoDRnuwYnW_cZ38015_KM3T8ivf2vjMzqO4H5Zr3eAnKfn4B",
+            "tag": "4255710461639940398-1435177074592821511",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_1435177074592821511.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_1435177074592821511b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_1435177074592821511vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 6652779864725531934,
+            "name": "LEGGINS anticelul\u00edtico \/ adelgazante APPLE SKIN M",
+            "description": "C\u00f3mo te ayuda la cosm\u00e9tica textil o cosm\u00e9tica inteligente de Appleskin a combatir la celulitis? Se trata de prendas que con el roce de nuestra piel liberan activos cosm\u00e9ticos, que se hallan en los millones de microc\u00e1psulas (eficacia probada hasta 30 lavados) ad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyme39dtJbtByqBCiUgMnJOQ6DrWaOm7igCrEv2O7BcmH3dnZndn1N9g0oBKCEynLQjBJOKe4pAyC-uINqEANINjZYBJPlpwwISF40F6DCi0wERC89lsVDpGK3paEvS2f84ttd95HVLWtdTaoJiLbof8Y1CnNwhCsehcGpUNOOSMcgkdziS0cK4ELJUuptY5tT74JNpKASDNuMaE8ZquDcs50MW9Mq6YuJLvTPjNi-OK6LLVOGiBKcIkRE1jQsmSIlkXkrJtURCnYmXOOdv006LwyYwSC-8l2TT0mUYT5HJE5QTOMK4oqLpMJFW4jbnayGi5wMqP_HQbvlLeH8yIui7L53rXHv40lEoyKAuk2VjZjbcawUl3qQwkI5nR1FYHRnuyYnG_cZ38015-iEBy_0r2978wsVveDcs17ugRhP78%2A",
+            "tag": "4255710461639940398-6652779864725531934",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": false,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "52,24 \u20ac",
+            "price_raw": 52.24,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1638,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6652779864725531934.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6652779864725531934b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6652779864725531934vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 7952467,
+            "merchant": {
+                "merchant_id": 7952467,
+                "name": "Cosmetica Club",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=7952467",
+                "domain": "cosmeticaclub",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/7952467.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            }
+        }, {
+            "item_id": 2150406974217636438,
+            "name": "Apple iPad Mini WiFi",
+            "description": "Apple iPad Mini. El iPad mini ofrece 16GB de memoria y un procesador A5 una pantalla espectacular de 7,9\", funciona r\u00e1pido, es compatible con las apps para el iPad y encima lo puedes sujetar con una mano. Una pantalla espectacular, un chip A5 superpotente, c\u00e1ma",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0tR0_ktyg5VAhRKUGTkjIdRxqNXXcxAFViH9n7UIlH_Yx65nZ_UabBlWUcMywKCWjRIpcsLzIUH3xBlWoRhna2WAiTuBSFFRm6EF7jSq8IDTP0Gu_VeEAUJKXrBRvS8rels_pweyd99BSbWudDaqBynboPwZ1ih-SDK16FwalQ0o5ozxDj-YCI5woQQolS6m1hrEn3wQLICTiH38xzTlkq4NyznSQN6ZVUxei5mmfEBC-uC5RrSMHAgouCWaCiLwsGc7LAjDrJjZxDHbmnKJdPw06-WaMZuh-sl1Tj5EUEz7HdE7xjJAqxxWXUYS6ekhLuGlKlKQgUZG-yQzeKW8P5wU4xslB79rjv22J4QKiwLqFzmaszRhWqotzOBaCOV2lQWG0JztG-Rv32R_N9WZwk-NXXLr3nZlBdz8o17zHdVD28ws%2A",
+            "tag": "4255710461639940398-2150406974217636438",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "325,00 \u20ac",
+            "price_raw": 325,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,16 \u20ac",
+            "estimated_cpc_raw": 0.1599,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2150406974217636438.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2150406974217636438b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2150406974217636438vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6096827,
+            "merchant": {
+                "merchant_id": 6096827,
+                "name": "Electrodom\u00e9sticos A.Romero",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=6096827",
+                "domain": "electrodomesticosromero",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/6096827.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 8704446147071387279,
+            "name": "funda carcasa iphone Trendy Sport Running Armband Apple for iPhone 6 (Assorted Color)",
+            "description": "Compatibilidad:iPhone 6; Caracter\u00edsticas:Deportes y Exterior; Material:Textil; Estilo:Deporte y aire libre; Color:Gris,Rosa,Azul,Verde,Blanco,Negro,Rojo,Naranja,Rosa,P\u00farpura; Dimensiones (cm):18X15.3X0.3; Netto Gewicht (kg):0.042",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09St2khu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5md2bW32jToKqQmHMuCJdYElZIKssM1RdvUIVqlKGdDSbiREFkLmSGHrTXqMILQgH42m9VOACUMC7K8m1J-dvyOT2YvfMeWqptrbNBNVDZDv3HoE5xIcnQqndhUDqkNOc0z9CjucBITpQghZKl1FrD2JNvggUQEnHHX0xZDtnqoJwzHeSNadXUhah52icEhC-uS1TryIGAIpcEg13BypJjVhaAWTexiWOwM-cU7fpp0Mk35zRD95PtmnqMpJjkc0znFM8IqRiuchlFqKuHdISbpkRJChIV6ZvM4J3y9nBegGOcHPSuPf7bllhwJgqsW-hsxtqMYaW6OIdjIZjTVRoURnuyY5S_cZ_90Vz_jGXo-BWP7n1nZtDdD8o17_EclP_8Ag%2A%2A",
+            "tag": "4255710461639940398-8704446147071387279",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "3,67 \u20ac",
+            "price_raw": 3.67,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "estimated_cpc": "0,12 \u20ac",
+            "estimated_cpc_raw": 0.12286,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_8704446147071387279.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_8704446147071387279b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_8704446147071387279vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6817567,
+            "merchant": {
+                "merchant_id": 4901091,
+                "name": "MiniInTheBox",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=4901091",
+                "domain": "miniinthebox",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/4901091.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 134990,
+                "name": "Accesorios y piezas iPhone",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=134990&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=134990"
+            }
+        }, {
+            "item_id": 6170496791440614426,
+            "name": "Multicargador de red 2.1A con conector Micro USB Apple 30 pin \/ Lightning 8 pin iPhone 5 Model ASI23MCH-750B",
+            "description": "Multicargador de red 2.1A con conector Micro USB Apple 30 pin \/ Lightning 8 pin iPhone 5 Multicargador de red 2.1A con conector Micro USB Apple 30 pin \/ Lightning 8 pin iPhone 5",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFdT8MgFP0rC89sA0qh7ZtuPizGuGTVJxPDKHVkHWUt1SzG_-6F6RJC7se5nHMu32jToEpQSXgpZEk5JwIuJjCqL96gCtUIo50NJuIKQkkhJUYP2mtUkQVlJUav_VaFA0ALmXHxtmT8bfmcDozeeQ8d1bbW2aAaqGyH_mNQp_gexWjVuzAoHVKac5Zj9GguMJJTJWihZCm11jD25JtgAYREfOMvZlkO2eqgnDMd5I1p1dSFKHnaJwSEL65LVOvIgYAil5RwQUVWlpxkZQGYdRObJAY7c07Rrp8GnWzDPjC6n2zX1GMkJTSfEzZnZEZplZEql1GESh7SDm6SEiMtaBSkbyqDd8rbw3kBhkky0Lv2-O9aEsEzURDdQmcz1mYMK9XFORILwZyuyqAw2pMdo_qN--yP5vpjGUbHr7hz7zszg-5-UK55j9tg_OcX",
+            "tag": "4255710461639940398-6170496791440614426",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "7,11 \u20ac",
+            "price_raw": 7.11,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,12 \u20ac",
+            "estimated_cpc_raw": 0.12286,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6170496791440614426.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6170496791440614426b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_6170496791440614426vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 8010877,
+            "merchant": {
+                "merchant_id": 8010877,
+                "name": "Backcom",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=8010877",
+                "domain": "blackcom",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/8010877.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 134990,
+                "name": "Accesorios y piezas iPhone",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=134990&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=134990"
+            }
+        }, {
+            "item_id": 3279315244436088121,
+            "name": "ken ken gran cadena coreana modelos apple su\u00e9ter retro (color al azar)",
+            "description": "Tipo joyer\u00eda:Collares con colgantes; Ocasi\u00f3n:Fiesta; Material:Legierung; Color del Material:Dorado; Altura del Pendiente (cm):3; Ancho del Pendiente (cm):5; Peso neto (kg):0.018",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0tR0_ktyg5VAhRKUGTkjIdRxqNXXcxAFViH9n7UIlH_YxuzOz_kabBlU5lWVOOGWM5QIXBaEkQ_XFG1ShGmVoZ4OJOFEQLpnM0IP2GlV4QYjI0Gu_VeEAUMlKnL8tKXtbPqcHo3feQ0e1rXU2qAYq26H_GNQp7gOWVe_CoHRIKWeUZ-jRXGCEEyVIoWQptdYw9uSbYAGERNzxF9OcQ7Y6KOdMB3ljWjV1IUqe9gkB4YvrEtU6ciCg4JJgJojIy5LhvCwAs25iE8dgZ84p2vXToJNtxmiG7ifbNfUYSTHhc0znFM8IqXJccRlFqOQh3eAmKTGSgkRB-qYyeKe8PZwXYBgnA71rj_-uJRbwCwXWLXQ2Y23GsFJdnMOxEMzpqgwKoz3ZMarfuM_-aK4_BuzHr3hz7zszg-5-UK55j9eg7OcX",
+            "tag": "4255710461639940398-3279315244436088121",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "1,63 \u20ac",
+            "price_raw": 1.63,
+            "currency": "\u20ac",
+            "shipping_cost": "13,93 \u20ac",
+            "shipping_cost_raw": 13.93,
+            "has_ean": false,
+            "estimated_cpc": "0,11 \u20ac",
+            "estimated_cpc_raw": 0.110478,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_3279315244436088121.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_3279315244436088121b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_3279315244436088121vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6815747,
+            "merchant": {
+                "merchant_id": 4901101,
+                "name": "Light in the box",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=4901101",
+                "domain": "lightinthebox",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/4901101.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 76668,
+                "name": "Collares y cadenas",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=76668&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=76668"
+            }
+        }, {
+            "item_id": 8562347910228963086,
+            "name": "Cable HDMI V1.4 de Alta Velocidad 5M 15FT 1080P 3D Dorado Plateado para Smart LED HDTV, Apple TV, B",
+            "description": "Tipo:Video,Audio,Accesorios de Computadora; Puerto:HDMI \/ Micro HDMI \/ HDMI Mini; Longitud (cm):500; Netto Gewicht (kg):0.063; Tipo:Cable; Puerto:HDMI V1.4; Peso (Kg):0.063; Uso:Audio y V\u00eddeo,Home Cinema; Caracter\u00edsticas:3D\/4K,Alta Velocidad,Dorado,1080p; G\u00e9ner",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0tR0_ktyg5VAhRKUGTkjIdRxqNXXcxAFViH9n7UIlH_YxuzOz_kabBlUFFzRnsiSY0qIUOS5EhuqLN6hCNcrQzgYTcaIgXDKZoQftNarwgjCeodd-q8IBoDIXRf62pOxt-ZwejN55Dx3VttbZoBqobIf-Y1CnuI9kaNW7MCgdUsoZhX2P5gIjnChBCiVLqbWGsSffBAsgJOKOv5jmHLLVQTlnOsgb06qpC1HytE8ICF9cl6jWkQMBBZcEM0FEXpYM52UBmHUTmzgGO3NO0a6fBp1sM0YzdD_ZrqnHSIoJn2M6p3hGSJXjissoQiUP6QY3SYmRFCQK0jeVwTvl7eG8AMM4Gehde_x3LbFgsATrFjqbsTZjWKkuzuFYCOZ0VQaF0Z7sGNVv3Gd_NNcfA_bjV7y5952ZQXc_KNe8x2tQ9vML",
+            "tag": "4255710461639940398-8562347910228963086",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "4,54 \u20ac",
+            "price_raw": 4.54,
+            "currency": "\u20ac",
+            "shipping_cost": "13,93 \u20ac",
+            "shipping_cost_raw": 13.93,
+            "has_ean": false,
+            "estimated_cpc": "0,11 \u20ac",
+            "estimated_cpc_raw": 0.10875,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8562347910228963086.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8562347910228963086b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8562347910228963086vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6815747,
+            "merchant": {
+                "merchant_id": 4901101,
+                "name": "Light in the box",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=4901101",
+                "domain": "lightinthebox",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/4901101.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 109,
+                "name": "Televisi\u00f3n",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=109&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=109"
+            }
+        }, {
+            "item_id": 4083932003141689781,
+            "name": "Cable HDMI de Alta Velocidad 1.4v con Soporte 3D para Smart LED HDTV, Apple TV, Blu-Ray DVD (1m)",
+            "description": "Tipo:Accesorios de Computadora,Video,Audio; Puerto:HDMI \/ Micro HDMI \/ HDMI Mini; Longitud (cm):100; Netto Gewicht (kg):0.037; Tipo:Cable; Puerto:HDMI V1.4; Peso (Kg):0.037; Uso:Audio y V\u00eddeo,Home Cinema; Caracter\u00edsticas:1080p,3D\/4K,Alta Velocidad; G\u00e9nero del P",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0teNncoOWQ4UQlRo4ISHXcWjU1HETB1Qh_p21C5V82Mfszsz6G21qVDKsaEFzjClhRKhCKpKh6uItKlGFMrRrg404oQiXTGbowXiDSrwgjGfotd_qcACopELRt2XO3pbP6cHonffQ0U3TujboGirbof8Y9CnuA5ZV78KgTUgpZznse7QXGOFEC6K0LKQxBsaefB1aACERd_zFOeWQrQ7aOdtBXttGT12Ikqd9QkD44rpEtY4cCCi4JJgJImhRMEwLBZh1HZs4Bjt7TtGunwaTbDOWZ-h-aru6GiMpJnyO83mOZ4SUFJdcRhE6eUg3uElKjESRKMjcVAbvtG8P5wUYxslA75rjv2uJBYMl2DTQ2YyVHcNKd3EOx0Kwp6syKIztqR2j-o377I_2-mPAfvyKN_e-szPo7gft6vd4jZz9_AI%2A",
+            "tag": "4255710461639940398-4083932003141689781",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "1,35 \u20ac",
+            "price_raw": 1.35,
+            "currency": "\u20ac",
+            "shipping_cost": "13,93 \u20ac",
+            "shipping_cost_raw": 13.93,
+            "has_ean": false,
+            "estimated_cpc": "0,11 \u20ac",
+            "estimated_cpc_raw": 0.10875,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_4083932003141689781.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_4083932003141689781b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_4083932003141689781vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6815747,
+            "merchant": {
+                "merchant_id": 4901101,
+                "name": "Light in the box",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=4901101",
+                "domain": "lightinthebox",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/4901101.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 109,
+                "name": "Televisi\u00f3n",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=109&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=109"
+            }
+        }, {
+            "item_id": 3389085977933385169,
+            "name": "HDMI Cable for Smart LED HDTV, Apple TV, PS3, XBOX 360, Blu-ray (0.5 m, Negro y Amarillo)",
+            "description": "Tipo:Accesorios de Computadora,Video,Audio; Puerto:HDMI \/ Micro HDMI \/ HDMI Mini,VGA \/ SVGA,DVI; Longitud (cm):50; Netto Gewicht (kg):0.058; Tipo:Cable; Puerto:HDMI V1.4; Peso (Kg):0.058; Uso:Audio y V\u00eddeo,Home Cinema; Caracter\u00edsticas:1080p,3D\/4K,Alta Velocidad",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFdT8IwFP0rpM8D2vVr25uCD8QYSZg-mZjSddIwurJ1GmL8794WJenDuZ_nnNtvtGlQRWlR4oKXUpYUMCeizFB98QZVqEYZ2tlgYp8oCJdMZuhBe40qvCCMZ-i136pwgFZJRUHfljl7Wz6nB6N33kNFta11NqgGMtuh_xjUKe4jGVr1LgxKhxRylsO-R3OBEU6UIIWSpdRaw9iTb4KFJiTijj-cUw7R6qCcMx3EjWnV1IUoedqnDoAvrktU68iBgIJLgpkggpYlw7QsoGfdxCKOYGfOCe36adDJNmN5hu4n2zX1GEkx4XOcz3M8I6SiuOIyilDJQ7rBTVJiJAWJgvRNZfBOeXs4L8AwTgZ61x7_XUssGCzBuoXKZqzNGFaqi3M4JoI5XZVBYrQnO0b1G_fZH831x4D9-BVv7n1nZlDdD8o17_EaOfv5BQ%2A%2A",
+            "tag": "4255710461639940398-3389085977933385169",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "1,81 \u20ac",
+            "price_raw": 1.81,
+            "currency": "\u20ac",
+            "shipping_cost": "13,93 \u20ac",
+            "shipping_cost_raw": 13.93,
+            "has_ean": false,
+            "estimated_cpc": "0,11 \u20ac",
+            "estimated_cpc_raw": 0.10875,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_3389085977933385169.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_3389085977933385169b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_3389085977933385169vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6815747,
+            "merchant": {
+                "merchant_id": 4901101,
+                "name": "Light in the box",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=4901101",
+                "domain": "lightinthebox",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/4901101.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 109,
+                "name": "Televisi\u00f3n",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=109&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=109"
+            }
+        }, {
+            "item_id": 8734851729161776509,
+            "name": "Cable HDMI V1.4 de Alta Velocidad con Soporte 3D para Smart LED HDTV, Apple TV, Blu-Ray DVD (1.5 m)",
+            "description": "Tipo:Audio,Accesorios de Computadora,Video; Puerto:HDMI \/ Micro HDMI \/ HDMI Mini; Longitud (cm):150; Netto Gewicht (kg):0.062; Tipo:Cable; Puerto:HDMI V1.4; Peso (Kg):0.062; Uso:Audio y V\u00eddeo,Home Cinema; Caracter\u00edsticas:1080p,3D\/4K,Alta Velocidad; G\u00e9nero del P",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0tR0_ktyg5VAhRKUGTkjIdRxqNXXcxAFViH9n7UIlH_YxuzOz_kabBlWFzFnBiaQlEURKwXGZofriDapQjTK0s8FEnCgIl0xm6EF7jSq8IIxn6LXfqnAAKMkpF-XbkrK35XN6MHvnPbRU21png2qgsh36j0Gd4kKSoVXvwqB0SClnFBY-mguMcKIEKZQspdYaxp58EyyAkIg7_mKac8hWB-Wc6SBvTKumLkTN0z4hIHxxXaJaRw4EFFwSzAQReVkynJcFYNZNbOIY7Mw5Rbt-GnTyzRjN0P1ku6YeIykmfI7pnOIZIVWOKy6jCHX1kI5w05QoSUGiIn2TGbxT3h7OC3CMk4Petcd_2xILlosC6xY6m7E2Y1ipLs7hWAjmdJUGhdGe7Bjlb9xnfzTXP8szdPyKR_e-MzPo7gflmvd4Dsp-fgE%2A",
+            "tag": "4255710461639940398-8734851729161776509",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "1,81 \u20ac",
+            "price_raw": 1.81,
+            "currency": "\u20ac",
+            "shipping_cost": "13,93 \u20ac",
+            "shipping_cost_raw": 13.93,
+            "has_ean": false,
+            "estimated_cpc": "0,11 \u20ac",
+            "estimated_cpc_raw": 0.10875,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_8734851729161776509.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_8734851729161776509b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_8734851729161776509vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6815747,
+            "merchant": {
+                "merchant_id": 4901101,
+                "name": "Light in the box",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=4901101",
+                "domain": "lightinthebox",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/4901101.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 109,
+                "name": "Televisi\u00f3n",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=109&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=109"
+            }
+        }, {
+            "item_id": 3604673236213820378,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi Cellular 4G 16GB Plata",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09St2khu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5md2bW32jToIoJzIVklAlKWEExk0WG6os3qEI1ytDOBhNxgmBeYpmhB-01qvCCUJah136rwgGghJW8FG9Lyt-Wz-nB7J330FJta50NqoHKdug_BnWKC0mGVr0Lg9IhpTmneYYezQVGcqIEKZQspdYaxp58EyyAkIg7_mLKcshWB-Wc6SBvTKumLkTN0z4hIHxxXaJaRw4EFLkEI4IIVpYcs7IAzLqJTRyDnTmnaNdPg06-OacZup9s19RjJMUkn2M6p3hGSMVwlcsoQl09pCPcNCVKUpCoSN9kBu-Ut4fzAhzj5KB37fHftsSCM1Fg3UJnM9ZmDCvVxTkcC8GcrtKgMNqTHaP8jfvsj-b6Z_Anx694dO87M4PuflCueY_noPznFw%2A%2A",
+            "tag": "4255710461639940398-3604673236213820378",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "480,00 \u20ac",
+            "price_raw": 480,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909813117,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 2972316815946510279,
+            "name": "Apple iPad Mini wifi 16GB Blanco",
+            "description": "Pantalla de 7,9 pulgadas El iPad mini tiene el tama\u00f1o perfecto para hacer todo lo que te gusta. Y con su pantalla de 1.024 por 768 p\u00edxeles, las p\u00e1ginas web, las fotos y los v\u00eddeos se ven con una resoluci\u00f3n asombrosa. Chip A5 Su potencia de procesamiento y unos ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFdT8MgFP0rC8_dBhRo6ZtuPizGuGTVJxPDKHVkHWUt1SzG_-6F6RIe7se595xz-UabBlVUFjQnoiRcMsEJpoXMUH3xBlWoRhna2WAiThDMJC4y9KC9RhVeEJpn6LXfqnAAKMklk-JtSdnb8jk9mL3zHlqqba2zQTVQ2Q79x6BOcSHJ0Kp3YVA6pJQzyjP0aC4wwokSpFSFLLTWMPbkm2ABhETc8RfTnEO2OijnTAd5Y1o1dSFqnvYJAeGL6xLVOnIgoOAFGBFE5FIynMsSMOsmNnEMduacol0_DTr5Zoxm6H6yXVOPkRQTPsd0TvGMkCrHFS-iCHX1kI5w05QoSUmiIn2TGbxT3h7OC3CMk4Petcd_2wUWLBcl1i10NmNtxrBSXZzDsRDM6SoNCqM92THK37jP_miufwZ_cvyKR_e-MzPo7gflmvd4Dsp-fgE%2A",
+            "tag": "4255710461639940398-2972316815946510279",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "271,00 \u20ac",
+            "price_raw": 271,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909667659,
+            "product": {
+                "product_id": 34188451,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34188451"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34188451.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34188451b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34188451vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 4037021348519607839,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi 16GB Plata",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09StOnBu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5md2bW32jToIpjVmBKGC9zIgUuSiYzVF-8QRWqUYZ2NpiIEwRziYsMPWivUYUXhLIMvfZbFQ4AJUxyKd6WlL8tn9OD2TvvoaXa1jobVAOV7dB_DOoUF5IMrXoXBqVDSnNO8ww9mguM5EQJUqpCFlprGHvyTbAAQiLu-IspyyFbHZRzpoO8Ma2auhA1T_uEgPDFdYlqHTkQUOQFGBFEMCnBuiwBs25iE8dgZ84p2vXToJNvzmmG7ifbNfUYSTHJ55jOKZ4RUjFc5UUUoa4e0hFumhIlKUlUpG8yg3fK28N5AY5xctC79vhvu8CCM1Fi3UJnM9ZmDCvVxTkcC8GcrtKgMNqTHaP8jfvsj-b6Z_Anx694dO87M4PuflCueY_noPznFw%2A%2A",
+            "tag": "4255710461639940398-4037021348519607839",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "306,00 \u20ac",
+            "price_raw": 306,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909770540,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 6481908217921902877,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi 32GB Plata",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHBbsMgDP2VinPaAiEQctvaHappWqVmO02aKCErakpoQjZV0_59hm6VONh-z_Z75httGlRxVhKJS0qEpBDQUogM1RdvUIVqlKGdDSbxCGYSA_agvUYVXhCaZ-i136pwACrJJZP8bUnZ2_I5Pei98x4g1bbW2aAaqGyH_mNQpziQZGjVuzAoHVJaMFpk6NFcoKUgipNSCSm01tD25JtggYR4nPEX07yAbHVQzpkO8sa0aupC1DztEwPCF9elVeu4A8GKQoARTnguJcO5LIGzbiKIY7Az5xTt-mnQyTdjNEP3k-2aeoxLMSnmmM4pnhFS5bgqRBShrh7SEW6a0kpSkqhI32QG75S3h_MCHOPkoHft8d-2wJzlvMS6BWQz1mYMK9XFPhwLwZyu0qAw2pMdo_yN--yP5vpn8CfHr3h07zszA3Q_KNe8x3NQ9vML",
+            "tag": "4255710461639940398-6481908217921902877",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "375,00 \u20ac",
+            "price_raw": 375,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909769865,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 6374397276552738387,
+            "name": "Apple iPad Air 32GB Plata Wi-Fi Cellular 4G",
+            "description": "Nuevo dise\u00f1o El iPad Air pesa menos de 500 gramos y es un 20% m\u00e1s fino.2 Y aunque es superligero, la carcasa Unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene m\u00e1s de 3,1 millones de p\u00edxeles, un mil",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFNT8MwDP0rU87dlu-0vcHGYUKISSuckFCWpqxal2ZtCpoQ_x0ng0k52H6233vON9rUqJRMcVYoqqQQVLGc5SpD1cVbVKIKZWjXBpv6COYFBuzBeINKvCCUZei13-pwgFbCCl7ItyXlb8vn9GD2znuAdNO0rg26hsp26D8GfYoLSYZWvQuDNiGlglORoUd7gRFBtCS5VoUyxsDYk69DC01Ixh1_MWUCstVBO2c7yGvb6KkLUfO0Tx0QvrguUa0jBwIKocCIJJIVBcesyKFnXUcQx2Bnzyna9dNgkm_OaYbup7arqzGSYiLmmM4pnhFSMlwKFUXoq4d0hJumRElyEhWZm8zgnfbt4bwAxzg56F1z_LetsORM5tg0gGzGyo5hpbs4h2Mh2NNVGhTG9tSOUf7GffZHe_0z-JPjVzy6952dAboftKvf4zko__kF",
+            "tag": "4255710461639940398-6374397276552738387",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "635,00 \u20ac",
+            "price_raw": 635,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909797226,
+            "product": {
+                "product_id": 34647417,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34647417"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 5069030624123879447,
+            "name": "Apple iPad Air 32GB Plata Wi-Fi",
+            "description": "Nuevo dise\u00f1o El iPad Air pesa menos de 500 gramos y es un 20% m\u00e1s fino.2 Y aunque es superligero, la carcasa Unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene m\u00e1s de 3,1 millones de p\u00edxeles, un mil",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09StOnBu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5md2bW32jToCrHQmKGBeWEsrKQnBcZqi_eoArVKEM7G0zECYK5xNB70F6jCi8AnqHXfqvCAaCESS7F25Lyt-VzejB75z20VNtaZ4NqoLId-o9BneJCkqFV78KgdEhpzmmeoUdzgZGcKEFKVchCaw1jT74JFkBIxB1_MWU5ZKuDcs50kDemVVMXouZpnxAQvrguUa0jBwKKvAAjgggmJcdMloBZN7GJY7Az5xTt-mnQyTfnNEP3k-2aeoykmORzTOcUzwipGK7yIopQVw_pCDdNiZKUJCrSN5nBO-Xt4bwAxzg56F17_LddYMGZKLFuobMZazOGleriHI6FYE5XaVAY7cmOUf7GffZHc_0z-JPjVzy6952ZQXc_KNe8x3NQ_vML",
+            "tag": "4255710461639940398-5069030624123879447",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "484,00 \u20ac",
+            "price_raw": 484,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909773312,
+            "product": {
+                "product_id": 34647417,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34647417"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 4543126464962415950,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi 32GB Gris espacial",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09TtxbtByqBCiUgMnJOQ6Do2aOm7igCrEv7N2oZIP-5jdmVl_o02NSi44I1RyyZWknAglcIaqi7eoRBXK0K4NNuIkwVzhPEMPxhtU4gWhLEOv_VaHA0AJU7DgbUn52_I5PZi98x5aumla1wZdQ2U79B-DPsWFJEOr3oVBm5BSwanI0KO9wIggWpJC5yo3xsDYk69DCyAk446_mDIB2eqgnbMd5LVt9NSFqHnaJwSEL65LVOvIgYBC5GBEEsmU4pipAjDrOjZxDHb2nKJdPw0m-eacZuh-aru6GiMpJmKO6ZziGSElw6XIowh99ZCOcNOUKElBoiJzkxm80749nBfgGCcHvWuO_7ZzLDmTBTYNdDZjZcew0l2cw7EQ7OkqDQpje2rHKH_jPvujvf4Z_MnxKx7d-87OoLsftKvf4zko__kF",
+            "tag": "4255710461639940398-4543126464962415950",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "375,00 \u20ac",
+            "price_raw": 375,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909770212,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 3666121290326776862,
+            "name": "iPad mini de Apple Wi-Fi 16GB (plata)",
+            "description": "El iPad mini de 16GB y WiFi de Apple cuenta con un formato m\u00e1s compacto que sus antecesores, por lo que le resultar\u00e1 muy c\u00f3modo y pr\u00e1ctico. Su fant\u00e1stica pantalla Multi Touch retroiluminada por LED de 7,9 pulgadas con tecnolog\u00eda IPS cuenta con la misma resoluci",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09StOnBu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5md2bW32jToIoJIQglVGJGRVGIUtAM1RdvUIVqlKGdDSbiBMFc4iJDD9prVOEFoSxDr_1WhQNACZNcircl5W_L5_Rg9s57aKm2tc4G1UBlO_QfgzrFhSRDq96FQemQ0pzTPEOP5gIjOVGClKqQhdYaxp58EyyAkIg7_mLKcshWB-Wc6SBvTKumLkTN0z4hIHxxXaJaRw4EFHkBRgQRTEqOmSwBs25iE8dgZ84p2vXToJNvzuEe95PtmnqMpJjkc0znFM8IqRiu8iKKUFcP6Qg3TYmSlCQq0jeZwTvl7eG8AMc4Oehde_y3XWDBmSixbqGzGWszhpXq4hyOhWBOV2lQGO3JjlH-xn32R3P9M_iT41c8uvedmUF3PyjXvMdzUP7zCw%2A%2A",
+            "tag": "4255710461639940398-3666121290326776862",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "279,00 \u20ac",
+            "price_raw": 279,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909667581,
+            "product": {
+                "product_id": 34188241,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34188241"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34188241.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34188241b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34188241vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 4978064579681254301,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi 16GB Gris espacial",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFdT8MgFP0rC8_dBhRo6ZtuPizGuGTVJxPDKHVkHWUt1SzG_-6F6RIe7se5nHPu_UabBlVMFiUWjBdSlIRylmOSofriDapQjTK0s8FEnCCYSVxk6EF7jSq8IDTP0Gu_VeEAUJJLJsXbkrK35XN6MHvnPbRU21png2qgsh36j0Gd4odAs-pdGJQOKeWM8gw9mguMcKIEKVUhC601jD35JlgAIRH_-ItpziFbHZRzpoO8Ma2auhA1T_uEgPDFdYlqHTkQUPACjAgicikZzmUJmHUTmzgGO3NO0a6fBp18M0YzdD_ZrqnHSIoJn2M6p3hGSJXjihdRhLp6SEu4aUqUpCRRkb7JDN4pbw_nBTjGyUHv2uO_7QJukYsS6xY6m7E2Y1ipLs7hWAjmdJUGhdGe7Bjlb9xnfzTXm8FNjl9x6d53Zgbd_aBc8x7XQdnPLw%2A%2A",
+            "tag": "4255710461639940398-4978064579681254301",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "305,50 \u20ac",
+            "price_raw": 305.5,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909770892,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 5763779817529938216,
+            "name": "Apple iPad Air 32GB Gris espacial Wi-Fi Cellular 4G",
+            "description": "Nuevo dise\u00f1o El iPad Air pesa menos de 500 gramos y es un 20% m\u00e1s fino.2 Y aunque es superligero, la carcasa Unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene m\u00e1s de 3,1 millones de p\u00edxeles, un mil",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09St2nBu0HCqEqNTACQm5jkOjpo6bOKAK8e-sXajkwz5md2bW32hTozKXgkmpCiJzqhQrKBEZqi7eohJVKEO7NtiIEwRzhWWGHow3qMQLQlmGXvutDgeAEqa4Em9Lyt-Wz-nB7J330NJN07o26Boq26H_GPQpLiQZWvUuDNqElOac5hl6tBcYyYkWpNBSSWMMjD35OrQAQiLu-IspyyFbHbRztoO8to2euhA1T_uEgPDFdYlqHTkQUOQSjAgimFIcM1UAZl3HJo7Bzp5TtOunwSTfnNMM3U9tV1djJMUkn2M6p3hGSMkw3C-K0FcP6Qg3TYmSFCQqMjeZwTvt28N5AY5xctC75vhvW2LBmSiwaaCzGSs7hpXu4hyOhWBPV2lQGNtTO0b5G_fZH-31z-BPjl_x6N53dgbd_aBd_R7PQfnPLw%2A%2A",
+            "tag": "4255710461639940398-5763779817529938216",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "621,00 \u20ac",
+            "price_raw": 621,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909793624,
+            "product": {
+                "product_id": 34647417,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34647417"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647417.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647417b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647417vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 7733630128627471689,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi Cellular 4G 32GB Gris espacial",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09St2khu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5md2bW32jToEpKxgTDhBaCSi6JKMoM1RdvUIVqlKGdDSbiBMG8xDJDD9prVOEFoSxDr_1WhQNACSt5Kd6WlL8tn9OD2TvvoaXa1jobVAOV7dB_DOoUF5IMrXoXBqVDSnNO8ww9mguM5EQJUihZSq01jD35JlgAIRF3_MWU5ZCtDso500HemFZNXYiap31CQPjiukS1jhwIKHIJRgQRrCw5ZmUBmHUTmzgGO3NO0a6fBp18c04zdD_ZrqnHSIpJPsd0TvGMkIrhKpdRhLp6SEe4aUqUpCBRkb7JDN4pbw_nBTjGyUHv2uO_bYkFZ6LAuoXOZqzNGFaqi3M4FoI5XaVBYbQnO0b5G_fZH831z-BPjl_x6N53Zgbd_aBc8x7PQfnPLw%2A%2A",
+            "tag": "4255710461639940398-7733630128627471689",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "521,00 \u20ac",
+            "price_raw": 521,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909813711,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 8216473774622058798,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi Cellular 4G 64GB Gris espacial",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09dtJbtByqBCiUgMnJOQ6Do2aOm7igCrEv7N2oZIP-5jdmVl_o02NypwSyRVTiktKschVkWeouniLSlShDO3aYCNOEswLrDL0YLxBJV4QyjL02m91OACUsIIX8m1J-dvyOT2YvfMeWrppWtcGXUNlO_Qfgz7FhSRDq96FQZuQUsGpyNCjvcCIIFqSXKtCGWNg7MnXoQUQknHHX0yZgGx10M7ZDvLaNnrqQtQ87RMCwhfXJap15EBAIRQYkUSyouCYFTlg1nVs4hjs7DlFu34aTPLNOc3Q_dR2dTVGUkzEHNM5xTNCSoZLoaIIffWQjnDTlChJTqIic5MZvNO-PZwX4BgnB71rjv-2FZacyRybBjqbsbJjWOkuzuFYCPZ0lQaFsT21Y5S_cZ_90V7_DP7k-BWP7n1nZ9DdD9rV7_EclP_8Ag%2A%2A",
+            "tag": "4255710461639940398-8216473774622058798",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "444,00 \u20ac",
+            "price_raw": 444,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909814640,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 9163837488588078169,
+            "name": "Apple iPad mini con pantalla Retina Wi-Fi 64GB (gris espacial)",
+            "description": "El nuevo iPad mini con pantalla Retina es una maravilla tecnol\u00f3gica que combina las prestaciones m\u00e1s punteras (las mismas que el iPad Air) con un dise\u00f1o ligero y de reducido tama\u00f1o. Adem\u00e1s de su incre\u00edble pantalla Retina Multi Touch retroiluminada por LED de 7,",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0teNH7Nyg5VAhRKUGTkjIdRwaNXXcxAFViH9n7UIlH_YxuzOz_kabGpWKCCppwaTkUuJCEqEyVF28RSWqUIZ2bbARJwhmChcZejDeoBIvSE4z9NpvdTgAlFDFlHhb5uxt-ZwezN55Dy3dNK1rg66hsh36j0Gf4kKSoVXvwqBNSClnOc_Qo73ACCdaEKkLVRhjYOzJ16EFEBJxx1-cUw7Z6qCdsx3ktW301IWoedonBIQvrktU68iBgIIXYESAaaUYpkoCZl3HJo7Bzp5TtOunwSTfjOUZup_arq7GSIoJn-N8nuMZISXFJS-iCH31kI5w05QoiSRRkbnJDN5p3x7OC3CMk4PeNcd_2wUWjAqJTQOdzVjZMax0F-dwLAR7ukqDwtie2jHK37jP_mivfwZ_cvyKR_e-szPo7gft6vd4jpz9_AI%2A",
+            "tag": "4255710461639940398-9163837488588078169",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "529,00 \u20ac",
+            "price_raw": 529,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909769513,
+            "product": {
+                "product_id": 33069221,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=33069221"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_33069221.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_33069221b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_33069221vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 328751358877387446,
+            "name": "iPad mini de Apple Wi-Fi + Cellular 16GB (gris espacial)",
+            "description": "El iPad mini WiFi + Cellular de 16GB (con el que podr\u00e1 conectarse a redes m\u00f3viles) cuenta con un formato m\u00e1s compacto que sus antecesores, por lo que le resultar\u00e1 muy c\u00f3modo y pr\u00e1ctico. Su fant\u00e1stica pantalla Multi Touch retroiluminada por LED de 7,9 pulgadas c",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09dtJbtByqBCiUgMnJOQ6Do2aOm7igCrEv7N2oZIP-5jdmVl_o02NSkZzJQgTea4UyxXnMkPVxVtUogplaNcGG2GSYF5glaEH4w0q8YJQlqHXfqvDAaCEFbyQb0vK35bP6cHsnffQ0k3TujboGirbof8Y9CkuJBla9S4M2oSUCk5Fhh7tBUYE0ZLkWhXKGANjT74OLYCQjDv-YsoEZKuDds52kNe20VMXouZpnxAQvrguUa0jBwIKocCIJJIVBcesyAGzrmMTx2Bnzyna9dNgkm_OaYbup7arqzGSYiLmmM4pnhFSMlwKFUXoq4d0hJumRElyEhWZm8zgnfbt4bwAxzg56F1z_LetsORM5tg00NmMlR3DSndxDsdCsKerNCiM7akdo_yN--yP9vpn8CfHr3h07zs7g-5-0K5-j-eg_OcX",
+            "tag": "4255710461639940398-328751358877387446",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "429,00 \u20ac",
+            "price_raw": 429,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_328751358877387446.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_328751358877387446b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_328751358877387446vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 5138081876034022579,
+            "name": "Apple iPad mini con pantalla Retina Wi-Fi + Cellular 16GB (plata)",
+            "description": "El nuevo iPad mini con pantalla Retina es una maravilla tecnol\u00f3gica que combina las prestaciones m\u00e1s punteras (las mismas que el iPad Air) con un dise\u00f1o ligero y de reducido tama\u00f1o. Adem\u00e1s de su incre\u00edble pantalla Retina Multi Touch retroiluminada por LED de 7,",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09TuPG7QcKoSo1MAJCbmOQ62mjps4oArx76xdqOTDPmZ3ZtbfaNOgShBW4IIUucSMY0pFXmaovniDKlSjDO1sMBEnCeYlzjP0oL1GFV4QyjL02m9VOACUsJKX8m1J-dvyOT2YvfMeWqptrbNBNVDZDv3HoE5xIcnQqndhUDqkVHAqMvRoLjAiiJKkUHmZa61h7Mk3wQIIybjjL6ZMQLY6KOdMB3ljWjV1IWqe9gkB4YvrEtU6ciCgEDkYkUSysuSYlQVg1k1s4hjszDlFu34adPLNOc3Q_WS7ph4jKSZijumc4hkhFcOVyKMIdfWQjnDTlChJQaIifZMZvFPeHs4LcIyTg961x3_bOZacyQLrFjqbsTZjWKkuzuFYCOZ0lQaF0Z7sGOVv3Gd_NNc_gz85fsWje9-ZGXT3g3LNezwH5T-_",
+            "tag": "4255710461639940398-5138081876034022579",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "459,00 \u20ac",
+            "price_raw": 459,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909813230,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_5138081876034022579.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_5138081876034022579b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_5138081876034022579vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 4129656855577766376,
+            "name": "Apple iPad mini con pantalla Retina Wi-Fi 64GB (plata)",
+            "description": "El nuevo iPad mini con pantalla Retina es una maravilla tecnol\u00f3gica que combina las prestaciones m\u00e1s punteras (las mismas que el iPad Air) con un dise\u00f1o ligero y de reducido tama\u00f1o. Adem\u00e1s de su incre\u00edble pantalla Retina Multi Touch retroiluminada por LED de 7,",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0tR0_ktyg5VAhRKUGTkjIdRxqNXXcxAFViH9n7UIlH_YxuzOz_kabBlWM0FJwUXDOpZRC5FJkqL54gypUowztbDARJwhmJZYZetBeowovCM0z9NpvVTgAlOQlK8XbkrK35XN6MHvnPbRU21png2qgsh36j0Gd4kKSoVXvwqB0SClnlGfo0VxghBMlSKFkKbXWMPbkm2ABhETc8RfTnEO2OijnTAd5Y1o1dSFqnvYJAeGL6xLVOnIgoOASjAgi8rJkOC8LwKyb2MQx2Jlzinb9NOjkmzGaofvJdk09RlJM-BzTOcUzQqocV1xGEerqIR3hpilRkoJERfomM3invD2cF-AYJwe9a4__tiUWLBcF1i10NmNtxrBSXZzDsRDM6SoNCqM92THK37jP_miufwZ_cvyKR_e-MzPo7gflmvd4Dsp-fgE%2A",
+            "tag": "4255710461639940398-4129656855577766376",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "549,00 \u20ac",
+            "price_raw": 549,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909769179,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_4129656855577766376.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_4129656855577766376b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_4129656855577766376vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 2763509837314830633,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi 64GB Gris espacial",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09dtJbtByqBCiUgMnJOQ6Do2aOm7igCrEv7N2oZIP-5jdmVl_o02NSqokE7jImWKE5wxLxjJUXbxFJapQhnZtsBEnCeYFVhl6MN6gEi8IBeBrv9XhAFDCCl7ItyXlb8vn9GD2znto6aZpXRt0DZXt0H8M-hQXkgytehcGbUJKBaciQ4_2AiOCaElyrQpljIGxJ1-HFkBIxh1_MWUCstVBO2c7yGvb6KkLUfO0TwgIX1yXqNaRAwGFUGBEEsmKgmNW5IBZ17GJY7Cz5xTt-mkwyTfnNEP3U9vV1RhJMRFzTOcUzwgpGS6FiiL01UM6wk1ToiQ5iYrMTWbwTvv2cF6AY5wc9K45_ttWWHImc2wa6GzGyo5hpbs4h2Mh2NNVGhTG9tSOUf7GffZHe_0z-JPjVzy6952dQXc_aFe_x3NQ_vML",
+            "tag": "4255710461639940398-2763509837314830633",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "431,00 \u20ac",
+            "price_raw": 431,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909769407,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 2619499004251905079,
+            "name": "Apple iPad mini with Retina display Wi-Fi + Cellular",
+            "description": "Tableta Apple iPad mini ME800TY\/A - 20,1 cm (7,9) (Tecnolog\u00eda de Conmutaci\u00f3n in-Plane (IPS), Pantalla Retina) 16 GB - LAN inal\u00e1mbrica - Apple A7 1,30 GHz - Gris - iOS 7 - UMTS, HSPA, HSPA+, DC-HSDPA, CDMA2000 1xEV-DO Rev A, EDGE - Pizarra - 2048 x 1536 Pantalla",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0XTuOE-cGLYcKISo1cEJCruPQqKnjJg6oQvw7axcq-bCP2Z2Z9TfZ1KRkgkouJQBnGZWQQS4TUl2cISWpSEJ2rTcBJyhwCXlCHrTTpIQFZWlCXvut8geE0hS3iLcl42_L5_hw9s45bKmmaW3rVY2V7dB_DOoUFtKErHrrB6V9TDMUkJBHc8GRjCpBC5XLXGuNY0-u9i2CiAg7_mKWZpitDspa02Fem0ZNnQ-ap31EYPhiu0i1DhwEKbIcjQgqUik5pLJAzLoOTQjBzpxjtOunQUffnLOE3E9tV1djIAWazYHNGcwoLVMoszyIUFcP8Qg3TZGSFjQo0jeZ3lnl2sN5gY4hOuhtc_y3nYPgqShAN9jZjJUZ_Up1YQ5CwZvTVRoWxvbUjkH-xn72R3P9M_yT41c4unOdmWF3Pyhbv4dzMP7zCw%2A%2A",
+            "tag": "4255710461639940398-2619499004251905079",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "444,39 \u20ac",
+            "price_raw": 444.39,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909812998,
+            "product": {
+                "product_id": 34669877,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669877"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669877.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669877b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669877vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 8364477941691839748,
+            "name": "Apple iPad Air Wifi 16GB Gris espacial",
+            "description": "Nuevo dise\u00f1o El iPad Air pesa menos de 500 gramos y es un 20% m\u00e1s fino.2 Y aunque es superligero, la carcasa Unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene m\u00e1s de 3,1 millones de p\u00edxeles, un mil",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09St2nBu0HCqEqNTACQm5jkOjpo6bOKAK8e-sXajkwz5md2bW32hTo7JggnMpFSdCkYIpyYsMVRdvUYkqlKFdG2zECYK5wjJDD8YbVOIFoSxDr_1WhwNACVNcibcl5W_L5_Rg9s57aOmmaV0bdA2V7dB_DPoUF5IMrXoXBm1CSnNO8ww92guM5EQLUmippDEGxp58HVoAIRF3_MWU5ZCtDto520Fe20ZPXYiap31CQPjiukS1jhwIKHIJRgQRTCmOmSoAs65jE8dgZ88p2vXTYJJvzmmG7qe2q6sxkmKSzzGdUzwjpGS4zGUUoa8e0hFumhIlKUhUZG4yg3fat4fzAhzj5KB3zfHftsSCM1Fg00BnM1Z2DCvdxTkcC8GertKgMLandozyN-6zP9rrn8GfHL_i0b3v7Ay6-0G7-j2eg_KfXw%2A%2A",
+            "tag": "4255710461639940398-8364477941691839748",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "435,00 \u20ac",
+            "price_raw": 435,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909772032,
+            "product": {
+                "product_id": 34647397,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34647397"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647397.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647397b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647397vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 6076803123368709595,
+            "name": "Apple iPad Air 32GB Gris espacial Wi-Fi",
+            "description": "Nuevo dise\u00f1o El iPad Air pesa menos de 500 gramos y es un 20% m\u00e1s fino.2 Y aunque es superligero, la carcasa Unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene m\u00e1s de 3,1 millones de p\u00edxeles, un mil",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0tR0_4tyg5VAhRKUGTkjIdRwaNXXcxAFViH9n7UIlH_Yx65nZ_UabGpUCS1HgnNA8F4XEiiueoeriLSpRhTK0a4NNOIKZwjJDD8YbVOIFTGTotd_qcAAoyRVT4m1J2dvyOT2YvfMeWrppWtcGXUNlO_Qfgz7FD0mGVr0LgzYhpZxRYH60FxjhRAtSaKmkMQbGnnwdWgAhEf_4i2nOIVsdtHO2g7y2jZ66EDVP-4SA8MV1iWodORBQcAlGBBG5UgznqgDMuo5NHIOdPado10-DSb4Zoxm6n9qursZIigmfYzqneEZImeOSyyhCXz2kJdw0JUpSkKjI3GQG77RvD-cFOMbJQe-a479tiQWDQ2DTQGczVnYMK93FORwLwZ6u0qAwtqd2jPI37rM_2uvN4CbHr7h07zs7g-5-0K5-j-ug7OcX",
+            "tag": "4255710461639940398-6076803123368709595",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "482,00 \u20ac",
+            "price_raw": 482,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909772360,
+            "product": {
+                "product_id": 34647417,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34647417"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647417vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 5632748060778157246,
+            "name": "Apple iPad Air 128GB Plata Wi-Fi Cellular 4G",
+            "description": "Nuevo dise\u00f1o El iPad Air pesa menos de 500 gramos y es un 20% m\u00e1s fino.2 Y aunque es superligero, la carcasa Unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene m\u00e1s de 3,1 millones de p\u00edxeles, un mil",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0tR0_ktyg5VAhRKUGTkjIdRxqNXXcxAFViH9n7UIlH_YxuzOz_kabBlVc5FSyAgssZUG4pExkqL54gypUowztbDARJwhmJZYZetBeowovCM0z9NpvVTgAlOQlK8XbkrK35XN6MHvnPbRU21png2qgsh36j0Gd4kKSoVXvwqB0SClnlGfo0VxghBMlSKFkKbXWMPbkm2ABhETc8RfTnEO2OijnTAd5Y1o1dSFqnvYJAeGL6xLVOnIgoOASjAgi8rJkOC8LwKyb2MQx2Jlzinb9NOjkmzGaofvJdk09RlJM-BzTOcUzQqocV1xGEerqIR3hpilRkoJERfomM3invD2cF-AYJwe9a4__tiUWLBcF1i10NmNtxrBSXZzDsRDM6SoNCqM92THK37jP_miufwZ_cvyKR_e-MzPo7gflmvd4Dsp-fgE%2A",
+            "tag": "4255710461639940398-5632748060778157246",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "644,00 \u20ac",
+            "price_raw": 644,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909798025,
+            "product": {
+                "product_id": 34647457,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34647457"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647457.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647457b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34647457vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 5089027196878816499,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi 128GB Gris espacial",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFdT8MgFP0rC8_dBpRS6JtuPizGuGTVJxPDKHVkHWUt1SzG_-6F6RIe7se595xz-UabBlUFFhLTkkguSiEIZ1JmqL54gypUowztbDARxwlmEpcZetBeowovCM0z9NpvVTgAlOSSSf62pOxt-ZwezN55Dy3VttbZoBqobIf-Y1CnuJBkaNW7MCgdUlowWmTo0VxgpCCKE6FKWWqtYezJN8ECCPG44y-meQHZ6qCcMx3kjWnV1IWoedonBIQvrktU68iBgKIowQgnPJeS4VwKwKyb2MQx2Jlzinb9NOjkmzGaofvJdk09RlJMijmmc4pnhFQ5rooyilBXD-kIN02JkggSFembzOCd8vZwXoBjnBz0rj3-2y4xZzkXWLfQ2Yy1GcNKdXEOx0Iwp6s0KIz2ZMcof-M--6O5_hn8yfErHt37zsygux-Ua97jOSj7-QU%2A",
+            "tag": "4255710461639940398-5089027196878816499",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "454,00 \u20ac",
+            "price_raw": 454,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909762606,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 2344219018191827303,
+            "name": "Apple iPad Air 64GB Plata Wi-Fi",
+            "description": "Apple iPad Air 64GB Plata Wi-Fi",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09StOnBu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5md2bW32jToIoyzimRmJREkpIWDLMM1RdvUIVqlKGdDSbiBMFc4iJDD9prVOEFoQB87bcqHABKmORSvC0pf1s-pwezd95DS7WtdTaoBirbof8Y1CkuJBla9S4MSoeU5pzmGXo0FxjJiRKkVIUstNYw9uSbYAGERNzxF1OWQ7Y6KOdMB3ljWjV1IWqe9gkB4YvrEtU6ciCgyAswIohgUnLMZAmYdRObOAY7c07Rrp8GnXzDdTJ0P9muqcdIikk-x3RO8YyQiuEqL6IIdfWQjnDTlCjhrlGRvskM3ilvD-cFOMbJQe_a47_tAgvORIl1C53NWJsxrFQX53AsBHO6SoPCaE92jPI37rM_muufwZ8cv-LRve_MDLr7QbnmPZ6D8p9f",
+            "tag": "4255710461639940398-2344219018191827303",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "522,00 \u20ac",
+            "price_raw": 522,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909773640,
+            "product": {
+                "product_id": 34647437,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34647437"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647437.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647437b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34647437vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 1245968292837942170,
+            "name": "Apple iPad Mini 2 Retina Wi-Fi Cellular 4G 16GB Gris espacial",
+            "description": "El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resoluci\u00f3n supera la de un televisor HD, por eso ver\u00e1s las fotograf\u00edas y los textos con un nivel de detalle estratosf\u00e9rico. Descubre una nueva dimensi\u00f3n en la que el tama\u00f1o es lo ",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09StOnBu0HCqEqNTACQm5jkOtpo6bOKAK8e-sXajkwz5mPTO732jToIpQnktRUklLVkhOSYEzVF-8QRWqUYZ2NpiIEwRziYsMPWivUYUXhLIMvfZbFQ4AJUxyKd6WlL8tn9OD2TvvoaXa1jobVAOV7dB_DOqUiDO06l0YlA4pzTnNM_RoLjCSEyVIqQpZaK1h7Mk3wQIIifjHX0xZDtnqoJwzHeSNadXUhah52icEhC-uS1TryIGAIi_AiCCCSckxkyVg1k1s4hjszDlFu34adPLNOc3Q_WS7ph4jKSb5HNM5xTNCKoarvIgi1NVDWsJNU6IkJYmK9E1m8E55ezgvwDFODnrXHv9tF1hwJkqsW-hsxtqMYaW6OIdjIZjTVRoURnuyY5S_cZ_90VxvBjc5fsWle9-ZGXT3g3LNe1wH5T-_",
+            "tag": "4255710461639940398-1245968292837942170",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "460,00 \u20ac",
+            "price_raw": 460,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909812929,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 3483576032443305103,
+            "name": "Apple MacBook Air",
+            "description": "Apple MacBook Air - Core i5 1.4 GHz - OS X 10.9 Mavericks - 4 GB RAM - 256 GB almacenamiento flash - 11.6 1366 x 768 ( HD ) - Intel HD Graphics 5000 - 802.11ac",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0Xb_yukHLoUKISg2ckJDrODRq6riJA6oQ_87ahUo-7GN2Z2b9TTY1KbnIucxS4EwIzkFS4AmpLs6QklQkIbvWm4BLKYgCsoQ8aKdJCQvKEPjab5U_IJRyCZS-LZl4Wz7Hh7N3zmFLNU1rW69qrGyH_mNQp7CQJmTVWz8o7WMqBZMJeTQXHJFUpTRXWZFprXHsydW-RRBJw46_mHGJ2eqgrDUd5rVp1NT5oHnaRwSGL7aLVOvAQZBCZmgkpSkvCgG8yBGzrkMTQrAz5xjt-mnQ0bcQLCH3U9vV1RhIgco5sDmDGaUlh1JmQYS6eohHuGmKlDSnQZG-yfTOKtcezgt0DNFBb5vjv-0MUsHTHHSDnc1YmdGvVBfmIBS8OV2lYWFsT-0Y5G_sZ3801z_DPzl-haM715kZdveDsvV7OAcTP78%2A",
+            "tag": "4255710461639940398-3483576032443305103",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "1 215,18 \u20ac",
+            "price_raw": 1215.18,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909942503,
+            "product": {
+                "product_id": 13342341,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13342341"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13342341.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13342341b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13342341vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 7912988703119566177,
+            "name": "iPad mini de Apple Wi-Fi 16GB (gris espacial)",
+            "description": "El iPad mini de 16GB y WiFi de Apple cuenta con un formato m\u00e1s compacto que sus antecesores, por lo que le resultar\u00e1 muy c\u00f3modo y pr\u00e1ctico. Su fant\u00e1stica pantalla Multi Touch retroiluminada por LED de 7,9 pulgadas con tecnolog\u00eda IPS cuenta con la misma resoluci",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHBbsMgDP2VinPaAiEQctvaHappWqVmO02aKCErakpoQjZV0_59hm6VONh-tt975httGlQJSagsS4FzQmTBOREiQ_XFG1ShGmVoZ4OJfZxgJjFgD9prVOEFoXmGXvutCgdoJblkkr8tKXtbPqcHs3feA6Ta1jobVAOV7dB_DOoUF5IMrXoXBqVDSgtGiww9mguMFERxUiohhdYaxp58Eyw0IR53_MU0LyBbHZRzpoO8Ma2auhA1T_vUAeGL6xLVOnIgoCgEGOGE51IynMsSetZNBHEMduacol0_DTr5Zoxm6H6yXVOPkRSTYo7pnOIZIVWOq0JEEerqIR3hpilRkpJERfomM3invD2cF-AYJwe9a4__tgXmLOcl1i0gm7E2Y1ipLs7hWAjmdJUGhdGe7Bjlb9xnfzTXP4M_OX7Fo3vfmRmg-0G55j2eg7KfXw%2A%2A",
+            "tag": "4255710461639940398-7912988703119566177",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "289,00 \u20ac",
+            "price_raw": 289,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 885909666898,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_7912988703119566177.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_7912988703119566177b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i51.twenga.com\/0-tp_7912988703119566177vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 5304664290522803615,
+            "name": "Apple iPad Air 2 Wi-Fi 16GB (Plata)",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09TuPG7QcKoSo1MAJCbmOQ62mjps4oArx76xdqOTDPmZ3ZtbfaNOgSjDMpeS0xILSAjNJRIbqizeoQjXK0M4GE3GSYF7iPEMP2mtU4QWhLEOv_VaFA0AJK3kp35aUvy2f04PZO--hpdrWOhtUA5Xt0H8M6hQXkgytehcGpUNKBafA_GguMCKIkqRQeZlrrWHsyTfBAgjJuOMvpkxAtjoo50wHeWNaNXUhap72CQHhi-sS1TpyIKAQORiRRLKy5JiVBWDWTWziGOzMOUW7fhp08s05zdD9ZLumHiMpJmKO6ZziGSEVw5XIowh19ZCOcNOUKElBoiJ9kxm8U94ezgtwjJOD3rXHf9s5lpzJAusWOpuxNmNYqS7O4VgI5nSVBoXRnuwY5W_cZ3801z-DPzl-xaN735kZdPeDcs17PAflP78%2A",
+            "tag": "4255710461639940398-5304664290522803615",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "445,00 \u20ac",
+            "price_raw": 445,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 674688,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=674688"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_674688vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6104907,
+            "merchant": {
+                "merchant_id": 5590637,
+                "name": "Rakuten",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=5590637",
+                "domain": "rakuten",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/5590637.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 4337404303285719596,
+            "name": "Apple 4680mAh Macbook Air 11\" A1370 Modelo BAT438",
+            "description": "informatica - repuestos portatil - baterias de portatiles - apple baterias 5970 - Apple 4680mAh Macbook Air 11\" A1370 BATERIA DE 4680mAh Apple Macbook Air 11\" A1370 al mejor precio . &iquestTu ordenador ha dejado de ser portatil por culpa de la bater&iacutea? C",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09TNOcoOWQ4UQlRo4ISHXcajV1HETB1Qh_p21C5V82Mfszsz6G20aVHHGJMecYUYLIUkpyjxD9cUbVKEaZWhng4m4ApdCMpmhB-01qvCCUJah136rwgGghAlMyNuS8rflc3owe-c9tFTbWmeDaqCyHfqPQZ3iQpKhVe_CoHRIqeBUZOjRXGBEEJWTQslSaq1h7Mk3wQII5XHHX0yZgGx1UM6ZDvLGtGrqQtQ87RMCwhfXJap15EBAAR4xz0nOypJjVhaAWTexiWOwM-cU7fpp0Mk35zRD95PtmnqMpJiIOaZzimeEVAxXQkYR6uohHeGmKVGSgkRF-iYzeKe8PZwX4BgnB71rj_-2Jc45ywusW-hsxtqMYaW6OIdjIZjTVRoURnuyY5S_cZ_90Vz_DP7k-BWP7n1nZtDdD8o17_EclP_8Ag%2A%2A",
+            "tag": "4255710461639940398-4337404303285719596",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "68,35 \u20ac",
+            "price_raw": 68.35,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_4337404303285719596.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_4337404303285719596b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_4337404303285719596vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 8095737,
+            "merchant": {
+                "merchant_id": 8095737,
+                "name": "Servitesa",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=8095737",
+                "domain": "servitesa",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/8095737.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 6064768135060982898,
+            "name": "Apple 5200mAh MACBOOK 13\" A1185 MA561 (Blanca) Modelo BAT440",
+            "description": "informatica - repuestos portatil - baterias de portatiles - apple baterias 6160 - Apple 5200mAh MACBOOK 13\" A1185 MA561 (Blanca BATERIA DE 5200MAH PARA APPLE MACBOOK PRO 13\" A1185 MA561 (BLANCA) al mejor precio . &iquestTu ordenador ha dejado de ser portatil po",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09SN2nNyg5VAhRKUGTkjIdRxqNXXcxAFViH9n7UIlH_Yx65nZ_UabBlUCi7wQkjCOBS4llaXMUH3xBlWoRhna2WAiTuKSF6zI0IP2GlV4QSjL0Gu_VeEA0DhPyNuS5m_L5_Rg9s57aKm2tc4G1UBlO_QfgzrFD0mGVr0Lg9IhpTynPEOP5gIjnChBpCrKQmsNY0--CRZASMQ__mLKOGSrg3LOdJA3plVTF6LmaZ8QEL64LlGtIwcCCl4QnAsiWFnmmJUSMOsmNnEMduacol0_DTr5znOaofvJdk09RlJM-BzTOcUzQiqGK15EEerqIS3hpilREkmiIn2TGbxT3h7OC3CMk4Petcd_2wWcgwmJdQudzVibMaxUF-dwLARzukqDwmhPdozyN-6zP5rrzeAmx6-4dO87M4PuflCueY_roPnPLw%2A%2A",
+            "tag": "4255710461639940398-6064768135060982898",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "61,95 \u20ac",
+            "price_raw": 61.95,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "product": {
+                "product_id": 13342331,
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13342331"
+            },
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13342331.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13342331b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13342331vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 8095737,
+            "merchant": {
+                "merchant_id": 8095737,
+                "name": "Servitesa",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=8095737",
+                "domain": "servitesa",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/8095737.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 8130649772799690244,
+            "name": "APPLE 34Wh 13\" Macbook Air Serie Modelo BAT364",
+            "description": "informatica - repuestos portatil - baterias de portatiles - apple baterias 5318 - APPLE 34Wh 13\" Macbook Air Serie BATERIA DE 34Wh Apple 13\" Macbook Air Serie al mejor precio . &iquestTu ordenador ha dejado de ser portatil por culpa de la bater&iacutea? C&aacut",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue09TOOc4OWQ4UQlRo4ISHXcWjU1HETB1Qh_p21C5V82MesZ2b3G21qVBaE4ZwrKalUKleYcp6h6uItKlGFMrRrg004rIRkMkMPxhtU4gWhLEOv_VaHA0AJE5iQtyXlb8vn9GD2znto6aZpXRt0DZXt0H8M-hQ_JBla9S4M2oSUCk5Fhh7tBUYE0TkptFTSGANjT74OLYBQHv_4iykTkK0O2jnbQV7bRk9diJqnfUJA-OK6RLWOHAgohCSY5yRnSnHMVAGYdR2bOAY7e07Rrp8Gk3xzTjN0P7VdXY2RFBMxx3RO8YyQkuFSyChCXz2kJdw0JUpSkKjI3GQG77RvD-cFOMbJQe-a479tCcdgeYFNA53NWNkxrHQX53AsBHu6SoPC2J7aMcrfuM_-aK83g5scv-LSve_sDLr7Qbv6Pa6D8p9f",
+            "tag": "4255710461639940398-8130649772799690244",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "57,78 \u20ac",
+            "price_raw": 57.78,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.09225,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8130649772799690244.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8130649772799690244b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_8130649772799690244vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 8095737,
+            "merchant": {
+                "merchant_id": 8095737,
+                "name": "Servitesa",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=8095737",
+                "domain": "servitesa",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/8095737.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 73963,
+                "name": "Apple Macintosh",
+                "twenga_url": "http:\/\/www.twenga.es\/#&c=73963&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=73963"
+            }
+        }, {
+            "item_id": 7717825214791106916,
+            "name": "Apple iPhone 6 16GB Gris Modelo IPHONE6",
+            "description": "Te presentamos el iPhone 6 no solo es m\u00e1s grande, tambi\u00e9n es mejor. De mayor tama\u00f1o, pero a la vez ultrafino. M\u00e1s potente, pero de una eficiencia extraordinaria. Caracter\u00edsticas: DISE\u00d1O El iPhone en su versi\u00f3n m\u00e1s grande. Y m\u00e1s fina. Para crear el iPhone 6 eleg",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVHLTsMwEPyVyue0eB3HTnKDlkOFEJUaOCEh13Go1dRxExdUIf6dtYFKsbSP2Z2ZzRdZt6SWEmTJCgZcVgBUVCAy0ly8ITVpSEa2NpiIK2lVyFxm5F57TWq6wDwjL8NGhT1CZUmBv94wfE_pw9Fb77Gjus46G1SLlc04vI_qGPdBRpaDC6PSIaUFZ7jvwVxwpAAloFSyklprHHv0bbAIIiLu-ItZXmC23CvnTI95azp17kOUfN4lBIbPrk9Uq8hBkKKQQLkAkVcVp3lVImbVxiaNwdacUrQdzqNOtjlnGbk7275tpkhKoZhTNmd0BlDntC5kFKGSh3SDq6TECCVEQfqqMninvN2fFmiYJgOD6w7_riUVPBcl1R121lNjprBUfZyjsRDM8VcZFiZ7tFNUv3Yfw8H8_rE8I4fPeHPvezPD7m5Urn2L12D8-wc%2A",
+            "tag": "4255710461639940398-7717825214791106916",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "2,35 \u20ac",
+            "price_raw": 2.35,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.090478,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_7717825214791106916.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_7717825214791106916b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_7717825214791106916vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 8095737,
+            "merchant": {
+                "merchant_id": 8095737,
+                "name": "Servitesa",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=8095737",
+                "domain": "servitesa",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/8095737.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 8,
+                "name": "Inform\u00e1tica",
+                "twenga_url": "http:\/\/www.twenga.es\/#&p=8&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=8"
+            }
+        }, {
+            "item_id": 2749098142546922254,
+            "name": "Apple iPhone 6 16GB - Negro, Blanco, Dorado Modelo IPHONE6",
+            "description": "informatica - cables y conectores - adaptadores 3606 - ADAPTADOR HDMI-MiniHDMI , A\/H-C\/M Adaptador HDMI con conectores tipo A hembra en un extremo y tipo C (mini HDMI) en otro. Ideal para para convertir un conector tipo A macho a tipo C macho y as\u00ed poder conect",
+            "click_url": "http:\/\/r.twenga.es\/g1.php?cpz=PVFdT8MgFP0rC89sAoVS-qabD4sxLln1ycQwSh1ZR1nLNIvxv3tBXVLS-3Eu55zLF1q3qGaSK6IqypngpWIMfhg1l2BRjRqE0dZFm3AVUUIWEqN7EwyqyQJyjF6GjY57gMqKUP56w-A85Q9Gb0OAju46513ULVQ24_A-6mO6j2K0HHwctYk5FSAAowd7gRFBdUkrLZU0xsDYY2ijAxAq0x1_MSsEZMu99t72kLe20-c-JsnnXUZA-Oz7TLVKHAgohKSEl7QslOKkUBVgVm1qkhRs7SlH2-E8mmybc4bR3dn1bTMlUkLFnLA5IzNK64LUQiYROnvIO7hKyoy0okmQuaqMwevg9qcFGCbZwOC7w79rSUpelBUxHXTWU2OnuNR9miOpEO3xVxkUJnd0U1K_9h_Dwf6-WIHR4TPtPITezqC7G7Vv39I2GP_-AQ%2A%2A",
+            "tag": "4255710461639940398-2749098142546922254",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "2,35 \u20ac",
+            "price_raw": 2.35,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "0,09 \u20ac",
+            "estimated_cpc_raw": 0.090478,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2749098142546922254.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2749098142546922254b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i50.twenga.com\/0-tp_2749098142546922254vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 8095737,
+            "merchant": {
+                "merchant_id": 8095737,
+                "name": "Servitesa",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=8095737",
+                "domain": "servitesa",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/8095737.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 8,
+                "name": "Inform\u00e1tica",
+                "twenga_url": "http:\/\/www.twenga.es\/#&p=8&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.es\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=8"
+            }
+        }]
+    }]
+}

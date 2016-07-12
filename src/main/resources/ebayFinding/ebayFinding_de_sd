@@ -1,0 +1,945 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-06-26T12:35:55.356Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>331450923236</itemId>
+			<title>APPLE IPHONE 5S 16GB SPACEGRAU SIMLOCKFREI OHNE VERTRAG - F.W. NEU SMARTPHONE</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>✔ Blitzversand ✔ Rechnung auf Ihren Namen ✔ Fachhändler</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m_VpkfM2FWD0dQ3LBAqOKhQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=331450923236</viewItemURL>
+			<productId type="ReferenceID">168512999</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>85774</postalCode>
+			<location>Unterföhring,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">419.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">419.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT18H13M58S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-16T06:44:53.000Z</startTime>
+				<endTime>2015-07-15T06:49:53.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>331491676517</itemId>
+			<title>APPLE IPHONE 5S 16GB SILBER - SIMLOCKFREI OHNE VERTRAG - SMARTPHONE F.W. NEU</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>✔ Blitzversand ✔ Rechnung auf Ihren Namen ✔ Fachhändler</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m15KCGErqba2C4BLAIlT75Q/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=331491676517</viewItemURL>
+			<productId type="ReferenceID">168512989</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>85774</postalCode>
+			<location>Unterföhring,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">399.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">399.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P1DT4H44M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-27T17:15:44.000Z</startTime>
+				<endTime>2015-06-27T17:20:44.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>252006686385</itemId>
+			<title>Apple iPhone 5s - 16 GB - Spacegrau NEU (Ohne Simlock)</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>NEU , ohne Vertrag , Frei für alle Karten, vom Händler</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mUNchFHCcDsFUImVLJGEATg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=252006686385</viewItemURL>
+			<productId type="ReferenceID">168512999</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>12205</postalCode>
+			<location>Berlin,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">439.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">439.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P8DT23H0M27S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-25T11:36:22.000Z</startTime>
+				<endTime>2015-07-05T11:36:22.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>321761167361</itemId>
+			<title>Apple iPhone 5S 16GB grau Smartphone ohne Simlock ohne Vertrag Fachhändler</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>Display &amp; Zustand WIE NEU ★ 24 Monate Gewährleistung</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/maS9bmdVB2KAW71MhoDmGbg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=321761167361</viewItemURL>
+			<productId type="ReferenceID">168512999</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>76149</postalCode>
+			<location>Karlsruhe,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">419.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">419.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT4H43M12S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-21T17:14:07.000Z</startTime>
+				<endTime>2015-07-20T17:19:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>221779178179</itemId>
+			<title>Apple iPhone 5S 16GB silber Smartphone ohne Simlock ohne Vertrag Fachhändler</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>Display &amp; Zustand WIE NEU ★ 24 Monate Gewährleistung</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mOL1Cas-h5oHqgKp19GxlAw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=221779178179</viewItemURL>
+			<productId type="ReferenceID">168512989</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>76149</postalCode>
+			<location>Karlsruhe,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">419.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">419.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT4H46M14S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-21T17:17:09.000Z</startTime>
+				<endTime>2015-07-20T17:22:09.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>252007755138</itemId>
+			<title>Apple iPhone 5S - 16 GB - Gold NEU (Ohne Simlock)</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>NEU , ohne Vertrag , Frei für alle Karten, vom Händler</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mXrSYdbFfLffxCXVa7ScSfg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=252007755138</viewItemURL>
+			<productId type="ReferenceID">170084927</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>12205</postalCode>
+			<location>Berlin,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">439.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">439.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT21H14M15S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-26T09:50:10.000Z</startTime>
+				<endTime>2015-07-06T09:50:10.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>171832987188</itemId>
+			<title>Apple iPhone 5s - 16 GB - Spacegrau (Ohne Simlock) - wie neu!!!</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m9R4IWvPVza3d38718mrVuw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=171832987188</viewItemURL>
+			<productId type="ReferenceID">168512999</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>66333</postalCode>
+			<location>Völklingen,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">4.99</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">201.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">201.0</convertedCurrentPrice>
+				<bidCount>3</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT3H24M13S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>true</buyItNowAvailable>
+				<buyItNowPrice currencyId="EUR">400.0</buyItNowPrice>
+				<convertedBuyItNowPrice currencyId="EUR">400.0</convertedBuyItNowPrice>
+				<startTime>2015-06-21T16:00:08.000Z</startTime>
+				<endTime>2015-06-28T16:00:08.000Z</endTime>
+				<listingType>AuctionWithBIN</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Gebraucht</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>161745510041</itemId>
+			<title>Original Apple Iphone 5S 16GB Spacegrau Ohne Simlock Ohne Branding *Ungeöffnet*</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mmUJTU7CeVHsDr4Q8fFM85g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=161745510041</viewItemURL>
+			<productId type="ReferenceID">168512999</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>71139</postalCode>
+			<location>Ehningen,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">489.99</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">489.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT23H46M22S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-26T12:22:17.000Z</startTime>
+				<endTime>2015-07-26T12:22:17.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>151725641063</itemId>
+			<title>Apple iPhone 5s 16GB Gold-Simlockfrei-Garantie 12/15</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m2MhvY4wVYz9XAUJ8ubIu1g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=151725641063</viewItemURL>
+			<productId type="ReferenceID">170084927</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>26340</postalCode>
+			<location>Zetel,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">7.49</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">399.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">399.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT3H30M18S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-25T16:06:13.000Z</startTime>
+				<endTime>2015-07-25T16:06:13.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221808730954</itemId>
+			<title>Apple iPhone 5s spacegrau grey 16GB w. NEU ohne Simlock WOW Smartphone OVP</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mHKbc04rplY1VZlZf4V778Q/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=221808730954</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>09366</postalCode>
+			<location>Niederdorf,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">439.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">439.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT7H35M48S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-23T20:11:43.000Z</startTime>
+				<endTime>2015-07-23T20:11:43.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281606626611</itemId>
+			<title>Apple iPhone 5s 16GB - Silber ...::NEU::... 4G+WiFi</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mDySZ6PgD80LUYctG2-n7Xw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=281606626611</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">474.99</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">474.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT6H18M42S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-21T18:49:37.000Z</startTime>
+				<endTime>2015-07-21T18:54:37.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371347387125</itemId>
+			<title>Apple iPhone 5s 16GB Smartphone 8 Megapixel Kamera Handy iOS7, Gold</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mXgFszeI85IA8V8frKuIY-Q/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=371347387125</viewItemURL>
+			<productId type="ReferenceID">170084927</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>28307</postalCode>
+			<location>Bremen,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">529.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">529.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT18H48M9S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-09T07:24:04.000Z</startTime>
+				<endTime>2015-07-09T07:24:04.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>361329629153</itemId>
+			<title>Apple iPhone 5s - 16GB - Gold - (Ohne Simlock) Smartphone * AKTION ** WIE NEU *</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>Geprüfte Ware - Mit Rechnung vom Fachhändler</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mz3ymgMZ0dMRVeRvb4pHTZA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=361329629153</viewItemURL>
+			<productId type="ReferenceID">170084927</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>60489</postalCode>
+			<location>Frankfurt,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">379.99</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">379.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT22H45M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-26T11:16:49.000Z</startTime>
+				<endTime>2015-07-26T11:21:49.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Gebraucht</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371347795829</itemId>
+			<title>Apple iPhone 5s 5 S Smartphone 16GB 8 Megapixel Kamera Handy iOS7, Spacegrau</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mWA9WuebLvXCUlpi0UBjKnw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=371347795829</viewItemURL>
+			<productId type="ReferenceID">168512999</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>28307</postalCode>
+			<location>Bremen,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">529.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">529.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P13DT5H4M17S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-09T17:40:12.000Z</startTime>
+				<endTime>2015-07-09T17:40:12.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>141569713784</itemId>
+			<title>APPLE iPHONE 5S 16GB gold SMARTPHONE KAMERA HANDY WLAN UMTS LTE 4G TOUCHSCREEN</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>OVP, OHNE VERTRAG, OHNE SIMLOCK, HÄNDLER!</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mSoqf7DYjxGYH_401j_uvZQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=141569713784</viewItemURL>
+			<productId type="ReferenceID">170084927</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>94513</postalCode>
+			<location>Schönberg,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">419.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">419.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT22H11M7S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-09T10:42:02.000Z</startTime>
+				<endTime>2015-07-09T10:47:02.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<discountPriceInfo>
+				<originalRetailPrice currencyId="EUR">599.0</originalRetailPrice>
+				<pricingTreatment>STP</pricingTreatment>
+				<soldOnEbay>false</soldOnEbay>
+				<soldOffEbay>false</soldOffEbay>
+			</discountPriceInfo>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>191611946138</itemId>
+			<title>Apple iPhone 5s - 16 GB - Spacegrau NEU In OVP Mit 2 Jahre Garantie</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m_SlU-IgSjaoTyrIDMGc23Q/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=191611946138</viewItemURL>
+			<productId type="ReferenceID">168533907</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>12203</postalCode>
+			<location>Berlin,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">6.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">450.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">450.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT21H14M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-26T09:50:01.000Z</startTime>
+				<endTime>2015-07-26T09:50:01.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>271911341289</itemId>
+			<title>APPLE iPhone 5S SMARTPHONE 16GB IPS Touchscreen SILVER SILBER OHNE VERTRAG</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mtf7-fMDMKbUHi4Rly-hJQQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=271911341289</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>20354</postalCode>
+			<location>Hamburg,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">3.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">469.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">469.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P28DT3H14M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-24T15:45:01.000Z</startTime>
+				<endTime>2015-07-24T15:50:01.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141691254243</itemId>
+			<title>Apple iPhone 5s Gold 16GB Smartphone NEU&amp;OVP 19% MwSt.</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mpmFkA2ZFBAZ9GQUpN_X5ew/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=141691254243</viewItemURL>
+			<productId type="ReferenceID">170084927</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>30457</postalCode>
+			<location>Hannover,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">499.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">499.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT22H41M26S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-12T11:12:21.000Z</startTime>
+				<endTime>2015-07-12T11:17:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>221810790805</itemId>
+			<title>Apple iPhone 5s (Latest Model) - 16 GB - Space Grey (Vodafone) Smartphone</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile &amp; Smart Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mifaXvLlj27tYmC-XhfNAYw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=221810790805</viewItemURL>
+			<productId type="ReferenceID">168533867</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>G428SY</postalCode>
+			<location>Großbritannien</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">9.26</shippingServiceCost>
+				<shippingType>FlatDomesticCalculatedInternational</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>GB</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>AT</shipToLocations>
+				<shipToLocations>BE</shipToLocations>
+				<shipToLocations>FR</shipToLocations>
+				<shipToLocations>DE</shipToLocations>
+				<shipToLocations>IT</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>ES</shipToLocations>
+				<shipToLocations>NL</shipToLocations>
+				<shipToLocations>BG</shipToLocations>
+				<shipToLocations>HR</shipToLocations>
+				<shipToLocations>CY</shipToLocations>
+				<shipToLocations>CZ</shipToLocations>
+				<shipToLocations>DK</shipToLocations>
+				<shipToLocations>FI</shipToLocations>
+				<shipToLocations>GR</shipToLocations>
+				<shipToLocations>HU</shipToLocations>
+				<shipToLocations>IE</shipToLocations>
+				<shipToLocations>LT</shipToLocations>
+				<shipToLocations>LU</shipToLocations>
+				<shipToLocations>MT</shipToLocations>
+				<shipToLocations>PL</shipToLocations>
+				<shipToLocations>PT</shipToLocations>
+				<shipToLocations>RO</shipToLocations>
+				<shipToLocations>SK</shipToLocations>
+				<shipToLocations>SI</shipToLocations>
+				<shipToLocations>SE</shipToLocations>
+				<shipToLocations>RU</shipToLocations>
+				<shipToLocations>NZ</shipToLocations>
+				<shipToLocations>IL</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">279.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">392.01</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT21H4M46S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-26T09:40:41.000Z</startTime>
+				<endTime>2015-07-26T09:40:41.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>Neu: Sonstige (siehe Artikelbeschreibung)</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>311385884771</itemId>
+			<title>Apple iPhone 5s 16GB Space Grey/Grau *fw.Neu* frei ab Werk Ohne Simlock (#66100)</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Handys ohne Vertrag</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mnyNhauuYx6sZGpKh1BcobA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=311385884771</viewItemURL>
+			<productId type="ReferenceID">168512999</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>39120</postalCode>
+			<location>Magdeburg,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.99</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>AT</shipToLocations>
+				<shipToLocations>DE</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">399.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">399.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P4DT8H38M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-06-20T21:14:49.000Z</startTime>
+				<endTime>2015-06-30T21:14:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Gebraucht</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>13</totalPages>
+		<totalEntries>248</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1</itemSearchURL>
+</findItemsByKeywordsResponse>

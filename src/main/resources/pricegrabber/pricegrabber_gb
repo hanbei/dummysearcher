@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<document
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://www.pricegrabber.com/pg_2.55.xsd">
+	<version>2.55</version>
+	<api_request_id>0b03fa89ac0c8a4a1e2173fd8243e20f</api_request_id>
+	<num_results>949</num_results>
+	<search_keyword>tv</search_keyword>
+	<pricegrabber_url>http://www.api.pricegrabber.co.uk/electronics/plasma-lcd-televisions++tv/p-197/</pricegrabber_url>
+	<pricegrabber_url_text>tv by PriceGrabber.co.uk</pricegrabber_url_text>
+	<partner_url>http://foxydeal.api.pgpartner.co.uk</partner_url>
+	<market>gb</market>
+	<result_category id="197" type="page" nr="949">Plasma &amp; LCD Televisions</result_category>
+	<page id="197">Plasma &amp; LCD TVs</page>
+	<catzero id="19">TVs</catzero>
+	<topcat id="2">Consumer Electronics</topcat>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.co.uk/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.co.uk%2Fsearch_getprod.php%3Fmasterid%3D1487105401
+		</url>
+		<masterid>1487105401</masterid>
+		<title>BRAVIA KDL50W829BBU 50" LED TV (1920x1080, 800 Hz, HDTV, 3D)</title>
+		<title_short>BRAVIA KDL50W829BBU 50" LED TV (1920x1080, 800 Hz, HDTV, 3D)</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/463b8a-1487105401_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/becbde-1487105401_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/548b26-1487105401_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/a6858c-1487105401_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Sony</manufacturer>
+		<partnum>KDL50W829BBU</partnum>
+		<topcat id="2">Consumer Electronics</topcat>
+		<catzero id="19">TVs</catzero>
+		<page id="197">Plasma &amp; LCD TVs</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">&amp;pound;599.00</price>
+		<price qlty="n">&amp;pound;599.00</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<offer>
+			<retailer>Currys</retailer>
+			<id type="retid">1752</id>
+			<price>&amp;pound;599.00</price>
+			<quality>New</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_1752.gif</retailer_logo>
+			<premier>n</premier>
+			<tax>No Tax</tax>
+			<shipping>Free</shipping>
+			<bottomlineprice>599.00</bottomlineprice>
+			<available>yes</available>
+			<num_reviews>0</num_reviews>
+			<rating text="Not Rated">0.00</rating>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<url>http://foxydeal.api.pgpartner.co.uk/rd.php?pg=~~10&amp;r=1752&amp;m=1487105401&amp;mt=1~1~599.00~599.00~599.00~~~~y~~~~~&amp;q=n&amp;rdgt=1425899910&amp;search=tv&amp;dl=1&amp;source=xmlapi&amp;request_id=0b03fa89ac0c8a4a1e2173fd8243e20f&amp;ret=1425899910&amp;k=4ba6638d9f080805b4333d46966efd96</url>
+		</offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.co.uk/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.co.uk%2Fsearch_getprod.php%3Fmasterid%3D1648132443
+		</url>
+		<masterid>1648132443</masterid>
+		<title>39" Jvc LT-39C740 Smart LED TV</title>
+		<title_short>39" Jvc LT-39C740 Smart LED TV</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/bab35f-1648132443_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/8ce346-1648132443_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/016de6-1648132443_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/a02617-1648132443_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>JVC</manufacturer>
+		<partnum>LT39C740</partnum>
+		<topcat id="2">Consumer Electronics</topcat>
+		<catzero id="19">TVs</catzero>
+		<page id="197">Plasma &amp; LCD TVs</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">&amp;pound;249.00</price>
+		<price qlty="n">&amp;pound;249.00</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<offer>
+			<retailer>Currys</retailer>
+			<id type="retid">1752</id>
+			<price>&amp;pound;249.00</price>
+			<quality>New</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_1752.gif</retailer_logo>
+			<premier>n</premier>
+			<tax>No Tax</tax>
+			<shipping>Free</shipping>
+			<bottomlineprice>249.00</bottomlineprice>
+			<available>yes</available>
+			<num_reviews>0</num_reviews>
+			<rating text="Not Rated">0.00</rating>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<url>http://foxydeal.api.pgpartner.co.uk/rd.php?pg=~~10&amp;r=1752&amp;m=1648132443&amp;mt=1~1~249.00~249.00~249.00~~~~y~~~~~&amp;q=n&amp;rdgt=1425899910&amp;search=tv&amp;dl=1&amp;source=xmlapi&amp;request_id=0b03fa89ac0c8a4a1e2173fd8243e20f&amp;ret=1425899910&amp;k=cab9f0bc3a681808eca381a5e38c5d63</url>
+		</offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.co.uk/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.co.uk%2Fsearch_getprod.php%3Fmasterid%3D1571969248
+		</url>
+		<masterid>1571969248</masterid>
+		<title>UE40H5000 40" LED TV (1920x1080, 100 Hz, HDTV)</title>
+		<title_short>UE40H5000 40" LED TV (1920x1080, 100 Hz, HDTV)</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/72fbc7-1571969248_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/0167d9-1571969248_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/f164d0-1571969248_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/37c6e0-1571969248_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Samsung</manufacturer>
+		<partnum>UE40H5000AKXXU</partnum>
+		<topcat id="2">Consumer Electronics</topcat>
+		<catzero id="19">TVs</catzero>
+		<page id="197">Plasma &amp; LCD TVs</page>
+		<rating>0</rating>
+		<price sellers="2" qlty="all">&amp;pound;299.00</price>
+		<price qlty="n">&amp;pound;299.00</price>
+		<num_sellers qlty="all" desc="All">2</num_sellers>
+		<num_sellers qlty="n" desc="New">2</num_sellers>
+		<offer>
+			<retailer>ao.com</retailer>
+			<id type="retid">22474</id>
+			<price>&amp;pound;299.00</price>
+			<quality>New</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_22474.gif</retailer_logo>
+			<premier>n</premier>
+			<tax>No Tax</tax>
+			<shipping>Free</shipping>
+			<bottomlineprice>299.00</bottomlineprice>
+			<available>yes</available>
+			<num_reviews/>
+			<rating text="Not Rated"/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<url>http://foxydeal.api.pgpartner.co.uk/rd.php?pg=~~10&amp;r=22474&amp;m=1571969248&amp;mt=1~2~299.00~299.00~299.00~~~~y~~~~~&amp;q=n&amp;rdgt=1425899910&amp;search=tv&amp;dl=1&amp;source=xmlapi&amp;request_id=0b03fa89ac0c8a4a1e2173fd8243e20f&amp;ret=1425899910&amp;k=18ed6f8d1ff2d8205fde11ae5e2232c0</url>
+		</offer>
+		<offer>
+			<retailer>Currys</retailer>
+			<id type="retid">1752</id>
+			<price>&amp;pound;299.00</price>
+			<quality>New</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_1752.gif</retailer_logo>
+			<premier>n</premier>
+			<tax>No Tax</tax>
+			<shipping>Free</shipping>
+			<bottomlineprice>299.00</bottomlineprice>
+			<available>yes</available>
+			<num_reviews>0</num_reviews>
+			<rating text="Not Rated">0.00</rating>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<url>http://foxydeal.api.pgpartner.co.uk/rd.php?pg=~~10&amp;r=1752&amp;m=1571969248&amp;mt=2~2~299.00~299.00~299.00~~~~y~~~~~&amp;q=n&amp;rdgt=1425899910&amp;search=tv&amp;dl=1&amp;source=xmlapi&amp;request_id=0b03fa89ac0c8a4a1e2173fd8243e20f&amp;ret=1425899910&amp;k=1918cab6a2515d187a8f61b21be1f0a9</url>
+		</offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.co.uk/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.co.uk%2Fsearch_getprod.php%3Fmasterid%3D1667752533
+		</url>
+		<masterid>1667752533</masterid>
+		<title>40" Panasonic VIERA TX-40AX630B Smart 3D 4k Ultra HD LED TV</title>
+		<title_short>40" Panasonic VIERA TX-40AX630B Smart 3D 4k Ultra HD LED TV</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/460d44-1667752533_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/6a05fc-1667752533_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/de67e8-1667752533_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/ffa72d-1667752533_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Panasonic</manufacturer>
+		<partnum>TX40AX630B</partnum>
+		<topcat id="2">Consumer Electronics</topcat>
+		<catzero id="19">TVs</catzero>
+		<page id="197">Plasma &amp; LCD TVs</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">&amp;pound;599.00</price>
+		<price qlty="n">&amp;pound;599.00</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<offer>
+			<retailer>Currys</retailer>
+			<id type="retid">1752</id>
+			<price>&amp;pound;599.00</price>
+			<quality>New</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_1752.gif</retailer_logo>
+			<premier>n</premier>
+			<tax>No Tax</tax>
+			<shipping>Free</shipping>
+			<bottomlineprice>599.00</bottomlineprice>
+			<available>yes</available>
+			<num_reviews>0</num_reviews>
+			<rating text="Not Rated">0.00</rating>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<url>http://foxydeal.api.pgpartner.co.uk/rd.php?pg=~~10&amp;r=1752&amp;m=1667752533&amp;mt=1~1~599.00~599.00~599.00~~~~y~~~~~&amp;q=n&amp;rdgt=1425899910&amp;search=tv&amp;dl=1&amp;source=xmlapi&amp;request_id=0b03fa89ac0c8a4a1e2173fd8243e20f&amp;ret=1425899910&amp;k=48ddf1c607ddd72d2626de3b7eb37e44</url>
+		</offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.co.uk/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.co.uk%2Fsearch_getprod.php%3Fmasterid%3D1510898567
+		</url>
+		<masterid>1510898567</masterid>
+		<title>BRAVIA KDL48W605 48" LED TV (1920x1080, 200 Hz, Freeview HD, HDTV)</title>
+		<title_short>BRAVIA KDL48W605 48" LED TV (1920x1080, 200 Hz, Freeview HD, HDTV)</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/5bd8fa-1510898567_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/8fae1d-1510898567_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/b7d468-1510898567_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/f7b766-1510898567_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Sony</manufacturer>
+		<partnum>KDL48W605</partnum>
+		<topcat id="2">Consumer Electronics</topcat>
+		<catzero id="19">TVs</catzero>
+		<page id="197">Plasma &amp; LCD TVs</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">&amp;pound;499.00</price>
+		<price qlty="n">&amp;pound;499.00</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<offer>
+			<retailer>Currys</retailer>
+			<id type="retid">1752</id>
+			<price>&amp;pound;499.00</price>
+			<quality>New</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_1752.gif</retailer_logo>
+			<premier>n</premier>
+			<tax>No Tax</tax>
+			<shipping>Free</shipping>
+			<bottomlineprice>499.00</bottomlineprice>
+			<available>yes</available>
+			<num_reviews>0</num_reviews>
+			<rating text="Not Rated">0.00</rating>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<url>http://foxydeal.api.pgpartner.co.uk/rd.php?pg=~~10&amp;r=1752&amp;m=1510898567&amp;mt=1~1~499.00~499.00~499.00~~~~y~~~~~&amp;q=n&amp;rdgt=1425899910&amp;search=tv&amp;dl=1&amp;source=xmlapi&amp;request_id=0b03fa89ac0c8a4a1e2173fd8243e20f&amp;ret=1425899910&amp;k=08eb93d8126264b22b1710fada97feca</url>
+		</offer>
+	</product>
+</document>

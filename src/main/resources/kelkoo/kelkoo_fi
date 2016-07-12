@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch
+	xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="8256" firstResultPosition="1" totalResultsReturned="20"
+	          totalMerchantsAvailable="19" searchOperator="and">
+		<Product>
+			<Offer id="01223d01725f25c475e554e6510fcbd7" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5s 16 Gt, Gold</Title>
+				<Description>Ei operaattorisidonnainen 8 megapikselin kamera Näytön koko 4" Puheaika jopa 8 tuntia
+					Valmiusaika jopa 250 tuntia Sormenjälkitunnistin Koko 123,8 x 58,6 x 7,6 mm Paino 112 g iPhone 5s
+					-matkapuhelimessa on 4-tuumainen Retina-näyttö ja 8 megapikselin kamera.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069813/100020213/90/90/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Fnormal_2%2F71-80%2F71-8016.jpg/oZVEayYiHeX2gBwq7rMH5ezC88k4rLEgf4aDJSTZDdU-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069813/100020213/auto/auto/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Fnormal_2%2F71-80%2F71-8016.jpg/oZVEayYiHeX2gBwq7rMH5ezC88k4rLEgf4aDJSTZDdU-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628807&amp;.sig=FroJvx2GN5.TcVC2Oi4PFBqvJhA-&amp;offerId=01223d01725f25c475e554e6510fcbd7&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14069813&amp;comId=14069813&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14069813">
+					<Name>Ellos</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14069813/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Matkapuhelimet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>679</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>679</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Tarkista tuotteen toimittajan sivuilta</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniikka-Matkapuhelimet-Älypuhelimet -iphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c4aa8870625db326548d07328108d164" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Kotinäppäimen Kumisinetti Sarja</Title>
+				<Description>iPhone 5S Kotinäppäimen Kumisinetti Sarja Pakkaus: Bulkki</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone_5S_Home_Button_Rubber_Seal_Set_01_04042014.jpg/gDXeLL1MPRDnkN2S6a4rI0SbnXrEb8V3vQqcmkj.zyY-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone_5S_Home_Button_Rubber_Seal_Set_01_04042014.jpg/gDXeLL1MPRDnkN2S6a4rI0SbnXrEb8V3vQqcmkj.zyY-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628808&amp;.sig=4_L3477S_IZlJCm.qcLb.mpSpdE-&amp;offerId=c4aa8870625db326548d07328108d164&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>10.5</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>15.3</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5bf1eaf577d79b37880c34f2681fd106" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5s Silver 16GB</Title>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14068113/100020213/90/90/http%3A%2F%2Fs.cdon.com%2Fmedia-dynamic%2Fimages%2Fproduct%2Felectronics%2Fcellphone%2Fimage2%2Fiphone_5s_white_16gb-25126425-frntl.jpg/tlc6Rhis9aAFA86b1nGm4Vkp7pXisLXJCbQI1fbPphg-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14068113/100020213/auto/auto/http%3A%2F%2Fs.cdon.com%2Fmedia-dynamic%2Fimages%2Fproduct%2Felectronics%2Fcellphone%2Fimage2%2Fiphone_5s_white_16gb-25126425-frntl.jpg/tlc6Rhis9aAFA86b1nGm4Vkp7pXisLXJCbQI1fbPphg-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628808&amp;.sig=emDv0mUegvpGX8YXMcYBTtnkkTY-&amp;offerId=5bf1eaf577d79b37880c34f2681fd106&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14068113&amp;comId=14068113&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14068113">
+					<Name>CDON.COM</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14068113/logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Matkapuhelimet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>589</Price>
+					<DeliveryCost>4.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>593.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2 dager</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909784653</Ean>
+				<MerchantCategory>Cellphone - 3GPhones - 4GPhones - GSMPhones - iPhone</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="36cb722be1c0d39d12936629bca6b618" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5/5s Vakoilua Estävä Suojakalvo Puhdistusliinalla</Title>
+				<Description>Täydellinen suojakalvo iPhone 5/5s:n näytölle Tämä vakoilua estävä suojakalvo antaa sinulle
+					maksimaalisen määrän yksityisyyttä ja turvallisuutta sillä näyttö näkyy vain suorille käyttäjille.
+					Se suojaa myös näyttöä naarmuilta ja putoamisilta pitäen puhelimesi aina turvassa. Tämä näytön
+					suojakalvo on
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14291513/125801/90/90/http%3A%2F%2Fiyouwebuy.fi%2Fmedia%2Fcatalog%2Fproduct%2Fs%2Fc%2Fscreen_shot_2014-02-06_at_10.53.53_am.png/7wrjToh6AZkjQ3NiMt1axFhTG0Ua83hd9behEFN8aaw-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14291513/125801/auto/auto/http%3A%2F%2Fiyouwebuy.fi%2Fmedia%2Fcatalog%2Fproduct%2Fs%2Fc%2Fscreen_shot_2014-02-06_at_10.53.53_am.png/7wrjToh6AZkjQ3NiMt1axFhTG0Ua83hd9behEFN8aaw-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628808&amp;.sig=KUGzCVzJ9XSTx6c3A2PNX7.Ytx8-&amp;offerId=36cb722be1c0d39d12936629bca6b618&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14291513&amp;comId=14291513&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14291513">
+					<Name>iyouwebuy.fi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14291513/logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>7.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>7.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>7-14 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniikka Elektroniikka Tablet- ja Puhelintarvikkeet Elektroniikka Tablet- ja
+					Puhelintarvikkeet Kuoret Elektroniikka Tablet- ja Puhelintarvikkeet Muuta Elektroniikka Tablet- ja
+					Puhelintarvikkeet Matkapuhelin tarvikeet
+				</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0efcab77fd29e1e8d5e39852678a2fdc" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Iphone 5/5s Suojakotelo Sekalaisia Värejä</Title>
+				<Description>Suojele ja koristele iPhone puhelimesi näillä upeissa suojakoteloilla Tämä ohut ja kevyt
+					suojakotelo on kaikki mitä tarvitset pitääksesi iPhonesi turvassa. Kotelo suojelee puhelimesi
+					reunoja siltä varalta että pudotat sen epähuomiossa. Suoja on valmistettu korkelaatuisesta
+					polykarbonaatista ja on saavatilla
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14286713/125801/90/90/http%3A%2F%2Fpriceitch.fi%2Fmedia%2Fcatalog%2Fproduct%2Fs%2Fc%2Fscreen_shot_2014-02-06_at_9.22.08_am.png/Bzb53IsN054tjdljWU06NWgHpguu1Rn_7sBshAflICg-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14286713/125801/auto/auto/http%3A%2F%2Fpriceitch.fi%2Fmedia%2Fcatalog%2Fproduct%2Fs%2Fc%2Fscreen_shot_2014-02-06_at_9.22.08_am.png/Bzb53IsN054tjdljWU06NWgHpguu1Rn_7sBshAflICg-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628808&amp;.sig=Y_m.rJTioIJeNKqsMPXIF0cjVuY-&amp;offerId=0efcab77fd29e1e8d5e39852678a2fdc&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14286713&amp;comId=14286713&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14286713">
+					<Name>priceitch.fi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14286713/logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>5.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>5.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>7-14 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniikka</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="43fb83f149af0bc94419171a1e78dc40" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5:n kuori (S-line-kuori iPhone 5:lle) TPU</Title>
+				<Description>Sopii iPhone 5:lle Muoto: S-line Tama iPhonen kuori suojaa iPhone 5 -puhelinta naarmuilta
+					ja lialta. iPhonen kuori ymparoi iPhonen taustapuolen helposti ja nopeasti, jolloin puhelin saa
+					optimaalisen suojan. Kuori on myos helppo ja nopea irrottaa.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069113/125801/90/90/http%3A%2F%2Fwww.CableWorld.fi%2Ftemplate%2Fprodimg%2FstEVN-3006.jpg/lqeas2Y5rSOI7qy3tjPg1sOdQ5kGas1bgy8xDZoI6WI-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069113/125801/auto/auto/http%3A%2F%2Fwww.CableWorld.fi%2Ftemplate%2Fprodimg%2FstEVN-3006.jpg/lqeas2Y5rSOI7qy3tjPg1sOdQ5kGas1bgy8xDZoI6WI-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628808&amp;.sig=U2t9OmY_xgE1lz6bPdxTdlQ.xA8-&amp;offerId=43fb83f149af0bc94419171a1e78dc40&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14069113&amp;comId=14069113&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14069113">
+					<Name>Cableworld.fi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14069113/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>6.49</Price>
+					<DeliveryCost>1.2</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1.2</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>7.69</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5 dager</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>iPhone-tarvikkeet - iPhone 5:n kuoret</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9646ae9844836986f651232e57179528" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Arsenal - iPhone 5/5S Hard Case Cover</Title>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069413/125801/90/90/https%3A%2F%2Fimg-cache.coolshop.com%2F529388de-e91b-43bc-b55c-19a610ab0188%2Farsenal-iphone-55s-hard-case-cover.jpg/zvr0UpIt1sdrEWTSu.rtCrjplLevDypYOLSjnSvVEgI-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069413/125801/auto/auto/https%3A%2F%2Fimg-cache.coolshop.com%2F529388de-e91b-43bc-b55c-19a610ab0188%2Farsenal-iphone-55s-hard-case-cover.jpg/zvr0UpIt1sdrEWTSu.rtCrjplLevDypYOLSjnSvVEgI-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628808&amp;.sig=4u8onISdck15rr1tDE4dbMU7Q_o-&amp;offerId=9646ae9844836986f651232e57179528&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14069413&amp;comId=14069413&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14069413">
+					<Name>coolshop.fi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14069413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>21.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>21.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Electronic</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b718978835cb6313641d9b84e6ede09b" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Amecs iPhone 5S/5 Nahkakotelo Korttipaikalla (Musta)</Title>
+				<Description>Tyylikäs käsityönä kestävästä ja pehmeästä nahasta valmistettu iPhone 5 kotelo antaa Apple
+					iphone:llesi tehokkaan suojan lialta, naarmuuntumiselta ja vaurioilta. Suojakotelo antaa täysin
+					uuden tyylin iPhone 5 puhelimellesi.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14148913/125801/90/90/http%3A%2F%2Flux-case.co.uk%2Fmedia%2Fcatalog%2Fproduct%2FL%2FC%2FT-iP5-5004E-1.jpg/yKVb28IMknbLaK2meOysgwvhJxVrlmyhsaRr0TWkYNI-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14148913/125801/auto/auto/http%3A%2F%2Flux-case.co.uk%2Fmedia%2Fcatalog%2Fproduct%2FL%2FC%2FT-iP5-5004E-1.jpg/yKVb28IMknbLaK2meOysgwvhJxVrlmyhsaRr0TWkYNI-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628808&amp;.sig=z7XDaVSUbMFT7KY251H26N_bSSU-&amp;offerId=b718978835cb6313641d9b84e6ede09b&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148913&amp;comId=14148913&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14148913">
+					<Name>Lux-case.fi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>20.95</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>20.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>iPhone 5 / 5S Kotelot</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="11fba9f992dfa2aecf76fc2b34ef41f7" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5s 16 Gt Space Grey</Title>
+				<Description>Operaattorisidonnainen (Ei) Kamera (8 megapikseliä) Näytön koko (4") Puheaika (jopa 8
+					tuntia) Valmiusaika (jopa 250 tuntia) Sormenjälkitunnistin Koko 123,8 x 58,6 x 7,6 mm Paino 112 g
+					iPhone 5s -mallissa on 4 tuuman Retina-näyttö ja 8 megapikselin kamera.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069813/100020213/90/90/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Fnormal_2%2F71-79%2F71-7987.jpg/V8_LpRtDPptTciZtWGDImrAxvE1eiw9vIDCaMrcj2xI-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069813/100020213/auto/auto/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Fnormal_2%2F71-79%2F71-7987.jpg/V8_LpRtDPptTciZtWGDImrAxvE1eiw9vIDCaMrcj2xI-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628809&amp;.sig=Gl4sf0LHgDxdvpHOzlP0sphdy2E-&amp;offerId=11fba9f992dfa2aecf76fc2b34ef41f7&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14069813&amp;comId=14069813&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14069813">
+					<Name>Ellos</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14069813/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Matkapuhelimet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>679</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>679</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Tarkista tuotteen toimittajan sivuilta</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniikka-Matkapuhelimet-Älypuhelimet -iphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9000e978be3e9e6e7c8a3093578bbb47" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5s 16 Gt hopea</Title>
+				<Description>Operaattorisidonnainen (Ei) Kamera (8 megapikseliä) Näytön koko (4") Puheaika (jopa 8
+					tuntia) Valmiusaika (jopa 250 tuntia) Sormenjälkitunnistin Koko 123,8 x 58,6 x 7,6 mm Paino 112 g
+					iPhone 5s -mallissa on 4 tuuman Retina-näyttö ja 8 megapikselin kamera.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069813/100020213/90/90/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Fnormal_2%2F71-80%2F71-8014.jpg/V8l3XxJtq6GaC4Ewjj4n6awfUAk5bWv5hwT7kSugLyM-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14069813/100020213/auto/auto/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Fnormal_2%2F71-80%2F71-8014.jpg/V8l3XxJtq6GaC4Ewjj4n6awfUAk5bWv5hwT7kSugLyM-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628809&amp;.sig=n6QLnb0J.b4GOBMo7oEyf8IJfjA-&amp;offerId=9000e978be3e9e6e7c8a3093578bbb47&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14069813&amp;comId=14069813&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14069813">
+					<Name>Ellos</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14069813/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Matkapuhelimet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>679</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>679</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Tarkista tuotteen toimittajan sivuilta</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniikka-Matkapuhelimet-Älypuhelimet -iphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c238630a6911bdec6b7c29dc867abb84" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Flex-kaapelin Korjaus - Musta</Title>
+				<Description>Onko sinulla iPhone 5S -puhelin, joka kadottaa tietoja, jonka painikkeet ja muut osat ovat
+					alkaneet mennä rikki, tai jonka näyttö jatkuvasti sammuu ja menee uudestaan päälle? Syynä saattaa
+					olla viallinen flex-kaapeli.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628809&amp;.sig=qEUsX2sPAfpRpJoyBnwq..BhkV8-&amp;offerId=c238630a6911bdec6b7c29dc867abb84&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>43.8</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>48.6</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1aebe16a98155edf0227bf72ee061388" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Flex-kaapelin Korjaus - Valkoinen</Title>
+				<Description>Onko sinulla iPhone 5S -puhelin, joka kadottaa tietoja, jonka painikkeet ja muut osat ovat
+					alkaneet mennä rikki, tai jonka näyttö jatkuvasti sammuu ja menee uudestaan päälle? Syynä saattaa
+					olla viallinen flex-kaapeli.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628809&amp;.sig=dtTMCA1UY_9u_eY057c6qMEPKRI-&amp;offerId=1aebe16a98155edf0227bf72ee061388&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>49.1</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>53.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Dummy</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2dd47b341a5a4521e21dafa257334e21" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Takakannen Korjaus - Hopea</Title>
+				<Description>Onko iPhone 5S -puhelimesi takakansi mennyt rikki? Me voimme vaihtaa tai korjata iPhone 5S
+					-puhelimesi takakannen puolestasi.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-bagcover-silver-12-2013.jpg/F.tx9kL.PfzuhSMzg2.qhmRUupwl2wAYy86kNHhm4JQ-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-bagcover-silver-12-2013.jpg/F.tx9kL.PfzuhSMzg2.qhmRUupwl2wAYy86kNHhm4JQ-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628809&amp;.sig=R3k88.zWN79iojuXHi9ivMiQ3Qg-&amp;offerId=2dd47b341a5a4521e21dafa257334e21&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>160.8</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>165.6</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1f0948379fcb28e1250fbd12d1a838d6" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Kotinäppäin - Musta</Title>
+				<Description>iPhone 5S Kotinäppäin - Musta. Sisältö: Kotinäppäin Avainkaapeli Sormenjälki, Kotinäppäin.
+					Pakkaus: Bulkki
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2F119924_iPhone_5S_Home_Button_01_03012014.jpg/z4tE663Dl4sFWxB1vo15odVhyldFNILWKuB3LNFazJg-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2F119924_iPhone_5S_Home_Button_01_03012014.jpg/z4tE663Dl4sFWxB1vo15odVhyldFNILWKuB3LNFazJg-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628809&amp;.sig=.rS2dl29z7ETbsA7_hTKP0NpV.0-&amp;offerId=1f0948379fcb28e1250fbd12d1a838d6&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>36.8</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>41.6</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3cfd1cb98da21d4d2189a6eeb01e3193" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Kameran Korjaus</Title>
+				<Description>Onko iPhone 5S -puhelimesi kamera vaurioitunut? Me voimme korjata iPhone 5S -puhelimesi
+					kameran puolestasi.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628809&amp;.sig=YZL2hpNj4wmepc.lXYGBI0KeqzQ-&amp;offerId=3cfd1cb98da21d4d2189a6eeb01e3193&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>58.4</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>63.2</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d624e3a261e21745f5282792ab915e12" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Arviointi</Title>
+				<Description>Onko sinulla ongelmia iPhone 5S -puhelimesi kanssa, etkä pysty selvittämään vikaa
+					käyttöoppaan avulla?
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-diagnose-11-2013.jpg/WbtGYVpKyKjmstiqatJ747ie0MmtaDLJ3n.LrLUK9SY-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-diagnose-11-2013.jpg/WbtGYVpKyKjmstiqatJ747ie0MmtaDLJ3n.LrLUK9SY-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628810&amp;.sig=oSV4N5dpromO8hSZwrm8beC0puc-&amp;offerId=d624e3a261e21745f5282792ab915e12&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>13.3</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>18.1</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2dfae05f80eeb7c7d158fa4120e5e800" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Vesivahinkojen Korjaus</Title>
+				<Description>Oletko vahingossa pudottanut iPhone 5S -puhelimesi WC:ssä? Tai menitkö uimaan puhelin
+					taskussasi? iPhone 5S -puhelimesi ei ehkä ole vielä täysin korjauskelvoton. Riippumatta siitä miten
+					vesivahinko sattui, voimme todennäköisesti vielä pysyvästi korjata iPhone 5S -puhelimesi!
+					Vesivahinko Huolloissa meillä on
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FWater.jpg/jNDqgorl7B6a0B3AQJHLBUGroFe712k4JP4rHyZtYAo-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FWater.jpg/jNDqgorl7B6a0B3AQJHLBUGroFe712k4JP4rHyZtYAo-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628810&amp;.sig=UVCp1gS.DbdB_BkrzT_4VaWI_II-&amp;offerId=2dfae05f80eeb7c7d158fa4120e5e800&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>33.2</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>38</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="95b4c505ef54b9c7deccee8d147a27d8" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Kuuloke Korjaus</Title>
+				<Description>Onko iPhone 5S -puhelimesi kuuloke hajonnut tai kohiseeko se? Voimme korjata iPhone 5S
+					-puhelimesi kuulokkeen puolestasi.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628810&amp;.sig=Pz8x675TPe4f0zmj.y_p5VnvmlA-&amp;offerId=95b4c505ef54b9c7deccee8d147a27d8&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>39.9</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>44.7</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="14a5fa036f0197e525a7bf335fd0d882" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Sivupainikkeen Flex-kaapeli Korjaus</Title>
+				<Description>Possiedi un iPhone 5S Side Knap su cui spesso perdi dati, ti affronti con i tasti o altri
+					componenti che non funzionano, o con lo schermo che si accende e spegne costantemente? Può essere
+					che il cavo flex del tuo cellulare sia difettoso.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628810&amp;.sig=J1Wv_UnoBkffyysLkMeXEIGCarM-&amp;offerId=14a5fa036f0197e525a7bf335fd0d882&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>42.4</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>47.2</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6ea42b056a459cf2a09d88970c72a112" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S Soittoäänikaiutin Korjaus</Title>
+				<Description>Onko iPhone 5S -puhelimesi kuuloke hajonnut tai kohiseeko se? Voimme korjata iPhone 5S
+					-puhelimesi kuulokkeen puolestasi.
+				</Description>
+				<Images>
+					<Image available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/90/90/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>
+							http://r.kelkoo.com/r/fi/14073313/125801/auto/auto/http%3A%2F%2Fmytrendyphone.fi%2F%2Fimages%2FiPhone-5S-special-reparation-11-2013.jpg/lxghg_QuNvuPniQggpGeZNxbgUYONAszIfuBziEIUdk-
+						</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fi.kelkoo.fi/ctl/go/sitesearchGo?.ts=1435242628810&amp;.sig=Dv5HiIELjjvXkFETn4GwXViFlgo-&amp;offerId=6ea42b056a459cf2a09d88970c72a112&amp;searchId=1076982126363_1435242628793_17117&amp;affiliationId=96947732&amp;country=fi&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14073313&amp;comId=14073313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVz&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14073313">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14073313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Matkapuhelintarvikkeet</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>54.4</Price>
+					<DeliveryCost>4.8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>59.2</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>PUHELINTARVIKKEET</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+		<Warning>The "logicalType" parameter is not given. The default value "and" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

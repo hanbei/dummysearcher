@@ -1,0 +1,1020 @@
+<GeneralSearchResponse
+	xmlns="urn:types.partner.api.shopping.com">
+	<serverDetail>
+		<apiEnv>prod</apiEnv>
+		<apiVersion>r91.2015.sprint08</apiVersion>
+		<buildNumber>27169</buildNumber>
+		<buildTimestamp>2015.04.29 15:40:16 PST</buildTimestamp>
+		<requestId>p10.038b63e4c501b2ae997e</requestId>
+		<timestamp>2015-05-05T09:10:58.355-04:00</timestamp>
+		<responseTime>P0DT0H0M0.019S</responseTime>
+	</serverDetail>
+	<exceptions exceptionCount="2">
+		<exception type="warning">
+			<code>1148</code>
+			<message>WARNING: Missing the "visitorUserAgent" parameter. Discover how you can easily add it to your
+				queries: http://developer.shopping.com/docs/read/Adding_Useragent_to_your_Queries
+			</message>
+		</exception>
+		<exception type="warning">
+			<code>1149</code>
+			<message>WARNING: We detected that you are missing the parameter "visitorIPAddress".</message>
+		</exception>
+	</exceptions>
+	<clientTracking height="1" type="pixel" width="1">
+		<sourceURL>http://www999.shopping.com/pixel/noscript?PV_EvnTyp=APPV&amp;APPV_APITSP=05%2F05%2F15_09%3A10%3A58_AM&amp;APPV_DSPRQSID=p10.038b63e4c501b2ae997e&amp;APPV_IMGURL=&amp;APPV_LI_LNKINID=8053325&amp;APPV_LI_SBMKYW=samsung&amp;APPV_MTCTYP=1000&amp;APPV_PRTID=146490&amp;APPV_BrnID=14305</sourceURL>
+		<hrefURL>http://de.shopping.com/handys/produkte</hrefURL>
+		<titleText>Handys</titleText>
+		<altText>Handys</altText>
+	</clientTracking>
+	<searchHistory>
+		<categorySelection id="3">
+			<name>Elektronik</name>
+			<categoryURL>http://de.shopping.com/xCH-elektronik-samsung~linkin_id-8053325?oq=samsung</categoryURL>
+		</categorySelection>
+		<categorySelection id="85746">
+			<name>Kommunikation</name>
+			<categoryURL>http://de.shopping.com/xCH-kommunikation-samsung~linkin_id-8053325?oq=samsung</categoryURL>
+		</categorySelection>
+		<categorySelection id="93767">
+			<name>Handys</name>
+			<categoryURL>http://de.shopping.com/handys/samsung/produkte?oq=samsung&amp;linkin_id=8053325</categoryURL>
+		</categorySelection>
+		<dynamicNavigationHistory>
+			<keywordSearch dropped="false" modified="false">
+				<originalKeyword>samsung</originalKeyword>
+				<resultKeyword>samsung</resultKeyword>
+			</keywordSearch>
+		</dynamicNavigationHistory>
+	</searchHistory>
+	<categories matchedCategoryCount="1" returnedCategoryCount="1">
+		<category id="93767">
+			<name>Handys</name>
+			<categoryURL>http://de.shopping.com/handys/samsung/produkte?oq=samsung&amp;linkin_id=8053325</categoryURL>
+			<items matchedItemCount="24" pageNumber="1" returnedItemCount="10">
+				<offer featured="false" id="LNhTuOZlnOAol5UaJrALqA==" smartBuy="false" used="false">
+					<name>Samsung A700F Galaxy A7 pearl white</name>
+					<description>Das nur 6,7 mm flache Samsung A700F Galaxy A7 pearl white mit Aluminium Gehäuse, 5 Zoll
+						HD Super AMOLED-Display, 1,2 GHz Quad-Core-Prozessor, LTE, NFC und weiteren technischen
+						Highlights setzt neue Maßstäbe im Einsteiger Segment!
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di62.shoppingshadow.com/images/di/4c/4e/68/54754f5a6c6e4f416f6c3555614a72414c7141-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=1&amp;pr=1&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=1&amp;pr=1&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=1&amp;pr=1&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=1&amp;pr=1&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di62.shoppingshadow.com/images/di/4c/4e/68/54754f5a6c6e4f416f6c3555614a72414c7141-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=1&amp;pr=1&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">489.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">495.90</totalPrice>
+					<originalPrice currency="EUR">489.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=LNhTuOZlnOAol5UaJrALqA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fa700f-galaxy-a7-pearl-white-weiss.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+A700F+Galaxy+A7+pearl+white&amp;dlprc=489.0&amp;AR=1&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-A700F-WHITE</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-A700F-WHITE</sku>
+					<quantity>0</quantity>
+					<upc>08806086774574</upc>
+				</offer>
+				<offer featured="false" id="ajPbp39WrClQ3FtXLnz_CA==" smartBuy="false" used="false">
+					<name>Samsung E1200i black</name>
+					<description>Das Samsung E1200i black überzeugt durch grundlegende Telefonfunktionen und einfache
+						Bedienung.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di63.shoppingshadow.com/images/di/61/6a/50/627033395772436c51334674584c6e7a5f4341-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di63.shoppingshadow.com/images/di/61/6a/50/627033395772436c51334674584c6e7a5f4341-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">15.90</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">22.80</totalPrice>
+					<originalPrice currency="EUR">15.90</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-E1200I-BLACK</sku>
+					<quantity>0</quantity>
+					<upc>08806085680937</upc>
+				</offer>
+				<offer featured="false" id="ajPbp39WrClQ3FtXLnz_CA==" smartBuy="false" used="false">
+					<name>long url</name>
+					<description>Das long url überzeugt durch grundlegende Telefonfunktionen und einfache Bedienung.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>long</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di63.shoppingshadow.com/images/di/61/6a/50/627033395772436c51334674584c6e7a5f4341-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di63.shoppingshadow.com/images/di/61/6a/50/627033395772436c51334674584c6e7a5f4341-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">15.90</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">22.80</totalPrice>
+					<originalPrice currency="EUR">15.90</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=ajPbp39WrClQ3FtXLnz_CA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fe1200i-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+E1200i+black&amp;dlprc=15.9&amp;AR=2&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-E1200I-BLACK</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>long.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-E1200I-BLACK</sku>
+					<quantity>0</quantity>
+					<upc>01234567891234</upc>
+				</offer>
+				<offer featured="false" id="pCGE1PGf4YFne5XrPHuSyw==" smartBuy="false" used="false">
+					<name>Samsung A300F Galaxy A3 midnight black Telekom</name>
+					<description>Das nur 6,9 mm flache Samsung A300F Galaxy A3 midnight black Telekom mit Aluminium
+						Gehäuse, 4,5 Zoll qHD Super AMOLED-Display, 1,2 GHz Quad-Core-Prozessor, LTE, NFC und weiteren
+						technischen Highlights setzt neue Maßstäbe im Einsteiger Segment!
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/70/43/47/45315047663459466e65355872504875537977-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=3&amp;pr=3&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=3&amp;pr=3&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=3&amp;pr=3&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=3&amp;pr=3&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/70/43/47/45315047663459466e65355872504875537977-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=3&amp;pr=3&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">224.90</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">231.80</totalPrice>
+					<originalPrice currency="EUR">224.90</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=pCGE1PGf4YFne5XrPHuSyw%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fa300f-galaxy-a3-midnight-black-schwarz-telekom.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+A300F+Galaxy+A3+midnight+black+Telekom&amp;dlprc=224.9&amp;AR=3&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-A300F-BLACK-TM-AKTION</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-A300F-BLACK-TM-AKTION</sku>
+					<quantity>0</quantity>
+					<upc>08806086600361</upc>
+				</offer>
+				<offer featured="false" id="sphYsGMs6W3zf9gJ_MjgWw==" smartBuy="false" used="false">
+					<name>Samsung G800F Galaxy S5 mini blue Telekom</name>
+					<description>Das Samsung G800F Galaxy S5 mini blue T-Mobile ist der leistungsfähige Begleiter für
+						den mobilen Lebensstil. Kompakt, leicht und dennoch mit jeder Menge technischen Features seiner
+						großen Brüder ausgestattet.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung Galaxy Mini</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/73/70/68/5973474d733657337a6639674a5f4d6a675777-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/73/70/68/5973474d733657337a6639674a5f4d6a675777-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">285.90</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">292.80</totalPrice>
+					<originalPrice currency="EUR">285.90</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=sphYsGMs6W3zf9gJ_MjgWw%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fg800f-galaxy-s5-mini-blue-blau-t-mobile-telekom.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+G800F+Galaxy+S5+mini+blue+Telekom&amp;dlprc=285.9&amp;AR=4&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-G800F-BLUE-TM-AKTION</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-G800F-BLUE-TM-AKTION</sku>
+					<quantity>0</quantity>
+					<upc>08806086369374</upc>
+				</offer>
+				<product id="181293581">
+					<name>Samsung Galaxy A5 - 16 GB - Midnight Black (Ohne Simlock) Smartphone</name>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<upcs>
+						<upc>8806086578677</upc>
+						<upc>8806086627436</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/s/NzE2WDYxMA==/z/TIAAAOSwZjJU4MqD/$_32-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=2&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;pid=181293581&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>309.00</minPrice>
+					<maxPrice>339.00</maxPrice>
+					<productOffersURL>
+						http://de.shopping.com/samsung_galaxy_a5_16_gb_midnight_black_ohne_simlock_smartphone/preisvergleich~linkin_id-8053325
+					</productOffersURL>
+					<productSpecsURL>
+						http://de.shopping.com/samsung_galaxy_a5_16_gb_midnight_black_ohne_simlock_smartphone/info~linkin_id-8053325
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="1RxoQ5cIL5ao9WYnqQOnuw==" smartBuy="false" used="false">
+							<name>Samsung A500F Galaxy A5 midnight black</name>
+							<description>Das nur 6,7 mm flache Samsung A500F Galaxy A5 midnight black mit Aluminium
+								Gehäuse, 5 Zoll HD Super AMOLED-Display, 1,2 GHz Quad-Core-Prozessor, LTE, NFC und
+								weiteren technischen Highlights setzt neue Maßstäbe im Einsteiger Segment!
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/31/52/78/6f513563494c35616f3957596e71514f6e7577-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="200" width="200">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="106" width="85">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/31/52/78/6f513563494c35616f3957596e71514f6e7577-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>unknown</stockStatus>
+							<basePrice currency="EUR">339.00</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">6.90</shippingCost>
+							<totalPrice currency="EUR">345.90</totalPrice>
+							<originalPrice currency="EUR">339.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fa500f-galaxy-a5-midnight-black-schwarz.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+A500F+Galaxy+A5+midnight+black&amp;dlprc=339.0&amp;AR=1&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=181293581&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-A500F-BLACK</offerURL>
+							<store authorizedReseller="false" id="439656" trusted="false">
+								<name>handyschotte.com</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+								</logo>
+								<phoneNumber>035-811 666 073</phoneNumber>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>5.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+									<countryCode>DE</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.11</cpc>
+							<sku>SAM-A500F-BLACK</sku>
+							<quantity>0</quantity>
+							<upc>08806086578677</upc>
+						</offer>
+						<offer featured="false" id="rKkqZO1AWdZ_62Ru7YBstQ==" smartBuy="false" used="false">
+							<name>Samsung A500F Galaxy A5 midnight black EU</name>
+							<description>Das nur 6,7 mm flache Samsung A500F Galaxy A5 midnight black EU mit Aluminium
+								Gehäuse, 5 Zoll HD Super AMOLED-Display, 1,2 GHz Quad-Core-Prozessor, LTE, NFC und
+								weiteren technischen Highlights setzt neue Maßstäbe im Einsteiger Segment!
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/72/4b/6b/715a4f314157645a5f36325275375942737451-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="200" width="200">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="106" width="85">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/72/4b/6b/715a4f314157645a5f36325275375942737451-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=181293581&amp;fks=0&amp;pdid=1RxoQ5cIL5ao9WYnqQOnuw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>unknown</stockStatus>
+							<basePrice currency="EUR">309.00</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">6.90</shippingCost>
+							<totalPrice currency="EUR">315.90</totalPrice>
+							<originalPrice currency="EUR">309.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=rKkqZO1AWdZ_62Ru7YBstQ%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fa500f-galaxy-a5-midnight-black-schwarz-eu.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+A500F+Galaxy+A5+midnight+black+EU&amp;dlprc=309.0&amp;AR=1&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=181293581&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-A500F-BLACK-EU</offerURL>
+							<store authorizedReseller="false" id="439656" trusted="false">
+								<name>handyschotte.com</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+								</logo>
+								<phoneNumber>035-811 666 073</phoneNumber>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>5.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+									<countryCode>DE</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.11</cpc>
+							<sku>SAM-A500F-BLACK-EU</sku>
+							<quantity>0</quantity>
+							<upc>08806086578677</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<offer featured="false" id="-fSDf4T_T_VVPcQnsYHjPg==" smartBuy="false" used="false">
+					<name>Samsung G925F Galaxy S6 Edge 64 GB black sapphire Telekom</name>
+					<description>Mit dem Samsung G925F Galaxy S6 Edge 64 GB black sapphire Telekom erhalten Sie das
+						weltweit erste Smartphone mit beidseitig gewölbten Display, erleben Sie neue Funktionen mit dem
+						Seitenbildschirm.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di68.shoppingshadow.com/images/di/2d/66/53/446634545f545f56565063516e7359486a5067-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di68.shoppingshadow.com/images/di/2d/66/53/446634545f545f56565063516e7359486a5067-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">929.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">935.90</totalPrice>
+					<originalPrice currency="EUR">929.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=-fSDf4T_T_VVPcQnsYHjPg%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fg925f-galaxy-s6-edge-64-gb-black-sapphire-schwarz-telekom.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+G925F+Galaxy+S6+Edge+64+GB+black+sapphire+Telekom&amp;dlprc=929.0&amp;AR=6&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=5&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-G925F-64GB-BLACK-TM-AKTION</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-G925F-64GB-BLACK-TM-AKTION</sku>
+					<quantity>0</quantity>
+					<upc>08806086727754</upc>
+				</offer>
+				<offer featured="false" id="3mW_aFP1vsiqsmsG_-dc4Q==" smartBuy="false" used="false">
+					<name>Samsung i8200 Galaxy S3 mini Value Edition blue</name>
+					<description>Das überarbeitete Samsung i8200 Galaxy S3 mini Value Edition blue mit verbesserter CPU
+						und Android 4.2 trumpft beim Chatten, surfen im Internet und mit seinen Kamerafunktionen groß
+						auf.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung Galaxy Mini</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/33/6d/57/5f6146503176736971736d73475f2d64633451-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/33/6d/57/5f6146503176736971736d73475f2d64633451-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">120.95</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">127.85</totalPrice>
+					<originalPrice currency="EUR">120.95</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=3mW_aFP1vsiqsmsG_-dc4Q%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fi8200-galaxy-s3-mini-value-edition-blue-blau.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+i8200+Galaxy+S3+mini+Value+Edition+blue&amp;dlprc=120.95&amp;AR=7&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=6&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-I8200-BLUE</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-I8200-BLUE</sku>
+					<quantity>0</quantity>
+					<upc>08806086119511</upc>
+				</offer>
+				<offer featured="false" id="3xRoB4towtCdIyYaJy-puA==" smartBuy="false" used="false">
+					<name>Samsung G925F Galaxy S6 Edge 64 GB black sapphire Vodafone</name>
+					<description>Mit dem Samsung G925F Galaxy S6 Edge 64 GB black sapphire Vodafone erhalten Sie das
+						weltweit erste Smartphone mit beidseitig gewölbten Display, erleben Sie neue Funktionen mit dem
+						Seitenbildschirm.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di63.shoppingshadow.com/images/di/33/78/52/6f4234746f77744364497959614a792d707541-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di63.shoppingshadow.com/images/di/33/78/52/6f4234746f77744364497959614a792d707541-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">929.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">935.90</totalPrice>
+					<originalPrice currency="EUR">929.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=3xRoB4towtCdIyYaJy-puA%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fg925f-galaxy-s6-edge-64-gb-black-sapphire-schwarz-vodafone.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+G925F+Galaxy+S6+Edge+64+GB+black+sapphire+Vodafone&amp;dlprc=929.0&amp;AR=8&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=7&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-G925F-64GB-BLACK-VF</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-G925F-64GB-BLACK-VF</sku>
+					<quantity>0</quantity>
+					<upc>08806086727785</upc>
+				</offer>
+				<offer featured="false" id="4hRAO7uW0BLrgc7jtzroMw==" smartBuy="false" used="false">
+					<name>Samsung G925F Galaxy S6 Edge 64 GB white pearl Vodafone</name>
+					<description>Mit dem Samsung G925F Galaxy S6 Edge 64 GB white pearl Vodafone erhalten Sie das
+						weltweit erste Smartphone mit beidseitig gewölbten Display, erleben Sie neue Funktionen mit dem
+						Seitenbildschirm.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/34/68/52/414f37755730424c726763376a747a726f4d77-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/34/68/52/414f37755730424c726763376a747a726f4d77-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">929.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">935.90</totalPrice>
+					<originalPrice currency="EUR">929.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=4hRAO7uW0BLrgc7jtzroMw%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fhandy%2Fsamsung%2Fg925f-galaxy-s6-edge-64-gb-white-pearl-weiss-vodafone.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+G925F+Galaxy+S6+Edge+64+GB+white+pearl+Vodafone&amp;dlprc=929.0&amp;AR=9&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=8&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-G925F-64GB-WHITE-VF</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-G925F-64GB-WHITE-VF</sku>
+					<quantity>0</quantity>
+					<upc>08806086727914</upc>
+				</offer>
+				<offer featured="false" id="7FR3UBLjXf13s2m9GN1UHg==" smartBuy="false" used="false">
+					<name>Samsung T805N Galaxy Tab S 10.5 LTE 16GB bronze Vodafone</name>
+					<description>Das Samsung T805N Galaxy Tab S 10.5 LTE 16GB bronze Vodafone überzeugt mit moderner
+						Schlichtheit im Premium-Design sowie mit seinem Super AMOLED-Display. Seine Leistungsstärke
+						beweist das Tab S durch einen energieeffizienten Octa-Core Prozessor.
+					</description>
+					<categoryId>93767</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di69.shoppingshadow.com/images/di/37/46/52/3355424c6a5866313373326d39474e31554867-100x100-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=10&amp;pr=10&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=10&amp;pr=10&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=10&amp;pr=10&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=10&amp;pr=10&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="106" width="85">
+							<sourceURL>
+								http://di69.shoppingshadow.com/images/di/37/46/52/3355424c6a5866313373326d39474e31554867-85x106-0-0.jpg?rqid=p10.038b63e4c501b2ae997e&amp;rqt=SRS&amp;a=1&amp;c=276&amp;l=8053325&amp;r=10&amp;pr=10&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<basePrice currency="EUR">499.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">6.90</shippingCost>
+					<totalPrice currency="EUR">505.90</totalPrice>
+					<originalPrice currency="EUR">499.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=647&amp;BEFID=93767&amp;aon=%5E1&amp;MerchantID=439656&amp;crawler_id=439656&amp;dealId=7FR3UBLjXf13s2m9GN1UHg%3D%3D&amp;url=http%3A%2F%2Fwww.handyschotte.com%2Fmobiles-internet%2Fsamsung%2Fsamsung-t805n-galaxy-tab-s-105-lte-16gb-bronze-vodafone.htm%3Fcaid%3D12&amp;linkin_id=8053325&amp;Issdt=150505091058&amp;searchID=p10.038b63e4c501b2ae997e&amp;DealName=Samsung+T805N+Galaxy+Tab+S+10.5+LTE+16GB+bronze+Vodafone&amp;dlprc=499.0&amp;AR=10&amp;NG=1&amp;NDP=9&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=9&amp;IsLps=0&amp;code=&amp;acode=667&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM-T805N-16GB-BRONZE-VF</offerURL>
+					<store authorizedReseller="false" id="439656" trusted="false">
+						<name>handyschotte.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/439656.gif</sourceURL>
+						</logo>
+						<phoneNumber>035-811 666 073</phoneNumber>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>5.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_5.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://de.shopping.com/xMR-store_handy_schotte_com~MRD-439656~S-1~linkin_id-8053325
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/DE.gif</sourceURL>
+							<countryCode>DE</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.11</cpc>
+					<sku>SAM-T805N-16GB-BRONZE-VF</sku>
+					<quantity>0</quantity>
+					<upc>08806086291316</upc>
+				</offer>
+			</items>
+			<attributes matchedAttributeCount="4" returnedAttributeCount="4">
+				<attribute id="Dynamic_Price_Range">
+					<name>Preisbereich</name>
+					<attributeURL>http://de.shopping.com/handys/samsung/produkte?oq=samsung&amp;linkin_id=8053325
+					</attributeURL>
+					<attributeValues matchedValueCount="2" returnedValueCount="2">
+						<attributeValue id="preisbereich_15_527" matchingItemsCount="1">
+							<name>15â¬ - 527â¬</name>
+							<attributeValueURL>http://de.shopping.com/handys/samsung/produkte?minPrice=15&amp;maxPrice=527&amp;linkin_id=8053325</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="preisbereich_527_1039" matchingItemsCount="1">
+							<name>527â¬ - 1039â¬</name>
+							<attributeValueURL>http://de.shopping.com/handys/samsung/produkte?minPrice=527&amp;maxPrice=1039&amp;linkin_id=8053325</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="24304512_produktlinie">
+					<name>Produktlinie</name>
+					<attributeURL>
+						http://de.shopping.com/handys/samsung/produkte~all-24304512-produktlinie~MS-1?oq=samsung&amp;linkin_id=8053325
+					</attributeURL>
+					<attributeValues matchedValueCount="12" returnedValueCount="5">
+						<attributeValue id="samsung_galaxy_s6_edge" matchingItemsCount="5">
+							<name>Samsung Galaxy S6 Edge</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+samsung-galaxy-s6-edge/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24304512_samsung_galaxy" matchingItemsCount="4">
+							<name>Samsung Galaxy</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+24304512-samsung-galaxy/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_note_4" matchingItemsCount="4">
+							<name>Samsung Galaxy Note 4</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+samsung-galaxy-note-4/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24304512_samsung_galaxy_mini" matchingItemsCount="3">
+							<name>Samsung Galaxy Mini</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+24304512-samsung-galaxy-mini/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_a3" matchingItemsCount="3">
+							<name>Samsung Galaxy A3</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+samsung-galaxy-a3/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="9688_brand">
+					<name>Marke</name>
+					<attributeURL>http://de.shopping.com/handys/samsung/produkte~all-9688-brand~MS-1?oq=samsung&amp;linkin_id=8053325</attributeURL>
+					<attributeValues matchedValueCount="3" returnedValueCount="3">
+						<attributeValue id="marke_samsung" matchingItemsCount="21">
+							<name>Samsung</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+marke-samsung/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_mini" matchingItemsCount="4">
+							<name>Samsung Galaxy Mini</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+samsung-galaxy-mini/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="9688_marke_vodafone" matchingItemsCount="2">
+							<name>Vodafone</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+9688-marke-vodafone/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="24304531_modell">
+					<name>Modell</name>
+					<attributeURL>http://de.shopping.com/handys/samsung/produkte~all-24304531-modell~MS-1?oq=samsung&amp;linkin_id=8053325</attributeURL>
+					<attributeValues matchedValueCount="5" returnedValueCount="5">
+						<attributeValue id="24549945_samsung_galaxy_s" matchingItemsCount="8">
+							<name>Samsung Galaxy S</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+24549945-samsung-galaxy-s/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24389443_samsung_galaxy_note" matchingItemsCount="4">
+							<name>Samsung Galaxy Note</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+24389443-samsung-galaxy-note/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24564427_samsung_galaxy_mini" matchingItemsCount="3">
+							<name>Samsung Galaxy Mini</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+24564427-samsung-galaxy-mini/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24304531_samsung_galaxy_s5_mini" matchingItemsCount="1">
+							<name>Samsung Galaxy S5 Mini</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+24304531-samsung-galaxy-s5-mini/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_s4_lte" matchingItemsCount="1">
+							<name>Samsung Galaxy S4 LTE</name>
+							<attributeValueURL>
+								http://de.shopping.com/handys/samsung+samsung-galaxy-s4-lte/produkte~linkin_id-8053325
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+			</attributes>
+			<contentType>hybrid</contentType>
+		</category>
+		<intActualCategoryCount>1</intActualCategoryCount>
+	</categories>
+	<relatedTerms></relatedTerms>
+</GeneralSearchResponse>

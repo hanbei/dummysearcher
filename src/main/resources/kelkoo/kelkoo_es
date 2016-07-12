@@ -1,0 +1,2580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="112" firstResultPosition="1" totalResultsReturned="50" currency="EUR" totalMerchantsAvailable="10" searchOperator="and">
+		<Product>
+			<Offer id="9fb80074494f13bd91c2f9c9885de97d" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S 32GB Plata Libre</Title>
+				<Description>El&amp;nbsp; iPhone 5s&amp;nbsp;es una versi&amp;oacute;n optimizada de su predecesor, el iPhone 5. Su&amp;nbsp; procesador A7 de 64 bits&amp;nbsp;es dos veces m&amp;aacute;s r&amp;aacute;pido que un A6, por lo que proporciona un incre&amp;iacute;ble rendimiento, complementado por un procesador gr&amp;aacute;fico capaz de proporcionarte las</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fsilver_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/S3Iy8B2uiEDJoijmG0TN8ZXumWt1_hDrqeaUmbV1AbM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fsilver_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/S3Iy8B2uiEDJoijmG0TN8ZXumWt1_hDrqeaUmbV1AbM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018859&amp;.sig=ZwYT5T83Ci9s88hjRJZ89w.WLWs-&amp;offerId=9fb80074494f13bd91c2f9c9885de97d&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-32gb-19873916?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873916</CatalogID>
+				<Catalog productId="19873916" categoryId="100020213">
+					<Name>Apple iPhone 5S 32GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>509</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>515.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="14a9de2f11d5fcc0ba55018a746714ef" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S 32GB Dorado Libre</Title>
+				<Description>El&amp;nbsp; iPhone 5s&amp;nbsp;es una versi&amp;oacute;n optimizada de su predecesor, el iPhone 5. Su&amp;nbsp; procesador A7 de 64 bits&amp;nbsp;es dos veces m&amp;aacute;s r&amp;aacute;pido que un A6, por lo que proporciona un incre&amp;iacute;ble rendimiento, complementado por un procesador gr&amp;aacute;fico capaz de proporcionarte las</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2Fipho5sdor_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/y7PUKeS6UWB6i.Ku0iJrr12kXPRxh7PELK8ARn2AtA0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2Fipho5sdor_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/y7PUKeS6UWB6i.Ku0iJrr12kXPRxh7PELK8ARn2AtA0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018860&amp;.sig=PBeBd_PGAEaBLEjRY0skbCbrAS8-&amp;offerId=14a9de2f11d5fcc0ba55018a746714ef&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-32gb-19873916?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873916</CatalogID>
+				<Catalog productId="19873916" categoryId="100020213">
+					<Name>Apple iPhone 5S 32GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>509</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>515.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5abfcf9297abd64c516274cad13f4d34" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S 32GB Plata Libre Reacondicionado</Title>
+				<Description>El&amp;nbsp; iPhone 5s&amp;nbsp;es una versi&amp;oacute;n optimizada de su predecesor, el iPhone 5. Su&amp;nbsp; procesador A7 de 64 bits&amp;nbsp;es dos veces m&amp;aacute;s r&amp;aacute;pido que un A6, por lo que proporciona un incre&amp;iacute;ble rendimiento, complementado por un procesador gr&amp;aacute;fico capaz de proporcionarte las</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2F_product_catalogue_%2F2%2F3%2F9%2F6%2F9%2F8%2F1_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/UBmA1Y3xry9QP6i3_J9vft4vPnpYdizb7aHT0X_C.2A-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2F_product_catalogue_%2F2%2F3%2F9%2F6%2F9%2F8%2F1_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/UBmA1Y3xry9QP6i3_J9vft4vPnpYdizb7aHT0X_C.2A-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018861&amp;.sig=RChQ3X.82f7bBC_0F08OsHgJHJk-&amp;offerId=5abfcf9297abd64c516274cad13f4d34&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-32gb-19873916?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873916</CatalogID>
+				<Catalog productId="19873916" categoryId="100020213">
+					<Name>Apple iPhone 5S 32GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>489</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>495.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5ea9a3f6173b8f36b89e141ea4efe7b2" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - IPhone 5S 32 GB Gold</Title>
+				<Description>IPhone 5s.Sensor de identidad Touch ID, chip A7 con arquitectura de 64 bits, cámara iSight aún mejor y conexión inalámbrica ultraveloz. El nuevo reto va a ser difícil de superar.iOS 7. Creado para ser el compañero perfecto del iPhone 5s.El iPhone 5s es el primer smartphone de 64 bits del mundo. Y diseñado</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff47acb80-d75f-11e3-913a-005056b763fc%2F20140604%2F%2F10c83b46-f594-4cfa-8c21-414f482952fe.jpg/WskCV6jBKtXUJ1ZrcOxZBUPI7C.BwpnnzCOOK2.4ADw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff47acb80-d75f-11e3-913a-005056b763fc%2F20140604%2F%2F10c83b46-f594-4cfa-8c21-414f482952fe.jpg/WskCV6jBKtXUJ1ZrcOxZBUPI7C.BwpnnzCOOK2.4ADw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018861&amp;.sig=3U7YikFR5I3Jjzprpzvu4VcZv20-&amp;offerId=5ea9a3f6173b8f36b89e141ea4efe7b2&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-16gb-19873920?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873920</CatalogID>
+				<Catalog productId="19873920" categoryId="100020213">
+					<Name>Apple iPhone 5S 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>589</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>589</TotalPrice>
+					<PriceWithoutRebate>659</PriceWithoutRebate>
+					<Rebate>11</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909784899</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6c52920cbd174f854d0073e6b924f5be" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Apple iPhone 5S 32 GB Libre - Smartphone (Plata)</Title>
+				<Description>El iPhone 5s está fabricado con precisión absoluta hasta más allá de lo que el ojo puede ver. Y eso se nota. La perfección de la carcasa de aluminio. La elegancia del metal y del vidrio. El cristal de zafiro del botón de inicio. Más cristal de zafiro para proteger la cámara iSight. Lo mires por donde lo mires</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ffcb%2Ffd2%2F30af%2Fe3e2%2F804d%2F1e9e%2F1b3b%2F1189e4898c005056b755e7.jpg/.Xw7ppT18OJgOh71zTmAWT_.aFizUjyrbxqc2PrpP4w-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ffcb%2Ffd2%2F30af%2Fe3e2%2F804d%2F1e9e%2F1b3b%2F1189e4898c005056b755e7.jpg/.Xw7ppT18OJgOh71zTmAWT_.aFizUjyrbxqc2PrpP4w-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018862&amp;.sig=uvyOyvZC9fBuOm8p6Pz67OpFm0k-&amp;offerId=6c52920cbd174f854d0073e6b924f5be&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-32gb-19873916?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873916</CatalogID>
+				<Catalog productId="19873916" categoryId="100020213">
+					<Name>Apple iPhone 5S 32GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>719</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>719</TotalPrice>
+					<PriceWithoutRebate>963.46</PriceWithoutRebate>
+					<Rebate>26</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909781980</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5263d9edfee004c016e449e5fbe418f8" type="MANUFACTURER_PRODUCTS">
+				<Title>I-Flashdrive Lightning Flash Disk Pen Drive 32gb Connection Kit For Apple Iphone 5 5s 6 Plus &amp; Ipad</Title>
+				<Description>Tipo:Novedad; Capacidad:32GB; Color:Blanco; Diseño:Compatible con OTG (Micro USB); USB:USB 2.0; Dimensiones (cm):841; Peso(kg):0.03</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100333823/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Fmywwet1416544156389.jpg/KpmljauabnSXn.6LrFKssobq5N1MxkSXlljv0tsRpWA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100333823/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Fmywwet1416544156389.jpg/KpmljauabnSXn.6LrFKssobq5N1MxkSXlljv0tsRpWA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018862&amp;.sig=_8a9CNra3X76RHk4Kw02W2KRY3E-&amp;offerId=5263d9edfee004c016e449e5fbe418f8&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=100333823&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100333823">
+					<Name>Memorias USB</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>42.23</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>42.23</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Ordenador  Memoria USB</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3af4dd2897ed143196a23f3980e51898" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S 16GB Gris Libre</Title>
+				<Description>Impensable hasta ahora. Indispensable desde ahora.&amp;nbsp;Chip con arquitectura de 64 bits. Sensor de identidad. C&amp;aacute;mara a&amp;uacute;n mejor y a&amp;uacute;n m&amp;aacute;s r&amp;aacute;pida. Sistema operativo dise&amp;ntilde;ado especialmente para la tecnolog&amp;iacute;a de 64 bits. Cualquiera de estas prestaciones por</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone%2F5s%2Fspace%2Fgray1_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/xYu117MuIOVu8AnTK1xftTkbhU1kdYpToHCmIt8AZ04-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone%2F5s%2Fspace%2Fgray1_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/xYu117MuIOVu8AnTK1xftTkbhU1kdYpToHCmIt8AZ04-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018863&amp;.sig=HnEozdo3t8gmHyo0dwGHk0dXERQ-&amp;offerId=3af4dd2897ed143196a23f3980e51898&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-16gb-19873920?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873920</CatalogID>
+				<Catalog productId="19873920" categoryId="100020213">
+					<Name>Apple iPhone 5S 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>479</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>485.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="756e01adca197fe597efc5d2308478c0" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Apple iPhone 5S 16 GB Libre - Smartphone (Gris Espacial)</Title>
+				<Description>El iPhone 5s está fabricado con precisión absoluta hasta más allá de lo que el ojo puede ver. Y eso se nota. La perfección de la carcasa de aluminio. La elegancia del metal y del vidrio. El cristal de zafiro del botón de inicio. Más cristal de zafiro para proteger la cámara iSight. Lo mires por donde lo mires</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ffcb%2Ff39%2F008f%2Ff9ea%2Fe0cd%2F1e4d%2F1b0e%2F11e9e4a550005056b718ac.jpg/HweoeUxx9UeDrrCxl87ywlOsayZDQiCzMVw0nsVVRE8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ffcb%2Ff39%2F008f%2Ff9ea%2Fe0cd%2F1e4d%2F1b0e%2F11e9e4a550005056b718ac.jpg/HweoeUxx9UeDrrCxl87ywlOsayZDQiCzMVw0nsVVRE8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018863&amp;.sig=eo7T8NKDjkNyOai0Wk5eIZGcctQ-&amp;offerId=756e01adca197fe597efc5d2308478c0&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-16gb-19873920?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873920</CatalogID>
+				<Catalog productId="19873920" categoryId="100020213">
+					<Name>Apple iPhone 5S 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>609</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>609</TotalPrice>
+					<PriceWithoutRebate>816.06</PriceWithoutRebate>
+					<Rebate>26</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909784295</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8a00ca1fd61d6fcfd0b378616a3383bb" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Smartphone Apple iPhone 5s 16GB Gris espacial</Title>
+				<Description>Mira más allá. El iPhone 5s ha sido pensado hasta lo inimaginable y perfeccionado hasta lo inconcebible. Su razón de ser no es lo tecnológicamente posible, sino lo tecnológicamente útil. No es cómo puede ser el mañana. Es cómo debería ser el mañana. La tecnología más avanzada ha llegado hasta este punto. El</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2F2a7%2Fc5a%2Ff746%2Fcb6e%2F60be%2F1c22%2Fdafb%2F118fe48ffa005056b75792.jpg/jhBsMx1X7V.pamQk9A6uE7N0jt4.R8iH5PBg5COOIO0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2F2a7%2Fc5a%2Ff746%2Fcb6e%2F60be%2F1c22%2Fdafb%2F118fe48ffa005056b75792.jpg/jhBsMx1X7V.pamQk9A6uE7N0jt4.R8iH5PBg5COOIO0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018864&amp;.sig=.DTqS4sTKPtNTOL1BZvB9l_80D8-&amp;offerId=8a00ca1fd61d6fcfd0b378616a3383bb&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-16gb-19873920?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873920</CatalogID>
+				<Catalog productId="19873920" categoryId="100020213">
+					<Name>Apple iPhone 5S 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>631</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>631</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909784356</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="269b350e615f2ae3baaa1991dc8f1578" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Smartphone Apple iPhone 5s 16GB Plata</Title>
+				<Description>Mira más allá. El iPhone 5s ha sido pensado hasta lo inimaginable y perfeccionado hasta lo inconcebible. Su razón de ser no es lo tecnológicamente posible, sino lo tecnológicamente útil. No es cómo puede ser el mañana. Es cómo debería ser el mañana. La tecnología más avanzada ha llegado hasta este punto. El</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fce7%2Fd74%2F5085%2F4b33%2Fa05b%2F1cbc%2Fdad2%2F1194e48ffa005056b75792.jpg/uTbsR2CP2db6s78c1EONXd.0p4me0C6ZblJO8EFkal0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fce7%2Fd74%2F5085%2F4b33%2Fa05b%2F1cbc%2Fdad2%2F1194e48ffa005056b75792.jpg/uTbsR2CP2db6s78c1EONXd.0p4me0C6ZblJO8EFkal0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018864&amp;.sig=AibE58Eh8ybNWhEw5qB0ZUw8Eyw-&amp;offerId=269b350e615f2ae3baaa1991dc8f1578&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-16gb-19873920?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873920</CatalogID>
+				<Catalog productId="19873920" categoryId="100020213">
+					<Name>Apple iPhone 5S 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>631</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>631</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909784653</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="fb5953637c365155ddb118c42d18dee8" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5S 64GB Dorado Libre</Title>
+				<Description>El &amp;nbsp;iPhone 5s&amp;nbsp;es una versi&amp;oacute;n optimizada de su predecesor, el iPhone 5. Su&amp;nbsp; procesador A7 de 64 bits&amp;nbsp;es dos veces m&amp;aacute;s r&amp;aacute;pido que un A6, por lo que proporciona un incre&amp;iacute;ble rendimiento, complementado por un procesador gr&amp;aacute;fico capaz de proporcionarte las</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2Fipho5sdor_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/y7PUKeS6UWB6i.Ku0iJrr12kXPRxh7PELK8ARn2AtA0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2Fipho5sdor_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/y7PUKeS6UWB6i.Ku0iJrr12kXPRxh7PELK8ARn2AtA0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018865&amp;.sig=VIuRa2bWG_EzKGhQx8P7ZPMKcMg-&amp;offerId=fb5953637c365155ddb118c42d18dee8&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-64gb-19873918?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873918</CatalogID>
+				<Catalog productId="19873918" categoryId="100020213">
+					<Name>Apple iPhone 5S 64GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>555</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>561.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d979f9812795c6f8bf5b4b593975c0c4" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Smartphone Apple iPhone 5s 16GB Gold</Title>
+				<Description>Mira más allá. El iPhone 5s ha sido pensado hasta lo inimaginable y perfeccionado hasta lo inconcebible. Su razón de ser no es lo tecnológicamente posible, sino lo tecnológicamente útil. No es cómo puede ser el mañana. Es cómo debería ser el mañana. La tecnología más avanzada ha llegado hasta este punto. El</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ffb7%2Fdd1%2F7843%2Fbbc8%2F30cf%2F1c95%2Fda2e%2F1151e48f3e005056b702bc.jpg/NYIkcpahmtMjrvVbktgQfvBlc1G3YFkoUlYyBpOb3Hw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ffb7%2Fdd1%2F7843%2Fbbc8%2F30cf%2F1c95%2Fda2e%2F1151e48f3e005056b702bc.jpg/NYIkcpahmtMjrvVbktgQfvBlc1G3YFkoUlYyBpOb3Hw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018865&amp;.sig=sL32rN.ypXWNzWV8djSHmLEbrE0-&amp;offerId=d979f9812795c6f8bf5b4b593975c0c4&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-16gb-19873920?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873920</CatalogID>
+				<Catalog productId="19873920" categoryId="100020213">
+					<Name>Apple iPhone 5S 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>633</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>633</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909784950</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b7f239d112d21a6db96bad2f22515b64" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 6 Plus 128GB Gris Espacial</Title>
+				<Description>DISE&amp;Ntilde;O El iPhone en su versi&amp;oacute;n m&amp;aacute;s grande. Y m&amp;aacute;s fina. Para crear el iPhone Plus 6 elegimos minuciosamente cada elemento y cada material hasta dar con un dise&amp;ntilde;o uniforme. Gracias a nuestra pantalla Multi‑Touch m&amp;aacute;s fina hemos conseguido un perfil mucho m&amp;aacute;s</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2F296122_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/VUE3oTLJ6L8hX3As6nKT266OcjWQV0q_Xyia02w6HtE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2F296122_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/VUE3oTLJ6L8hX3As6nKT266OcjWQV0q_Xyia02w6HtE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018866&amp;.sig=a2ppgwPMTy6q4jldCmUG4.fQfWk-&amp;offerId=b7f239d112d21a6db96bad2f22515b64&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-6-plus-128gb-19902161?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902161</CatalogID>
+				<Catalog productId="19902161" categoryId="100020213">
+					<Name>Apple Iphone 6 Plus 128GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>849</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>855.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d4cf7d221c34c522bbf7b37dfe34a67e" type="MANUFACTURER_PRODUCTS">
+				<Title>iPhone 5S 64GB - Dorado</Title>
+				<Description>iPhone 5S 64GB - dorado.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/11502013/100020213/90/90/http%3A%2F%2Fmytrendyphone.es%2F%2Fimages%2FiPhone-5S-64GB-Gold-19092013-1.jpg/izlBnOXv5.z4gdM5sebmwhtI5cEFsoLE5TufbXi.5l8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/11502013/100020213/auto/auto/http%3A%2F%2Fmytrendyphone.es%2F%2Fimages%2FiPhone-5S-64GB-Gold-19092013-1.jpg/izlBnOXv5.z4gdM5sebmwhtI5cEFsoLE5TufbXi.5l8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018866&amp;.sig=uu8zrMUNcQOcdbMTAMKTlHNuQWc-&amp;offerId=d4cf7d221c34c522bbf7b37dfe34a67e&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11502013&amp;comId=11502013&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5s-64gb-19873918?partnerId=96947091</CompareUrl>
+				<Merchant id="11502013">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11502013/MyTrendyPhone_Logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873918</CatalogID>
+				<Catalog productId="19873918" categoryId="100020213">
+					<Name>Apple iPhone 5S 64GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>640.7</Price>
+					<DeliveryCost>4.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>645.6</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-3 d&amp;iacute;as</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>6811209783151</Ean>
+				<MerchantCategory>Mï¿½viles</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="80afe9fd94af92491df3b6e95a8698b1" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5C 8GB Amarillo Libre</Title>
+				<Description>Dise&amp;ntilde;o S&amp;iacute;, el iPhone 5c es de pl&amp;aacute;stico, el &amp;uacute;nico material con el que se pod&amp;iacute;an conseguir unos colores tan originales como estos. Y bajo la suave y brillante superficie se esconde la bestia, una estructura reforzada con acero que le da una solidez sin precedentes. Por eso el</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2F_product_catalogue_%2F1%2F9%2F9%2F5%2F7%2F9%2Fiphone_5c_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/93Gh2fPinf3P4j52OARqAQP6EOEQ9_.9Dv0hwawmC0o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2F_product_catalogue_%2F1%2F9%2F9%2F5%2F7%2F9%2Fiphone_5c_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/93Gh2fPinf3P4j52OARqAQP6EOEQ9_.9Dv0hwawmC0o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018867&amp;.sig=uyQK3zy_inXNNzPeMeUmlcju4.w-&amp;offerId=80afe9fd94af92491df3b6e95a8698b1&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5c-8gb-19887627?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19887627</CatalogID>
+				<Catalog productId="19887627" categoryId="100020213">
+					<Name>Apple IPHONE 5C 8GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>289</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>295.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a5a899a258a8923e944d10c724b6423d" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5C 8GB Verde Libre</Title>
+				<Description>Dise&amp;ntilde;o&amp;nbsp;S&amp;iacute;, el iPhone 5c es de pl&amp;aacute;stico, el &amp;uacute;nico material con el que se pod&amp;iacute;an conseguir unos colores tan originales como estos. Y bajo la suave y brillante superficie se esconde la bestia, una estructura reforzada con acero que le da una solidez sin precedentes. Por</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone5cverd32_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/hzil_GQXmgBXjEZBSo7SzKZEiVjYNTng_hxjYZ1SDtA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone5cverd32_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/hzil_GQXmgBXjEZBSo7SzKZEiVjYNTng_hxjYZ1SDtA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018867&amp;.sig=ZddiV6DxQAkHvZJ6TOMwuHXT.vE-&amp;offerId=a5a899a258a8923e944d10c724b6423d&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5c-8gb-19887627?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19887627</CatalogID>
+				<Catalog productId="19887627" categoryId="100020213">
+					<Name>Apple IPHONE 5C 8GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>289</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>295.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3fca2b7759367e3950c1633923a0e8df" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5C 8GB Blanco Libre</Title>
+				<Description>Dise&amp;ntilde;o&amp;nbsp;S&amp;iacute;, el iPhone 5c es de pl&amp;aacute;stico, el &amp;uacute;nico material con el que se pod&amp;iacute;an conseguir unos colores tan originales como estos. Y bajo la suave y brillante superficie se esconde la bestia, una estructura reforzada con acero que le da una solidez sin precedentes. Por</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2FIPHONE%2F5C%2FBLANCO_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/2KXYtwW_eP3rY2M4gAJymdPPFfAFqAZ_5HJ_DQH7AiE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2FIPHONE%2F5C%2FBLANCO_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/2KXYtwW_eP3rY2M4gAJymdPPFfAFqAZ_5HJ_DQH7AiE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018868&amp;.sig=JZf0iUT0f2VGFLFPP6DY4IIepCk-&amp;offerId=3fca2b7759367e3950c1633923a0e8df&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5c-8gb-19887627?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19887627</CatalogID>
+				<Catalog productId="19887627" categoryId="100020213">
+					<Name>Apple IPHONE 5C 8GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>289</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>295.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="66da04d31111b44233d97171e2b497be" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5C 8GB Rosa Libre</Title>
+				<Description>Dise&amp;ntilde;o&amp;nbsp;S&amp;iacute;, el iPhone 5c es de pl&amp;aacute;stico, el &amp;uacute;nico material con el que se pod&amp;iacute;an conseguir unos colores tan originales como estos. Y bajo la suave y brillante superficie se esconde la bestia, una estructura reforzada con acero que le da una solidez sin precedentes. Por</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone5crosa32_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/9jOmxvsAMU66wwRiZ11TVSrrtk_vyX1iPP.pnlSQEM0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone5crosa32_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/9jOmxvsAMU66wwRiZ11TVSrrtk_vyX1iPP.pnlSQEM0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018868&amp;.sig=mSM2HaRi6zZ8pxGGjUhNyooGfd4-&amp;offerId=66da04d31111b44233d97171e2b497be&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5c-8gb-19887627?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19887627</CatalogID>
+				<Catalog productId="19887627" categoryId="100020213">
+					<Name>Apple IPHONE 5C 8GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>295</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>301.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b847740bef330bd6ae41edf431be6739" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5C 8GB Azul Libre</Title>
+				<Description>Dise&amp;ntilde;o&amp;nbsp;S&amp;iacute;, el iPhone 5c es de pl&amp;aacute;stico, el &amp;uacute;nico material con el que se pod&amp;iacute;an conseguir unos colores tan originales como estos. Y bajo la suave y brillante superficie se esconde la bestia, una estructura reforzada con acero que le da una solidez sin precedentes. Por</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2FIPHONE%2F5C%2FAZUL_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/1YFWBfMyvSGCSPEFEdRofgsCN8jwf6NESCe5rmC2FHk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FAPPLE%2FIPHONE%2F5C%2FAZUL_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/1YFWBfMyvSGCSPEFEdRofgsCN8jwf6NESCe5rmC2FHk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018869&amp;.sig=pJdQlc.KIZETDQaSb5w_foPLrF4-&amp;offerId=b847740bef330bd6ae41edf431be6739&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-5c-8gb-19887627?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19887627</CatalogID>
+				<Catalog productId="19887627" categoryId="100020213">
+					<Name>Apple IPHONE 5C 8GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>295</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>301.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="45ef4d8b0287d55a07520f6fbbd88ebb" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - IPhone 6 4G 16 GB Space gray/ Gris espacial</Title>
+				<Description>IPhone 6no solo es más grande, también es mejor. De mayor tamaño, pero a la vez ultrafino. Más potente, pero de una eficiencia extraordinaria. Su superficie de metal pulido se integra a la perfección con la nueva pantalla Retina HD como nunca se había visto. El resultado es un diseño uniforme en el que</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fa1e%2F25a%2Fb760%2F5b1e%2F20ee%2F55d7%2Fe02c%2F11b8e4bec1005056b70d5d.png/Galxd8yuDoRMiE5xzpaiBNo9Ym8QzZnacmn_YkQHZ0I-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fa1e%2F25a%2Fb760%2F5b1e%2F20ee%2F55d7%2Fe02c%2F11b8e4bec1005056b70d5d.png/Galxd8yuDoRMiE5xzpaiBNo9Ym8QzZnacmn_YkQHZ0I-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018869&amp;.sig=OkUEITv0bfFWYCfPF0bHsE2iFeo-&amp;offerId=45ef4d8b0287d55a07520f6fbbd88ebb&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-6-16gb-19902156?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902156</CatalogID>
+				<Catalog productId="19902156" categoryId="100020213">
+					<Name>Apple Iphone 6 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>647.66</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>647.66</TotalPrice>
+					<PriceWithoutRebate>735</PriceWithoutRebate>
+					<Rebate>12</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0888462062268</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7dea6733cdc8a0433bf1833aa76d3f3a" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Apple iPhone 6 - 64 GB (Gris espacial)</Title>
+				<Description>Lo que más nos gusta del Apple iPhone 6:Su chip A8 con arquitectura de 64 bits, capaz de ofrecerte una potencia sin precedentes en un iPhone.Su pantalla, más grande y mejor.La capacidad de grabar vídeo HD 1080p a 60 fps y a cámara lenta a 240 fps.El Apple iPhone 6 es el último y más grande iPhone hasta la</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2F139%2F59c%2F5879%2Fd398%2Fb010%2F4a53%2Fda1b%2F1156e49d9a005056b75a2f.jpg/IvNQciYCtR6mVeIqDFxIf6Sm06ricFLfXAXUKUWG84o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2F139%2F59c%2F5879%2Fd398%2Fb010%2F4a53%2Fda1b%2F1156e49d9a005056b75a2f.jpg/IvNQciYCtR6mVeIqDFxIf6Sm06ricFLfXAXUKUWG84o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018870&amp;.sig=E17N6NNM2Cb28QKNYrB8ndblan8-&amp;offerId=7dea6733cdc8a0433bf1833aa76d3f3a&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-6-64gb-19902157?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902157</CatalogID>
+				<Catalog productId="19902157" categoryId="100020213">
+					<Name>Apple Iphone 6 64GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>799.99</Price>
+					<DeliveryCost>4.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>804.89</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0888462064002</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2586db9ced7da07ee889b0918026881c" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - IPhone 6 4G 64 GB Space gray/ Gris espacial</Title>
+				<Description>IPhone 6no solo es más grande, también es mejor. De mayor tamaño, pero a la vez ultrafino. Más potente, pero de una eficiencia extraordinaria. Su superficie de metal pulido se integra a la perfección con la nueva pantalla Retina HD como nunca se había visto. El resultado es un diseño uniforme en el que</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fa1e%2F25a%2Fb760%2F5b1e%2F20ee%2F55d7%2Fe02c%2F11b8e4bec1005056b70d5d.png/Galxd8yuDoRMiE5xzpaiBNo9Ym8QzZnacmn_YkQHZ0I-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fa1e%2F25a%2Fb760%2F5b1e%2F20ee%2F55d7%2Fe02c%2F11b8e4bec1005056b70d5d.png/Galxd8yuDoRMiE5xzpaiBNo9Ym8QzZnacmn_YkQHZ0I-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018870&amp;.sig=QKJ8N47HGULIqWbjxLQVhtkoXEk-&amp;offerId=2586db9ced7da07ee889b0918026881c&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-6-64gb-19902157?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902157</CatalogID>
+				<Catalog productId="19902157" categoryId="100020213">
+					<Name>Apple Iphone 6 64GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>789</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>789</TotalPrice>
+					<PriceWithoutRebate>819</PriceWithoutRebate>
+					<Rebate>4</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0888462064019</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f3ef01514749ef5888541a22ed2b6e75" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Apple iPhone 6 Plus - 64 GB (Gris espacial)</Title>
+				<Description>Lo que más nos gusta del Apple iPhone 6 Plus:Su chip A8 con arquitectura de 64 bits, capaz de ofrecerte una potencia sin precedentes en un iPhone.Su pantalla Full HD más grande y mejor.La capacidad de grabar vídeo HD 1080p a 60 fps y a cámara lenta a 240 fps.El Apple iPhone 6 Plus es uno de los últimos</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fe89%2F84c%2F5845%2F584a%2F108f%2F4a08%2Fda57%2F116ee486d3005056b711a8.jpg/uceNzvwunTOU9pgDEhP6tqwbgbAmbbtl8pDM5n8BURE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fe89%2F84c%2F5845%2F584a%2F108f%2F4a08%2Fda57%2F116ee486d3005056b711a8.jpg/uceNzvwunTOU9pgDEhP6tqwbgbAmbbtl8pDM5n8BURE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018871&amp;.sig=XCK6lV3mJZyWwFFbK6lwhHFfS1I-&amp;offerId=f3ef01514749ef5888541a22ed2b6e75&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-6-plus-64gb-19902160?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902160</CatalogID>
+				<Catalog productId="19902160" categoryId="100020213">
+					<Name>Apple Iphone 6 Plus 64GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>899.99</Price>
+					<DeliveryCost>4.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>904.89</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0888462041041</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0880b2e227bd313f2b8d932202f47ad6" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - IPhone 4S 8Gb Negro</Title>
+				<Description>iPhone 4S.iPhone mejora aspectos clave como el procesador o la cámara de fotos, e incorpora iOS 5 y la función de asistente gracias a la tecnología Siri.El paso a un doble núcleo es la novedad más importante en cuanto a capacidad de proceso del iPhone 4S. Con el nuevo procesador Apple A5 (doble núcleo).La</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff47acb80-d75f-11e3-913a-005056b763fc%2F20140522%2F6b44d4eb-01fc-4adc-ae46-a60de3ae7811.jpg/KF590kNT4sx.Xys8kZprnsCCqkTq30zlsShag7MM30c-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff47acb80-d75f-11e3-913a-005056b763fc%2F20140522%2F6b44d4eb-01fc-4adc-ae46-a60de3ae7811.jpg/KF590kNT4sx.Xys8kZprnsCCqkTq30zlsShag7MM30c-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018871&amp;.sig=H_FzH3Q7dQjLDu7.oPYJXSjeVLU-&amp;offerId=0880b2e227bd313f2b8d932202f47ad6&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-4s-8-gb-19874737?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19874737</CatalogID>
+				<Catalog productId="19874737" categoryId="100020213">
+					<Name>Apple iPhone 4S 8 GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>299</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>299</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0d90246942b6644eb6661d7f70960ea8" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 6 16GB Gris Espacial Libre</Title>
+				<Description>DISE&amp;Ntilde;O El iPhone en su versi&amp;oacute;n m&amp;aacute;s grande. Y m&amp;aacute;s fina. Para crear el iPhone 6 elegimos minuciosamente cada elemento y cada material hasta dar con un dise&amp;ntilde;o uniforme. Gracias a nuestra pantalla Multi‑Touch m&amp;aacute;s fina hemos conseguido un perfil mucho m&amp;aacute;s</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone6p%2Fgray%2Fs47_400x400cropfalse%2F100%2Ffixcanvastrue.png/lNK3uq3eYhsuYLcsXqljlqkx07m7b1oTw.mj.12Y6TE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FSMARTPHONES%2FAPPLE%2Fiphone6p%2Fgray%2Fs47_400x400cropfalse%2F100%2Ffixcanvastrue.png/lNK3uq3eYhsuYLcsXqljlqkx07m7b1oTw.mj.12Y6TE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018871&amp;.sig=u20i5TipLug8ghy8nToeZVzMBbo-&amp;offerId=0d90246942b6644eb6661d7f70960ea8&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/apple-iphone-6-16gb-19902156?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902156</CatalogID>
+				<Catalog productId="19902156" categoryId="100020213">
+					<Name>Apple Iphone 6 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>619</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>625.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0f81fa86683a5bbdf9efb5ae793cb644" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Iphone 5s Gris espacial 16GB Libre Modelo Iphone5s-gris-16</Title>
+				<Description>Iphone 5S Gris espacial 16gb Libre UK regalo adaptador europeo Dimensiones y peso 3 Alto: 12,38 cm Ancho: 5,86 cm Grosor: 0,76 cm Peso: 112 g Redes móviles e inalámbricas Modelo A1533*: CDMA EV-DO Rev. A y Rev. B (800, 1.700/2.100, 1.900 y 2.100 MHz); UMTS/HSPA+/DC-HSDPA (850, 900, 1.700/2.100, 1.900 y 2.100</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/90/90/http%3A%2F%2Fi50.twenga.com%2F5%2Ftp%2F99%2F62%2F7358401406754329962b.png/Z72.jlscMIefK7tmOyAiL7QS0FCo.VhcAwlAbD.77Ao-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/auto/auto/http%3A%2F%2Fi50.twenga.com%2F5%2Ftp%2F99%2F62%2F7358401406754329962b.png/Z72.jlscMIefK7tmOyAiL7QS0FCo.VhcAwlAbD.77Ao-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018872&amp;.sig=7rD8W6v_QhHCs3yAN7gt0qixMew-&amp;offerId=0f81fa86683a5bbdf9efb5ae793cb644&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13607013&amp;comId=13607013&amp;catId=100298123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13607013">
+					<Name>Qeasy</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100298123">
+					<Name>Miscelánea (ofertas sin código EAN)</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>599</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>599</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefonía - iPhone</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bf68eba3f8e66dcabb1ddf86a467ead2" type="MANUFACTURER_PRODUCTS">
+				<Title>Motorola Nexus 6 XT1100 4G LTE 32GB Quad-core (Gris claro / Blanco) - Smartphone Libre</Title>
+				<Description>Un impresionante 6-pulgadas de pantalla Quad HD que es ideal para películas, videos, juegos, libros electrónicos y navegar por la web, además de duración de la batería durante todo el día.Las 6 pulgadas Quad HD pantalla obras para todo de libros electrónicos y documentos para juegos y películas.Altavoces</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12778213/100020213/90/90/http%3A%2F%2Fcdn.valuebasket.com%2F808AA1%2Fvb%2Fimages%2Fproduct%2F17947-AA-BW.jpg/kvw2fAB6R0HF7ve2BHI8Y4cs2WwxoTJLnGaR9MzOy0s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12778213/100020213/auto/auto/http%3A%2F%2Fcdn.valuebasket.com%2F808AA1%2Fvb%2Fimages%2Fproduct%2F17947-AA-BW.jpg/kvw2fAB6R0HF7ve2BHI8Y4cs2WwxoTJLnGaR9MzOy0s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018872&amp;.sig=ZjPzCVOF24A2Phy2k2pOp41cR_Q-&amp;offerId=bf68eba3f8e66dcabb1ddf86a467ead2&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12778213&amp;comId=12778213&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/motorola-nexus-6-32gb-19905110?partnerId=96947091</CompareUrl>
+				<Merchant id="12778213">
+					<Name>Valuebasket</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12778213/valuebasket.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19905110</CatalogID>
+				<Catalog productId="19905110" categoryId="100020213">
+					<Name>Motorola Nexus 6 32GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>719.9</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>719.9</TotalPrice>
+					<PriceWithoutRebate>849.99</PriceWithoutRebate>
+					<Rebate>16</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>entre 1-3 días laborables</DeliveryTime>
+				<Warranty>3 a&amp;ntilde;os</Warranty>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobile Phones Smartphones</MerchantCategory>
+				<Brand>Motorola</Brand>
+				<BrandId>2157</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d4a0c26afc52d4c1af1fedffb2aeb7ca" type="MANUFACTURER_PRODUCTS">
+				<Title>Asus Transformer Book H100TAF-DK007B 32GB Gris</Title>
+				<Description>Versatilidad&amp;nbsp;con su pantalla t&amp;aacute;ctil ultra-delgada de 10,1 pulgadas, procesador Intel&amp;reg; Atom&amp;trade; Z3735G,&amp;nbsp;1 GB de memoria RAM y disco duro de&amp;nbsp;32 GB. Con&amp;eacute;ctate, trabaja, comun&amp;iacute;cate y divi&amp;eacute;rtete donde t&amp;uacute; quieras con la m&amp;aacute;xima comodidad.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100282123/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2F_product_catalogue_%2F2%2F3%2F9%2F4%2F3%2F1%2Fasus_transformer_book_h100tam_dk028b_32gb_500gb_gris_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/K4.nFw3Twmq9lKxDCRTTMiqbXM.m7znPzIzP6FtaMew-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100282123/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2F_product_catalogue_%2F2%2F3%2F9%2F4%2F3%2F1%2Fasus_transformer_book_h100tam_dk028b_32gb_500gb_gris_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/K4.nFw3Twmq9lKxDCRTTMiqbXM.m7znPzIzP6FtaMew-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018872&amp;.sig=VbQDUX3rthE9UyXMapbpbwh.sE4-&amp;offerId=d4a0c26afc52d4c1af1fedffb2aeb7ca&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100282123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-tablets-ereaders-100282123/asus-transformer-h100tafdk007-19915172?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100282123-19915172</CatalogID>
+				<Catalog productId="19915172" categoryId="100282123">
+					<Name>Asus Transformer H100TAF-DK007</Name>
+				</Catalog>
+				<Category id="100282123">
+					<Name>Tablets &amp; Ereaders</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>313</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>319.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Tablets/E-Books#Tablets#TabletPC</MerchantCategory>
+				<Brand>Asus</Brand>
+				<BrandId>283</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5c780a6f85ebcf2815ffd15e8c82acd6" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPad Air 32GB Gris Espacial</Title>
+				<Description>El iPad Air pesa menos de 500 gramos y es un 20% m&amp;aacute;s fino.2 Y aunque es superligero, la carcasa unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene m&amp;aacute;s de 3,1 millones de p&amp;iacute;xeles, un mill&amp;oacute;n m&amp;aacute;s que un televisor</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/113501/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FTABLET%2FAPPLE%2F555878_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/BzcWdVUfbQ_sAijP3hH3C7.NoTzSqIrWQGDVhJ4Vi9A-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/113501/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2FFOTOS_PRODUCTOS_2%2FTABLET%2FAPPLE%2F555878_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/BzcWdVUfbQ_sAijP3hH3C7.NoTzSqIrWQGDVhJ4Vi9A-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018873&amp;.sig=E4OMqjXSWVqZ.PfEM2u9z8jBNd4-&amp;offerId=5c780a6f85ebcf2815ffd15e8c82acd6&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=113501&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="113501">
+					<Name>Ordenadores Portátiles</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>359</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>365.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Tablets/E-Books#Tablets#TabletPC</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7b3bbb8561ca2ea2a19c70c81dd2ffa2" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Apple iPad Mini 2 Retina Wi-Fi Cellular 4G 32GB Gris espacial</Title>
+				<Description>El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resolución supera la de un televisor HD, por eso verás las fotografías y los textos con un nivel de detalle estratosférico. Descubre una nueva dimensión en la que el tamaño es lo de menos. Las cosas no siempre son lo que</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100282123/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff97%2F3cf%2F85fe%2F468e%2Fc15f%2F1c25%2Fdad7%2F113ee48ffa005056b75792.jpg/J0rZjKit73x4IMT_GY7JrbTO5EEY98ruJFd_rd71QRI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100282123/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff97%2F3cf%2F85fe%2F468e%2Fc15f%2F1c25%2Fdad7%2F113ee48ffa005056b75792.jpg/J0rZjKit73x4IMT_GY7JrbTO5EEY98ruJFd_rd71QRI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018873&amp;.sig=j_hoh5NVcB5ZMifEmzxa1MFAOLE-&amp;offerId=7b3bbb8561ca2ea2a19c70c81dd2ffa2&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100282123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-tablets-ereaders-100282123/apple-ipad-mini-retina-wifi-cellular-32-gb-19877508?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100282123-19877508</CatalogID>
+				<Catalog productId="19877508" categoryId="100282123">
+					<Name>Apple IPAD MINI Retina Wi-fi + Cellular 32 GB</Name>
+				</Catalog>
+				<Category id="100282123">
+					<Name>Tablets &amp; Ereaders</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>519</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>519</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909813711</Ean>
+				<MerchantCategory>Electrónica, Informática  Tablets  Tablets</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c614be127b23655af74e3f049324f389" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Apple iPad Mini 2 Retina Wi-Fi 32GB Gris espacial</Title>
+				<Description>El iPad mini con pantalla Retina es un gustazo para el tacto, y para la vista. Su resolución supera la de un televisor HD, por eso verás las fotografías y los textos con un nivel de detalle estratosférico. Descubre una nueva dimensión en la que el tamaño es lo de menos. Las cosas no siempre son lo que</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100282123/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff97%2F3cf%2F85fe%2F468e%2Fc15f%2F1c25%2Fdad7%2F113ee48ffa005056b75792.jpg/J0rZjKit73x4IMT_GY7JrbTO5EEY98ruJFd_rd71QRI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100282123/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Ff97%2F3cf%2F85fe%2F468e%2Fc15f%2F1c25%2Fdad7%2F113ee48ffa005056b75792.jpg/J0rZjKit73x4IMT_GY7JrbTO5EEY98ruJFd_rd71QRI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018874&amp;.sig=EotmeQwE661T4URlMxnuYtkIlVk-&amp;offerId=c614be127b23655af74e3f049324f389&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100282123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-tablets-ereaders-100282123/apple-ipad-mini-retina-wifi-32-gb-19877512?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100282123-19877512</CatalogID>
+				<Catalog productId="19877512" categoryId="100282123">
+					<Name>Apple IPAD MINI Retina Wi-fi 32 GB</Name>
+				</Catalog>
+				<Category id="100282123">
+					<Name>Tablets &amp; Ereaders</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>379</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>379</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909770212</Ean>
+				<MerchantCategory>Electrónica, Informática  Tablets  Tablets</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6407412f7cde1bae43546398aedb17dc" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple -8€ cupón RAKUKELKOO8 - Apple iPad Air 32GB Gris espacial Wi-Fi</Title>
+				<Description>Nuevo diseño El iPad Air pesa menos de 500 gramos y es un 20% más fino.2 Y aunque es superligero, la carcasa Unibody de aluminio lo hace muy resistente. Pantalla Retina de 9,7 pulgadas La espectacular pantalla Retina tiene más de 3,1 millones de píxeles, un millón más que un televisor HD. Las fotos y los</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100282123/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fd49%2F53f%2F291c%2Ff218%2F809d%2F1cd4%2Fda3d%2F11dee48ffa005056b75792.jpg/aWnxUyovk_EwuCuw5xcdZ8EK8q49e2iZ_6SpEoYkMKM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100282123/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2Fd49%2F53f%2F291c%2Ff218%2F809d%2F1cd4%2Fda3d%2F11dee48ffa005056b75792.jpg/aWnxUyovk_EwuCuw5xcdZ8EK8q49e2iZ_6SpEoYkMKM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018874&amp;.sig=LksP36GpgvT2juDGa.z5X3uqcLM-&amp;offerId=6407412f7cde1bae43546398aedb17dc&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100282123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-tablets-ereaders-100282123/apple-ipad-air-32gb-wifi-19876965?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100282123-19876965</CatalogID>
+				<Catalog productId="19876965" categoryId="100282123">
+					<Name>Apple iPad Air 32GB Wi-Fi</Name>
+				</Catalog>
+				<Category id="100282123">
+					<Name>Tablets &amp; Ereaders</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>490</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>490</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885909772360</Ean>
+				<MerchantCategory>Electrónica, Informática  Tablets  Tablets</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9b5afe322967eac6af6e650c2ccba507" type="MANUFACTURER_PRODUCTS">
+				<Title>Toshiba Uhs-I De Clase Micro Sdhc Tarjeta De 32gb Tf W / Sd Adaptador R: 40mb / S Sd-C032gr7ar040ac</Title>
+				<Description>Tipo:MicroSD/MicroSDHC/MicroSDXC/TF; Capacidad:32GB; Máxima Velocidad de Escritura (MB/S):20MB / S; Máxima Velocidad de Lectura (MB/S):40MB / S; Dimensión(mm):1.5 cm x 1.1 cm x 0.1 cm; Peso(kg):0.0004KG; Marca:Toshiba; Rango de Velocidad:UHS-I U1</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201412%2Fptnrzy1420008054209.jpg/FaOGR4PIGzSO0i2aw4eQ2RPPQDRn2QGt4x_024JLDtc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201412%2Fptnrzy1420008054209.jpg/FaOGR4PIGzSO0i2aw4eQ2RPPQDRn2QGt4x_024JLDtc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018874&amp;.sig=pj_xlzBdLG_zml0S6zCFnN6LzDg-&amp;offerId=9b5afe322967eac6af6e650c2ccba507&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=100282023&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100282023">
+					<Name>Tarjetas de memoria</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>24.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Ordenador  Tarjetas de Memoria</MerchantCategory>
+				<Brand>Toshiba</Brand>
+				<BrandId>3275</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e5a8aa8f459f1c5a8e8ef4b04f3eadb1" type="MANUFACTURER_PRODUCTS">
+				<Title>Toshiba 32gb-Transmemory Mx Usb 3.0 Flash De 70mb Pen Drive / S</Title>
+				<Description>Tipo:Novedad; Capacidad:32GB; Color:Negro; Diseño:Sin Tapa; USB:USB 3.0; Dimensiones (cm):14 cm x 8.5 cm x 0.7 cm; Peso(kg):0.0137; Marca:Toshiba; Modelo:TransMemory-MX</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100333823/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201408%2Fkoqhff1409109843908.jpg/nM2E5q6SR1FslGWGgIJViaiPOarjwcDBO43SkKRFMkQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100333823/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201408%2Fkoqhff1409109843908.jpg/nM2E5q6SR1FslGWGgIJViaiPOarjwcDBO43SkKRFMkQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018875&amp;.sig=cgcx3h0qCwKe1XeqUf77LTk2d2Y-&amp;offerId=e5a8aa8f459f1c5a8e8ef4b04f3eadb1&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=100333823&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100333823">
+					<Name>Memorias USB</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>14.68</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14.68</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Ordenador  Memoria USB</MerchantCategory>
+				<Brand>Toshiba</Brand>
+				<BrandId>3275</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8ae4e5dad1a2eba7c3be08063dd3e8d2" type="MANUFACTURER_PRODUCTS">
+				<Title>Samsung Galaxy Note 3 5.7" 32GB Blanco Libre</Title>
+				<Description>Especificaciones: Plataforma Bandas 2G GSM / GPRS / EDGE (850 / 900 / 1.800 / 1.900 MHz) 3G HSPA+ 42 Mbps (850 / 900 / 1.900 / 2.100 MHz) 4G LTE 150 Mbps DL / 50 Mbps UL (800 / 850 / 900 / 1.800 / 2.100 / 2.600 MHz) Wi-Fi 802.11a/b/g/n/ac Wi-Fi Direct S&amp;iacute; Bluetooth Versi&amp;oacute;n 4 Perfiles PBAP, A2DP,</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/90/90/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FSAMSUNG%2FNOTE3_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/_LIzrVUWbTwFt7WwWGJNVad8Ernd7pwJP2Q5JO1QZNU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13687913/100020213/auto/auto/http%3A%2F%2Fwww.mytelecom.es%2Fmytelecom.es%2Fcache%2Fimages%2Ffotos_productos%2FSMARTPHONES%2FSAMSUNG%2FNOTE3_400x400cropfalse%2F100%2Ffixcanvastrue.jpg/_LIzrVUWbTwFt7WwWGJNVad8Ernd7pwJP2Q5JO1QZNU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018875&amp;.sig=_P0sypH6xujnMrDwrkE4rt5d5vM-&amp;offerId=8ae4e5dad1a2eba7c3be08063dd3e8d2&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13687913&amp;comId=13687913&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/samsung-galaxy-note-3-n9005-19873855?partnerId=96947091</CompareUrl>
+				<Merchant id="13687913">
+					<Name>MyTelecom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13687913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873855</CatalogID>
+				<Catalog productId="19873855" categoryId="100020213">
+					<Name>Samsung GALAXY NOTE 3 N9005</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>399</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>405.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>24-72 horas</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8806085820234</Ean>
+				<MerchantCategory>Smartphones#Smartphones</MerchantCategory>
+				<Brand>Samsung</Brand>
+				<BrandId>2762</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2da07648fb769172f055301273e8b3cd" type="MANUFACTURER_PRODUCTS">
+				<Title>Toshiba Tarjeta de Memoria Toshiba SD-T032UHS1/BL5 SDHC UHS-1 - Class 10 - 32GB</Title>
+				<Description>Tarjeta de Memoria Toshiba SD-T032UHS1/BL5 SDHC UHS-1 - Class 10 - 32GB  - Velocidad muy alta con hasta 30 MB / s  - Compatible con tarjetas SD o SDHC que soportan el dispositivo host</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/11502013/100282023/90/90/http%3A%2F%2Fmytrendyphone.es%2F%2Fimages%2FToshiba-SD-T032UHS1%28BL5-SDHC-UHS-1-Memory-Card-Class-10-32GB-02052014-1.jpg/s.uSdJ9sG7_44xaadszyzK_OrprJWKNKjgdP7TO7Hcg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/11502013/100282023/auto/auto/http%3A%2F%2Fmytrendyphone.es%2F%2Fimages%2FToshiba-SD-T032UHS1%28BL5-SDHC-UHS-1-Memory-Card-Class-10-32GB-02052014-1.jpg/s.uSdJ9sG7_44xaadszyzK_OrprJWKNKjgdP7TO7Hcg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018876&amp;.sig=2YdMpp.Zm0O_hMGubGRNdXMo1JQ-&amp;offerId=2da07648fb769172f055301273e8b3cd&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11502013&amp;comId=11502013&amp;catId=100282023&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="11502013">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11502013/MyTrendyPhone_Logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100282023">
+					<Name>Tarjetas de memoria</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>15.5</Price>
+					<DeliveryCost>4.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>20.4</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-3 d&amp;iacute;as</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047999330226</Ean>
+				<MerchantCategory>Accesorios para foto &amp; video</MerchantCategory>
+				<Brand>Toshiba</Brand>
+				<BrandId>3275</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="91b68e4cfdc5edfda753ec30b8104253" type="MANUFACTURER_PRODUCTS">
+				<Title>Transcend Tf Tarjeta De Memoria Transcend Genuino (32 Gb)</Title>
+				<Description>Tipo:MicroSD/MicroSDHC/MicroSDXC/TF; Capacidad:32GB; Máxima Velocidad de Escritura (MB/S):5; Máxima Velocidad de Lectura (MB/S):8; Peso(kg):0.002; Marca:Trascender; Rango de Velocidad:Clase 4</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201407%2Fvxyaye1405592374000.jpg/hJkH2YYNrmk.RbGGdWoKaz6idU2thko_8fglwuSE5U4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201407%2Fvxyaye1405592374000.jpg/hJkH2YYNrmk.RbGGdWoKaz6idU2thko_8fglwuSE5U4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018876&amp;.sig=ln1jRHc0kYVAtRg87QBjoRLX398-&amp;offerId=91b68e4cfdc5edfda753ec30b8104253&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=100282023&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100282023">
+					<Name>Tarjetas de memoria</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>21.15</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>21.15</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Ordenador  Tarjetas de Memoria</MerchantCategory>
+				<Brand>Transcend</Brand>
+				<BrandId>3285</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1a4574ef22bce98b688a71ce4776647c" type="MANUFACTURER_PRODUCTS">
+				<Title>32gb Class 10 Microsdhc Tf Flash Memory Card With Sd Sdhc Adapter And Usb Card Reader</Title>
+				<Description>Tipo:Adaptadores y cajas,MicroSD/MicroSDHC/MicroSDXC/TF; Capacidad:32GB; Máxima Velocidad de Escritura (MB/S):10; Máxima Velocidad de Lectura (MB/S):10; Dimensión(mm):11x0.5x0.01; Peso(kg):0.005; Rango de Velocidad:Clase 10</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201408%2Fubybda1407141250286.jpg/usLQFOMAzGwIP7feSsUw2.FjWTy1oJvWpTWzHQnne_o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201408%2Fubybda1407141250286.jpg/usLQFOMAzGwIP7feSsUw2.FjWTy1oJvWpTWzHQnne_o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018876&amp;.sig=.8ul9jpzqAPBr.VpdGIekFRvBDE-&amp;offerId=1a4574ef22bce98b688a71ce4776647c&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=100282023&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100282023">
+					<Name>Tarjetas de memoria</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>14.39</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14.39</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Ordenador  Tarjetas de Memoria</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e5710f0f0a9aa9c5afa68939b4a73f58" type="MANUFACTURER_PRODUCTS">
+				<Title>Tarjeta De Memoria Dsb 32 Gb Micro Sd Sdhc Tf Con Adaptador Sd De Alta Velocidad (Clase 10)</Title>
+				<Description>Tipo:Adaptadores y cajas,MicroSD/MicroSDHC/MicroSDXC/TF,SD/SDHC/SDXC; Capacidad:32GB; Máxima Velocidad de Escritura (MB/S):10; Máxima Velocidad de Lectura (MB/S):10; Dimensión(mm):31.0 x 23.0 x 1.5; Peso(kg):0.002; Rango de Velocidad:Clase 10</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201407%2Fmtuyvv1404715344191.jpg/LJevHa1eCh118794_zdPwk.f9yJQNsNn6_73APXg4WI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/100282023/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201407%2Fmtuyvv1404715344191.jpg/LJevHa1eCh118794_zdPwk.f9yJQNsNn6_73APXg4WI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018877&amp;.sig=jS.KQb1581rF8i4PllPw9Sr9J4Y-&amp;offerId=e5710f0f0a9aa9c5afa68939b4a73f58&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=100282023&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100282023">
+					<Name>Tarjetas de memoria</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>14.35</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14.35</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Ordenador  Tarjetas de Memoria</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8f28673fe111809e844f973c660b3cf0" type="MANUFACTURER_PRODUCTS">
+				<Title>iPhone 5s 16GB Gris Espacial</Title>
+				<Description>Un pensamiento progresista. Con el iPhone 5s, los diseñadores e ingenieros de Apple han encontrado formas de añadir aún más funciones, preservando el diseño delgado y ligero. Estas características no son sólo tecnológicamente posibles, sino tecnológicamente útiles. Toque ID. Una nueva huella digital Sensor de</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/14110213/100298123/90/90/http%3A%2F%2Fi51.twenga.com%2F5%2Ftp%2F95%2F95%2F5564285456610669595b.png/0Gziq_n01VLfMy6DNRQuF6aMOvkRwByDbKa_xfLFUAA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/14110213/100298123/auto/auto/http%3A%2F%2Fi51.twenga.com%2F5%2Ftp%2F95%2F95%2F5564285456610669595b.png/0Gziq_n01VLfMy6DNRQuF6aMOvkRwByDbKa_xfLFUAA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018877&amp;.sig=p7EklNYr0ZLIpiC4_ebFgkicCak-&amp;offerId=8f28673fe111809e844f973c660b3cf0&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14110213&amp;comId=14110213&amp;catId=100298123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14110213">
+					<Name>Turbado ES</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100298123">
+					<Name>Miscelánea (ofertas sin código EAN)</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>540</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>540</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefonía - iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="38e51d6ee43031115fa6f5feef7b84b4" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Iphone 5s Plata 16gb Modelo ME433</Title>
+				<Description>Iphone 5S plata 16gb UK regalo adaptador europeo Dimensiones y peso 3 Alto: 12,38 cm Ancho: 5,86 cm Grosor: 0,76 cm Peso: 112 g Redes móviles e inalámbricas Modelo A1533*: CDMA EV-DO Rev. A y Rev. B (800, 1.700/2.100, 1.900 y 2.100 MHz); UMTS/HSPA+/DC-HSDPA (850, 900, 1.700/2.100, 1.900 y 2.100 MHz); GSM/EDGE</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/90/90/http%3A%2F%2Fi50.twenga.com%2F5%2Ftp%2F85%2F90%2F4843533324628198590b.png/2QcDkHPq1zvOBBo4hCYJOJSSXQR4m4AY6PWREWB3X2s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/auto/auto/http%3A%2F%2Fi50.twenga.com%2F5%2Ftp%2F85%2F90%2F4843533324628198590b.png/2QcDkHPq1zvOBBo4hCYJOJSSXQR4m4AY6PWREWB3X2s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018878&amp;.sig=31MYoARogB0_9Fkgf3L2A.n8VIg-&amp;offerId=38e51d6ee43031115fa6f5feef7b84b4&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13607013&amp;comId=13607013&amp;catId=100298123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13607013">
+					<Name>Qeasy</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100298123">
+					<Name>Miscelánea (ofertas sin código EAN)</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>599</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>599</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefonía - iPhone</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e2b3b706d64a7b3c90f07e1f6be93868" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Iphone 5s Oro 16gb Libre Modelo ME434</Title>
+				<Description>Iphone 5S oro 16gb Libre UK regalo adaptador europeo Dimensiones y peso 3 Alto: 12,38 cm Ancho: 5,86 cm Grosor: 0,76 cm Peso: 112 g Redes móviles e inalámbricas Modelo A1533*: CDMA EV-DO Rev. A y Rev. B (800, 1.700/2.100, 1.900 y 2.100 MHz); UMTS/HSPA+/DC-HSDPA (850, 900, 1.700/2.100, 1.900 y 2.100 MHz); GSM</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/90/90/http%3A%2F%2Fi51.twenga.com%2F5%2Ftp%2F77%2F91%2F7957735636980547791b.png/E70NOe7pcE1MycOk8sk.qILTPkZWcpmZH6FusgfwRTo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/auto/auto/http%3A%2F%2Fi51.twenga.com%2F5%2Ftp%2F77%2F91%2F7957735636980547791b.png/E70NOe7pcE1MycOk8sk.qILTPkZWcpmZH6FusgfwRTo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018878&amp;.sig=.6VFgtUAMtWlloCZJaZweO0JaCw-&amp;offerId=e2b3b706d64a7b3c90f07e1f6be93868&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13607013&amp;comId=13607013&amp;catId=100298123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13607013">
+					<Name>Qeasy</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100298123">
+					<Name>Miscelánea (ofertas sin código EAN)</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>599</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>599</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefonía - iPhone</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="99c779b80bd96978cc4bb767edb7abb4" type="MANUFACTURER_PRODUCTS">
+				<Title>iPhone 5S 16GB Oro</Title>
+				<Description>Un pensamiento progresista. Con el iPhone 5s, los diseñadores e ingenieros de Apple han encontrado formas de añadir aún más funciones, preservando el diseño delgado y ligero. Estas características no son sólo tecnológicamente posibles, sino tecnológicamente útiles. Toque ID. Una nueva huella digital Sensor de</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/14110213/100298123/90/90/http%3A%2F%2Fi50.twenga.com%2F5%2Ftp%2F11%2F14%2F6679773496886411114b.png/ZVDVXrmBURxZZtGGur4rdjtsiG4ut6GhAuqf_3anLaE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/14110213/100298123/auto/auto/http%3A%2F%2Fi50.twenga.com%2F5%2Ftp%2F11%2F14%2F6679773496886411114b.png/ZVDVXrmBURxZZtGGur4rdjtsiG4ut6GhAuqf_3anLaE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018878&amp;.sig=NlByLTFLpcOHmk9DWWMrFDe0MAk-&amp;offerId=99c779b80bd96978cc4bb767edb7abb4&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14110213&amp;comId=14110213&amp;catId=100298123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14110213">
+					<Name>Turbado ES</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100298123">
+					<Name>Miscelánea (ofertas sin código EAN)</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>540</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>540</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefonía - iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e90e6f9591f2314d13657a923136f740" type="MANUFACTURER_PRODUCTS">
+				<Title>Toshiba 32GB microSDHC Modelo SD-C032UHS1(BL5A)</Title>
+				<Description>La tarjeta de la serie Toshiba alta velocidad Profesional microSD ™ 30 MB / s de velocidad muy alta micro SDXC ™ Esta tarjeta microSDXC ™ es perfecto para su uso en dispositivos móviles, donde se necesita una alta velocidad de lectura y una alta capacidad. Dispara, cine y almacenar más con hasta 64 GB!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/90/90/http%3A%2F%2Fi51.twenga.com%2F5%2Ftp%2F17%2F27%2F1637321939548411727b.png/dOYO3AAQvJz.DRQ1Yz6_lwlbdkXH7DuqwFYHpmVdgys-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/13607013/100298123/auto/auto/http%3A%2F%2Fi51.twenga.com%2F5%2Ftp%2F17%2F27%2F1637321939548411727b.png/dOYO3AAQvJz.DRQ1Yz6_lwlbdkXH7DuqwFYHpmVdgys-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018879&amp;.sig=8UAw0tZhlzTEKGivLmEWc3dtN7I-&amp;offerId=e90e6f9591f2314d13657a923136f740&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13607013&amp;comId=13607013&amp;catId=100298123&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13607013">
+					<Name>Qeasy</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100298123">
+					<Name>Miscelánea (ofertas sin código EAN)</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>14.9</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Informática - Almacenamiento de datos</MerchantCategory>
+				<Brand>Toshiba</Brand>
+				<BrandId>3275</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f5e35af893699ba2112eb63b49341d8c" type="MANUFACTURER_PRODUCTS">
+				<Title>Batería para Apple iPhone 4 32GB</Title>
+				<Description>Batería para Apple iPhone 4 32GB, 3,7V, 1420mAh/5,2Wh, Li-Polymer</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/11689513/125801/90/90/http%3A%2F%2Fwww.bateria.es%2FProdImage%2Fpixmania%2F0%2F1.60.APP.2.3.jpg/YI4NZitsIVCmPi2FonnXOGtV0Q9OwDh0HeWKeSSIk4s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/11689513/125801/auto/auto/http%3A%2F%2Fwww.bateria.es%2FProdImage%2Fpixmania%2F0%2F1.60.APP.2.3.jpg/YI4NZitsIVCmPi2FonnXOGtV0Q9OwDh0HeWKeSSIk4s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018879&amp;.sig=I5p4f5z49ULsCGeGdOS021uh8eo-&amp;offerId=f5e35af893699ba2112eb63b49341d8c&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11689513&amp;comId=11689513&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11689513">
+					<Name>bateria.es</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11689513/bateria.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accesorios para Móviles</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>12.9</Price>
+					<DeliveryCost>3.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>16.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>de 2 a 5 días</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4051363034269</Ean>
+				<MerchantCategory>Baterías para Smarthphone-PDA</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6103c305ef2bad0316a577fba98b1945" type="MANUFACTURER_PRODUCTS">
+				<Title>Batería para Apple iPhone 3G S 32GB</Title>
+				<Description>Batería para Apple iPhone 3G S 32GB, 3,7V, 1200mAh/4,4Wh, Li-Polymer, 69mm x 41mm x 4mm</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/11689513/127601/90/90/http%3A%2F%2Fwww.bateria.es%2FProdImage%2Fpixmania%2F0%2F1.60.APP.1.4.jpg/4O0inrlCreLmmwqovgToUZDGgP0xWXjCjQ11j9gecZs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/11689513/127601/auto/auto/http%3A%2F%2Fwww.bateria.es%2FProdImage%2Fpixmania%2F0%2F1.60.APP.1.4.jpg/4O0inrlCreLmmwqovgToUZDGgP0xWXjCjQ11j9gecZs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018879&amp;.sig=xHwSZIfkanf6wtHVA_R2ENCbsl4-&amp;offerId=6103c305ef2bad0316a577fba98b1945&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11689513&amp;comId=11689513&amp;catId=127601&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11689513">
+					<Name>bateria.es</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11689513/bateria.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="127601">
+					<Name>Accesorios de TV y Video</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.9</Price>
+					<DeliveryCost>3.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>13.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>de 2 a 5 días</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4050411872310</Ean>
+				<MerchantCategory>Baterías para Smarthphone-PDA</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e716d1cb4eaacd0d6f46805e4141829b" type="MANUFACTURER_PRODUCTS">
+				<Title>SMARTPHONE LANDVO L800S 5</Title>
+				<Description>INCLUYE FUNDA GRATISCaracterísticas- 141 x 71.5 x 9.2 mm- 138g (batería incluida)- Pantalla de 5 con resolución qHD (960x540)- Procesador MTK6582 Quadcore a 1,3 GHz- Conectividad 3G, Bluetooth y Wi-Fi- Android 4.4.2, KitKat- Batería extraíble de 2300mAh- 4 GB de memoria interna (hasta 32 GB con microSD)-</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/90/90/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2F4ff%2F157%2F7725%2Fa030%2F8013%2F558b%2F49fb%2F1111e486d3005056b711a8.jpg/9rgJ_KlJfhxvBxgRzPeCPmRtiWBqgIjEkjuNWbIXeyI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12944613/100020213/auto/auto/http%3A%2F%2Fintl.rakuten-static.com%2Fi%2F4ff%2F157%2F7725%2Fa030%2F8013%2F558b%2F49fb%2F1111e486d3005056b711a8.jpg/9rgJ_KlJfhxvBxgRzPeCPmRtiWBqgIjEkjuNWbIXeyI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018880&amp;.sig=I4iNVPoLAdhOjJrHC5BalNwdrag-&amp;offerId=e716d1cb4eaacd0d6f46805e4141829b&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944613&amp;comId=12944613&amp;catId=100020213&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.es/p-moviles-libres-100020213/landvo-l800s-19899653?partnerId=96947091</CompareUrl>
+				<Merchant id="12944613">
+					<Name>Rakuten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944613/rakuten.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19899653</CatalogID>
+				<Catalog productId="19899653" categoryId="100020213">
+					<Name>landvo L800S</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Móviles Libres</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>129.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>129.99</TotalPrice>
+					<PriceWithoutRebate>139.99</PriceWithoutRebate>
+					<Rebate>8</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0014071210275</Ean>
+				<MerchantCategory>Electrónica, Informática  Móviles, telefonía  Todos los smartphones</MerchantCategory>
+				<Brand>landvo</Brand>
+				<BrandId>44203</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3768869c3a8b9728ba3e5978993afecf" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Funda Carcasa Iphone  Patrón Del Leopardo Gris Duro Caso Para Iphone 5/5s</Title>
+				<Description>Compatibilidad:iPhone 5S,iPhone 5; Características:Cubierta Posterior; Material:Plástico; Estilo:Estampado de Leopardo; Color:Gris; Dimensiones (cm):12.4 x 5.9 x 0.9; Netto Gewicht (kg):0.015</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/125801/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201312%2Fkvtsjj1386728002432.jpg/Xo1UtFbEOVvUc1SNtu7UCQ0XKv6sUvVdpud87ZPQ0_Q-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/125801/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201312%2Fkvtsjj1386728002432.jpg/Xo1UtFbEOVvUc1SNtu7UCQ0XKv6sUvVdpud87ZPQ0_Q-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018880&amp;.sig=kwqak8eqcIm3UIiKBU6LB_9NTnA-&amp;offerId=3768869c3a8b9728ba3e5978993afecf&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accesorios para Móviles</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>2.87</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2.87</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Apple  Accesorios para iPhone  Carcasas y Fundas para iPhone  Carcasas y Fundas para iPhone 5/5S</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="75b2bfd5b67688513b356805f007c83a" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Funda Carcasa Iphone  Caso Toophone  Joylandarmour Goma Para El Iphone 5/5s (Colores Surtidos)</Title>
+				<Description>Compatibilidad:iPhone 5S,iPhone 5; Características:Cubierta Posterior; Material:Goma; Estilo:Transparente,Diseño Especial; Color:Plata,Oro,Gris,Blanco,Negro; Dimensiones (cm):12.8 x 5.8 x 0.7; Netto Gewicht (kg):0.015</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/125801/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201406%2Fwfnl1402356852021.jpg/ifioY0OwJji4O2r7mFAz3IRCtgA17KWRgLic.fKzH4w-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/125801/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201406%2Fwfnl1402356852021.jpg/ifioY0OwJji4O2r7mFAz3IRCtgA17KWRgLic.fKzH4w-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018880&amp;.sig=fo9onbsXDSo4LK0gVJMKpgXOZ.w-&amp;offerId=75b2bfd5b67688513b356805f007c83a&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accesorios para Móviles</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>6.71</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>6.71</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Apple  Accesorios para iPhone  Carcasas y Fundas para iPhone</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5a16f905f7323f93de9c00385f7417cd" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Funda Carcasa Iphone  New Style Wood Grain Pattern Tpu And Wooden Hard Case For Iphone 5/5s</Title>
+				<Description>Compatibilidad:iPhone 5S,iPhone 5; Características:Cubierta Posterior; Material:Madera,TPU; Estilo:Otros,Diseño Especial; Color:Gris,Amarillo,Brown,Rojo; Dimensiones (cm):12.560.8; Netto Gewicht (kg):0.03</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/125801/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201407%2Fhmafhy1406085500524.jpg/3D13shhmXyD2BjFUNugUDlShwG5xIhtbDRGtdbpeBsA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/es/12002313/125801/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201407%2Fhmafhy1406085500524.jpg/3D13shhmXyD2BjFUNugUDlShwG5xIhtbDRGtdbpeBsA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-es.kelkoo.es/ctl/go/sitesearchGo?.ts=1425565018881&amp;.sig=9e_L.3YpK49e5VXMDP1tltRy1yI-&amp;offerId=5a16f905f7323f93de9c00385f7417cd&amp;searchId=10769825312211_1425565018786_243815&amp;affiliationId=96947091&amp;country=es&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002313&amp;comId=12002313&amp;catId=125801&amp;searchQuery=YXBwbGUgaXBob25lIDVzIDMyIGdiICAgZ3JpcyBzaWRlcmFs&amp;useSearch6=true&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002313">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002313/mini</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accesorios para Móviles</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>8.27</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>8.27</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 días laborales</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accesorios de Apple  Accesorios para iPhone  Carcasas y Fundas para iPhone</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

@@ -1,0 +1,81 @@
+{"code": 200, "infos": {
+    "info_code": 0,
+    "nb_tw_objects": 1
+}, "tw_objects": [
+    {
+        "nb_results": 50,
+        "confkey": "56e8a383252c5",
+        "tracking_url": "http:\/\/api.wtpn.twenga.nl\/track\/display.js",
+        "results": [
+            {
+                "item_id": 9113124182246895740,
+                "name": "Apple 2500mAh Battery Case Golden voor de iPhone 5 5C 5S",
+                "description": "Hoezen MetBatterij Cel-Type:Li-Polymeer; Capaciteit Bereik:2000-4500; Ingangsspanning (V):5V ; Uitgangsspanning (V):5V ; Huidig Uigangsvermogen (mA):800; Afmetingen (cm):1361.5; Netto Gewicht (KG):0.077; Capaciteit (mAh):2500; Stroomweergave:LED; Eigenschappen:",
+                "click_url": "http:\/\/r.twenga.nl\/g1.php?cpz=PVHLTsMwEPyVyue09TO2c4OUQ4UQlRo4VUKu41CrqWMSF1Qh_h3bhUo-zO7M7s6uv8G6BZVEiCBMkcCYlkIyTmEBmos3oAINKMDWBpN0hEohJSrAg_YaVHCBCJMFeB02KhyiFhFaSrlbYrpbPucXi--8j5TqOutsUG3MbMbhfVSn1DH2qgcXRqVDDhnFrACP5hJLGFIlEopLrrWOZU--DTaKQJl6_GFMWIzqg3LO9DFuTafOfUimz_usiPDF9XnUKs0AiBFZYsFLzjAXiEEoo2bVJhImsDUfGW2H86jz4hTiAtyfbd82UxoKEZtDPMdwhlBFREVTh1pdd8hHuHnKIzlKhvTNZfBOebuI68Jsf3Dd8X9nDktKSgF1F5n11Jgp1KpPVTAlgjldfcXEZE92St7X7nM4muuPkQIcv9LFve_NLLL7Ubn2Ld0C059f",
+                "tag": "1539628767527815009-9113124182246895740",
+                "has_image": true,
+                "has_merchant": true,
+                "has_brand": true,
+                "has_category": true,
+                "has_product": false,
+                "has_discount": false,
+                "has_shipping_cost": true,
+                "price": "\u20ac 26,59",
+                "price_raw": 26.59,
+                "currency": "\u20ac",
+                "shipping_cost": "\u20ac 0,00",
+                "shipping_cost_raw": -0,
+                "has_ean": false,
+                "estimated_cpc": "\u20ac 0,14",
+                "estimated_cpc_raw": 0.1359,
+                "image": {
+                    "small": {
+                        "url": "http:\/\/i100.twenga.com\/0-tp_9113124182246895740.jpg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "medium": {
+                        "url": "http:\/\/i100.twenga.com\/0-tp_9113124182246895740b.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "large": {
+                        "url": "http:\/\/i100.twenga.com\/0-tp_9113124182246895740vb.jpg",
+                        "width": 290,
+                        "height": 290
+                    }
+                },
+                "merchant_feed_id": 6498996,
+                "merchant": {
+                    "merchant_id": 6498996,
+                    "name": "Lini",
+                    "match_url": "http:\/\/api.wtpn.twenga.nl\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a383252c5&merchant_id=6498996",
+                    "domain": "lini",
+                    "has_logo": true,
+                    "logo": {
+                        "url": "http:\/\/s1.c4tw.net\/1\/6498996.png",
+                        "width": 87,
+                        "height": 26
+                    }
+                },
+                "brand": {
+                    "brand_id": 24,
+                    "name": "Apple",
+                    "match_url": "http:\/\/api.wtpn.twenga.nl\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a383252c5&brand_id=24",
+                    "has_logo": true,
+                    "logo": {
+                        "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                        "width": 87,
+                        "height": 26
+                    }
+                },
+                "category": {
+                    "category_id": 134990,
+                    "name": "iPhone accessoires en onderdelen",
+                    "twenga_url": "http:\/\/www.twenga.nl\/#&c=134990&u=c",
+                    "match_url": "http:\/\/api.wtpn.twenga.nl\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a383252c5&category_id=134990"
+                }
+            }
+        ]
+    }
+]}

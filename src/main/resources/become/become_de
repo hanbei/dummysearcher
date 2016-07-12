@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dynamic-data version="3.1" serial-number="2201504142" name="query" xmlns="http://services.become.eu/livexml">
+	<params>
+		<param name="qry">xbox</param>
+	</params>
+	<top-level-categories-module>
+		<params/>
+		<top-level-categories nr-of-products="118755" nr-of-offers="5480669" n="24">
+			<category nr-of-products="1964" nr-of-offers="5757" cid="8189">
+				<label>Foto-, Videokamera &amp; Co.</label>
+			</category>
+			<category nr-of-products="10633" nr-of-offers="373432" cid="8064">
+				<label>Computer &amp; Software</label>
+			</category>
+			<category nr-of-products="1943" nr-of-offers="5028" cid="8199">
+				<label>Telekommunikation</label>
+			</category>
+			<category nr-of-products="5821" nr-of-offers="47768" cid="8000">
+				<label>Audio, Video &amp; TV</label>
+			</category>
+			<category nr-of-products="36203" nr-of-offers="9321" cid="8152">
+				<label>Buch, Hörbuch &amp; Kalender</label>
+			</category>
+			<category nr-of-products="6258" nr-of-offers="141390" cid="7543">
+				<label>Beauty, Wellness &amp; Drogerieartikel</label>
+			</category>
+			<category nr-of-products="2" nr-of-offers="126" cid="117648">
+				<label>Downloads zum Verkauf &amp; Verleih</label>
+			</category>
+			<category nr-of-products="1510" nr-of-offers="1919" cid="8305">
+				<label>Game &amp; Konsole</label>
+			</category>
+			<category nr-of-products="14195" nr-of-offers="1770426" cid="10170">
+				<label>Haushalt &amp; Wohnen</label>
+			</category>
+			<category nr-of-products="3947" nr-of-offers="154152" cid="9863">
+				<label>Hobby &amp; Spiel</label>
+			</category>
+			<category nr-of-products="1185" nr-of-offers="200052" cid="7846">
+				<label>Sport &amp; Freizeit</label>
+			</category>
+			<category nr-of-products="131" nr-of-offers="1820213" cid="7579">
+				<label>Mode &amp; Accessoires</label>
+			</category>
+			<category nr-of-products="1" nr-of-offers="2105" cid="118648">
+				<label>Schnäppchen &amp; Gebrauchtware</label>
+			</category>
+			<category nr-of-products="45" nr-of-offers="255742" cid="9812">
+				<label>Auto &amp; Motorrad</label>
+			</category>
+			<category nr-of-products="371" nr-of-offers="27126" cid="7500">
+				<label>Baby &amp; Kind</label>
+			</category>
+			<category nr-of-products="33391" nr-of-offers="708" cid="10382">
+				<label>Film &amp; Musik</label>
+			</category>
+			<category nr-of-products="16" nr-of-offers="43861" cid="9658">
+				<label>Büro &amp; Schreibwaren</label>
+			</category>
+			<category nr-of-products="5" nr-of-offers="40125" cid="10738">
+				<label>Erotik</label>
+			</category>
+			<category nr-of-products="14" nr-of-offers="32979" cid="9963">
+				<label>Essen, Trinken &amp; Tabakwaren</label>
+			</category>
+			<category nr-of-products="4" nr-of-offers="2404" cid="11587">
+				<label>Geschenk</label>
+			</category>
+			<category nr-of-products="4" nr-of-offers="2800" cid="11546">
+				<label>Messe, Veranstaltung, Gastronomie &amp; Reisen</label>
+			</category>
+			<category nr-of-products="38" nr-of-offers="12475" cid="11248">
+				<label>Elektronik</label>
+			</category>
+			<category nr-of-products="525" nr-of-offers="444742" cid="10585">
+				<label>Gesundheit &amp; Wohlbefinden</label>
+			</category>
+			<category nr-of-products="549" nr-of-offers="86018" cid="11738">
+				<label>sonstige Artikel unserer Händler</label>
+			</category>
+		</top-level-categories>
+	</top-level-categories-module>
+	<current-category-module>
+		<params/>
+		<module-attributes/>
+	</current-category-module>
+	<navigation-trail-module>
+		<params/>
+		<navigation-trail n="2">
+			<element type="index">
+				<label>Index</label>
+			</element>
+			<element id="xbox" type="query">
+				<label>Xbox</label>
+			</element>
+		</navigation-trail>
+	</navigation-trail-module>
+	<suggestions-module>
+		<params/>
+		<suggestions>
+			<queries n="0"/>
+			<outstanding-category parent-cid="8305" cid="1022">
+				<label>Konsole</label>
+				<category-attributes n="0"/>
+			</outstanding-category>
+		</suggestions>
+	</suggestions-module>
+	<category-results-module>
+		<params/>
+		<category-results n="23" total="23">
+			<category nr-of-products="8" parent-cid="8305" cid="1022">
+				<label>Konsole</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="62" parent-cid="8306" cid="644287">
+				<label>Xbox One-Game</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="69" parent-cid="8306" cid="7458">
+				<label>Xbox 360-Game</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="49" parent-cid="117648" cid="117654">
+				<label>Gamesdownloads</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="30" parent-cid="8199" cid="33145">
+				<label>Headset &amp; Freisprecheinrichtung</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="95" parent-cid="8305" cid="1287">
+				<label>Zubehör Für Game &amp; Konsole</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="3" parent-cid="8055" cid="1050">
+				<label>Projektor &amp; Beamer</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="4" parent-cid="8306" cid="109745">
+				<label>Sonstige Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="4" parent-cid="8117" cid="1244">
+				<label>TV-Karte</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="8306" cid="7457">
+				<label>PS3-Game</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="8117" cid="7417">
+				<label>Lautsprecher &amp; Soundsystem</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="8001" cid="1039">
+				<label>Lautsprecher</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="10328" cid="109749">
+				<label>Gesellschaftsspiele</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="8306" cid="644282">
+				<label>PS4-Game</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="7" parent-cid="11738" cid="625572">
+				<label>Sonstige Angebote Von Mmoga</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="5" parent-cid="8000" cid="109475">
+				<label>Sonstige Audio, Video &amp; TV-Artikel</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="9812" cid="109833">
+				<label>Motorrad &amp; Co.</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="115630" cid="1165">
+				<label>Tastatur &amp; Tastatur-Set</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="8121" cid="7033">
+				<label>NAS</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="8308" cid="7365">
+				<label>Grafik-, Video- &amp; Audiosoftware</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="7580" cid="106617">
+				<label>Koffer &amp; Tasche</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="11738" cid="652560">
+				<label>Sonstige Angebote Von Neckermann</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="11738" cid="57294">
+				<label>Sonstige Angebote Von OTTO</label>
+				<category-attributes n="0"/>
+			</category>
+		</category-results>
+	</category-results-module>
+	<result-filter-module>
+		<params/>
+		<result-filter n="4">
+			<filter-dimension n="23" selected="false" display-position="1">
+				<label>Kategorie</label>
+				<dimension-class nr-of-products="8" selected="false" display-position="1" fdid="cat1022">
+					<label>Konsole</label>
+				</dimension-class>
+				<dimension-class nr-of-products="62" selected="false" display-position="2" fdid="cat644287">
+					<label>Xbox One-Game</label>
+				</dimension-class>
+				<dimension-class nr-of-products="69" selected="false" display-position="3" fdid="cat7458">
+					<label>Xbox 360-Game</label>
+				</dimension-class>
+				<dimension-class nr-of-products="49" selected="false" display-position="4" fdid="cat117654">
+					<label>Gamesdownloads</label>
+				</dimension-class>
+				<dimension-class nr-of-products="30" selected="false" display-position="5" fdid="cat33145">
+					<label>Headset &amp; Freisprecheinrichtung</label>
+				</dimension-class>
+				<dimension-class nr-of-products="95" selected="false" display-position="6" fdid="cat1287">
+					<label>Zubehör für Game &amp; Konsole</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="7" fdid="cat1050">
+					<label>Projektor &amp; Beamer</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="8" fdid="cat109745">
+					<label>sonstige Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="9" fdid="cat1244">
+					<label>TV-Karte</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="10" fdid="cat7457">
+					<label>PS3-Game</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="11" fdid="cat7417">
+					<label>Lautsprecher &amp; Soundsystem</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="12" fdid="cat1039">
+					<label>Lautsprecher</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="13" fdid="cat109749">
+					<label>Gesellschaftsspiele</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="14" fdid="cat644282">
+					<label>PS4-Game</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="15" fdid="cat625572">
+					<label>sonstige Angebote von mmoga</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="16" fdid="cat109475">
+					<label>sonstige Audio, Video &amp; TV-Artikel</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="17" fdid="cat109833">
+					<label>Motorrad &amp; Co.</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="18" fdid="cat1165">
+					<label>Tastatur &amp; Tastatur-Set</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="19" fdid="cat7033">
+					<label>NAS</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="20" fdid="cat7365">
+					<label>Grafik-, Video- &amp; Audiosoftware</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="21" fdid="cat106617">
+					<label>Koffer &amp; Tasche</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="22" fdid="cat652560">
+					<label>sonstige Angebote von Neckermann</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="23" fdid="cat57294">
+					<label>sonstige Angebote von OTTO</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="30" selected="false" display-position="2">
+				<label>Marke</label>
+				<dimension-class nr-of-products="49" selected="false" display-position="1" fdid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="2" fdid="mnVHJpdHRvbg..">
+					<label>Tritton</label>
+				</dimension-class>
+				<dimension-class nr-of-products="8" selected="false" display-position="3" fdid="mnR2lvdGVjaw..">
+					<label>Gioteck</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="4" fdid="mnT3B0b21h">
+					<label>Optoma</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="5" fdid="mnU3BlZWQtTGluaw..">
+					<label>Speed-Link</label>
+				</dimension-class>
+				<dimension-class nr-of-products="8" selected="false" display-position="6" fdid="mnR3VpbGxlbW90">
+					<label>Guillemot</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="7" fdid="mnQVZlck1lZGlh">
+					<label>AVerMedia</label>
+				</dimension-class>
+				<dimension-class nr-of-products="14" selected="false" display-position="8" fdid="mnUGxheXNlYXQ.">
+					<label>Playseat</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="9"
+				                 fdid="mnQmlnYmVuIEludGVyYWN0aXZl">
+					<label>Bigben Interactive</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="10" fdid="mnTG9naXRlY2g.">
+					<label>Logitech</label>
+				</dimension-class>
+				<dimension-class nr-of-products="11" selected="false" display-position="11" fdid="mnSGFtYQ..">
+					<label>Hama</label>
+				</dimension-class>
+				<dimension-class nr-of-products="11" selected="false" display-position="12" fdid="mnWGJveCAzNjA.">
+					<label>Xbox 360</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="13" fdid="mnQnVmZmFsbw..">
+					<label>Buffalo</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="14" fdid="mnRGF0ZWw.">
+					<label>Datel</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="15" fdid="mnRWxnYXRv">
+					<label>Elgato</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="16" fdid="mnSGFzYnJv">
+					<label>Hasbro</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="17" fdid="mnSWN5IEJveA..">
+					<label>Icy Box</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="18" fdid="mnTG9naWMz">
+					<label>Logic3</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="19" fdid="mnTW9uc3Rlcg..">
+					<label>Monster</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="20" fdid="mnUERQ">
+					<label>PDP</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="21" fdid="mnU3RlZWwgU2VyaWVz">
+					<label>Steel Series</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="22" fdid="mnVGV1ZmVs">
+					<label>Teufel</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="23"
+				                 fdid="mnVm95ZXRyYSBUdXJ0bGUgQmVhY2g.">
+					<label>Voyetra Turtle Beach</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="24" fdid="mnWGJveCBPbmU.">
+					<label>Xbox One</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="25" fdid="mnQmFuZGFp">
+					<label>Bandai</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="26"
+				                 fdid="mnRWxlY3Ryb25pYyBBcnRz">
+					<label>Electronic Arts</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="27" fdid="mnUGRw">
+					<label>Pdp</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="28" fdid="mnU3F1YXJl">
+					<label>Square</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="29" fdid="mnUHM0">
+					<label>Ps4</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="30" fdid="mnVGFrZSBUd28.">
+					<label>Take Two</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="1" selected="false" display-position="3">
+				<label>Grundfarbe</label>
+				<dimension-class nr-of-products="2" selected="false" display-position="1" fdid="tf1rpp">
+					<label>Schwarz</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="9" selected="false" display-position="4">
+				<label>Händler</label>
+				<dimension-class nr-of-products="92" selected="false" display-position="1" fdid="me44">
+					<label>OTTO</label>
+				</dimension-class>
+				<dimension-class nr-of-products="81" selected="false" display-position="2" fdid="me56102">
+					<label>mmoga</label>
+				</dimension-class>
+				<dimension-class nr-of-products="11" selected="false" display-position="3" fdid="me107117">
+					<label>MiniInTheBox</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="4" fdid="me109966">
+					<label>Gamecode Shop</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="5" fdid="me103739">
+					<label>Lightinthebox</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="6" fdid="me107178">
+					<label>Lizengo Deutschland</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="7" fdid="me32278">
+					<label>motoin.de</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="8" fdid="me39844">
+					<label>Koffer-Arena.de</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="9" fdid="me103877">
+					<label>Neckermann</label>
+				</dimension-class>
+			</filter-dimension>
+		</result-filter>
+	</result-filter-module>
+	<product-results-module>
+		<params/>
+		<product-results n="10" total="351" nr="1" srt="RELEVANCE">
+			<product nr-of-offers="1" nr-of-merchants="1" pid="33405859" oid="1571454839" type="product">
+				<label>Microsoft Xbox One FIFA 15 Bundle</label>
+				<price-range nr-of-offers="1" cur="EUR" max="429.99" min="429.99"/>
+				<sub-label>Standardgerät/tragbares Gerät: Standardgerät - Speicherkapazität: 500 GB</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370860764</code>
+					<code type="UPC">885370860764</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/D_000061860156_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/I_000061860156_DE_210.jpg"/>
+				<description></description>
+				<offer oid="1571454839">
+					<label>Xbox One (ohne Kinect) 500 GB + FIFA 15 + 2 Controller Konsolen-Set, schwarz, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33405859&amp;c=1022&amp;o=1571454839&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=461613164%3A%3A400387&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=429.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=0&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5e_5mk6vu_HAnBiTiPcfFgev9ueSdcf8JVqBASO_Cz4NxwgAGSszJR3ApIvAW94Ts9Kn3II-BzAgOpwZiHC-LDRiElY8xJINdBAOAe8Wf9DA2nvwEjSx6ZopBQ3_wMGp3-Vs98D0bbGAvjbGRZ0SlC6DixuKGjfrh4AliD0b09CQOMCMa_0XCraA..</url>
+					<price cur="EUR">429.99</price>
+					<price-info cur="EUR" type="old">449.99</price-info>
+					<price-info cur="EUR" type="total">435.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes>
+						<offer-attribute name="ENERGY_EFFICIENCY_CLASS">A++</offer-attribute>
+					</offer-attributes>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" pid="33405860" oid="1409317740" type="product">
+				<label>Microsoft Xbox One Special Edition Sunset Overdrive Bundle</label>
+				<price-range nr-of-offers="1" cur="EUR" max="339.99" min="339.99"/>
+				<sub-label>Standardgerät/tragbares Gerät: Standardgerät - Speicherkapazität: 500 GB - Grundfarbe: weiß
+				</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370831207</code>
+					<code type="UPC">885370831207</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/D_000061860158_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/I_000061860158_DE_210.jpg"/>
+				<description></description>
+				<offer oid="1409317740">
+					<label>Xbox One (ohne Kinect) + Sunset Overdrive download Konsolen-Set, weiß, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33405860&amp;c=1022&amp;o=1409317740&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=454782459%3A%3A622952&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=339.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=1&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5eX3miEIM__l1dwznxRF2pSoThBOnKGfp4ihq6jA1__eI0gkcgu9GAQbc6N3VOZP8ivklf9R9rSrDKX61tN7-o6ZFWi9hHvsbujx1NqjXXI9pnIh0lBNBHpqAZto861si2j2v2OvxdbLQ5wcNubRjM_vybyiQAA5nkiaNTAgVoQRBtS4mimdK6iQ..</url>
+					<price cur="EUR">339.99</price>
+					<price-info cur="EUR" type="old">399.99</price-info>
+					<price-info cur="EUR" type="total">345.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes>
+						<offer-attribute name="TYRE_LABEL_EFFICIENCY">E</offer-attribute>
+						<offer-attribute name="TYRE_LABEL_GRIP">C</offer-attribute>
+						<offer-attribute name="TYRE_LABEL_NOISE">76</offer-attribute>
+					</offer-attributes>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="2" nr-of-merchants="1" pid="33405857" oid="1411475931" type="product">
+				<label>Microsoft Xbox One Assassin’s Creed Unity Bundle + Kinect</label>
+				<price-range nr-of-offers="2" cur="EUR" max="439.99" min="399.99"/>
+				<sub-label>Standardgerät/tragbares Gerät: Standardgerät - Speicherkapazität: 500 GB</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370869194</code>
+					<code type="UPC">885370869194</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/D_000061860152_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/I_000061860152_DE_210.jpg"/>
+				<description></description>
+				<offer oid="1411475931">
+					<label>Xbox One (mit Kinect) + Assassins Creed Unity + Black Flag download Konsolen-Set, schwarz,
+						Gr.
+					</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33405857&amp;c=1022&amp;o=1411475931&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=448928109%3A%3A464411&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=439.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=2&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5ejCZBt-Rr-vCNPeQghSinXHmV6qp55jQ1hNKRXe55Gt0JyLli5KadcC8JHK6jbuifs5TpzK0Jao4RSMz3FuGDejBfkNpfPRus_eg0JsxYV-DsR6i7WVmGyrg41yet7VLGtdalk-M-AIhUZiPgKBDnfuBD72Io9-6oD6qFAEFPFOLCmKfcTlj43g..</url>
+					<price cur="EUR">439.99</price>
+					<price-info cur="EUR" type="old">499.99</price-info>
+					<price-info cur="EUR" type="total">445.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" pid="33405858" oid="1325989864" type="product">
+				<label>Microsoft Xbox One Limited Edition Call of Duty: Advanced Warfare Bundle</label>
+				<price-range nr-of-offers="1" cur="EUR" max="499.99" min="499.99"/>
+				<sub-label>Standardgerät/tragbares Gerät: Standardgerät - Speicherkapazität: 1 TB</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370860191</code>
+					<code type="UPC">885370860191</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/D_000061860154_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/I_000061860154_DE_210.jpg"/>
+				<description></description>
+				<offer oid="1325989864">
+					<label>Xbox One (ohne Kinect) 1 TB + Call of Duty: Advanced Warfare download + 2 Controller
+						Konsolen-Set, grau/schwarz, Gr.
+					</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33405858&amp;c=1022&amp;o=1325989864&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=448925013%3A%3A328512&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=499.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=3&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5evwuBf6gi2_hC6nuhOpa_eK9N81Q3IUjAV9vZTXGX-J0h--0xOmijhG_G5HWtfpRhmPO2i-gSSDr24zRPZ5f8UysUMtqE3yic_LG9Ghwo-dqTsPvBkYNHIVhL3Uvq7Q1-86k2E3L5HH7kkpbbdzPdg_8xh7_5jXFhkvRzFTcdiC2jzz1o4eoNWQ..</url>
+					<price cur="EUR">499.99</price>
+					<price-info cur="EUR" type="old">559.99</price-info>
+					<price-info cur="EUR" type="total">505.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="2" nr-of-merchants="1" pid="33405853" oid="1845131373" type="product">
+				<label>Microsoft Xbox One 500GB</label>
+				<price-range nr-of-offers="2" cur="EUR" max="349.99" min="329.99"/>
+				<sub-label></sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370808339</code>
+					<code type="UPC">885370808339</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/D_000061860146_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/I_000061860146_DE_210.jpg"/>
+				<description></description>
+				<offer oid="1845131373">
+					<label>Xbox One (ohne Kinect) + Halo - The Master Chief Collection download Konsolen-Set, schwarz,
+						Gr.
+					</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33405853&amp;c=1022&amp;o=1845131373&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=477020161%3A%3A658878&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=349.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=4&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5eA-n1NRhRh3BcwkSL7-_QiCK877RENX9toGaH8P8UDApfwyHsUuDC8UC0rx5TfpHKkMPBHJfXdYhLbZbvpOG2_fto6QcaoH25i5KlYH6xdW_45r3Q7B9KGaz0mR13HJe0tKst1jOf8EIHFmFFylcQwOTMkfV3K-8SBcJUQ47ZWLpSbVJf3Fd67g..</url>
+					<price cur="EUR">349.99</price>
+					<price-info cur="EUR" type="old">399.99</price-info>
+					<price-info cur="EUR" type="total">355.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="2" nr-of-merchants="1" pid="33405854" oid="1868329408" type="product">
+				<label>Microsoft Xbox One 500GB - Bundle</label>
+				<price-range nr-of-offers="2" cur="EUR" max="399.99" min="349.99"/>
+				<sub-label></sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">4029686377196</code>
+				</product-codes>
+				<image type="UNAVAILABLE" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/offers/DE/710/000/000/000/D_000000000000_DE_710.jpg"/>
+				<description></description>
+				<offer oid="1868329408">
+					<label>Xbox One (ohne Kinect) + Destiny Konsolen-Set, schwarz, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33405854&amp;c=1022&amp;o=1868329408&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=447263734%3A%3A746572&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=399.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=5&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5eNbb5M1kHjwLWzcesxKehwdOvJbZc87195tu5jfqP3ESh0tcCeWGON-7adW7XJS8puHymJRQ4Lab2NC0yYnfnId-GGpmHDGWOqE8G01tLqKlLgP-Tmf5ww-N0iDzqWtD6Ugm0UDSRIP6gI7sIDFW9z3638S4RxyVs-ZHm7vjFbc5ljTbtz8GB4w..</url>
+					<price cur="EUR">399.99</price>
+					<price-info cur="EUR" type="total">405.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1440553620" type="offer">
+				<label>XB One Kinect Sensor + Dance Central Spotlight download, schwarz, Gr.</label>
+				<brand bid="mnWGJveCBPbmU.">
+					<label>Xbox One</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370849479</code>
+					<code type="UPC">885370849479</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/offers/DE/710/001/440/553/D_001440553620_DE_710.jpg"/>
+				<description>Set-Bestandteile: Spiele im Lieferumfang: Dance Central Spotlight Spielform: download
+					Altersfreigabe (USK): USK-Einstufung: ab 0 Audio/Video: 3D-fähig: Nein Maße &amp; Gewicht: Breite:
+					34,8 cm Höhe: 16 cm Tiefe: 7,8 cm, , schwarz,
+				</description>
+				<offer oid="1440553620">
+					<label>Xbox One XB One Kinect Sensor + Dance Central Spotlight download, schwarz, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=1022&amp;o=1440553620&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=454462584%3A%3A622843&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=149.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=6&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5e02y9M4IdzMQ-oRSJGzw8ulpmNXSq5v2cYaVlCIaqSEIla_VkuEg3xI0G-Gf3paJPkOMeHVFiDJORk7NgI6FfekOv-Uj4nsLDHFMQsUUsp8PB2cAiBQWtm1iiz3cksFUr9Yw3Sx--IHW8Tp2eRKo7opr-3586Xc0MYctFoK-bp3o.</url>
+					<price cur="EUR">149.99</price>
+					<price-info cur="EUR" type="total">155.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1411481684" type="offer">
+				<label>500 GB Festplatte, schwarz, Gr.</label>
+				<brand bid="mnWGJveCAzNjA.">
+					<label>Xbox 360</label>
+				</brand>
+				<category cid="1022">
+					<label>Konsole</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370829846</code>
+					<code type="UPC">885370829846</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/offers/DE/710/001/411/481/D_001411481684_DE_710.jpg"/>
+				<description>Hauptmerkmale: Kapazität: 500 GB Farbe: schwarz, , schwarz,</description>
+				<offer oid="1411481684">
+					<label>Xbox 360 500 GB Festplatte, schwarz, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=1022&amp;o=1411481684&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=454465598%3A%3A814959&amp;ver=2.0&amp;market=de&amp;man=Xbox+360&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=99.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=7&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5e1eusNyYyD_qxlNabt-0pRuaBup40U2Avqgbv9ts2jnFMNSjOziSZVhAHUloMxggROB_6b8jAPR5xQ_YtY6w0nBBeVttYGTwPRhavdImrHZ87syoLjSU1Ybi5h1KJPU_mMw9Rz3Ey8EOY4mHed3ZMz6UZATTEp22o5X78dVPbIDw.</url>
+					<price cur="EUR">99.99</price>
+					<price-info cur="EUR" type="total">105.93</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1752639813" type="offer">
+				<label>Battlefield Hardline Xbox 360, Gr.</label>
+				<category cid="7458">
+					<label>Xbox 360-Game</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5030930112431</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/offers/DE/710/001/752/639/D_001752639813_DE_710.jpg"/>
+				<description>Spielbeschreibung: Kompatibilität: Xbox 360 Publisher: EA Games Entwickler: Visceral Games
+					Spieletyp (Genre): Action, Ego Shooter, Adventure Anzahl Spieler: 1 Online Modus: Ja Anzahl Spieler
+					(online): Multiplayer USK-Freigabe: keine Jugendfreigabe Systemanforderungen: Internetverbindung
+					erforderlich: Nein Controller erforderlich: Xbox 360 Controller Webcam erforderlich: Nein Hinweise:
+					USK 18 Hinweis: Bitte beachten Sie die besondere Zustellung per Post Ident. Der Zusteller prüft vor
+					Übergabe der Sendung die Identität und Volljährigkeit des Bestellers anhand des Personalausweises
+					oder Reisepasses (Führerschein ist nicht ausreichend). Name(n) und (alle) Vorname(n) im Ausweis
+					müssen exakt mit der Bestellung übereinstimmen, ansonsten ist keine Zustellung möglich. Die
+					Aushändigung erfolgt nur persönlich an den Besteller, eine Abgabe bei Familienmitgliedern oder
+					Nachbarn ist nicht möglich. Auch der Versand an eine Firmen- oder Paketshop-Adresse ist nicht
+					möglich. Alle Infos finden Sie in unserem USK 18-Shop, , ,
+				</description>
+				<offer oid="1752639813">
+					<label>Battlefield Hardline Xbox 360, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001341&amp;c=7458&amp;o=1752639813&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=473370974%3A%3A414461&amp;ver=2.0&amp;market=de&amp;man=&amp;ser=2704&amp;pc=20001341&amp;pcat=21479&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=69.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=8&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5e8I_svK9H51my4xq5s5u5wyZQksGeTi-s_UDWJfyMk8-mPknrsIzst7t2A50x953PGm0G0VZ7w2o_Q0KReAx6rqOAlpNijUZha9mL8Pp5c13Yv8TJ2orBpYglNLDm9GncJ-s8dMytxzNNui052xcdq0Vb8QqASepcv2TqemXaLoY.</url>
+					<price cur="EUR">69.99</price>
+					<price-info cur="EUR" type="total">75.93</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1858625210" type="offer">
+				<label>Borderlands: The Handsome Collection Xbox One, Gr.</label>
+				<brand bid="mnVGFrZSBUd28.">
+					<label>Take Two</label>
+				</brand>
+				<category cid="644287">
+					<label>Xbox One-Game</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5026555296663</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_de/images/offers/DE/710/001/858/625/D_001858625210_DE_710.jpg"/>
+				<description>Spielbeschreibung: Kompatibilität: Xbox One Entwickler: Gearbox Spieletyp (Genre): Ego
+					Shooter, Action Anzahl Spieler: 1 bis 4 Online Modus: Ja Anzahl Spieler (online): Multiplayer
+					USK-Freigabe: keine Jugendfreigabe Spielbeschreibung: DAS VOLLE CHAOS, FRISCH AUFBEREITET!
+					Borderlands: The Handsome Collection ist die essentielle Borderlands- Sammlung und enthält die
+					endgültigen Versionen von Borderlands 2 und Borderlands: The Pre-Sequel, eigens hergestellt für
+					Next-Gen-Konsolen. Wenn du eine PlayStation 4 oder eine Xbox One hast, erwarten dich ein
+					Leistungsniveau und eine Grafik, wie du sie bei Borderlands auf einer Videospielkonsole nie zuvor
+					erlebt hast. Erstmals in der Geschichte der Serie können vier Spieler auf einem einzigen Monitor mit
+					geteiltem Bildschirm gleichzeitig spielen, und zwar in umwerfender HD-Qualität. Systemanforderungen:
+					Internetverbindung erforderlich: Ja Controller erforderlich: Xbox One Controller Webcam
+					erforderlich: Nein Hinweise: USK 18 Hinweis: Bitte beachten Sie die besondere Zustel, , ,
+				</description>
+				<offer oid="1858625210">
+					<label>Take Two Borderlands: The Handsome Collection Xbox One, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=31078502&amp;c=644287&amp;o=1858625210&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=477046870%3A%3A577303&amp;ver=2.0&amp;market=de&amp;man=Take+Two&amp;ser=2704&amp;pc=31078502&amp;pcat=95759&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=59.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=9&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5eVE5gFeKWOGI-hAS2MM7dDkBXu2KC-6rx4nX9nsgrFU-bkBfp2-5-ZWlpJCAMLheQD6b9MyHY8iVdnPFXBP4LeyxC85fPTl-73emOG8gxZMyuoCcdsts2VZjSjzQ0BJTUqP8DLafHz1i2CP3SjTXY7G5EmYUBQtWnJScB8vrejIs.</url>
+					<price cur="EUR">59.99</price>
+					<price-info cur="EUR" type="total">65.94</price-info>
+					<delivery>
+						<period flag="UNKNOWN">Nachlieferung</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<paging n="7" total="36" pge="10">
+				<page rel="FIRST" pgn="1" name="query" type="query"/>
+				<page rel="CURRENT" pgn="1" name="query" type="query"/>
+				<page rel="NEXT" pgn="2" name="query" type="query"/>
+				<page pgn="3" name="query" type="query"/>
+				<page pgn="4" name="query" type="query"/>
+				<page pgn="5" name="query" type="query"/>
+				<page rel="LAST" pgn="36" name="query" type="query"/>
+			</paging>
+		</product-results>
+	</product-results-module>
+	<popular-products-module>
+		<params/>
+		<popular-products n="4">
+			<product nr-of-offers="1" nr-of-merchants="1" pid="31081216" oid="1620809990" type="product">
+				<label>Nintendo 3DS XL+ Animal Crossing</label>
+				<price-range nr-of-offers="1" cur="EUR" max="199.99" min="199.99"/>
+				<sub-label>Standardgerät/tragbares Gerät: tragbares Gerät - Grundfarbe: weiß</sub-label>
+				<brand bid="mnTmludGVuZG8.">
+					<label>Nintendo</label>
+				</brand>
+				<category nr-of-products="28" nr-of-offers="53" parent-cid="8305" cid="1022">
+					<label>Konsole</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0045496501358</code>
+					<code type="UPC">045496501358</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/048/173/B_000048173416_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/048/173/I_000048173416_DE_210.jpg"/>
+				<offer oid="1620809990">
+					<label>Nintendo 3ds XL + Animal Crossing vorinstalliert Konsolen-Set mit 3 Jahren Garantie*, rosa,
+						Gr.
+					</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=31081216&amp;c=1022&amp;o=1620809990&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=458433955%3A%3A774090&amp;ver=2.0&amp;market=de&amp;man=Nintendo+3ds&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=199.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5eRHF6-ooM6IC8-RfnX17GQpjYqi5xs5SqgGd_JT1sxKMHQNGPdY8m7JZdb87URGqLGO5wuQYhksDJK4aZaYbigEYWNHhDtf67YjJlfz-HqWX3W4qgTvV_uHXYHhwt39BXcrUto5LqGgENKtOzkkibgz1uUDY9-Um7YJEz01aQMbqlegn9cjWc2A..</url>
+					<price cur="EUR">199.99</price>
+					<price-info cur="EUR" type="old">229.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" pid="33405859" oid="1571454839" type="product">
+				<label>Microsoft Xbox One FIFA 15 Bundle</label>
+				<price-range nr-of-offers="1" cur="EUR" max="429.99" min="429.99"/>
+				<sub-label>Standardgerät/tragbares Gerät: Standardgerät - Speicherkapazität: 500 GB</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category nr-of-products="28" nr-of-offers="53" parent-cid="8305" cid="1022">
+					<label>Konsole</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370860764</code>
+					<code type="UPC">885370860764</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/B_000061860156_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/061/860/I_000061860156_DE_210.jpg"/>
+				<offer oid="1571454839">
+					<label>Xbox One (ohne Kinect) 500 GB + FIFA 15 + 2 Controller Konsolen-Set, schwarz, Gr.</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33405859&amp;c=1022&amp;o=1571454839&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=461613164%3A%3A400387&amp;ver=2.0&amp;market=de&amp;man=Xbox+One&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=429.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5e_5mk6vu_HAnBiTiPcfFgev9ueSdcf8JVqBASO_Cz4NxwgAGSszJR3ApIvAW94Ts9Kn3II-BzAgOpwZiHC-LDRiElY8xJINdBAOAe8Wf9DA2nvwEjSx6ZopBQ3_wMGp3-Vs98D0bbGAvjbGRZ0SlC6DixuKGjfrh4AliD0b09CQOMCMa_0XCraA..</url>
+					<price cur="EUR">429.99</price>
+					<price-info cur="EUR" type="old">449.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="2" nr-of-merchants="1" pid="33419153" oid="1594737713" type="product">
+				<label>Nintendo Wii U Premium Pack Mario Kart 8 Bundle</label>
+				<price-range nr-of-offers="2" cur="EUR" max="419.99" min="319.99"/>
+				<sub-label></sub-label>
+				<brand bid="mnTmludGVuZG8.">
+					<label>Nintendo</label>
+				</brand>
+				<category nr-of-products="28" nr-of-offers="53" parent-cid="8305" cid="1022">
+					<label>Konsole</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">4029686377202</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/062/005/B_000062005395_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/062/005/I_000062005395_DE_210.jpg"/>
+				<offer oid="1594737713">
+					<label>Wii U Premium Pack + Mario Kart 8 vorinstalliert + 2 Controller Konsolen-Set mit 3 Jahren
+						Garantie*, schwarz, Gr.
+					</label>
+					<merchant mid="44">
+						<label>OTTO</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/44/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33419153&amp;c=1022&amp;o=1594737713&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=44&amp;rid=456580820%3A%3A426810&amp;ver=2.0&amp;market=de&amp;man=Wii+U&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSEaps5QsyXH9Q..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=419.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFp2ayQXygnTdgwJfRaM0pwhGLutpvc5piA1ww9-QbzkUrU2fl0Dj5elCwDaMNJIRCZ_n9YIyHp31oR7IqFuQhPTlRhBU1c3WxR8A6OzdYEiIDPh_NCHZyoGzGrGt_bWELgjx0Us5WIBYip_e5_XB6iAOUu_XiiRqITDpvPYGRHs6o-0wKw90_NX129bLsctDWj1R67AhMWjXP3VI8aFabUUQbfW4aaMhnGumFzb-tfEA..</url>
+					<price cur="EUR">419.99</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">Lieferbar</period>
+						<charge cur="EUR" price="5.95">5,95 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="4" nr-of-merchants="2" pid="31620041" oid="1547401670" type="product">
+				<label>Nintendo 3DS XL</label>
+				<price-range nr-of-offers="4" cur="EUR" max="229.99" min="193.80"/>
+				<sub-label>Standardgerät/tragbares Gerät: tragbares Gerät - Speicherkapazität: 4 GB - Software Medium:
+					SD-Speicherkarte - Grundfarbe: schwarz
+				</sub-label>
+				<brand bid="mnTmludGVuZG8.">
+					<label>Nintendo</label>
+				</brand>
+				<category nr-of-products="28" nr-of-offers="53" parent-cid="8305" cid="1022">
+					<label>Konsole</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0045496501235</code>
+					<code type="UPC">045496501235</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/052/214/B_000052214768_DE_210.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_de/images/products/DE/210/000/052/214/I_000052214768_DE_210.jpg"/>
+				<offer oid="1547401670">
+					<label>Nintendo 3DS XL black</label>
+					<merchant mid="106582">
+						<label>PIXXASS</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_de/images/merchants/p/106582/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=31620041&amp;c=1022&amp;o=1547401670&amp;che=cGFuZ29yYSFn2KNSuS1VSwU4g2miRRJE&amp;m=106582&amp;rid=r5d577132fbf266727e67c2dbe04c872&amp;ver=2.0&amp;market=de&amp;man=Nintendo&amp;ser=2704&amp;pc=20001347&amp;pcat=21484&amp;abob=cGFuZ29yYSGGRUDsBdW4Lg..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTAzNTI5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=193.8&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_2&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSHQb4LjBJuY8fgtJ-SJwzzZLLyhHBdRPVfcHHpK7l6um6So--5We4-wl3t-Ii4A7vBQqxNuzHYM0vvHfuOb0yvPxdO6_mjKqtWmIUlQMF_8ArQe2QxahnYI</url>
+					<price cur="EUR">193.80</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">1 Tag - 3 Tage</period>
+						<charge cur="EUR" price="3.99">3,99 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes>
+					<product-attribute name="POPULAR"/>
+				</product-attributes>
+				<status>ACTIVE</status>
+			</product>
+		</popular-products>
+	</popular-products-module>
+	<document-info service-id="2704" channel-id="foxydeal_de" host="foxydeal-de" msecs="50">
+		<tracking>
+			<tracking-data totalNumber="351">xbox</tracking-data>
+			<tracking-image height="1" width="1" source="http://de.channel.become.eu/livexml/3.1/tr/lxtrimg.gif"/>
+			<tracking-script type="text/javascript">&lt;script type="text/javascript"
+				src="http://de.channel.become.eu/livexml/3.1/tr/lxtrscript.js"&gt;&lt;/script&gt;
+				&lt;noscript&gt;&lt;div&gt;&lt;img src="http://de.channel.become.eu/livexml/3.1/tr/lxtrimg.gif" alt=""
+				style="height: 1px; width: 1px;"/&gt;&lt;/div&gt;&lt;/noscript&gt;</tracking-script>
+		</tracking>
+		<cache-control expires="2015-04-15T10:40:29.321+02:00" max-age="300">
+			<last-modified>2015-04-15T10:35:29.321+02:00</last-modified>
+			<etag>MjIwMTUwNDE0Mnx8MTQyOTA4NjkyOTMyMQ==</etag>
+		</cache-control>
+	</document-info>
+</dynamic-data>

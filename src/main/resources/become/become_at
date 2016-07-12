@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dynamic-data version="3.1" serial-number="2201504142" name="query" xmlns="http://services.become.eu/livexml">
+	<params>
+		<param name="qry">xbox</param>
+	</params>
+	<top-level-categories-module>
+		<params/>
+		<top-level-categories nr-of-products="109546" nr-of-offers="2439071" n="24">
+			<category nr-of-products="1268" nr-of-offers="2174" cid="8189">
+				<label>Foto-, Videokamera &amp; Co.</label>
+			</category>
+			<category nr-of-products="8177" nr-of-offers="157088" cid="8064">
+				<label>Computer &amp; Software</label>
+			</category>
+			<category nr-of-products="1562" nr-of-offers="2480" cid="8199">
+				<label>Telekommunikation</label>
+			</category>
+			<category nr-of-products="4871" nr-of-offers="26779" cid="8000">
+				<label>Audio, Video &amp; TV</label>
+			</category>
+			<category nr-of-products="36036" nr-of-offers="7146" cid="8152">
+				<label>Buch, Hörbuch &amp; Kalender</label>
+			</category>
+			<category nr-of-products="5445" nr-of-offers="79115" cid="7543">
+				<label>Beauty, Wellness &amp; Drogerieartikel</label>
+			</category>
+			<category nr-of-products="1" nr-of-offers="28" cid="117648">
+				<label>Downloads zum Verkauf &amp; Verleih</label>
+			</category>
+			<category nr-of-products="1262" nr-of-offers="342" cid="8305">
+				<label>Game &amp; Konsole</label>
+			</category>
+			<category nr-of-products="12147" nr-of-offers="847759" cid="10170">
+				<label>Haushalt &amp; Wohnen</label>
+			</category>
+			<category nr-of-products="3438" nr-of-offers="111231" cid="9863">
+				<label>Hobby &amp; Spiel</label>
+			</category>
+			<category nr-of-products="974" nr-of-offers="98410" cid="7846">
+				<label>Sport &amp; Freizeit</label>
+			</category>
+			<category nr-of-products="129" nr-of-offers="715493" cid="7579">
+				<label>Mode &amp; Accessoires</label>
+			</category>
+			<category nr-of-products="1" nr-of-offers="2126" cid="118648">
+				<label>Schnäppchen &amp; Gebrauchtware</label>
+			</category>
+			<category nr-of-products="45" nr-of-offers="170841" cid="9812">
+				<label>Auto &amp; Motorrad</label>
+			</category>
+			<category nr-of-products="95" nr-of-offers="4014" cid="7500">
+				<label>Baby &amp; Kind</label>
+			</category>
+			<category nr-of-products="33316" nr-of-offers="465" cid="10382">
+				<label>Film &amp; Musik</label>
+			</category>
+			<category nr-of-products="16" nr-of-offers="14968" cid="9658">
+				<label>Büro &amp; Schreibwaren</label>
+			</category>
+			<category nr-of-products="5" nr-of-offers="13397" cid="10738">
+				<label>Erotik</label>
+			</category>
+			<category nr-of-products="14" nr-of-offers="23372" cid="9963">
+				<label>Essen, Trinken &amp; Tabakwaren</label>
+			</category>
+			<category nr-of-products="3" nr-of-offers="1390" cid="11587">
+				<label>Geschenk</label>
+			</category>
+			<category nr-of-products="4" nr-of-offers="1773" cid="11546">
+				<label>Messe, Veranstaltung, Gastronomie &amp; Reisen</label>
+			</category>
+			<category nr-of-products="38" nr-of-offers="5791" cid="11248">
+				<label>Elektronik</label>
+			</category>
+			<category nr-of-products="401" nr-of-offers="123340" cid="10585">
+				<label>Gesundheit &amp; Wohlbefinden</label>
+			</category>
+			<category nr-of-products="298" nr-of-offers="29549" cid="11738">
+				<label>sonstige Artikel unserer Händler</label>
+			</category>
+		</top-level-categories>
+	</top-level-categories-module>
+	<current-category-module>
+		<params/>
+		<module-attributes/>
+	</current-category-module>
+	<navigation-trail-module>
+		<params/>
+		<navigation-trail n="2">
+			<element type="index">
+				<label>Index</label>
+			</element>
+			<element id="xbox" type="query">
+				<label>Xbox</label>
+			</element>
+		</navigation-trail>
+	</navigation-trail-module>
+	<suggestions-module>
+		<params/>
+		<suggestions>
+			<queries n="0"/>
+			<outstanding-category parent-cid="8199" cid="33145">
+				<label>Headset &amp; Freisprecheinrichtung</label>
+				<category-attributes n="0"/>
+			</outstanding-category>
+		</suggestions>
+	</suggestions-module>
+	<category-results-module>
+		<params/>
+		<category-results n="2" total="2">
+			<category nr-of-products="1" parent-cid="8199" cid="33145">
+				<label>Headset &amp; Freisprecheinrichtung</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="7580" cid="106617">
+				<label>Koffer &amp; Tasche</label>
+				<category-attributes n="0"/>
+			</category>
+		</category-results>
+	</category-results-module>
+	<result-filter-module>
+		<params/>
+		<result-filter n="2">
+			<filter-dimension n="2" selected="false" display-position="1">
+				<label>Kategorie</label>
+				<dimension-class nr-of-products="1" selected="false" display-position="1" fdid="cat33145">
+					<label>Headset &amp; Freisprecheinrichtung</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="2" fdid="cat106617">
+					<label>Koffer &amp; Tasche</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="1" selected="false" display-position="4">
+				<label>Händler</label>
+				<dimension-class nr-of-products="1" selected="false" display-position="1" fdid="me39844">
+					<label>Koffer-Arena.de</label>
+				</dimension-class>
+			</filter-dimension>
+		</result-filter>
+	</result-filter-module>
+	<product-results-module>
+		<params/>
+		<product-results n="2" total="2" nr="1" srt="RELEVANCE">
+			<product nr-of-offers="2" nr-of-merchants="1" pid="27676845" oid="1698735192" type="product">
+				<label>Monster MH GA Eas ON WH</label>
+				<price-range nr-of-offers="2" cur="EUR" max="222.00" min="222.00"/>
+				<sub-label>/ Binaural Headset - Lautstärkeregelung - Anschlusstechnik: Verschiedene Anschlüsse
+				</sub-label>
+				<brand bid="mnTW9uc3Rlcg..">
+					<label>Monster</label>
+				</brand>
+				<category cid="33145">
+					<label>Headset &amp; Freisprecheinrichtung</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0050644658419</code>
+					<code type="UPC">050644658419</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/395/262/D_000395262531_DE_800.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/395/262/I_000395262531_DE_800.jpg"/>
+				<description></description>
+				<offer oid="1698735192">
+					<label>MONSTER MVP Carbon White</label>
+					<merchant mid="1030">
+						<label>Thomann</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_at/images/merchants/p/1030/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27676845&amp;c=33145&amp;o=1698735192&amp;che=cGFuZ29yYSFn2KNSuS1VS0EqxkD1wSte&amp;m=1030&amp;rid=351569&amp;ver=2.0&amp;market=de&amp;man=MONSTER&amp;ser=2707&amp;pc=25231143&amp;pcat=21461&amp;abob=cGFuZ29yYSEjGN_g4rmaig..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MjU5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=222.0&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=0&amp;dle=cGFuZ29yYSHQb4LjBJuY8enLNbmyfv8V989qFapBJ9jAEa6-gCjOrgYYMtYLToF7imvoNGG33co.</url>
+					<price cur="EUR">222.00</price>
+					<price-info cur="EUR" type="total">222.00</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">1 Tag - 2 Tage</period>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1754638386" type="offer">
+				<label>Beacon 18 Rucksack 53 cm Laptopfach black-orange</label>
+				<brand bid="mnRXZlcmtp">
+					<label>Everki</label>
+				</brand>
+				<category cid="106617">
+					<label>Koffer &amp; Tasche</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0874933001966</code>
+					<code type="UPC">874933001966</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_at/images/offers/DE/710/001/754/638/D_001754638386_DE_710.jpg"/>
+				<description>Der Beacon Rucksack ist ein echter Gamer-Rucksack oder Menschen mit vielem Kleinkram. Er
+					bringt eine extra Konsolentasche mit sich, die man im Hauptfach unterbringen kann für Wii, Xbox oder
+					Playstation Geräte. Der Rucksack ist so konsipiert, dass sie sich um 180° aufklappen lässt, womit
+					sich das Aufräumen und zusätzliche Dinge einfach verstauen lassen. Das Innenfutter des Beacon
+					Rucksacks ist in orangefarben gehalten, womit sich kleine Teile und andere Utensilien durch den
+					Kontrast leichter finden lassen. Zusätzliche Geheimfächer und ein wasserabweisender Boden, machen
+					ihn zu einem durchaus interessanten Rucksack. Um der Belastung der Geräte stand zu halten bietet das
+					5-Punkt Trägergurt-System und ein luftdurchlässig gepolstertes Rückentrapez ein ausgewogenes
+					Tragegefühl und sorgen für die Entlastung des Rückens.
+				</description>
+				<offer oid="1754638386">
+					<label>Everki Beacon 18 Rucksack 53 cm Laptopfach black-orange</label>
+					<merchant mid="39844">
+						<label>Koffer-Arena.de</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_at/images/merchants/p/39844/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=25204799&amp;c=106617&amp;o=1754638386&amp;che=cGFuZ29yYSFn2KNSuS1VS0EqxkD1wSte&amp;m=39844&amp;rid=95320&amp;ver=2.0&amp;market=de&amp;man=Everki&amp;ser=2707&amp;pc=25204799&amp;pcat=22165&amp;abob=cGFuZ29yYSFHHXD_T1uxoA..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MjU5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=129.95&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=1&amp;dle=cGFuZ29yYSHpMQ2LDFcRfnszF9DwQtCJnxeWwNctnaBLTINA-IlF9FZKiCkCPcnXXge2v3cE6yu8_Yz__DmXImUy5g301itixwHam_Kgfhodb5TEjtU2hA..</url>
+					<price cur="EUR">129.95</price>
+					<price-info cur="EUR" type="total">129.95</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">sofort lieferbar</period>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<paging n="3" total="1" pge="10">
+				<page rel="FIRST" pgn="1" name="query" type="query"/>
+				<page rel="CURRENT" pgn="1" name="query" type="query"/>
+				<page rel="LAST" pgn="1" name="query" type="query"/>
+			</paging>
+		</product-results>
+	</product-results-module>
+	<popular-products-module>
+		<params/>
+		<popular-products n="4">
+			<product nr-of-offers="6" nr-of-merchants="1" pid="27595158" oid="1271272201" type="product">
+				<label>Razer Kraken Pro Gaming Headset</label>
+				<price-range nr-of-offers="6" cur="EUR" max="77.00" min="77.00"/>
+				<sub-label>/ Binaural Headset - Anschlusstechnik: 3,5 mm Klinkenstecker - Gewicht: 293 g</sub-label>
+				<brand bid="mnUmF6ZXI.">
+					<label>Razer</label>
+				</brand>
+				<category nr-of-products="638" nr-of-offers="838" parent-cid="8199" cid="33145">
+					<label>Headset &amp; Freisprecheinrichtung</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0879862006372</code>
+					<code type="UPC">879862006372</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/467/085/B_000467085686_DE_800.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/467/085/I_000467085686_DE_800.jpg"/>
+				<offer oid="1271272201">
+					<label>RAZER Kraken Pro Neon Purple</label>
+					<merchant mid="1030">
+						<label>Thomann</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_at/images/merchants/p/1030/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27595158&amp;c=33145&amp;o=1271272201&amp;che=cGFuZ29yYSFn2KNSuS1VS0EqxkD1wSte&amp;m=1030&amp;rid=345942&amp;ver=2.0&amp;market=de&amp;man=RAZER&amp;ser=2707&amp;pc=25231143&amp;pcat=21461&amp;abob=cGFuZ29yYSEjGN_g4rmaig..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MjU5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=77.0&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSHQb4LjBJuY8enLNbmyfv8V989qFapBJ9jAEa6-gCjOrhiDuYYSCpi--f4zaWmllJM.</url>
+					<price cur="EUR">77.00</price>
+					<price-info cur="EUR" type="old">89.00</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">1 Tag - 2 Tage</period>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="2" nr-of-merchants="1" pid="26077248" oid="1133575622" type="product">
+				<label>Cardo Scala Rider Q2</label>
+				<price-range nr-of-offers="2" cur="EUR" max="179.90" min="139.90"/>
+				<sub-label>/ Monoaural Headset - Bluetooth - Lautstärkeregelung - Anschlusstechnik: kabellos</sub-label>
+				<brand bid="mnQ2FyZG8.">
+					<label>Cardo</label>
+				</brand>
+				<category nr-of-products="638" nr-of-offers="838" parent-cid="8199" cid="33145">
+					<label>Headset &amp; Freisprecheinrichtung</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">4049462091290</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/307/809/B_000307809473_DE_800.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/307/809/I_000307809473_DE_800.jpg"/>
+				<offer oid="1133575622">
+					<label>671003-25 Cardo Scala Rider Q2 Pro für Jet / Klapphelm</label>
+					<merchant mid="35619">
+						<label>FC-Moto.de</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_at/images/merchants/p/35619/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=26077248&amp;c=33145&amp;o=1133575622&amp;che=cGFuZ29yYSFn2KNSuS1VS0EqxkD1wSte&amp;m=35619&amp;rid=Cardo-Scala-Rider-Q2-Pro-Jet-671003-25&amp;ver=2.0&amp;market=de&amp;man=671003-25&amp;ser=2707&amp;pc=25231143&amp;pcat=21461&amp;abob=cGFuZ29yYSEjGN_g4rmaig..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MjU5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=179.9&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSHQb4LjBJuY8Y-UT0DixCtb1mJ_ym-8JnFWN5jxiEr3bepqAHoRLuOOe0onRL79MgBPqq22c5T9rG-5TelgnYhvLpOwfBGzPPGi_61-QfytqDABWAZ_A3Z0y-PlmNdSIZdCEEtk5lbQJHIkiToolVmIImsl-TRXgDtaiwRbrxlole-KEPsslmz-FXIwSHH1-BEKDaSdj9GLFYY1-_0O-YMLgL9yCxpmEJi-jbuOJ87d_VA3uvjFn21snSK8QzrITvnp07lVWys7zmVLZBIHZ6_HqW-7zeCGLvA.</url>
+					<price cur="EUR">179.90</price>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="4.90">4,90 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="6" nr-of-merchants="1" pid="32939875" oid="1242766720" type="product">
+				<label>JBL Synchros Reflect BT</label>
+				<price-range nr-of-offers="6" cur="EUR" max="98.00" min="48.00"/>
+				<sub-label>/ Binaural Headset - Bluetooth - Sprechzeit: 5 h - Lautstärkeregelung - Anschlusstechnik:
+					kabellos - Gewicht: 20 g
+				</sub-label>
+				<brand bid="mnSkJM">
+					<label>JBL</label>
+				</brand>
+				<category nr-of-products="638" nr-of-offers="838" parent-cid="8199" cid="33145">
+					<label>Headset &amp; Freisprecheinrichtung</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">4968929036981</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/466/788/B_000466788902_DE_800.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/466/788/I_000466788902_DE_800.jpg"/>
+				<offer oid="1242766720">
+					<label>JBL BY HARMAN Synchros Reflect BT Green</label>
+					<merchant mid="1030">
+						<label>Thomann</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_at/images/merchants/p/1030/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=32939875&amp;c=33145&amp;o=1242766720&amp;che=cGFuZ29yYSFn2KNSuS1VS0EqxkD1wSte&amp;m=1030&amp;rid=344824&amp;ver=2.0&amp;market=de&amp;man=JBL+BY+HARMAN&amp;ser=2707&amp;pc=25231143&amp;pcat=21461&amp;abob=cGFuZ29yYSEjGN_g4rmaig..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MjU5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=98.0&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSHQb4LjBJuY8enLNbmyfv8V989qFapBJ9jAEa6-gCjOriOTYnvfNeiQG2xVEofGsa0.</url>
+					<price cur="EUR">98.00</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">1 Tag - 2 Tage</period>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes>
+					<product-attribute name="POPULAR"/>
+				</product-attributes>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="10" nr-of-merchants="1" pid="27351469" oid="1448508255" type="product">
+				<label>beats by dr. dre Urbeats</label>
+				<price-range nr-of-offers="10" cur="EUR" max="95.00" min="95.00"/>
+				<sub-label>/ Binaural Headset - Anschlusstechnik: 3,5 mm Klinkenstecker - Gewicht: 18 g</sub-label>
+				<brand bid="mnYmVhdHMgYnkgZHIuIGRyZQ..">
+					<label>beats by dr. dre</label>
+				</brand>
+				<category nr-of-products="638" nr-of-offers="838" parent-cid="8199" cid="33145">
+					<label>Headset &amp; Freisprecheinrichtung</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">4710937376609</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/398/598/B_000398598481_DE_800.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_at/images/products/DE/800/000/398/598/I_000398598481_DE_800.jpg"/>
+				<offer oid="1448508255">
+					<label>BEATS BY DR. DRE urBeats 2 Blue</label>
+					<merchant mid="1030">
+						<label>Thomann</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_at/images/merchants/p/1030/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27351469&amp;c=33145&amp;o=1448508255&amp;che=cGFuZ29yYSFn2KNSuS1VS0EqxkD1wSte&amp;m=1030&amp;rid=351424&amp;ver=2.0&amp;market=de&amp;man=BEATS+BY+DR.+DRE&amp;ser=2707&amp;pc=25231143&amp;pcat=21461&amp;abob=cGFuZ29yYSEjGN_g4rmaig..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MjU5&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=95.0&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSHQb4LjBJuY8enLNbmyfv8V989qFapBJ9jAEa6-gCjOrkglRiIHYxEHetsiMFJCWWc.</url>
+					<price cur="EUR">95.00</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">1 Tag - 2 Tage</period>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+		</popular-products>
+	</popular-products-module>
+	<document-info service-id="2707" channel-id="foxydeal_at" host="foxydeal-at" msecs="19">
+		<tracking>
+			<tracking-data totalNumber="2">xbox</tracking-data>
+			<tracking-image height="1" width="1" source="http://de.channel.become.eu/livexml/3.1/tr/lxtrimg.gif"/>
+			<tracking-script type="text/javascript">&lt;script type="text/javascript"
+				src="http://de.channel.become.eu/livexml/3.1/tr/lxtrscript.js"&gt;&lt;/script&gt;
+				&lt;noscript&gt;&lt;div&gt;&lt;img src="http://de.channel.become.eu/livexml/3.1/tr/lxtrimg.gif" alt=""
+				style="height: 1px; width: 1px;"/&gt;&lt;/div&gt;&lt;/noscript&gt;</tracking-script>
+		</tracking>
+		<cache-control expires="2015-04-15T10:47:59.106+02:00" max-age="300">
+			<last-modified>2015-04-15T10:42:59.106+02:00</last-modified>
+			<etag>MjIwMTUwNDE0Mnx8MTQyOTA4NzM3OTEwNg==</etag>
+		</cache-control>
+	</document-info>
+</dynamic-data>

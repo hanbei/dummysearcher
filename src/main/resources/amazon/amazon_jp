@@ -1,0 +1,1193 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>c4f3263a-0f9b-4495-9f00-4b04ad22adc8</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="tag"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:12:15Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="+UEnFxtTwZ9ye6Uf/cz4goFwQh3PlCX2+XqIjIofHbU="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.3398962840000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>417282</TotalResults>
+		<TotalPages>41729</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.co.jp/gp/redirect.html?camp=2025&amp;creative=5143&amp;location=http%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=tag&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00KGNUQL4</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E6%AD%A3%E8%A6%8F%E5%93%81-SAMSUNG-%E6%9C%80%E5%A4%A7%E8%BB%A2%E9%80%81%E9%80%9F%E5%BA%A648MB-MB-SP32D-JPEC/dp/B00KGNUQL4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KGNUQL4
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KGNUQL4%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQL4
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00KGNUQL4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQL4
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00KGNUQL4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQL4
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00KGNUQL4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQL4
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4560441091204</EAN>
+				<EANList>
+					<EANListElement>4560441091204</EANListElement>
+				</EANList>
+				<Feature>NANDフラッシュメモリ市場で11年連続世界首位を維持しているサムスンのメモリーカード</Feature>
+				<Feature>UHS-I規格対応のハイパフォーマンスモデルSDカード</Feature>
+				<Feature>転送スピード最大48MB/s。デジタル一眼カメラやフルハイビジョンカメラに最適</Feature>
+				<Feature>防水、耐温度、耐磁、耐衝撃、耐X線の5つの耐性「5-ploofテクノロジー」で貴重なデータを保護</Feature>
+				<Feature>安心の10年保証と日本語電話サポート完備</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>4080</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 4,080</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MB-SP32D/JPEC</Model>
+				<MPN>MB-SP32D/JPEC</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">20</Height>
+					<Length Units="hundredths-inches">539</Length>
+					<Weight Units="hundredths-pounds">3</Weight>
+					<Width Units="hundredths-inches">350</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-SP32D/JPEC</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2014-05-29</ReleaseDate>
+				<Size>32GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>日本サムスン正規品 SAMSUNG EVO SDHCカード 32GB 防水 耐衝撃 UHS-I Class10 最大転送速度48MB/s 10年保証 MB-SP32D/JPEC</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>1880</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 1,880</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>3</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00KGNUQL4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQL4
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRYRsYAnGvAHfL1qBelI2ARmbdS8AvX6TuRBLkv8PYsGRVYznoJFKsYYz5fbqYkcUNE7CQk0%2FT07WyG45uUO%2FDtI%3D
+						</OfferListingId>
+						<Price>
+							<Amount>1880</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 1,880</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>2200</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 2,200</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>54</PercentageSaved>
+						<Availability>在庫あり。</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00QIH3RWW</ASIN>
+			<ParentASIN>B00R0XM5EE</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/SSD850EVO%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%AD%E3%83%83%E3%83%88-%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E6%AD%A3%E8%A6%8F%E5%93%81-V-NAND%E6%90%AD%E8%BC%89-MZ-75E250B-IT/dp/B00QIH3RWW%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00QIH3RWW
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00QIH3RWW%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QIH3RWW
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00QIH3RWW%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QIH3RWW
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00QIH3RWW%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QIH3RWW
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00QIH3RWW%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QIH3RWW
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>日本サムスン</Brand>
+				<EAN>4560441091525</EAN>
+				<EANList>
+					<EANListElement>4560441091525</EANListElement>
+				</EANList>
+				<Feature>シーケンシャル:読み出し540MB/s 書き込み520MB/s</Feature>
+				<Feature>4KBランダム(QD32):読み出し97,000IOPS 書き込み88,000IOPS</Feature>
+				<Feature>フォームファクタ:7mm厚2.5インチHDD互換</Feature>
+				<Feature>コントローラ:Samsung 3-Core MGX コントローラ</Feature>
+				<Feature>保証期間:5年保証</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>16980</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 16,980</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MZ-75E250B/IT</Model>
+				<MPN>MZ-75E250B/IT</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">79</Height>
+					<Length Units="hundredths-inches">630</Length>
+					<Weight Units="hundredths-pounds">26</Weight>
+					<Width Units="hundredths-inches">618</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MZ-75E250B/IT</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>COMPUTER_DRIVE_OR_STORAGE</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2014-12-16</ReleaseDate>
+				<Size>250GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>Samsung SSD850EVOベーシックキット 250GB 2.5インチ 日本サムスン正規品 3D V-NAND搭載 5年保証 MZ-75E250B/IT</Title>
+				<Warranty>5年間もしくは75TBW(Total Byte Written=総書込みバイト量)に到達した日の、いずれか短い期間までとなります。</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>12862</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 12,862</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>13</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00QIH3RWW%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QIH3RWW
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRcWArw67ghYhg3dScz%2F099nAbpkrZDh5DYsTue3csibL33Zp8rp49Q9TF8rdBi5bP%2FJaGu%2FZRrtLsFpcCrgctpI%3D
+						</OfferListingId>
+						<Price>
+							<Amount>12862</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 12,862</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>4118</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 4,118</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>24</PercentageSaved>
+						<Availability>在庫あり。</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S66Q0E0</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E6%AD%A3%E8%A6%8F%E5%93%81-microSDXC%E3%82%AB%E3%83%BC%E3%83%89-%E6%9C%80%E5%A4%A7%E8%BB%A2%E9%80%81%E9%80%9F%E5%BA%A648MB-MB-MP64D-FFP/dp/B00S66Q0E0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S66Q0E0
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00S66Q0E0%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q0E0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00S66Q0E0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q0E0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00S66Q0E0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q0E0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00S66Q0E0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q0E0
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4560441091693</EAN>
+				<EANList>
+					<EANListElement>4560441091693</EANListElement>
+				</EANList>
+				<Feature>NANDフラッシュメモリ市場で11年連続世界首位を維持しているサムスンのメモリーカード</Feature>
+				<Feature>UHS-I規格対応のハイパフォーマンスモデルmicroSDカード</Feature>
+				<Feature>転送スピード最大48MB/s。スマートフォンやタブレットに最適</Feature>
+				<Feature>防水、耐温度、耐磁、耐X線の4つの耐性「4-proofテクノロジー」で貴重なデータを保護</Feature>
+				<Feature>安心の10年保証と日本語電話サポート完備</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>7344</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 7,344</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MB-MP64D/FFP</Model>
+				<MPN>MB-MP64D/FFP</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">31</Height>
+					<Length Units="hundredths-inches">772</Length>
+					<Weight Units="hundredths-pounds">4</Weight>
+					<Width Units="hundredths-inches">492</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-MP64D/FFP</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2015-01-16</ReleaseDate>
+				<Size>64GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>日本サムスン正規品 SAMSUNG EVO microSDXCカード 64GB UHS-I Class10 最大転送速度48MB/s 10年保証 MB-MP64D/FFP (FFP)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>3980</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 3,980</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00S66Q0E0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q0E0
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRcITgJbOwvxJCRiH7VnMT%2BsTz7QtuftNV4AuFDbLdfEFzYdd1AThpuktBXgF6kITgNiInjLvX20sRVHq3%2B86v78%3D
+						</OfferListingId>
+						<Price>
+							<Amount>3980</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 3,980</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>3364</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 3,364</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>46</PercentageSaved>
+						<Availability>在庫あり。</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S66Q06I</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/microSDHC%E3%82%AB%E3%83%BC%E3%83%89-%E6%9C%80%E5%A4%A7%E8%BB%A2%E9%80%81%E9%80%9F%E5%BA%A648MB-New%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC3DS-MB-MP32D-FFP/dp/B00S66Q06I%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S66Q06I
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00S66Q06I%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q06I
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00S66Q06I%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q06I
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00S66Q06I%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q06I
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00S66Q06I%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q06I
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4560441091686</EAN>
+				<EANList>
+					<EANListElement>4560441091686</EANListElement>
+				</EANList>
+				<Feature>NANDフラッシュメモリ市場で11年連続世界首位を維持しているサムスンのメモリーカード</Feature>
+				<Feature>UHS-I規格対応のハイパフォーマンスモデルmicroSDカード</Feature>
+				<Feature>転送スピード最大48MB/s。スマートフォンやタブレットに最適</Feature>
+				<Feature>防水、耐温度、耐磁、耐X線の4つの耐性「4-proofテクノロジー」で貴重なデータを保護</Feature>
+				<Feature>安心の10年保証と日本語電話サポート完備</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>3796</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 3,796</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MB-MP32D/FFP</Model>
+				<MPN>MB-MP32D/FFP</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">31</Height>
+					<Length Units="hundredths-inches">760</Length>
+					<Weight Units="hundredths-pounds">4</Weight>
+					<Width Units="hundredths-inches">484</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-MP32D/FFP</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2015-01-16</ReleaseDate>
+				<Size>32GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>日本サムスン正規品 SAMSUNG EVO microSDHCカード 32GB UHS-I Class10 最大転送速度48MB/s 10年保証 Newニンテンドー3DS 動作確認済み
+					MB-MP32D/FFP (FFP)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>1980</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 1,980</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00S66Q06I%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66Q06I
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRff%2Bj%2FAPsRy2f0vMkGiQuWzb02XG6Gxg3K4cactVvRDG5ydNGzb6oMr8y2coKf%2B2AEwY6yC6Cjah3DYeT0ohYDI%3D
+						</OfferListingId>
+						<Price>
+							<Amount>1980</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 1,980</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1816</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 1,816</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>48</PercentageSaved>
+						<Availability>在庫あり。</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KGNUTNO</ASIN>
+			<ParentASIN>B00R2D2GEQ</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E6%AD%A3%E8%A6%8F%E5%93%81-SAMSUNG-%E6%9C%80%E5%A4%A7%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF80MB-MB-SG64D-JPEC/dp/B00KGNUTNO%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KGNUTNO
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KGNUTNO%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUTNO
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00KGNUTNO%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUTNO
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00KGNUTNO%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUTNO
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00KGNUTNO%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUTNO
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4560441091235</EAN>
+				<EANList>
+					<EANListElement>4560441091235</EANListElement>
+				</EANList>
+				<Feature>NANDフラッシュメモリ市場で11年連続世界首位を維持しているサムスンのメモリーカード</Feature>
+				<Feature>UHS-I規格対応のプロフェッショナルモデルSDカード</Feature>
+				<Feature>読出スピード最大90MB/s、書込スピード最大80MB/s。デジタル一眼カメラやフルハイビジョンカメラに最適</Feature>
+				<Feature>防水、耐温度、耐磁、耐衝撃、耐X線の5つの耐性「5-ploofテクノロジー」で貴重なデータを保護</Feature>
+				<Feature>安心の10年保証と日本語電話サポート完備</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>11880</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 11,880</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MB-SG64D/JPEC</Model>
+				<MPN>MB-SG64D/JPEC</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">12</Height>
+					<Length Units="hundredths-inches">543</Length>
+					<Weight Units="hundredths-pounds">5</Weight>
+					<Width Units="hundredths-inches">343</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-SG64D/JPEC</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2014-05-29</ReleaseDate>
+				<Size>64GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>日本サムスン正規品 SAMSUNG PRO SDXCカード 64GB 防水 耐衝撃 UHS-I Class10 最大書き込み80MB/s 10年保証 MB-SG64D/JPEC</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>4880</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 4,880</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00KGNUTNO%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUTNO
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRZ9Vtf1OvIzENLN0INt7vS0iUkQ2yUKwSzjpwkBtyITh2q6eWoZFLWvcGaO6PnkaPvOiIN5xkuQitbtuzGySQSk%3D
+						</OfferListingId>
+						<Price>
+							<Amount>4880</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 4,880</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>7000</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 7,000</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>59</PercentageSaved>
+						<Availability>在庫あり。</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S66PWIA</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/B00S66PWIA/dp/B00S66PWIA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S66PWIA
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00S66PWIA%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66PWIA
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00S66PWIA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66PWIA
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00S66PWIA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66PWIA
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00S66PWIA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66PWIA
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4560441091730</EAN>
+				<EANList>
+					<EANListElement>4560441091730</EANListElement>
+				</EANList>
+				<Feature>NANDフラッシュメモリ市場で11年連続世界首位を維持しているサムスンのメモリーカード</Feature>
+				<Feature>UHS-I規格対応のプロフェッショナルモデルSDカード</Feature>
+				<Feature>読出スピード最大90MB/s、書込スピード最大80MB/s。高機能スマートフォンやタブレットに最適</Feature>
+				<Feature>防水、耐温度、耐磁、耐X線の4つの耐性「4-proofテクノロジー」で貴重なデータを保護</Feature>
+				<Feature>安心の10年保証と日本語電話サポート完備</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>11269</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 11,269</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MB-MG64D/FFP</Model>
+				<MPN>MB-MG64D/FFP</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">28</Height>
+					<Length Units="hundredths-inches">764</Length>
+					<Weight Units="hundredths-pounds">6</Weight>
+					<Width Units="hundredths-inches">484</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-MG64D/FFP</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2015-01-16</ReleaseDate>
+				<Size>64GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>日本サムスン正規品 SAMSUNG PRO microSDXCカード 64GB UHS-I Class10 最大書き込み80MB/s 10年保証 MB-MG64D/FFP (FFP)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>5980</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 5,980</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00S66PWIA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00S66PWIA
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRbfXuZNFV6QNfJjOTAJY%2Bm35aLMMdHRlNEBg1ijFFpYmypvcB%2BsSzSdFpweMd1hp2LpHQdGguQ8j4p08IU6pNlo%3D
+						</OfferListingId>
+						<Price>
+							<Amount>5980</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 5,980</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>5289</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 5,289</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>47</PercentageSaved>
+						<Availability>在庫あり。</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KGNUQMS</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E6%AD%A3%E8%A6%8F%E5%93%81-SAMSUNG-%E6%9C%80%E5%A4%A7%E8%BB%A2%E9%80%81%E9%80%9F%E5%BA%A648MB-MB-SP16D-JPEC/dp/B00KGNUQMS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KGNUQMS
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KGNUQMS%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQMS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00KGNUQMS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQMS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00KGNUQMS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQMS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00KGNUQMS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQMS
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4560441091198</EAN>
+				<EANList>
+					<EANListElement>4560441091198</EANListElement>
+				</EANList>
+				<Feature>NANDフラッシュメモリ市場で11年連続世界首位を維持しているサムスンのメモリーカード</Feature>
+				<Feature>UHS-I規格対応のハイパフォーマンスモデルSDカード</Feature>
+				<Feature>転送スピード最大48MB/s。デジタル一眼カメラやフルハイビジョンカメラに最適</Feature>
+				<Feature>防水、耐温度、耐磁、耐衝撃、耐X線の5つの耐性「5-ploofテクノロジー」で貴重なデータを保護</Feature>
+				<Feature>安心の10年保証と日本語電話サポート完備</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>1980</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 1,980</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MB-SP16D/JPEC</Model>
+				<MPN>MB-SP16D/JPEC</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">28</Height>
+					<Length Units="hundredths-inches">543</Length>
+					<Weight Units="hundredths-pounds">3</Weight>
+					<Width Units="hundredths-inches">346</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-SP16D/JPEC</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2014-05-29</ReleaseDate>
+				<Size>16GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>日本サムスン正規品 SAMSUNG EVO SDHCカード 16GB 防水 耐衝撃 UHS-I Class10 最大転送速度48MB/s 10年保証 MB-SP16D/JPEC</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>798</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 798</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00KGNUQMS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00KGNUQMS
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRcOOMi8pcCYEiIvNnBGCoEGLM4NRMR5kEiFhPS30VIkaRvDf7bCQlgrA3CLC27BS8%2FFxcjH2gXoX3n64C5Yiz0w%3D
+						</OfferListingId>
+						<Price>
+							<Amount>798</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 798</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1182</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 1,182</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>60</PercentageSaved>
+						<Availability>在庫あり。</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B008BD7U9M</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/Galaxy-ISW11SC-au-GALAXY-S2-WiMAX-ISW11SC-by-SAMSUNG-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-%E7%99%BD%E3%83%AD%E3%83%A0%E6%90%BA%E5%B8%AF/dp/B008BD7U9M%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB008BD7U9M
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB008BD7U9M%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB008BD7U9M
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B008BD7U9M%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB008BD7U9M
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B008BD7U9M%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB008BD7U9M
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B008BD7U9M%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB008BD7U9M
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>エレクトロニクス</Binding>
+				<Brand>Galaxy</Brand>
+				<Color>ホワイト</Color>
+				<EAN>4941787037581</EAN>
+				<EANList>
+					<EANListElement>4941787037581</EANListElement>
+				</EANList>
+				<Feature>サイズ（幅×高さ×厚さ） 約69×133×9.5mm、重さ 約139g</Feature>
+				<Feature>高い処理能力を誇る1.4GHzデュアルコアCPUを搭載。アプリケーション起動や動画再生、ゲームなど、使いたいときにストレスを感じさせない俊敏な操作感が楽しめます。</Feature>
+				<Feature>1,850mAhの大容量パワーが、外出先でのバッテリー切れの不安を今まで以上に大きく軽減。ビジネスシーンやオフタイムの駆動力を後押しします。</Feature>
+				<Feature>内蔵センサーがジェスチャー操作に追従 TOUCHWIZ 4.0 UX搭載</Feature>
+				<Feature>Wi-Fi対応機器を最大8台まで接続できる「Wi-Fiテザリング」機能。下り最大40Mbpsの「+WiMAX」対応。</Feature>
+				<Label>日本サムスン</Label>
+				<LegalDisclaimer>扱い商品につきましては白ロムになります。
+					※白ロム＝再販商品になります。
+					そのため新古品・新品同様の認識でお願いします。
+					「新品」をお買い求めの場合各ショップで購入してください。
+					初期不良以外の返金、交換は一切行なっておりません、ご了承頂きご購入お願いします
+				</LegalDisclaimer>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>ISW11SC</Model>
+				<MPN>ISW11SC</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">287</Height>
+					<Length Units="hundredths-inches">575</Length>
+					<Weight Units="hundredths-pounds">76</Weight>
+					<Width Units="hundredths-inches">335</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>ISW11SC</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>CONSUMER_ELECTRONICS</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<Studio>日本サムスン</Studio>
+				<Title>au　GALAXY　S2　WiMAX　ISW11SC　by SAMSUNG　 ホワイト　白ロム携帯 標準セット品</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>21800</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 21,800</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>4600</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 4,600</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>6</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B008BD7U9M%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB008BD7U9M
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRX6GwTOVmpmthhERM%2B9QvYcCc6BwxUlNJwZ%2FA2AN49YTY92IzhjT9ebIdhXwuijCfmBKxOLpkoRgb35RoLLeXUzKzyfLQVkY002q03PJEzU9tg6WT%2BX%2FZEMHGgbQyR8wDzqrO2vXfzmr
+						</OfferListingId>
+						<Price>
+							<Amount>21800</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 21,800</FormattedPrice>
+						</Price>
+						<Availability>通常1～2営業日以内に発送</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>115541070X</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/Worldwide-Olympic-Sponsors-Panasonic-McDonalds/dp/115541070X%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D115541070X
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3D115541070X%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D115541070X
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/115541070X%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D115541070X
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/115541070X%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D115541070X
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/115541070X%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D115541070X
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>ペーパーバック</Binding>
+				<EAN>9781155410708</EAN>
+				<EANList>
+					<EANListElement>9781155410708</EANListElement>
+				</EANList>
+				<ISBN>115541070X</ISBN>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">969</Height>
+					<Length Units="hundredths-inches">744</Length>
+					<Weight Units="hundredths-pounds">42</Weight>
+					<Width Units="hundredths-inches">8</Width>
+				</ItemDimensions>
+				<Languages>
+					<Language>
+						<Name>英語</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>英語</Name>
+						<Type>Original Language</Type>
+					</Language>
+					<Language>
+						<Name>英語</Name>
+						<Type>Unknown</Type>
+					</Language>
+				</Languages>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">0</Height>
+					<Length Units="hundredths-inches">984</Length>
+					<Weight Units="hundredths-pounds">20</Weight>
+					<Width Units="hundredths-inches">748</Width>
+				</PackageDimensions>
+				<ProductGroup>Book</ProductGroup>
+				<ProductTypeName>ABIS_BOOK</ProductTypeName>
+				<Title>Worldwide Olympic Sponsors: General Electric, Eastman Kodak, Panasonic, McDonald's, the Coca-Cola
+					Company, Samsung Group, Visa Inc., Omega Sa
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>5759</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 5,759</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/115541070X%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3D115541070X
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQULkDfmjQpNtbhgDk%2BAyzgrSaoZHNubnSIgtJpAbr8%2B45du555DmyDXd3QBH4sLtxNZm4C8kj7MWg7Rfz4qjlF9%2Fb4HpXamplHnkc%2B%2FdnKGIMQO7sSjDjVN%2BcXxWtd%2FO3xfWjQ11z98%2BBQuUe6moMdP
+						</OfferListingId>
+						<Price>
+							<Amount>5759</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 5,759</FormattedPrice>
+						</Price>
+						<Availability>通常1～3週間以内に発送</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>264</MinimumHours>
+							<MaximumHours>360</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00QQ4NF6A</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E6%AD%A3%E8%A6%8F%E5%93%81-microSDHC%E3%82%AB%E3%83%BC%E3%83%89-MB-MP16DA-JPEC-%E6%9C%80%E5%A4%A7%E8%BB%A2%E9%80%81%E9%80%9F%E5%BA%A648MB/dp/B00QQ4NF6A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00QQ4NF6A
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00QQ4NF6A%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QQ4NF6A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/pdp/taf/B00QQ4NF6A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QQ4NF6A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.jp/review/product/B00QQ4NF6A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QQ4NF6A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.jp/gp/offer-listing/B00QQ4NF6A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QQ4NF6A
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4560441091792</EAN>
+				<EANList>
+					<EANListElement>4560441091792</EANListElement>
+				</EANList>
+				<Feature>NANDフラッシュメモリ市場で11年連続世界首位を維持しているサムスンのメモリーカード</Feature>
+				<Feature>UHS-I規格対応のハイパフォーマンスモデルmicroSDカード(SD変換アダプタ付)</Feature>
+				<Feature>転送スピード最大48MB/s。スマートフォンやタブレットに最適</Feature>
+				<Feature>防水、耐温度、耐磁、耐X線の4つの耐性「4-proofテクノロジー」で貴重なデータを保護</Feature>
+				<Feature>安心の10年保証と日本語電話サポート完備</Feature>
+				<Label>日本サムスン</Label>
+				<ListPrice>
+					<Amount>2150</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 2,150</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>日本サムスン</Manufacturer>
+				<Model>MB-MP16DA/JPEC</Model>
+				<MPN>MB-MP16DA/JPEC</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">20</Height>
+					<Length Units="hundredths-inches">539</Length>
+					<Weight Units="hundredths-pounds">7</Weight>
+					<Width Units="hundredths-inches">335</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-MP16DA/JPEC</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>日本サムスン</Publisher>
+				<ReleaseDate>2014-12-23</ReleaseDate>
+				<Size>16GB</Size>
+				<Studio>日本サムスン</Studio>
+				<Title>日本サムスン正規品 SAMSUNG EVO microSDHCカード SD変換アダプタ付 UHS-I Class10 16GB MB-MP16DA/JPEC 最大転送速度48MB/s
+					10年保証
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>848</Amount>
+					<CurrencyCode>JPY</CurrencyCode>
+					<FormattedPrice>￥ 848</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.jp/gp/offer-listing/B00QQ4NF6A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dtag%26linkCode%3Dxm2%26camp%3D2025%26creative%3D5143%26creativeASIN%3DB00QQ4NF6A
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							6b%2Br3HjgeQUpmvlequ7PRbh1AZrlQOBKpkumxiyG6KPFTYooo2aBTBaEs0DwwUfvG3AEjtR21e8MizLyIQOsVwTYnO4RcRzz%2BDg9hxROqhg%3D
+						</OfferListingId>
+						<Price>
+							<Amount>848</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 848</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1302</Amount>
+							<CurrencyCode>JPY</CurrencyCode>
+							<FormattedPrice>￥ 1,302</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>61</PercentageSaved>
+						<Availability>通常1～3週間以内に発送</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>168</MinimumHours>
+							<MaximumHours>408</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

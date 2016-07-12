@@ -1,0 +1,836 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:05:51.197Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>301500815769</itemId>
+			<title>ECOUTEURS HEADPHONES MICRO VOLUME KIT PIETON iPhone 5/5S/5C 16GB / 32GB / 64GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>31534</categoryId>
+				<categoryName>Autres</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mUu_qdxcgubtdBtdnmbCsFQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=301500815769</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>75010</postalCode>
+			<location>France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.03</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P16DT22H37M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-23T13:38:47.000Z</startTime>
+				<endTime>2015-05-23T13:43:47.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/301500815769_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368691262</itemId>
+			<title>TPU Gel Silicone S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/pict/2213686912624040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368691262</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H22M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:23:30.000Z</startTime>
+				<endTime>2015-05-31T20:28:30.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368691262</itemId>
+			<title>TPU Gel Silicone S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/pict/2213686912624040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368691262</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H22M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:23:30.000Z</startTime>
+				<endTime>2015-05-31T20:28:30.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368691262</itemId>
+			<title>TPU Gel Silicone S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/pict/2213686912624040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368691262</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H22M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:23:30.000Z</startTime>
+				<endTime>2015-05-31T20:28:30.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368691262</itemId>
+			<title>TPU Gel Silicone S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/pict/2213686912624040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368691262</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H22M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:23:30.000Z</startTime>
+				<endTime>2015-05-31T20:28:30.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368691262</itemId>
+			<title>TPU Gel Silicone S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/pict/2213686912624040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368691262</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H22M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:23:30.000Z</startTime>
+				<endTime>2015-05-31T20:28:30.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368691262</itemId>
+			<title>TPU Gel Silicone S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/pict/2213686912624040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368691262</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H22M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:23:30.000Z</startTime>
+				<endTime>2015-05-31T20:28:30.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321316245359</itemId>
+			<title>Black TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/3213162453594040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=321316245359</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H24M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:25:11.000Z</startTime>
+				<endTime>2015-05-31T20:30:11.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321316245359</itemId>
+			<title>Black TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/3213162453594040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=321316245359</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H24M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:25:11.000Z</startTime>
+				<endTime>2015-05-31T20:30:11.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321316245359</itemId>
+			<title>Black TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/3213162453594040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=321316245359</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H24M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:25:11.000Z</startTime>
+				<endTime>2015-05-31T20:30:11.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321316245359</itemId>
+			<title>Black TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/3213162453594040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=321316245359</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H24M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:25:11.000Z</startTime>
+				<endTime>2015-05-31T20:30:11.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321316245359</itemId>
+			<title>Black TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/3213162453594040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=321316245359</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H24M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:25:11.000Z</startTime>
+				<endTime>2015-05-31T20:30:11.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321316245359</itemId>
+			<title>Black TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/3213162453594040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=321316245359</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H24M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:25:11.000Z</startTime>
+				<endTime>2015-05-31T20:30:11.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368692597</itemId>
+			<title>Red TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/2213686925974040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368692597</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H25M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:26:07.000Z</startTime>
+				<endTime>2015-05-31T20:31:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368692597</itemId>
+			<title>Red TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/2213686925974040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368692597</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H25M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:26:07.000Z</startTime>
+				<endTime>2015-05-31T20:31:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368692597</itemId>
+			<title>Red TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/2213686925974040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368692597</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H25M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:26:07.000Z</startTime>
+				<endTime>2015-05-31T20:31:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368692597</itemId>
+			<title>Red TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/2213686925974040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368692597</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H25M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:26:07.000Z</startTime>
+				<endTime>2015-05-31T20:31:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368692597</itemId>
+			<title>Red TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/2213686925974040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368692597</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H25M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:26:07.000Z</startTime>
+				<endTime>2015-05-31T20:31:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221368692597</itemId>
+			<title>Red TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/2213686925974040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=221368692597</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H25M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:26:07.000Z</startTime>
+				<endTime>2015-05-31T20:31:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321316246485</itemId>
+			<title>Clear TPU S-line Soft Cover Case Apple iPhone 5 5G 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-ENCA</globalId>
+			<primaryCategory>
+				<categoryId>42428</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/3213162464854040_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229529&amp;item=321316246485</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M2N6T5</postalCode>
+			<location>North York,Ontario,Canada</location>
+			<country>CA</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CAD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="CAD">4.6</currentPrice>
+				<convertedCurrentPrice currencyId="CAD">4.6</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT5H25M53S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-05T20:26:44.000Z</startTime>
+				<endTime>2015-05-31T20:31:44.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>27</totalPages>
+		<totalEntries>536</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/706-53473-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.ca%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

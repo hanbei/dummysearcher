@@ -1,0 +1,3073 @@
+{
+    "code": 200,
+    "infos": {
+        "info_code": 0,
+        "nb_tw_objects": 1
+    },
+    "tw_objects": [{
+        "nb_results": 50,
+        "confkey": "56e8a384c1aee",
+        "tracking_url": "http:\/\/api.wtpn.twenga.com.br\/track\/display.js",
+        "results": [{
+            "item_id": 515428201441018782,
+            "name": "Capa p\/ Iphone 5\/5S Internacional Colorado",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ASHW0OqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczszK6_UVGjTBDBqaSYcE4wkamkMaquvUEZqlCMytabAGNcCpaSGN3rXqMMr2mCRYxe3UH5E2CBTo8bfNw8zw-Yd30PddU0rW29qqFyGNz7oC5hHAzKnfWD0n5OwQNMezRXoAiiEiJVuk211kB76mvfAgglYcZfTJmALD8pa00HeW0aNXU-OJ7eZgSEL7abpfZBA6WMMUEZk1uSyK2UjANkX4ceDkFpPuaodNOg56U5hmPsprarqzFoYiJWmK4ojgjOKId-8KCWFeAAN0OLHglu9M2i763q2zXsimfvzjbn_4VTnHCWSKwb6BRjZUafqy6wgkThzWVxBYXRdUMwXthPdzbLV7EYnb-g1x5OzppIlBFcvzMRow-7CP38Ag%2A%2A",
+            "tag": "733352338916898834-515428201441018782",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,92",
+            "price_raw": 79.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "20%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566416867,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_515428201441018782.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_515428201441018782b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_515428201441018782vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5176375220561143645,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Canad\u00e1 S Flag",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLTsMwEPyVyOe09TtubrRFKEKISgmcejGOQ6OmdkgcUIX4d9YpVPJhH7Mzs-tvVNQoFySTLBOUYiEJ4UxykaLq0luUowqlqGyDjTjGFVeUpOje9AbleEklBuSr3-twBCzhnB5W-LB6nh9M3vU91HXTtK4NuobKfvDvgz5HOiDaehcGbcKcCk6B7dFeYEQQLYnS2TozxsDYU1-HFkBIRo6_mDIB2faonbMd5LVt9NSF6Hh6mxEQvrhultpFDZQxxgRlTK2JVGulGAfIro49HIPSfsxR6afBzEtzTFO0mdqursaoiYlYYLqgOCE4pxz60YO-rgAHuBm66pHoxtwsht7pvl3Crnj27l1z-l84wxJur7BpoFOMlR3DVndxKkoUwZ6vrqAw-m6Ixgv36U_2-lUsRacv6LX7o3c2EWUC1-9swujDJkE_vw%2A%2A",
+            "tag": "733352338916898834-5176375220561143645",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 67,07",
+            "price_raw": 67.07,
+            "currency": "R$",
+            "old_price": "R$ 79,90",
+            "old_price_raw": 79.9,
+            "discount": "16%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646924480,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5176375220561143645.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5176375220561143645b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5176375220561143645vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5150394223825648209,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Juvanice Penha",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczOzK6_UVGjXBCBWcYpZZKKhEuKsxhV196gHFUoRmXrTcAxLoVgJEb3utcox2uaYBGjV3dQ_gRYwjk9bvBx8zw_mLzre6irpmlt61UNlcPg3gd1CXRAtHPWD0r7ORWcAtujucKIICohUqVZqrWGsae-9i2AUBI4_mLKBGS7k7LWdJDXplFT54Pj6W1GQPhiu1lqHzRQyhgTlDGZkURmUjIOkH0dejgEpfmYo9JNg56X5pjGaDu1XV2NQRMTscJ0RXFEcE459IMHtawAB7gZWvRIcKNvFn1vVd-uYVc8e3e2Of8vnOKEs0Ri3UCnGCsz-p3qwlSQKLy5LK6gMLpuCMYL--nOZvkqFqPzF_Taw8lZE4kygut3JmL0YRuhn18%2A",
+            "tag": "733352338916898834-5150394223825648209",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 67,07",
+            "price_raw": 67.07,
+            "currency": "R$",
+            "old_price": "R$ 79,90",
+            "old_price_raw": 79.9,
+            "discount": "16%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646925586,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5150394223825648209.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5150394223825648209b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5150394223825648209vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 272625022587705933,
+            "name": "Capa Symmetry para iPhone 5 e 5s Azul - OtterBox - 7737659",
+            "description": "Capa Symmetry para iPhone 5 e 5s Azul - OtterBox - 7737659",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNq0S3U6UpDWFFpQmDsKma9t_nwFYpBzvv2e_Z_kZFhXKa0oQKTKmQaYpFxliM9tfOoBztUYzKxptAY1xyKUiM7nWnUY6XNMEiRq9up_wJuIRzelgxSdPD6nl6UHzXdQCpum5s41UFP7vevffqEjpCr42zvlfaT6ngFBo-miuUCKISIlWapVprKHvqKt8ACSWhx19MmYBsc1LWmhbyytRqbH0wPR4nBoQvtp2ktkEDpYwxQRmTGUlkJiXjQNlWAcMhKM3HFJVu7PU0N8c0Ruuxaav9EDQxEQtMFxRHBOeUAx48qHkE2MHN0KxHght9s-g7q7pmCbPiybuz9fl_4BQnnCUS6xqQYtibwW9UG6qCROHNZXYFH4Nr-2C8sJ_ubOZrwdnOX4A1u5OzJhJlBNtvTcTowzoC8rFXtnoLawlH-vkF",
+            "tag": "733352338916898834-272625022587705933",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 240,34",
+            "price_raw": 240.34,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_272625022587705933.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_272625022587705933b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_272625022587705933vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 3827,
+                "name": "Otterbox",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=3827",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/img\/brands\/3827.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4398079135788930447,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Rosa",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNqwTbqdKUhrCi0sAgbKqm_fc56VYpB9vv2e_Z-UZFjXLOMonTjDCRSpkxzHkao-oyGJSjCsWobJ3xPMYl55LE6F4PGuV4SRMsYvTa75Q7AldKul8JKiXbr57Dg-a7YQBINU1rW6dqqOzG_n1UZz8RZm1660alXUgFpzDw0VygRRCVEKnSLNVaQ9vTULsWSCjxM_5iygRkm6Oy1nSQ16ZRc-e86fkQGBC-2C5Ibb0GShljgjImM5LIDMxyoGxrj2EflOYjRGU_jzrszTGN0Xpuu7qavCYmYoHpguKI4JxywL0HFVaAG9z8XOWIN6NvDt1g1dAuYVUcrPe2Of3vm-KEs0Ri3QBSTJWZ3EZ1vssrFM6cr6agMPXd6H0X9rM_metnsRidvgBrd8femkiUERy_MxGjD-sIyIdR2frNXyV80s8v",
+            "tag": "733352338916898834-4398079135788930447",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 75,65",
+            "price_raw": 75.65,
+            "currency": "R$",
+            "old_price": "R$ 89,00",
+            "old_price_raw": 89,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620218,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 6128962012767030639,
+            "name": "iPhone 5S Apple, 16GB, 4G, iOS 7, C\u00e2mera 8MP, TIM - Branco\/Prata",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFdT4NAEPwr5J5pe98cvNnWGGKMTUCfTMz1OCwpPRAOTWP87-7R2oSH3ZvZnZnlB-UVyiShKpUUE5rIBDMsWRqj8txblKESxahovA08xhUXisTo3vQGZXiJpaAxeu122h-ASwQTkrytKH9bPc8fDN_1PUC6rhvXeF3By27oPgZ9Chth16ZzftDGz63gVMTo0Z5hRBAtidJJmhhjYOypr3wDJCTDjmtNmYBuc9DO2Rb6ytZ6an0wPe1nBpQvrp2ltkEDJYwxQRlTKZEqVYpxoGyrgOFQFPZzropuGsycm2NIuZ6atirHoImJWGC6oDgiOKMc8OBBXyOEG9wsXRRJ8GNuJn3vdN8sIS2e3XeuPv5HTrDkTCpsakDysbSj3-g2TAWR3NvTxRc8jF07BOu5--qO9vK_WIyO34A1u0PnbCSKCO7f2ojRh3UE5P2gXfUeDkP57x8%2A",
+            "tag": "733352338916898834-6128962012767030639",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 3 199,00",
+            "price_raw": 3199,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,07",
+            "estimated_cpc_raw": 0.0652,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_6128962012767030639.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_6128962012767030639b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_6128962012767030639vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484581,
+            "merchant": {
+                "merchant_id": 41997,
+                "name": "Colombo",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=41997",
+                "domain": "colombo",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/41997.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 134990,
+                "name": "Acess\u00f3rios iPhone",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=134990&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=134990"
+            }
+        }, {
+            "item_id": 4735765857931056299,
+            "name": "Capa p\/ Iphone 5\/5S Sou Flamengo",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_MSGW5NUFaqqRoL2lItrTINCDAXTKqr6711DG8mHfczOzK6_UV6hjEsmZCKUkCkjWCQ0TWNUXnuLMlSiGBWNtwHHuBJMkhjdm96gDK9pgkWMXruD9ifAEs7pcYOPm-f5weRd30Nd13XjGq8rqByG7n3Ql0AHRLvO-UEbP6eCU2B7tFcYEUQnRGmZSmMMjD31lW8AhJLA8RdTJiDbnbRztoW8srWeWh8cT28zAsIX185S-6CBJGNMUMZUShKVKsU4QPZV6OEQFPZjjopuGsy8NMc0RtupaatyDJqYiBWmK4ojgjPKoR886GUFOMDN0KJHghtzs-h7p_tmDbvi2Xvn6vP_whInnCUKmxo6-Vja0e90G6aCRO7tZXEFhbFrh2A8d5_d2S5fxWJ0_oJeczh1zkaiiOD6rY0YfdhG6OcX",
+            "tag": "733352338916898834-4735765857931056299",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 63,92",
+            "price_raw": 63.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "36%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566417017,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4735765857931056299.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4735765857931056299b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4735765857931056299vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4553514509868529133,
+            "name": "Capa para iPhone 5 \/ 5S em Silicone TPU Premium - Husky - Fum\u00ea",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczOzK6_UVGjnAvBBOECZzKRgmaEsRhV196gHFUoRmXrTcAxLrmkJEb3utcox2uaYBGjV3dQ_gRYwjk9bvBx8zw_mLzre6irpmlt61UNlcPg3gd1CXRAtHPWD0r7ORWcAtujucKIICohUqVZqrWGsae-9i2AUBI4_mLKBGS7k7LWdJDXplFT54Pj6W1GQPhiu1lqHzRQyhgTlDGZkURmUjIOkH0dejgEpfmYo9JNg56X5pjGaDu1XV2NQRMTscJ0RXFEcE459IMHtawAB7gZWvRIcKNvFn1vVd-uYVc8e3e2Of8vnOKEs0Ri3UCnGCsz-p3qwlSQKLy5LK6gMLpuCMYL--nOZvkq-LPzF_Taw8lZE4kygut3JmL0YRuhn18%2A",
+            "tag": "733352338916898834-4553514509868529133",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 29,99",
+            "price_raw": 29.99,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4553514509868529133.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4553514509868529133b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4553514509868529133vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 1521040908736196963,
+            "name": "Capa p\/ Iphone 5\/5S S\u00e3o Paulo Est\u00e1dio",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PZHLTsMwEEV_JfI6bf3OY0dbhCKEqJTAqhvjODRqaofEAVWIf2ecQCUvxjN35p6xv1FRo5wISjDHGU4TJkkmM8liVF17g3JUoRiVrTdBx3gqWEJidK97jXK8phKLGL26g_In0BLO6XGDj5vn-UDnXd9DXjVNa1uvasgcBvc-qMtsG6Ods35Q2i8UnMK0R3OFFkGUJKlKskRrDW1Pfe1bECEZZvzFlAm47U7KWtPBvTaNmjofiKe3WQHhi-1mq33wQAljTFDG0ozINEtTxkGyr0MNh6A0H3NUumnQ89Ic0xhtp7arqzF4YiJWmK4ojgjOKYd6YFDLCvAAN6DFjwQafUP0vVV9u4Zd8czubHP-XzjBkjOZYt1ApRgrM_qd6kJXsCi8uSxUkBhdNwTwwn66s1m-Cv7s_AW19nBy1kSijOD1OxMx-rCN0M8v",
+            "tag": "733352338916898834-1521040908736196963",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,92",
+            "price_raw": 79.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "20%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566416911,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_1521040908736196963.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_1521040908736196963b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_1521040908736196963vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4527236606058984848,
+            "name": "Capa para iPhone 5 \/ 5S H\u00edbrida em Policarbonato + TPU - Husky - Transparente",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_IZwa0hVoapqJGhPubjGNCjEpmBaRVX_vWtoI_uwuzOzO2t_o6JGGRc0oUxKLLFItymHE6Pq2huUoQrFqGy9CTwWEEpidK97jTK8piCI0as7KH8CLuGcHjf4uHmeLyjv-h7qqmla23pVQ-UwuPdBXUI7aJQ76wel_ZwKTqHbo7mCRBAlSaqSbaK1BtlTX_sWSEiGHn8xZQKy_KSsNR3ktWnU1PngeHqbGRC-2G4etQ8zUMIYE5SxdEskrJoyDpR9HTAcgtJ8zFHppkHPS3NMY7Sb2q6uxjATE7HCdEVxRHBGOeDBg1pWgAe4GVrmkeBG3yz63qq-XcOuePbubHP-XzjBkjOZYt0AUoyVGX2uuqAKIwpvLosrKIyuG4Lxwn66s1m-isXo_AVYezg5ayJRRvD6nYkYfdhF6OcX",
+            "tag": "733352338916898834-4527236606058984848",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 39,99",
+            "price_raw": 39.99,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4527236606058984848.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4527236606058984848b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4527236606058984848vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5196867784312643359,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Brasil",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_MZwa5KqQlXVSNCecnGNaVCIoWBaRVX_vWtoI_mwj9mdmfU3yiuUCZJKJZNEcUao5IyJNEbltbcoQyWKUdF4G3CMKyEYidG96Q3K8JpKLGL02h20PwGWcE6PG3zcPM8PJu_6Huq6rhvXeF1B5TB074O-hHWwaNc5P2jj51RwCtse7RVGBNGSKJ2kiTEGxp76yjcAQjLs-IspE5DtTto520Je2VpPrQ-Kp7cZAeGLa2eqfeBACQN3lDGVEqlSpRgHyL4KPRyCwn7MUdFNg5lNc0xjtJ2atirHwImJWGG6ojgiOKMc-kGDXizAAW6CFj4S1JibRN873Tdr8Ipn7Z2rz_-GEwy3lwqbGjr5WNrR73QbpgJF7u1lUQWFsWuHIDx3n93ZLl_FYnT-gl5zOHXORqKI4PqtjRh92Ebo5xc%2A",
+            "tag": "733352338916898834-5196867784312643359",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 84,92",
+            "price_raw": 84.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646929089,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5196867784312643359.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5196867784312643359b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5196867784312643359vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 2845653764053483040,
+            "name": "Capa para iPhone 5s Grip Candy Rosa e Lil\u00e1s - Belkin - F8W152TTC07",
+            "description": "Capa para iPhone 5s Grip Candy Rosa e Lil\u00e1s - Belkin - F8W152TTC07",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5puU29pOE5qmVYLtVGlKQ1hRaWAQNlXT_vsc2CrlYPs9-z073ygrUUoVF1KwRHIsGFcMcxyj4tpZlKICxSivvQ08wLgSJEb3pjMoxUsqsYjRa7vX_gRcwjk9rJg8rJ6nB613XQeArqra1V6XUNn37XuvL2EeTNq2zvfa-CkVnMK4R3uFFkG0JEon68QYA21PXelrICEZZvzFlAnItiftnG0gL22lx8YHy-NxYkD44ppJahc0UMIYE5QxtSZSrZViHCi7MmA4BLn9mKK8HXszbc0xjdFmrJuyGIImJmKB6YLiiOCUcsCDBz2vABe4GZr1SHBjbhZ953RXL2FXPHlvXXX-XzjBkjOpsKkAyYbCDn6rm9AVJDJvL7MrKAxt0wfjmftsz3b-Kxaj8xdg9f7UOhuJPILrNzZi9GETAfnYa1e-hbMw-fML",
+            "tag": "733352338916898834-2845653764053483040",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 76,25",
+            "price_raw": 76.25,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2845653764053483040.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2845653764053483040b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2845653764053483040vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 36,
+                "name": "Belkin",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=36",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/36.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4214608392117654816,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Verde",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb8IwDP0rVc4F8t3Q24BpQtM0JNhOSFNI01FRkq5NN6Fp_31O2JBysP2e_Z6db7SuUMkp4RIrNqeEFFJwRWSOdpfOohLtUI62TbCRx7jiAObo3nQGlXhKJRY5evUbHY7AVYruZ4Iqxfaz5_Sg-a7rANJ13bgm6Aoqm96_9_ocJ8KspXeh1yakVHAKAx_tBVoE0ZIoXcwLYwy0PXVVaICEZJzxF1MmIFsetXO2hbyytR7bEE2Ph8SA8MW1SWoVNVDBGBOUMTUnUs3BLAfKqooYjsHWfqRo68fepL05pjlajE1b7YaoiYmYYDqhOCO4pBzw6EGnFeAGNz9XORLNmJvD0DndNVNYFSfr3tWn_30LLDmTCpsakPWws0NY6jZ2RYV1sOerKSgMvu2j77X79Cd7_SyWo9MXYM3m6J3NxDaD47c2Y_RhkQH50GtXvcWrpE_6-QU%2A",
+            "tag": "733352338916898834-4214608392117654816",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 75,65",
+            "price_raw": 75.65,
+            "currency": "R$",
+            "old_price": "R$ 89,00",
+            "old_price_raw": 89,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620249,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 5240899211865333452,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Paisagem",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczuzKy_UVGjXFCOZZZRQmQiGGNc0BhV196gHFUoRmXrTcAxLoVgJEb3utcox2uaYBGjV3dQ_gRYwjk9bvBx8zw_mLzre6irpmlt61UNlcPg3gd1Cetg0c5ZPyjt51RwCtsezRVGBFEJkSrNUq01jD31tW8BhJKw4y-mTEC2OylrTQd5bRo1dT4ont5mBIQvtpup9oEDpWBPUMZkRhKZSck4QPZ16OEQlOZjjko3DXo2zTEcYzu1XV2NgRMTscJ0RXFEcE459IMGtViAA9wELXwkqNE3ib63qm_X4BXP2p1tzv-GU5xwlkisG-gUY2VGv1NdmAoUhTeXRRUURtcNQXhhP93ZLF_FYnT-gl57ODlrIlFGcP3ORIw-bCP08ws%2A",
+            "tag": "733352338916898834-5240899211865333452",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 67,07",
+            "price_raw": 67.07,
+            "currency": "R$",
+            "old_price": "R$ 79,90",
+            "old_price_raw": 79.9,
+            "discount": "16%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646925463,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5240899211865333452.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5240899211865333452b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5240899211865333452vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 6855319574778151234,
+            "name": "Capa para iPhone 5 e 5s em Policarbonato Azul - Apple - MF044BZ\/A",
+            "description": "Capa para iPhone 5 e 5s em Policarbonato Azul - Apple - MF044BZ\/A",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNq0S3U6UpDWFFpQmDsKma9t_nwFYpB9vv2e_Z-UZFhfJECsFIJlKeppIIQhmP0f7aGZSjPYpR2XgTeIxLLgWJ0b3uNMrxkiZYxOjV7ZQ_AZdwTg8ryg-r5-lB613XAaDqurGNVxVUdr1779UlzINJG2d9r7SfUsEpjHs0V2gRRCVEqjRLtdbQ9tRVvgESSsKMv5gyAdnmpKw1LeSVqdXY-mB5PE4MCF9sO0ltgwZKGWOCMiYzkshMSsaBsq0ChkNQmo8pKt3Y62lrjmmM1mPTVvshaGIiFpguKI4IzikHPHhQ8wpwgZuhWY8EN_pm0XdWdc0SdsWTd2fr8__CKU44SyTWNSDFsDeD36g2dAWJwpvL7AoKg2v7YLywn-5s5r9iMTp_AdbsTs6aSJQRXL81EaMP6wjIx17Z6i2chfKfXw%2A%2A",
+            "tag": "733352338916898834-6855319574778151234",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 177,70",
+            "price_raw": 177.7,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_6855319574778151234.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_6855319574778151234b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_6855319574778151234vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 3087281057120865759,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Warner Bros Man Of Steel",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczOzK6_UVGjnGGZUkmwSAnFMhGpyGJUXXuDclShGJWtNzOOS84lidG97jXK8ZomWMTo1R2UPwGWcE6PG3zcPM8PJu_6HuqqaVrbelVD5TC490FdAh0Q7Zz1g9J-TgWnwPZorjAiiEqIVGmWaq1h7KmvfQsglASOv5gyAdnupKw1HeS1adTU-eB4epsREL7YbpbaBw2UMsYEZUxmJJGZlIwDZF-HHg5BaT7mqHTToOelOaYx2k5tV1dj0MRErDBdURwRnFMO_eBBLSvAAW6GFj0S3OibRd9b1bdr2BXP3p1tzv8LpzjhLJFYN9ApxsqMfqe6MBUkCm8uiysojK4bgvHCfrqzWb6Kxej8Bb32cHLWRKKM4PqdiRh92Ebo5xc%2A",
+            "tag": "733352338916898834-3087281057120865759",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 67,07",
+            "price_raw": 67.07,
+            "currency": "R$",
+            "old_price": "R$ 79,90",
+            "old_price_raw": 79.9,
+            "discount": "16%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646924756,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_3087281057120865759.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_3087281057120865759b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_3087281057120865759vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 302804126835801779,
+            "name": "Capa p\/ Iphone 5\/5S Corinthians Bicampe\u00e3o",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczOzK6_UVGjnGEqMSc0kUxITNI0i1F17Q3KUYViVLbezDAuBUtJjO51r1GO1zTBIkav7qD8CbCEc3rc4OPmeX4wedf3UFdN09rWqxoqh8G9D-oS6IBo56wflPZzKjgFtkdzhRFBVEKkSrNUaw1jT33tWwChJHD8xZQJyHYnZa3pIK9No6bOB8fT24yA8MV2s9Q-aKCUMSYoYzIjicykZBwg-zr0cAhK8zFHpZsGPS_NMY3Rdmq7uhqDJiZihemK4ojgnHLoBw9qWQEOcDO06JHgRt8s-t6qvl3Drnj27mxz_l84xQlnicS6gU4xVmb0O9WFqSBReHNZXEFhdN0QjBf2053N8lUsRucv6LWHk7MmEmUE1-9MxOjDNkI_vw%2A%2A",
+            "tag": "733352338916898834-302804126835801779",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,92",
+            "price_raw": 79.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "20%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566418472,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_302804126835801779.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_302804126835801779b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_302804126835801779vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5817017415788068884,
+            "name": "Capa Para Iphone 5\/5S - Speck Pixelskin - cinza",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHvS8MwEP1XSj53M7-b9ZvbRIqIg04_CZKlqSvrktqmyhD_dy-tDkK4y3t3793lGxUVyoUiGSYZJyJTCkulFE_R_tJZlKM9SlHZBBt5jCuuKEnRnekMyvGSSixS9OJ3OhyBSzinrzeSSbifpgPFt10HkK7rxjVBV_Cy6_17r8-xI_TaeBd6bcKUCk6h4YO9QIkgWhKls1VmjIGyx64KDZCQjD3-YsoEZJujds62kFe21mMbounxMDEgfHbtJLWNGihjjAnKmFoRqVZKMQ6UbRUxHIPSfkxR6cfeTHNzTFO0Hpu22g9RExOxwHRBcUJwTjng0YOeR4AdXA3NeiS6MVeLoXO6a5YwK568e1ef_gfOsORMKmxqQIphb4ew0W2sihJFsOfZFTwMvu2j8cJ9-pOdf4ul6PQFWLM7emcTUSaw_dYmjN6vEyAfeu2qt7iW-Ek_vw%2A%2A",
+            "tag": "733352338916898834-5817017415788068884",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 109,73",
+            "price_raw": 109.73,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5817017415788068884.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5817017415788068884b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5817017415788068884vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 6362,
+                "name": "Speck Electronics",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=6362",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/6362.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 299360462461748370,
+            "name": "Capa p\/ Iphone 5\/5S Flamengo Mini",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLTsMwEPyVyOe09TuPG20RihCiUgKnXozj0KipHRIHVCH-nXUClXzYx-zM7PobFTXKaZYxibmkXJKEpyzBMaquvUE5qlCMytabAGM8FSwhMbrXvUY5XlOJRYxe3UH5E2AJ5_S4wcfN8_xg8q7voa6aprWtVzVUDoN7H9Ql0AHRzlk_KO3nVHAKbI_mCiOCKElSlWSJ1hrGnvratwBCMnD8xZQJyHYnZa3pIK9No6bOB8fT24yA8MV2s9Q-aKCEMSYoY2lGZJqlKeMA2dehh0NQmo85Kt006HlpjmmMtlPb1dUYNDERK0xXFEcE55RDP3hQywpwgJuhRY8EN_pm0fdW9e0adsWzd2eb8__CCZacyRTrBjrFWJnR71QXpoJE4c1lcQWF0XVDMF7YT3c2y1exGJ2_oNceTs6aSJQRXL8zEaMP2wj9_AI%2A",
+            "tag": "733352338916898834-299360462461748370",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,92",
+            "price_raw": 79.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "20%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566416997,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_299360462461748370.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_299360462461748370b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_299360462461748370vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5240235929689264548,
+            "name": "Capa Para Iphone 5\/5S - Girafa - Marca Case Mate - Azul Claro",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNq0S3U6UpDWFFpQmDsKma9t_nwFYpB9vv2e_Z-UZFhXJBOaZMZDRLZEYTLriM0f7aGZSjPYpR2XgTeIxLLimJ0b3uNMrxkiZYxOjV7ZQ_AZdwTg8rkmaSH1bP04Puu64DTNV1YxuvKqjsevfeq0sYCcM2zvpeaT-lglOY-Giu0CKISohUaZZqraHtqat8AySUhBl_MfiGbHNS1poW8srUamx9cD0eJwaEL7adpLZBA6WMMUEZkxmBfaVkHCjbKmA4BKX5mKLSjb2eFofzxGg9Nm21H4ImJmKB6YLiiOCccsCDBzWvAEe4GZr1SHCjbxZ9Z1XXLGFXPHl3tj7_L5zihLNEYl0DUgx7M_iNakNXkCi8ucyuoDC4tg_GC_vpzmb-Lhaj8xdgze7krIlEGcH1WxMx-rCOgHzsla3ewlmmX_r5BQ%2A%2A",
+            "tag": "733352338916898834-5240235929689264548",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 110,15",
+            "price_raw": 110.15,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5240235929689264548.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5240235929689264548b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5240235929689264548vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 17984,
+                "name": "Case-mate",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=17984",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/17984.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4620868384352260939,
+            "name": "Capa p\/ Iphone 5\/5S Cruzeiro Hoje \u00e9 Dia 2",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_MIYbk1SVaiqGgnaUy6uMQ0KsSmYVlHVf-8a2kg-7GN2Z2b9jYoa5VxQLIVkkrOEUoEzlsWouvYG5ahCMSpbbwKOcZmwlMToXvca5XgN2CRGr-6g_AmwhHN63ODj5nl-MHnX91BXTdPa1qsaKofBvQ_qEtbBop2zflDaz2nCKWx7NFcYSYgSRKo0S7XWMPbU174FEBJhx19MWQLZ7qSsNR3ktWnU1PmgeHqbERC-2G6m2gcOlDIGHhmTGREyk5JxgOzr0MMhKM3HHJVuGvRsmmMao-3UdnU1Bk5MkhWmK4ojgnPKoR80qMUCHOAmaOEjQY2-SfS9VX27Bq941u5sc_43nGLBmZBYN9ApxsqMfqe6MBUoCm8uiyoojK4bgvDCfrqzWb6Kxej8Bb32cHLWREkZwfU7EzH6sI3Qzy8%2A",
+            "tag": "733352338916898834-4620868384352260939",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 63,92",
+            "price_raw": 63.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "36%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7909222013344,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4620868384352260939.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4620868384352260939b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4620868384352260939vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 6971173848653019762,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Amarelo",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5oOEwG1tpwlN0yrBdqo0pSGsqDQwCJuqaf99TrpVysH2e_Z7dr5RUaNcZCkhKZOJFJxhkqWCxqi6DAblqEIxKltnPI8lknNGYnSvB41yvKQC8xi99jvljsCVku5XnErJ9qvn8KD5bhgAUk3T2tapGiq7sX8f1dlPhFmb3rpRaRdSnlAY-Ggu0MKJEkSqNEu11tD2NNSuBRISfsZfTBmHbHNU1poO8to0au6cNz0fAgPCF9sFqa3XQCljjFPGZEaEzMBsApRt7THsg9J8hKjs51GHvRMM91jPbVdXk9fEhC8wXVAcEZzTBHDvQYUV4AY3P1c54s3om0M3WDW0S1gVB-u9bU7_-6ZYJExIrBtAiqkyk9uoznd5hcKZ89UUFKa-G73vwn72J3P9LBaj0xdg7e7YWxPxMoLjdyZi9GEdAfkwKlu_-auET_r5BQ%2A%2A",
+            "tag": "733352338916898834-6971173848653019762",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 75,65",
+            "price_raw": 75.65,
+            "currency": "R$",
+            "old_price": "R$ 89,00",
+            "old_price_raw": 89,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620201,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 1614869334849676558,
+            "name": "Capa Apple para iPhone 5s, Preto MF045BZ\/A",
+            "description": "Capa Apple para iPhone 5s, Preto MF045BZ\/A",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5pvAbW2nCU3TKtHtVGlKQ1hRaWAQNlXT_vsc2CrlYPs9-z073ygvUUYk4UqmjHHFU5lIIVSM9tfOogztUYyK2tvAC7gSJEb3pjMow0sqsYjRa7vT_gRcwjk9rCg_rJ6nB613XQeArqra1V6XUNn17XuvL5NujDat8702fkoFpzDu0V6hRRAtidJJmhhjoO2pK30NJCTDjL-YMgHZ5qSdsw3kpa302PhgeTxODAhfXDNJbYMGShhjgjKmUiJVqhTjQNmWAcMhKOzHFBXt2Jtpa45pjNZj3ZT7IWhiIhaYLiiOCM4oBzx40PMKcIGboVmPBDfmZtF3Tnf1EnbFk_fWVef_hRMsOZMKmwqQfNjbwW90E7qCRO7tZXYFhaFt-mA8d5_t2c5_xWJ0_gKs3p1aZyNRRHD9xkaMPqwjIB977cq3cBbKf34B",
+            "tag": "733352338916898834-1614869334849676558",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 177,70",
+            "price_raw": 177.7,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_1614869334849676558.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_1614869334849676558b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_1614869334849676558vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 3460912707054978516,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Juvanice Penha",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczOzK6_UVGjnPEEZ4SmOMWCZ6kUJIlRde0NylGFYlS23iw4ybkkMbrXvUY5XtMEixi9uoPyJ8ASzulxg4-b5_nB5F3fQ101TWtbr2qoHAb3PqhLoAOinbN-UNrPqeAU2B7NFUYEUQmRKs1SrTWMPfW1bwGEksDxF1MmINudlLWmg7w2jZo6HxxPbzMCwhfbzVL7oIFSxpigjMmMJDKTknGA7OvQwyEozccclW4a9Lw0xzRG26nt6moMmpiIFaYriiOCc8qhHzyoZQU4wM3QokeCG32z6Hur-nYNu-LZu7PN-X_hFCecJRLrBjrFWJnR71QXpoJE4c1lcQWF0XVDMF7YT3c2y1exGJ2_oNceTs6aSJQRXL8zEaMP2wj9_AI%2A",
+            "tag": "733352338916898834-3460912707054978516",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 67,07",
+            "price_raw": 67.07,
+            "currency": "R$",
+            "old_price": "R$ 79,90",
+            "old_price_raw": 79.9,
+            "discount": "16%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646925586,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_3460912707054978516.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_3460912707054978516b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_3460912707054978516vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4168443532180460780,
+            "name": "Capa p\/ Iphone 5\/5S S\u00e3o Paulo Voleio Duplo",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ASHW0OqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczuzKy_UVGjjJNEcs4Eo0RinuBU4hhV196gDFUoRmXrTcAxLgVLSYzuda9Rhtc0wSJGr-6g_AmwhHN63ODj5nl-MHnX91BXTdPa1qsaKofBvQ_qEtbBotxZPyjt51RwCtsezRVGBFEJkSrdplprGHvqa98CCCVhx19MmYAsPylrTQd5bRo1dT4ont5mBIQvtpup9oEDpYwxQRmTW_C8lZJxgOzr0MMhKM3HHJVuGvRsmmMao93UdnU1Bk5MxArTFcURwRnl0A8a1GIBDnATtPCRoEbfJPreqr5dg1c8a3e2Of8bTnHCWSKxbqBTjJUZfa66MBUoCm8uiyoojK4bgvDCfrqzWb6Kxej8Bb32cHLWRKKM4PqdiRh92EXo5xc%2A",
+            "tag": "733352338916898834-4168443532180460780",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,92",
+            "price_raw": 79.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "20%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566416942,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4168443532180460780.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4168443532180460780b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4168443532180460780vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5171677772295092521,
+            "name": "Capa R\u00edgida Para Iphone 5\/5S - Moshi Iglaze - Rosa",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLTsMwEPyVyOe09TNxcqMtQhFCVErhVAm5jkOjpnZIHFCF-HfWCdTyYdczuzO7_kZFhXJBUpKkcCjNBM6ooCRG-2tnUI72KEZl403gMS65DNi97jTK8ZImWMTo1e2UPwGXcE4PK8pllh1Wz9OF6ruuA0zVdWMbryp42fXuvVeX0BKabZz1vdJ-SgWn0PHRXKFEEJUQqdIs1VpD2VNX-QZIKAk9_mLKBGSbk7LWtJBXplZj64Pr8TgxIHyx7SS1DRooZYwJypjMSCIzKRkHyrYKGA5BaT6mqHRjr6fBOaYxWo9NW-2HoImJWGC6oDgiOKcc8OBBzSPAEm6GZj0S3OibRd9Z1TVLmBVP3p2tz_8DpzjhLJFY14AUw94MfqPaUBUkCm8usyt4GFzbB-OF_XRnM38Xi9H5C7Bmd3LWRKKMYPutiRh9WEdAPvbKVm9hLdMv_fwC",
+            "tag": "733352338916898834-5171677772295092521",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 76,65",
+            "price_raw": 76.65,
+            "currency": "R$",
+            "old_price": "R$ 106,92",
+            "old_price_raw": 106.92,
+            "discount": "28%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5171677772295092521.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5171677772295092521b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5171677772295092521vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 24899,
+                "name": "Moshi",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24899",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 542238188654035197,
+            "name": "Capa para iPhone 5 e 5s em Policarbonato Vermelho - Apple - MF046BZ\/A",
+            "description": "Capa para iPhone 5 e 5s em Policarbonato Vermelho - Apple - MF046BZ\/A",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNq0S3U6UpDWFFpQmDsKma9t_nwFYpB9vv2e_Z-UZFhXLBKWWSSJkIjpkgWRqj_bUzKEd7FKOy8SbQGJdcChKje91plOMlTbCI0avbKX8CLuGcHlaUH1bP04PWu64DQNV1YxuvKqjsevfeq0uYB5M2zvpeaT-lYAPGPZortAiiEiJVmqVaa2h76irfAAklYcZfTJmAbHNS1poW8srUamx9sDweJwaEL7adpLZBA6WMMUEZkxlJZCYl40DZVgHDISjNxxSVbuz1tDXHNEbrsWmr_RA0MRELTBcURwTnlAMePKh5BbjAzdCsR4IbfbPoO6u6Zgm74sm7s_X5f-EUJ5wlEusakGLYm8FvVBu6gkThzWV2BYXBtX0wXthPdzbzX7EYnb8Aa3YnZ00kygiu35qI0Yd1BORjr2z1Fs5C-c8v",
+            "tag": "733352338916898834-542238188654035197",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 177,70",
+            "price_raw": 177.7,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_542238188654035197.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_542238188654035197b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_542238188654035197vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5171670067123763497,
+            "name": "Capa R\u00edgida Para Iphone 5\/5S - Moshi Iglaze - Roxo",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5oskcFvbaULTtEp0O1Wa0hBWVBoYhE3VtP8-B7ZKOdh-z37PzjfKS5QlRBIhMRaSUCYF46mM0f7aWZShPYpRUXsbeIwrriiJ0b3pDMrwkgqcxOi13Wl_Ai7hnB5WlKs0Payepwfdd10HmK6q2tVel1DZ9e17ry9hJAzbtM732vgpTTiFiY_2Ci0J0YIoLVNpjIG2p670NZCQCDP-YsoSyDYn7ZxtIC9tpcfGB9fjcWJA-OKaSWobNJBkjCWUMZUSoVKlGAfKtgwYDkFhP6aoaMfeTItzTGO0Huum3A9BE5NkgemC4ojgjHLAgwc9rwBHuBma9UhwY24Wfed0Vy9hVzx5b111_l9YYsGZUNhUgOTD3g5-o5vQFSRyby-zKygMbdMH47n7bM92_i4Wo_MXYPXu1DobJUUE129sxOjDOgLysdeufAtnmX7p5xc%2A",
+            "tag": "733352338916898834-5171670067123763497",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,80",
+            "price_raw": 79.8,
+            "currency": "R$",
+            "old_price": "R$ 106,92",
+            "old_price_raw": 106.92,
+            "discount": "25%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5171670067123763497.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5171670067123763497b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5171670067123763497vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 24899,
+                "name": "Moshi",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24899",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 1706997921790715839,
+            "name": "Capa Anti-impacto para iPhone 5 e 5s Band Pink Tech21 - T212164",
+            "description": "Capa Anti-impacto para iPhone 5 e 5s Band Pink Tech21 - T212164",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMSbms7TWiaVolup0pTGsKKSgODsKma9t_nwFYpBzvv2e_Z_kZ5iTKS4kSpVFGSKpwSIZmK0f7aWZShPYpRUXsbeIxLLgWJ0b3pDMrwkiZYxOi13Wl_Ai7hnB5WlCbksHqeHhTfdR1AuqpqV3tdws-ub997fZmUY7Rpne-18VMqOIWGj_YKJYLohEidqtQYA2VPXelrIKEk9PiLKROQbU7aOdtAXtpKj40PpsfjxIDwxTWT1DZooJQxJihjUpFEKikZB8q2DBgOQWE_pqhox95Mc3NMY7Qe66bcD0ETE7HAdEFxRHBGOeDBg55HgB3cDM16JLgxN4u-c7qrlzArnry3rjr_DwyH4CyR2FSA5MPeDn6jm1AVJHJvL7Mr-Bjapg_Gc_fZnu18LRaj8xdg9e7UOhuJIoLtNzZi9GEdAfnYa1e-hbWEI_38Ag%2A%2A",
+            "tag": "733352338916898834-1706997921790715839",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 158,90",
+            "price_raw": 158.9,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_1706997921790715839.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_1706997921790715839b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_1706997921790715839vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 2261,
+                "name": "Tech 21",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=2261",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4484692574012503077,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Rosa",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNqwTbqdKUhrCi0sAgbKqm_fc56VYpB9vv2e_Z-UZFjXLOJU8yKlKOCRWY4TSNUXUZDMpRhWJUts54HuNSCEZidK8HjXK8pAkWMXrtd8odgSsl3a8ElZLtV8_hQfPdMACkmqa1rVM1VHZj_z6qs58Isza9daPSLqSCUxj4aC7QIohKiFRplmqtoe1pqF0LJJT4GX8xZQKyzVFZazrIa9OouXPe9HwIDAhfbBektl4DpYwxQRmTGUlkBmY5ULa1x7APSvMRorKfRx325pjGaD23XV1NXhMTscB0QXFEcE454N6DCivADW5-rnLEm9E3h26wamiXsCoO1nvbnP73TXHCWSKxbgAppspMbqM63-UVCmfOV1NQmPpu9L4L-9mfzPWzWIxOX4C1u2NvTSTKCI7fmYjRh3UE5MOobP3mrxI-6ecX",
+            "tag": "733352338916898834-4484692574012503077",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 75,65",
+            "price_raw": 75.65,
+            "currency": "R$",
+            "old_price": "R$ 89,00",
+            "old_price_raw": 89,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620218,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 4438374862211479757,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Brasil",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PZFdT4MwFIb_Cuk12_oJHXeOGUOMcQno1W5qKY6MtQhFsxj_u6egS7g4H-8573PKNypqlHHOJEu5TCglhKfbVKQxqq69QRmqUIzK1pugY1xyLkmM7nWvUYbXNMEiRq_uoPwJtIRzetzg4-Z5_mDyru-hrpqmta1XNVQOg3sf1CWsg0W5s35Q2s-p4BS2PZorjAiiEiIVsGitYeypr30LIpSEHX8xZQKy_KSsNR3ktWnU1PlAPL3NCghfbDdb7YMHShljgjImtySRWykZB8m-Dj0cgtJ8zFHppkHPR3NMY7Sb2q6uxuCJiVhhuqI4IjijHPqBQS0nwAPcgBY_Emj0DdH3VvXtGm7FM7uzzfn_4BQnnCUS6wY6xViZ0eeqC1PBovDmslBBYXTdEMAL--nOZvlVLEbnL-i1h5OzJhJlBK_fmYjRh12Efn4B",
+            "tag": "733352338916898834-4438374862211479757",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 84,92",
+            "price_raw": 84.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646929089,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4438374862211479757.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4438374862211479757b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4438374862211479757vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 3254363307621544997,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Azul",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5oNA4La204SmaZVgO1Wa0hBWVJowCJuqaf99TrpVysHOe_Z7tr9R2aCCUZ6wlDGcpZTwJMnzLEb1ZdCoQDWKUdU5HXiJ4JyRGN2rQaECL2mKeYxe7U66I3CFoPsVp0Kw_eo5PCi-GwaAZNt2pnOygZ_daN9HefYdodfGGjdK5ULKEwoNH_UFSjiRKREyyzOlFJQ9DY3rgIRS3-MvpoxDtjlKY3QPeaNbOffOm54PgQHhi-mD1NZroIwxxiljIiepyMFsApRt4zHsg0p_hKiy86jC3AmmMVrPXd_Uk9fEhC8wXVAcEVzQBHDvQYYRYAc3P1c54s2om0M3GDl0SxgVB-vWtKf_eTOcwiEEVi0g5VTryW1k76u8Qun0-WoKPibbj953aT7tSV-PxWJ0-gKs2x2t0RGvIlh-ryNGH9YRkA-jNM2b30o40s8v",
+            "tag": "733352338916898834-3254363307621544997",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 75,65",
+            "price_raw": 75.65,
+            "currency": "R$",
+            "old_price": "R$ 89,00",
+            "old_price_raw": 89,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620225,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 4870357465235632387,
+            "name": "Capa Protetora Ikase Kubalt para iPhone 5\/5s com Pel\u00edcula Protetora - Branco\/Rosa",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLTsMwEPyVyOe09TtubrRFKEKISgmcejGOQ6OmdkgcUIX4d9YpVPJhH7M7M-tvVNQo5yrDTGRcCsqEZJSpLEXVpbcoRxVKUdkGG3GMK84VSdG96Q3K8ZJKLFL06vc6HAFLOKeHFT6snucHk3d9D3XdNK1rg66hsh_8-6DPcR0s2noXBm3CnApOYdujvcCIIFoSpbN1ZoyBsae-Di2AkIw7_mJQC9n2qJ2zHeS1bfTUhah4epsREL64bqbaRQ6UMcbAJVNrItVaKcYBsqtjD8egtB9zVPppMLNpjmmKNlPb1dUYOTERC0wXFCcE55RDP2rQVwtwgJugKx-JasxNYuid7tsleMWzdu-a07_hDEvOpMKmgU4xVnYMW93FqUhRBHu-qoLC6LshCi_cpz_Z61exFJ2-oNfuj97ZRJQJXL-zCaMPmwT9_AI%2A",
+            "tag": "733352338916898834-4870357465235632387",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 67,07",
+            "price_raw": 67.07,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "32%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 4895158626358,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4870357465235632387.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4870357465235632387b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4870357465235632387vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4026430559046644410,
+            "name": "Capa p\/ Iphone 5\/5S Cruzeiro Hoje \u00e9 Dia",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLTsMwEPyVyOe09TuPG20RihCiUgKnXozj0KipHRIHVCH-nXVSkHzYx-zM7PobFTXKOaaSMyxEhrmUnHOCY1Rde4NyVKEYla03Acd4KlhCYnSve41yvKYSixi9uoPyJ8ASzulxg4-b5_nB5F3fQ101TWtbr2qoHAb3PqhLoAOinbN-UNrPqeAU2B7NFUYEUZKkKskSrTWMPfW1bwGEZOC4xZQJyHYnZa3pIK9No6bOB8fT24yA8MV2s9Q-aKCEMSYoY2lGZJqlKeMA2dehh0NQmo85Kt00aHM7Toy2U9vV1Rg0MRErTFcURwTnlEM_eFDLCnCAf0OLHglu9L9F31vVt2vYFc_enW3OfwsnGH5Bplg30CnGyox-p7owFSQKby6LKyiMrhuC8cJ-urNZvorF6PwFvfZwctZEoozg-p2JGH3YRujnFw%2A%2A",
+            "tag": "733352338916898834-4026430559046644410",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,92",
+            "price_raw": 79.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "20%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7909222013290,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4026430559046644410.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4026430559046644410b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4026430559046644410vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5154695612240145031,
+            "name": "ASTON MARTIN - Capa protetora para iPhone 5\/5S - Azul\/Preto",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5pvAbW2nCU3TKtHtVGlKQ1hRaWAQNlXT_vsc2CrlYPs9-z073ygvUSaI4DIVklDKMeECMxKj_bWzKEN7FKOi9jbwGFdcUcDuTWdQhpdUYhGj13an_Qm4hHN6WCWpOqyepwe9d10HiK6q2tVel1DZ9e17ry9hIIzatM732vgpFZzCvEd7hRZBtCRKJ2lijIG2p670NZCQDDP-YsoEZJuTds42kJe20mPjg-fxODEgfHHNJLUNGihhjAnKmEqJVKlSjANlWwYMh6CwH1NUtGNvprU5pjFaj3VT7oegiYlYYLqgOCI4oxzw4EHPK8AJboZmPRLcmJtF3znd1UvYFU_eW1ed_xdOsORMKmwqQPJhbwe_0U3oChK5t5fZFRSGtumD8dx9tmc7fxaL0fkLsHp3ap2NRBHB9RsbMfqwjoB87LUr38JZ4I9-fgE%2A",
+            "tag": "733352338916898834-5154695612240145031",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 109,00",
+            "price_raw": 109,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5154695612240145031.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5154695612240145031b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5154695612240145031vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 798,
+                "name": "Aston Martin",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=798",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4792633190495814329,
+            "name": "Capa p\/ Iphone 5\/5S Internacional Tinta e Relevo",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczOzK6_UVGjnKcZTRgjGeaZkIQzmsWouvYG5ahCMSpbbwKOcSlYSmJ0r3uNcrymCRYxenUH5U-AJZzT4wYfN8_zg8m7voe6aprWtl7VUDkM7n1Ql0AHRDtn_aC0n1PBKbA9miuMCKISIlWapVprGHvqa98CCCWB4y-mTEC2OylrTQd5bRo1dT44nt5mBIQvtpul9kEDpYwxQRmTGUlkJiXjANnXoYdDUJqPOSrdNOh5aY5pjLZT29XVGDQxEStMVxRHBOeUQz94UMsKcICboUWPBDf6ZtH3VvXtGnbFs3dnm_P_wilOOEsk1g10irEyo9-pLkwFicKby-IKCqPrhmC8sJ_ubJavYjE6f0GvPZycNZEoI7h-ZyJGH7YR-vkF",
+            "tag": "733352338916898834-4792633190495814329",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 63,92",
+            "price_raw": 63.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "36%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566416874,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4792633190495814329.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4792633190495814329b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4792633190495814329vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 2073404930929781888,
+            "name": "Capa Anti-impacto para iPhone 5 e 5s Band Azul - Tech21 - T212159",
+            "description": "Capa Anti-impacto para iPhone 5 e 5s Band Azul - Tech21 - T212159",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNq0S3U6UpDWFFpQmDsKma9t_nwFYpB9vv2e_Z-UZFhXKKU8YxzxjOaJZKIqWM0f7aGZSjPYpR2XgTeIxLLgWJ0b3uNMrxkiZYxOjV7ZQ_AZdwTg8rShNyWD1PD5rvug4gVdeNbbyqoLLr3XuvLmEizNo463ul_ZQKTmHgo7lCiyAqIVKlWaq1hranrvINkFASZvzFlAnINidlrWkhr0ytxtYH0-NxYkD4YttJahs0UMoYE5QxmZFEZlIyDpRtFTAcgtJ8TFHpxl5Pe3NMY7Qem7baD0ETE7HAdEFxRHBOOeDBg5pXgBvcDM16JLjRN4u-s6prlrArnrw7W5__F05xwlkisa4BKYa9GfxGtaErSBTeXGZXUBhc2wfjhf10ZzP_FovR-QuwZndy1kSijOD6rYkYfVhHQD72ylZv4Szhk35-AQ%2A%2A",
+            "tag": "733352338916898834-2073404930929781888",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 187,10",
+            "price_raw": 187.1,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2073404930929781888.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2073404930929781888b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2073404930929781888vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 2261,
+                "name": "Tech 21",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=2261",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 399877392110882236,
+            "name": "Capa p\/ Iphone 5\/5S Cruzeiro Retr\u00f4",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczOzK6_UVGjnGWZTFOWUUKwlJSyJEbVtTcoRxWKUdl6M8O4FCwlMbrXvUY5XtMEixi9uoPyJ8ASzulxg4-b5_nB5F3fQ101TWtbr2qoHAb3PqhLoAOinbN-UNrPqeAU2B7NFUYEUQmRKs1SrTWMPfW1bwGEksDxF1MmINudlLWmg7w2jZo6HxxPbzMCwhfbzVL7oIFSxpigjMmMJDKTknGA7OvQwyEozccclW4a9Lw0xzRG26nt6moMmpiIFaYriiOCc8qhHzyoZQU4wM3QokeCG32z6Hur-nYNu-LZu7PN-X_hFCecJRLrBjrFWJnR71QXpoJE4c1lcQWF0XVDMF7YT3c2y1exGJ2_oNceTs6aSJQRXL8zEaMP2wj9_AI%2A",
+            "tag": "733352338916898834-399877392110882236",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 63,92",
+            "price_raw": 63.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "36%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7909222013337,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_399877392110882236.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_399877392110882236b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_399877392110882236vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 5144350534912063458,
+            "name": "Capa para iphone 5\/5s - Preto com cinza - Glow",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFdT4MwFP0rpM9s6ycU3txmDDHGJUyflpiuFEfGWoSiWYz_3VvQJX24H-eec-7tNyoqlAvCORNYMJ4RihPGhYzR_toZlKM9ilHZeBNwjEsuKYnRve40yvGSJljE6NXtlD8BFmjoYcU54elh9Tw9mL7rOuipum5s41UFlV3v3nt1CZRAtnHW90r7KRWcAuOjucKIICohUqVZqrWGsaeu8g2AUBI4_mLKBGSbk7LWtJBXplZj64Pr8TghIHyx7SS1DRooZYwJypjMSCIzKRkHyLYKPRyC0nxMUenGXk-Lc0xjtB6bttoPQRMTscB0QXFEcE459IMHNa8AR7gZmvVIcKNvFn1nVdcsYVc8eXe2Pv8vnOKEs0RiXUOnGPZm8BvVhqkgUXhzmV1BYXBtH4wX9tOdzfxdLEbnL-g1u5OzJhJlBNdvTcTowzoC8LFXtnoLZ5l-6ecX",
+            "tag": "733352338916898834-5144350534912063458",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 70,00",
+            "price_raw": 70,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5144350534912063458.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5144350534912063458b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_5144350534912063458vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 44147,
+                "name": "Glow",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=44147",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 1820541480530329095,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Preto",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNqwTbqdKUhrCi0sAgbKqm_fc56VYpB9vv2e_Z-UZFjXIiKRaccIkFw4xmOBMxqi6DQTmqUIzK1hnPY1wKwUiM7vWgUY6XNMHAfO13yh2BKyXdrwSVku1Xz-FB890wAKSaprWtUzVUdmP_PqpzUI7RprduVNqFVHAKAx_NBVoEUQmRKs1SrTW0PQ21a4GEEj_jL6ZMQLY5KmtNB3ltGjV3zpueD4EB4YvtgtTWa6CUMSYoYzIjiczALAfKtvYY9kFpPkJU9vOow94c0xit57arq8lrYiIWmC4ojgjOKQfce1BhBbjBzc9Vjngz-ubQDVYN7RJWxcF6b5vT_74pTjhLJNYNIMVUmcltVOe7vELhzPlqCgpT343ed2E_-5O5fhaL0ekLsHZ37K2JRBnB8TsTMfqwjoB8GJWt3_xVwif9_AI%2A",
+            "tag": "733352338916898834-1820541480530329095",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 84,92",
+            "price_raw": 84.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620232,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 5884605527897563695,
+            "name": "Capa Protetora Custom4U para iPhone 5\/5s - Warner Bros Power Shields",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_MZwa5KqQlXVSNCecnGNaVCIoWBaRVX_vWtoI_mwj5md2fU3yiuUCaW4xELQRKWJkEymIkbltbcoQyWKUdF4G3CMK84VidG96Q3K8JoCK0av3UH7E2AJ5_S4wcfN8_yAedf3UNd13bjG6woqh6F7H_QljINBu875QRs_p4JTmPZor0ARREuidJImxhigPfWVbwCEZJjxF1MmINudtHO2hbyytZ5aHxxPbzMCwhfXzlL7oIESxpigjKmUSJUqxThA9lXo4RAU9mOOim4azLw0xzRG26lpq3IMmpiIFaYriiOCM8qhHzzoZQU4wM3QokeCG3Oz6Hun-2YNu-LZe-fq8__CCZacSYVNDZ18LO3od7oNrCCRe3tZXEFh7NohGM_dZ3e2y1exGJ2_oNccTp2zkSgiuH5rI0YfthH6-QU%2A",
+            "tag": "733352338916898834-5884605527897563695",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 67,92",
+            "price_raw": 67.92,
+            "currency": "R$",
+            "old_price": "R$ 79,90",
+            "old_price_raw": 79.9,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899646925074,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5884605527897563695.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5884605527897563695b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_5884605527897563695vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 2806942137489833517,
+            "name": "Capa p\/ Iphone 5\/5S Vasco Cruz Relevo",
+            "description": "Unissex",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLboMwEPwV5DNJ_ATDrUmqClVVI0F7ysU1pkEhNgXTKqr6711DG8mHfczuzKy_UVGjnEqcZJwSlnKZScYESWNUXXuDclShGJWtNwHHuBQsJTG6171GOV7TBIsYvbqD8ifAEs7pcYOPm-f5weRd30NdNU1rW69qqBwG9z6oS1gHi3bO-kFpP6eCU9j2aK4wIohKiFRplmqtYeypr30LIJSEHX8xZQKy3UlZazrIa9OoqfNB8fQ2IyB8sd1MtQ8cKGVgjzImM5KAV8k4QPZ16OEQlOZjjko3DXo2zTGN0XZqu7oaAycmYoXpiuKI4Jxy6AcNarEAB7gJWvhIUKNvEn1vVd-uwSuetTvbnP8NpzjhLJFYN9ApxsqMfqe6MBUoCm8uiyoojK4bgvDCfrqzWb6Kxej8Bb32cHLWRKKM4PqdiRh92Ebo5xc%2A",
+            "tag": "733352338916898834-2806942137489833517",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 79,92",
+            "price_raw": 79.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "20%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7899566417048,
+            "estimated_cpc": "R$ 0,26",
+            "estimated_cpc_raw": 0.2605,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_2806942137489833517.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_2806942137489833517b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_2806942137489833517vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485371,
+            "merchant": {
+                "merchant_id": 3485371,
+                "name": "Netshoes",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485371",
+                "domain": "netshoes",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3485371.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 4940233750902636130,
+            "name": "Capa para iPhone 5 \/ 5S em Silicone TPU Premium - Husky - Transparente",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHLTsMwEPyVyOe09TuPG20RihCiUgKnXozj0KipHRIHVCH-nXUClXzYx-zOzPobFTXKecYxZSwROMNUMkkYjlF17Q3KUYViVLbeBBzjKU8pidG97jXK8ZpKLGL06g7KnwBLOKfHDT5unucHk3d9D3XVNK1tvaqhchjc-6AuYR0s2jnrB6X9nApOYdujucKIIEqSVCVZorWGsae-9i2AkAw7_mLKBGS7k7LWdJDXplFT54Pi6W1GQPhiu5lqHzhQwhgT4DXNiEyzNGUcIPs69HAISvMxR6WbBj2bhtPEaDu1XV2NgRMTscJ0RXFEcE459IMGtViAA9wELXwkqNE3ib63qm_X4BXP2p1tzv-GEyw5kynWDXSKsTKj36kuTAWKwpvLogoKo-uGILywn-5slq9iMTp_Qa89nJw1kSgjuH5nIkYfthH6-QU%2A",
+            "tag": "733352338916898834-4940233750902636130",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 29,99",
+            "price_raw": 29.99,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4940233750902636130.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4940233750902636130b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_4940233750902636130vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 2838514394662986276,
+            "name": "Capa Bobby Snap-On da True Religion para iPhone 5 e 5s Marrom - Sena",
+            "description": "Capa Bobby Snap-On da True Religion para iPhone 5 e 5s Marrom - Sena - SENAUT00001",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5pvAbW2nCU3TKtHtVGlKQ1hRaWAQNlXT_vsc2CrlYPs9-z073ygvUUYVU4JwlnIpaaokTWSM9tfOogztUYyK2tvAY1xxIMbo3nQGZXhJJRYxem132p-ASzinhxVhiVSH1fP0oPuu6wDTVVW72usSKru-fe_1JYyEYZvW-V4bP6WCU5j4aK_QIoiWROkkTYwx0PbUlb4GEpJhxl9MmYBsc9LO2Qby0lZ6bHxwPR4nBoQvrpmktkEDJYwxQRlTKZEqVYpxoGzLgOEQFPZjiop27M20OMc0Ruuxbsr9EDQxEQtMFxRHBGeUAx486HkFOMLN0KxHghtzs-g7p7t6CbviyXvrqvP_wgmWnEmFTQVIPuzt4De6CV1BIvf2MruCwtA2fTCeu8_2bOfvYjE6fwFW706ts5EoIrh-YyNGH9YRkI-9duVbOMv0Sz-_",
+            "tag": "733352338916898834-2838514394662986276",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 243,52",
+            "price_raw": 243.52,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2838514394662986276.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2838514394662986276b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2838514394662986276vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 13768,
+                "name": "True Religion",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=13768",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 2292562311545202562,
+            "name": "Vouni Combina\u00e7\u00e3o - Capa para iPhone 5\/5S - Prata",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNqwTbqZcshBWVJgzCpmraf58DW6Ucnu1nv2fnGxU1yinNqEgoI0RwQXHAMaquvUE5qlCMytabwGNccklJjO51r1GO1zTBIkav7qD8CbiEc3rc4OPmeX7Qedf3kFdN09rWqxoyh8G9D-oSxsGgnbN-UNrPoeAUpj2aK7QIohIiVZqlWmtoe-pr3wIJJWHGH6ZMQLQ7KWtNB3FtGjV1Pjie3mYGwBfbzVL7oIFSxpigjMmMJDKTknGg7OtQwwGU5mNGpZsGPS_NMRxjO7VdXY1BExOxwnRFcURwTjnUgwe1rAAHuBla9Ehwo28WfW9V365hVzx7d7Y5_y-c4oSzRGLdQKUYKzP6nepCV5AovLksriAxum4Ixgv76c5m-SoWo_MX1NrDyVkTiTKC63cmYvRhG6GfXw%2A%2A",
+            "tag": "733352338916898834-2292562311545202562",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 49,90",
+            "price_raw": 49.9,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2292562311545202562.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2292562311545202562b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i110.twenga.com\/0-tp_2292562311545202562vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484821,
+            "merchant": {
+                "merchant_id": 40962,
+                "name": "Extra",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=40962",
+                "domain": "extra",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 370367270749795871,
+            "name": "Capa Casey Snap-On para iPhone 5 e 5s da True Religion Azul - Sena",
+            "description": "Capa Casey Snap-On para iPhone 5 e 5s da True Religion Azul - Sena - AUT00004",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb8IwDP0rVc4F8p2U24BpQtM0JNhOSFNI01FR0q4Nm9C0_z4n3ZBysP2e_Z6db7Qu0ZwpzKSiCiteqEJoRXK0u3YOzdEO5WhbB5doXHMtALu3nUVzPKUSixy9thsTjsAlnNP9jDAl9X72nB5033UdYKaqal8HU0Jl07fvvTnHkTBs2frQGxtSKjiFiY_uCi2CGEm0UYWy1kLbU1eGGkhIxhl_MWUCsuXReO8ayEtXmUsTouvLITEgfPFNklpFDaQYY4IypgsidaE140BZlRHDMdi6jxRt20tv0-Ic0xwtLnVT7oaoiYmYYDqhOCN4Tjng0YMZV4Aj3AyNeiS6sTeLofOmq6ewK07eW1-d_hdWWHImNbYVIOth54awNE3sihLr4M6jKygMbdNH42v_2Z7c-F0sR6cvwOrNsfUuE9sMrt-4jNGHRQbkQ298-RbPkn7p5xc%2A",
+            "tag": "733352338916898834-370367270749795871",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 281,13",
+            "price_raw": 281.13,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": false,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_370367270749795871.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_370367270749795871b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_370367270749795871vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484851,
+            "merchant": {
+                "merchant_id": 42694,
+                "name": "Fast Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=42694",
+                "domain": "fastshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/1\/42694.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 13768,
+                "name": "True Religion",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=13768",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 1086712619730812989,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Verde",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5oOEwG1tpwlN0yrBdqo0pSGsqDQwCJuqaf99TrpVysH2e_Z7dr5RUaOcYClSQgXJUoYloZnMYlRdBoNyVKEYla0znscSyTkjMbrXg0Y5XlKBeYxe-51yR-BKSfcrTqVk-9VzeNB8NwwAqaZpbetUDZXd2L-P6hyUY7TprRuVdiHlCYWBj-YCLZwoQaRKs1RrDW1PQ-1aICHhZ_zFlHHINkdlrekgr02j5s550_MhMCB8sV2Q2noNlDLGOGVMZkTIDMwmQNnWHsM-KM1HiMp-HnXYO8E0Ruu57epq8pqY8AWmC4ojgnOaAO49qLAC3ODm5ypHvBl9c-gGq4Z2CaviYL23zel_3xSLhAmJdQNIMVVmchvV-S6vUDhzvpqCwtR3o_dd2M_-ZK6fxWJ0-gKs3R17ayJeRnD8zkSMPqwjIB9GZes3f5XwST-_",
+            "tag": "733352338916898834-1086712619730812989",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 75,65",
+            "price_raw": 75.65,
+            "currency": "R$",
+            "old_price": "R$ 89,00",
+            "old_price_raw": 89,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620249,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 3322561003509618063,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Azul",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfahnxA4La204SmaZVgO1Wa0hBWVJowCJuqaf99TrpVysHOe_Z7tr9R2aCCUkJ4mmBMOc7TROCUxqi-DBoVqEYxqjqnA48JxkQSo3s1KFTgJUkxj9Gr3Ul3BK4QZL_iRAi6Xz2HB8V3wwCQbNvOdE428LMb7fsoz74j9NpY40apXEg5I9DwUV-ghCcSvMgsz5RSUPY0NK4DEkp9j7-YUA7Z5iiN0T3kjW7l3Dtvej4EBoQvpg9SW6-BMkopJ5SKPElFDmYZULaNx7APKv0RosrOowpzM0xitJ67vqknr4kTvsBkQXCU4IIwwL0HGUaAHdz8XOUSb0bdHLrByKFbwqg4WLemPf3Pm-GU0VRg1QJSTrWe3Eb2vsorlE6fr6bgY7L96H2X5tOe9PVYcLXTF2Dd7miNjngVwfJ7HVHysI6AfBilad78VsKRfn4B",
+            "tag": "733352338916898834-3322561003509618063",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 75,65",
+            "price_raw": 75.65,
+            "currency": "R$",
+            "old_price": "R$ 89,00",
+            "old_price_raw": 89,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620225,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }, {
+            "item_id": 4365881802184517931,
+            "name": "Capa Geonav Ocean Areia IPH5COL33 para iPhone 5\/5s",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVHvT4MwEP1XSD-z2Z9Q-OY2Y4gxLgH9ZGK6UhwZaxGKZjH-715BlxBy1_fu3ru7b1TUKOcsEVISiSmRXJA0YyRG1aU3KEcVilHZehN4jEshAnane41yvKYJFjF6cXvlj8AlnNPXG8II_J_mD4pv-x4g1TStbb2q4WU_uPdBnUNH6LV11g9K-zkVnELDB3OBEkFUQqRKs1RrDWWPfe1bIKEk9PiLKROQbY_KWtNBXptGTZ0PpqfDzIDw2Xaz1C5ooJQxJihjMiOJzKRkHCi7OmA4BKX5mKPSTYOe5-aYxmgztV1djUETE7HCdEVxRHBOOeDBg1pGgB1cDS16JLjRV4u-t6pv1zArnr0725z-B05xAseQWDeAFGNlRr9VXagKEoU358UVPIyuG4Lxwn66k1muxWJ0-gKs3R-dNZEoI9h-ZyJG7zcRkA-DsvVbWEs40s8v",
+            "tag": "733352338916898834-4365881802184517931",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "R$ 59,42",
+            "price_raw": 59.42,
+            "currency": "R$",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 7898577971877,
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4365881802184517931.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4365881802184517931b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i111.twenga.com\/0-tp_4365881802184517931vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3485531,
+            "merchant": {
+                "merchant_id": 3485531,
+                "name": "Pontofrio",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3485531",
+                "domain": "pontofrio",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 1312,
+                "name": "Geonav",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=1312",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 80024,
+                "name": "Gadgets para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=80024&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=80024"
+            }
+        }, {
+            "item_id": 3182452339821734682,
+            "name": "Capa Aqu\u00e1tica DiCAPac WP-i10 para Apple iPhone 3\/4\/4S\/5\/5S\/5C - Preto",
+            "description": "",
+            "click_url": "http:\/\/r.twenga.com.br\/g1.php?cpz=PVFNb4MwDP0rKGfa5hMCt7WdJjRNqwTbqdKUhrCi0sAgbKqm_fc5aTcpB9vv2e_Z-UZFjXJGJOWCMpZJSlLGE0ljVF0Gg3JUoRiVrTOBxyXnksToXg8a5XhJEyxi9NrvlDsCV0q6XwkqJduvnsOD5rthAEg1TWtbp2qo7Mb-fVRnPxFmbXrrRqVdSAWnMPDRXKBFEJUQqdIs1VpD29NQuxZIKPEzbjFlArLNUVlrOshr06i5c970fAgMCF9sF6S2XgOljDG_rMxIIjMwy4GyrT2GfVCajxCV_TzqsDfHcI_13HZ1NXlNTMQC0wXFEcE55YB7DyqsIP3tbn6ucsSb0f8O3WDV0C5hVRys97Y5_e2b4oSzRGLdAFJMlZncRnW-yysUzpyvpqAw9d3ofRf2sz-Z62exGJ2-AGt3x96aSJQRHL8zEaMP6wjIh1HZ-s1fJXzSzy8%2A",
+            "tag": "733352338916898834-3182452339821734682",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": true,
+            "has_shipping_cost": true,
+            "price": "R$ 84,92",
+            "price_raw": 84.92,
+            "currency": "R$",
+            "old_price": "R$ 99,90",
+            "old_price_raw": 99.9,
+            "discount": "14%",
+            "shipping_cost": "R$ 0,00",
+            "shipping_cost_raw": -0,
+            "has_ean": true,
+            "ean": 8809176620232,
+            "product": {
+                "product_id": 13505291,
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=13505291"
+            },
+            "estimated_cpc": "R$ 0,16",
+            "estimated_cpc_raw": 0.164948,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_13505291vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3484481,
+            "merchant": {
+                "merchant_id": 92375,
+                "name": "Casas Bahia",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=92375",
+                "domain": "casasbahia",
+                "has_logo": false
+            },
+            "brand": {
+                "brand_id": 52883,
+                "name": "DicaPac",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=52883",
+                "has_logo": false
+            },
+            "category": {
+                "category_id": 81624,
+                "name": "Prote\u00e7\u00e3o para celular",
+                "twenga_url": "http:\/\/www.twenga.com.br\/#&c=81624&u=c",
+                "match_url": "http:\/\/api.wtpn.twenga.com.br\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=81624"
+            }
+        }]
+    }]
+}

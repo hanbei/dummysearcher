@@ -1,0 +1,1318 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>b300ed50-18fb-4ce2-abaa-f6fed04386fe</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="vm06-21"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T13:59:14Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="m0PfMGFZv4WM+kllP4eScS3uypmKV2P5uMBLKXMatb0="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.0759350000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>7622646</TotalResults>
+		<TotalPages>762265</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.de/gp/redirect.html?camp=2025&amp;creative=12738&amp;location=http%3A%2F%2Fwww.amazon.de%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=vm06-21&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B0000AL3S6</ASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Piel-Frama-schwarze-Walletledertasche-Samsung-Schwarz/dp/B0000AL3S6%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0000AL3S6
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB0000AL3S6%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB0000AL3S6
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B0000AL3S6%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB0000AL3S6
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B0000AL3S6%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB0000AL3S6
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B0000AL3S6%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB0000AL3S6
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Zubehör</Binding>
+				<Brand>Piel Frama</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>PF622</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Schwarz</Color>
+				<EAN>8428863006229</EAN>
+				<EANList>
+					<EANListElement>8428863006229</EANListElement>
+				</EANList>
+				<Feature>sehr hochwertige, handgefertigte Piel Frama Ledertasche</Feature>
+				<Feature>Fach für den Führerschein/Personalausweis und Kreditkarten</Feature>
+				<Feature>weiche Lederauskleidung</Feature>
+				<Feature>Verschluss mit einer Lederschnalle</Feature>
+				<Feature>wird in einem eleganten Geschenkkarton geliefert</Feature>
+				<Label>Piel Frama</Label>
+				<Manufacturer>Piel Frama</Manufacturer>
+				<Model>U622</Model>
+				<MPN>U622</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">236</Height>
+					<Length Units="hundredths-inches">614</Length>
+					<Weight Units="hundredths-pounds">31</Weight>
+					<Width Units="hundredths-inches">386</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>U622</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Piel Frama</Publisher>
+				<Studio>Piel Frama</Studio>
+				<Title>Piel Frama schwarze Walletledertasche für Samsung Galaxy S4 schwarz</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7000</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 70,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B0000AL3S6%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB0000AL3S6
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							gSrBNCiu3Zh1C9XdOCfffmNYgYxUMu0MFwoYnTla472LMcaia1ADFA4rfBmzalGsM7rhmO6O2e%2BAG5KMLgz5KMev6WZIAB7s
+						</OfferListingId>
+						<Price>
+							<Amount>7000</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 70,00</FormattedPrice>
+						</Price>
+						<Availability>Noch nicht veröffentlicht</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<IsPreorder>1</IsPreorder>
+							<MinimumHours>672</MinimumHours>
+							<MaximumHours>1008</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00VFIWKIQ</ASIN>
+			<ParentASIN>B00W1Q02WW</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Samsung-Tablet-PC-Quad-Core-Android-schwarz/dp/B00VFIWKIQ%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00VFIWKIQ
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00VFIWKIQ%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWKIQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00VFIWKIQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWKIQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00VFIWKIQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWKIQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00VFIWKIQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWKIQ
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<Color>schwarz</Color>
+				<EAN>8806086989466</EAN>
+				<EANList>
+					<EANListElement>8806086989466</EANListElement>
+				</EANList>
+				<Feature>Prozessor: Quad-Core (1,2 GHz)</Feature>
+				<Feature>Besonderheiten: LCD Display, 5 Megapixel Kamera, Bluetooth 4.1</Feature>
+				<Feature>Akku: 6.000 mAh</Feature>
+				<Feature>Abmessungen: 242,5 x 166,8 x 7,5 mm, Gewicht: 456 g</Feature>
+				<Feature>Lieferumfang: Samsung Galaxy Tab A T550N 24,6 cm (9,7 Zoll) WiFi Tablet-PC schwarz,
+					Ladeadapter, Datenkabel, Kurzanleitung
+				</Feature>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">955</Height>
+					<Length Units="hundredths-inches">657</Length>
+					<Weight Units="hundredths-pounds">99</Weight>
+					<Width Units="hundredths-inches">30</Width>
+				</ItemDimensions>
+				<ItemPartNumber>SMT550NZKADBT</ItemPartNumber>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Neuware vom Fachhändler</LegalDisclaimer>
+				<ListPrice>
+					<Amount>29900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 299,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T550NZKADBT</Model>
+				<MPN>SM-T550NZKADBT</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">189</Height>
+					<Length Units="hundredths-inches">992</Length>
+					<Weight Units="hundredths-pounds">146</Weight>
+					<Width Units="hundredths-inches">701</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T550NZKADBT</PartNumber>
+				<ProductGroup>Computer &amp; Zubehör</ProductGroup>
+				<ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab A T550N 24,6 cm (9,7 Zoll) WiFi Tablet-PC (Quad-Core, 1,2 GHz, 16 GB, Android
+					5.0) schwarz
+				</Title>
+				<TradeInValue>
+					<Amount>13364</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 133,64</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>27900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 279,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>34</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00VFIWKIQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWKIQ
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							bib%2BQDdsa2jGsNArOqeChwsC0fU%2BBvaXcGfuUcaFYZgqbSo%2BiBM5SkveuFCVjll4di6niDtFPIwT7cOpZA%2F90oJw8AgzKOcI4BkvwHup6ME%3D
+						</OfferListingId>
+						<Price>
+							<Amount>27900</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 279,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>2000</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 20,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>7</PercentageSaved>
+						<Availability>Gewöhnlich versandfertig in 24 Stunden</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00I50W90Q</ASIN>
+			<ParentASIN>B00ROTPCAS</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Smartphone-N8000-MTK6582-Android-4-4-2/dp/B00I50W90Q%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00I50W90Q
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00I50W90Q%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00I50W90Q
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00I50W90Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00I50W90Q
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00I50W90Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00I50W90Q
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00I50W90Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00I50W90Q
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Elektronik</Binding>
+				<Brand>Star</Brand>
+				<Color>weiß</Color>
+				<EAN>4260146993031</EAN>
+				<EANList>
+					<EANListElement>4260146993031</EANListElement>
+				</EANList>
+				<Feature>5,5" (14 cm) 540x960 qHD IPS kapazitiver TouchScreen 16 Mio. Farben 16GB Flash</Feature>
+				<Feature>MediaTek MTK6582 1,3 GHz Quad Core CPU, Mali400-MP2, 3G, HSPA+</Feature>
+				<Feature>Android 4.2.2 JB, Dual SIM (zwei sims arbeiten zur gleichen Zeit)</Feature>
+				<Feature>1GB RAM, 4GB interner Flash, 3000mAh Batterie</Feature>
+				<Feature>Dual Kameras 5MP vorne, 13MP hinten, Flip-Cover und Displayschutzfolie im Lieferumfang
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">228</Height>
+					<Length Units="hundredths-inches">732</Length>
+					<Weight Units="hundredths-pounds">97</Weight>
+					<Width Units="hundredths-inches">449</Width>
+				</ItemDimensions>
+				<Label>Zixoon</Label>
+				<LegalDisclaimer>Keine Garantie oder Rücknahme.</LegalDisclaimer>
+				<Manufacturer>Zixoon</Manufacturer>
+				<Model>N8000</Model>
+				<MPN>N8000</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">228</Height>
+					<Length Units="hundredths-inches">732</Length>
+					<Weight Units="hundredths-pounds">97</Weight>
+					<Width Units="hundredths-inches">449</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>N8000</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Zixoon</Publisher>
+				<Studio>Zixoon</Studio>
+				<Title>5.5 Zoll (14 cm) IPS qHD Dual SIM Smartphone N8000 Quad Core MTK6582 Android 4.4.2 1GB RAM
+					13MP+5MP + Flip Cover Weiß
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>11498</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 114,98</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>17</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00I50W90Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00I50W90Q
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							y4aeN6Umzh930ffbYwjb5G84i29oT4zBqy4dAQCQJuS9inq%2BxTHolTmebSdRikB2tx46gAt0P54ZXu1qArbhZKGUJz2BQF4NmbptvLk9cPLtmx5o5NjKfRK5DEgilTl4iLE1sRtcDflt2TlT9iL7UxMnHlxcaPsz
+						</OfferListingId>
+						<Price>
+							<Amount>11498</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 114,98</FormattedPrice>
+						</Price>
+						<Availability>Versandfertig in 1 - 2 Werktagen</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00JG76I7W</ASIN>
+			<ParentASIN>B00Q31JONE</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Samsung-Tablet-PC-Quad-Core-Bluetooth-EU-Stecker/dp/B00JG76I7W%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JG76I7W
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00JG76I7W%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76I7W
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00JG76I7W%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76I7W
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00JG76I7W%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76I7W
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00JG76I7W%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76I7W
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<Color>schwarz</Color>
+				<EAN>8806086053129</EAN>
+				<EANList>
+					<EANListElement>8806086053129</EANListElement>
+					<EANListElement>8806086117500</EANListElement>
+					<EANListElement>8806086105514</EANListElement>
+				</EANList>
+				<Feature>Prozessor: Intel Quad-Core, (1,2GHz)</Feature>
+				<Feature>Besonderheiten: 25,65 cm (10,1 Zoll) TFT-Display, USB 2.0, 3 Megapixel Rückkamera, 1,3
+					Megapixel Frontkamera
+				</Feature>
+				<Feature>Akku: 6,800 mAh</Feature>
+				<Feature>Herstellergarantie: 24 Monate bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand
+					durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+				</Feature>
+				<Feature>Lieferumfang: Samsung Galaxy Tab 4 10.1 25,65 cm Wi-Fi Tablet Schwarz , Ladeadapter,
+					Datenkabel, Kurzanleitung
+				</Feature>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">28</Height>
+					<Length Units="hundredths-inches">958</Length>
+					<Weight Units="hundredths-pounds">109</Weight>
+					<Width Units="hundredths-inches">694</Width>
+				</ItemDimensions>
+				<ItemPartNumber>SMT530NYKADBT</ItemPartNumber>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Neuware vom Fachhändler</LegalDisclaimer>
+				<ListPrice>
+					<Amount>29900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 299,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T530NYKADBT</Model>
+				<MPN>8806086053129</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">197</Height>
+					<Length Units="hundredths-inches">1016</Length>
+					<Weight Units="hundredths-pounds">150</Weight>
+					<Width Units="hundredths-inches">780</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806086053129</PartNumber>
+				<ProductGroup>Computer &amp; Zubehör</ProductGroup>
+				<ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab 4 10.1 Wi-Fi 25,6 cm (10,1 Zoll) Tablet-PC (1,2GHz Quad-Core, 1,5GB RAM, 16GB
+					interner Speicher, Bluetooth 4.0, Android 4.4.2, EU-Stecker) schwarz
+				</Title>
+				<TradeInValue>
+					<Amount>14205</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 142,05</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>20490</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 204,90</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>18999</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 189,99</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>83</TotalNew>
+				<TotalUsed>14</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00JG76I7W%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76I7W
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							oeCRh5ZASb6G6LsiZ3kcAuSVgm7VyF1W8T6LXk5qI9S89TKaLOGVBeKhDPeP%2FTkeYYBamcU6f0IgSmLgsY36RsUIpXmZLkAwPwmNX8HSYKWm3%2BGUU9kuzvQU3ZXQOYqU2UsYG3F2zxXTKTfRM1vc4Q%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>20500</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 205,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>9400</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 94,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>31</PercentageSaved>
+						<Availability>Gewöhnlich versandfertig in 24 Stunden</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00D16MTJA</ASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Samsung-Galaxy-GT-i9505-Display-Einheit/dp/B00D16MTJA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D16MTJA
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00D16MTJA%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00D16MTJA
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00D16MTJA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00D16MTJA
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00D16MTJA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00D16MTJA
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00D16MTJA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00D16MTJA
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Elektronik</Binding>
+				<Brand>Samsung</Brand>
+				<Color>weiß / white</Color>
+				<EAN>4250734905706</EAN>
+				<EANList>
+					<EANListElement>4250734905706</EANListElement>
+				</EANList>
+				<Feature>Samsung Galaxy S4 GT-i9505 Display</Feature>
+				<Feature>Originalware von Samsung</Feature>
+				<Feature>geliefert im Samsung Service Pack OVP</Feature>
+				<Feature>Es handelt sich um ein Ersatzteil, das Display! Es wird NICHT das komplette Smartphone
+					geliefert!
+				</Feature>
+				<ItemDimensions>
+					<Weight Units="hundredths-pounds">44</Weight>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<MPN>GH97-14655A</MPN>
+				<PackageDimensions>
+					<Weight Units="hundredths-pounds">44</Weight>
+				</PackageDimensions>
+				<PartNumber>GH97-14655A</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S4 GT-i9505 Display Einheit Modul weiß white</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>13500</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 135,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00D16MTJA%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00D16MTJA
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							y4aeN6Umzh930ffbYwjb5AhaADAGsgdTBFaPtrNBPzEl3%2BmpkV6NIozp3UnnxDWphufNc9tnXDiKOsvOVg60%2FuZ1vk8WhBKSAoJgyLnZYKk9xwlCqcTiEY2PuQ%2FaRNz4h7jhL8sm8Ip9KFrwDiynQQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>13500</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 135,00</FormattedPrice>
+						</Price>
+						<Availability>Versandfertig in 1 - 2 Werktagen</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00FS7PWDK</ASIN>
+			<ParentASIN>B00G6CWEF0</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Samsung-GT-S7390MKADBT-Smartphone-Megapixel-Speicher-Schwarz/dp/B00FS7PWDK%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00FS7PWDK
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00FS7PWDK%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00FS7PWDK
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00FS7PWDK%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00FS7PWDK
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00FS7PWDK%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00FS7PWDK
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00FS7PWDK%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00FS7PWDK
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Elektronik</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Schwarz</Color>
+				<EAN>8806085887169</EAN>
+				<EANList>
+					<EANListElement>8806085887169</EANListElement>
+					<EANListElement>4021114191541</EANListElement>
+				</EANList>
+				<Feature>Lieferumfang:Handy;Akku;Ladekabel;Datenkabel;Kurzanleitung</Feature>
+				<IsAutographed>0</IsAutographed>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">43</Height>
+					<Length Units="hundredths-inches">478</Length>
+					<Width Units="hundredths-inches">248</Width>
+				</ItemDimensions>
+				<ItemPartNumber>GTS7390MKADBT</ItemPartNumber>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Neuware vom Fachhändler</LegalDisclaimer>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-S7390MKADBT</Model>
+				<MPN>8806085887169</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">49</Weight>
+					<Width Units="hundredths-inches">291</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806085887169</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung GT-S7390MKADBT Galaxy Trend Lite Smartphone (10,2 cm (4 Zoll) Display, 3,2 Megapixel
+					Kamera, 4GB Speicher, Android 4.1) Midnight black
+				</Title>
+				<TradeInValue>
+					<Amount>2790</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 27,90</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7210</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 72,10</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>5629</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 56,29</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>29</TotalNew>
+				<TotalUsed>22</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00FS7PWDK%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00FS7PWDK
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							%2BpXAg%2BTI6TJDFouTr9tCt3hr4lmZnQqVaXr%2FreMmLvbuxXDGPkJHSIyLVgVWE452xSe46lAhEn7FaVZ87%2Bqy54zsvGO%2BPF6MKSzoqOVdf32LEzd6xS%2FE1ytSGH18QFqLa4JFpfx8vNF1i2Ej4%2B%2B6YcSyzV1IVd9I
+						</OfferListingId>
+						<Price>
+							<Amount>7210</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 72,10</FormattedPrice>
+						</Price>
+						<Availability>Versandfertig in 1 - 2 Werktagen</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00VFIWIPQ</ASIN>
+			<ParentASIN>B00W1Q02WW</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Samsung-Galaxy-Tablet-PC-Quad-Core-Android/dp/B00VFIWIPQ%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00VFIWIPQ
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00VFIWIPQ%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWIPQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00VFIWIPQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWIPQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00VFIWIPQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWIPQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00VFIWIPQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWIPQ
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<Color>weiß</Color>
+				<EAN>8806086981460</EAN>
+				<EANList>
+					<EANListElement>8806086981460</EANListElement>
+				</EANList>
+				<Feature>Prozessor: Quad-Core (1,2 GHz)</Feature>
+				<Feature>Besonderheiten: LCD Display, 5 Megapixel Kamera, Bluetooth 4.1</Feature>
+				<Feature>Akku: 6.000 mAh</Feature>
+				<Feature>Abmessungen: 242,5 x 166,8 x 7,5 mm, Gewicht: 456 g</Feature>
+				<Feature>Lieferumfang: Samsung Galaxy Tab A T550N 24,6 cm (9,7 Zoll) WiFi Tablet-PC weiß, Ladeadapter,
+					Datenkabel, Kurzanleitung
+				</Feature>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">955</Height>
+					<Length Units="hundredths-inches">657</Length>
+					<Weight Units="hundredths-pounds">99</Weight>
+					<Width Units="hundredths-inches">30</Width>
+				</ItemDimensions>
+				<ItemPartNumber>SMT550NZWADBT</ItemPartNumber>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Neuware vom Fachhändler</LegalDisclaimer>
+				<ListPrice>
+					<Amount>29900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 299,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T550NZWADBT</Model>
+				<MPN>SM-T550NZWADBT</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">189</Height>
+					<Length Units="hundredths-inches">992</Length>
+					<Weight Units="hundredths-pounds">146</Weight>
+					<Width Units="hundredths-inches">701</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T550NZWADBT</PartNumber>
+				<ProductGroup>Computer &amp; Zubehör</ProductGroup>
+				<ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab A T550N 24,6 cm (9,7 Zoll) WiFi Tablet-PC (Quad-Core, 1,2 GHz, 16 GB, Android
+					5.0) weiß
+				</Title>
+				<TradeInValue>
+					<Amount>221</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 2,21</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>27900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 279,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>34</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00VFIWIPQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00VFIWIPQ
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							8oh0bZ5vkW3uSf92laXl6fudStlQ5pr5e8erAxXOLRn%2BV9HmqaMSbioie0T8FY34DkP%2BUP8nWLdJNuGVrJpqD3udUm0Y%2FsdfVqxixFbuReo%3D
+						</OfferListingId>
+						<Price>
+							<Amount>27900</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 279,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>2000</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 20,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>7</PercentageSaved>
+						<Availability>Gewöhnlich versandfertig in 24 Stunden</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00884H526</ASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Wicked-Chili-Halterung-Kugelgelenk-kompatibel/dp/B00884H526%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00884H526
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00884H526%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00884H526
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00884H526%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00884H526
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00884H526%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00884H526
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00884H526%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00884H526
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Zubehör</Binding>
+				<Brand>Wicked Chili</Brand>
+				<EAN>4250348422040</EAN>
+				<EANList>
+					<EANListElement>4250348422040</EANListElement>
+				</EANList>
+				<Feature>Für Geräte von 46 bis max 76 mm Breite. Dank Schnellverschluss ist Ihr Handy in Sekunden
+					verriegelt oder freigegeben
+				</Feature>
+				<Feature>Weich gepolsterte Seitenteile schützen Ihr Smartphone, die Haltefüße sind frei verschiebbar
+					damit jedes Ladekabel noch passt
+				</Feature>
+				<Feature>KFZ Halterung mit Kugelgelenk 360° drehbar. Für Hochformat und Querformat. Kompatibel für den
+					Betrieb mit Hüllen und Taschen
+				</Feature>
+				<Feature>Sicherer Halt an der Scheibe durch einen starken, langlebigen Haftsauger mit 70mm Durchmesser
+				</Feature>
+				<Feature>Lieferumfang: 1x Wicked Chili Autohalterung / Car Mount 14cm Länge + Gripper (Made in
+					Germany)
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">236</Height>
+					<Length Units="hundredths-inches">394</Length>
+					<Weight Units="hundredths-pounds">26</Weight>
+					<Width Units="hundredths-inches">394</Width>
+				</ItemDimensions>
+				<Label>Wicked Chili</Label>
+				<LegalDisclaimer>Keine Gewährleistung und kein Umtausch, da es sich hierbei um einen Privatverkauf
+					handelt.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>1590</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 15,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Wicked Chili</Manufacturer>
+				<Model>47+404</Model>
+				<MPN>4250348422040</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">283</Height>
+					<Length Units="hundredths-inches">646</Length>
+					<Weight Units="hundredths-pounds">57</Weight>
+					<Width Units="hundredths-inches">559</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>4250348422040</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE_ACCESSORY</ProductTypeName>
+				<Publisher>Wicked Chili</Publisher>
+				<Studio>Wicked Chili</Studio>
+				<Title>Wicked Chili KFZ Halterung für Samsung Handy Galaxy S6 / S6 Edge / S5 / S5 Active / S5 mini/ S4/
+					S4mini/ S4 Active/ S3/ S3mini/ ATIV S/ S Duos 1 + 2/ Alpha/ Ace 2 + 3/ Trend Plus/ Express II/ Core/
+					Fame Lite (Made in Germany, mit Kugelgelenk, kompatibel mit Bumper/ Case/ Hülle)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>1590</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 15,90</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00884H526%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00884H526
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							94SpTFgXtfrdtDMrwCKjqLVjrP0Nqq9sxMW1Vga4m83FbTzRX7qTdYnm%2BwcvFbX69cj97wjgEY5Ig%2BOlclEhQUQU5CA20PNr%2FUpAZtwfxdE%3D
+						</OfferListingId>
+						<Price>
+							<Amount>1590</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 15,90</FormattedPrice>
+						</Price>
+						<Availability>Gewöhnlich versandfertig in 24 Stunden</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00JG76HOG</ASIN>
+			<ParentASIN>B00Q31JONE</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Samsung-Tablet-PC-Quad-Core-Bluetooth-EU-Stecker/dp/B00JG76HOG%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JG76HOG
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00JG76HOG%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76HOG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00JG76HOG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76HOG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00JG76HOG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76HOG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00JG76HOG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76HOG
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<Color>weiß</Color>
+				<EAN>8806086106061</EAN>
+				<EANList>
+					<EANListElement>8806086106061</EANListElement>
+				</EANList>
+				<Feature>Prozessor: Intel Quad-Core, (1,2GHz)</Feature>
+				<Feature>Besonderheiten: 25,65 cm (10,1 Zoll) TFT-Display, USB 2.0, 3 Megapixel Rückkamera, 1,3
+					Megapixel Frontkamera
+				</Feature>
+				<Feature>Akku: 6,800 mAh</Feature>
+				<Feature>Herstellergarantie: 12 Monate bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand
+					durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+				</Feature>
+				<Feature>Lieferumfang: Samsung Galaxy Tab 4 10.1 25,65 cm Wi-Fi Tablet Weiß, Ladeadapter, Datenkabel,
+					Kurzanleitung
+				</Feature>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">28</Height>
+					<Length Units="hundredths-inches">958</Length>
+					<Weight Units="hundredths-pounds">109</Weight>
+					<Width Units="hundredths-inches">694</Width>
+				</ItemDimensions>
+				<ItemPartNumber>SMT530NZWADBT</ItemPartNumber>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Neuware vom Fachhändler</LegalDisclaimer>
+				<ListPrice>
+					<Amount>29900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 299,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T530NZWADBT</Model>
+				<MPN>8806086106061</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">1063</Length>
+					<Weight Units="hundredths-pounds">176</Weight>
+					<Width Units="hundredths-inches">874</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806086106061</PartNumber>
+				<ProductGroup>Computer &amp; Zubehör</ProductGroup>
+				<ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab 4 10.1 Wi-Fi 25,6 cm (10,1 Zoll) Tablet-PC (1,2GHz Quad-Core, 1,5GB RAM, 16GB
+					interner Speicher, Bluetooth 4.0, Android 4.4.2, EU-Stecker) weiß
+				</Title>
+				<TradeInValue>
+					<Amount>13395</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 133,95</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>20880</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 208,80</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>19900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 199,00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>75</TotalNew>
+				<TotalUsed>13</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00JG76HOG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JG76HOG
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							oeCRh5ZASb6G6LsiZ3kcAow7%2BumcUoOCdla3%2F%2FVeaY%2FJyvMWz2nrwTm6XeVzRlw76BpforCS3HlJ6TXsbyszDfLtPOAtZhVIp3OAj0MT0329HUJLUIp1EeFWBUsc9LPlofKiF8pXAAisBn1w%2F55E%2FA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>20889</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 208,89</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>9011</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 90,11</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>30</PercentageSaved>
+						<Availability>Versandfertig in 1 - 2 Werktagen</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00JEISY70</ASIN>
+			<ParentASIN>B00JXK4NFG</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.de/Samsung-Smartphone-Touchscreen-Megapixel-microSDHC-Kartenslot-Wei%C3%9F/dp/B00JEISY70%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JEISY70
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.de/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00JEISY70%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JEISY70
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.de/gp/pdp/taf/B00JEISY70%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JEISY70
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.de/review/product/B00JEISY70%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JEISY70
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.de/gp/offer-listing/B00JEISY70%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JEISY70
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Elektronik</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>121470</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Weiß</Color>
+				<EAN>8806085981652</EAN>
+				<EANList>
+					<EANListElement>8806085981652</EANListElement>
+				</EANList>
+				<Feature>Brillianter 10,16 cm (4 Zoll) Super AMOLED-Touchscreen</Feature>
+				<Feature>Leistungsfähiger 1,2-GHz-Dual-Core-Prozessor</Feature>
+				<Feature>Klingelton durch Umdrehen des Handys stummschalten</Feature>
+				<Feature>Digitale Fotos dank 5,0 Megapixel-Kamera</Feature>
+				<Feature>Lieferumfang: Handy(Samsung Galaxy S3 mini), Akku, Ladeadapter, Headset, Datenkabel,
+					Kurzanleitung,
+				</Feature>
+				<IsAutographed>0</IsAutographed>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">39</Height>
+					<Length Units="hundredths-inches">479</Length>
+					<Weight Units="hundredths-pounds">25</Weight>
+					<Width Units="hundredths-inches">248</Width>
+				</ItemDimensions>
+				<ItemPartNumber>GTI8200RWNDBT</ItemPartNumber>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Neuware vom Fachhändler</LegalDisclaimer>
+				<ListPrice>
+					<Amount>20900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 209,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-I8200RWNDBT</Model>
+				<MPN>8806085981652</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">66</Weight>
+					<Width Units="hundredths-inches">362</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806085981652</PartNumber>
+				<Platform>Android</Platform>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Size>8 GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S3 mini (GT-I8200) Smartphone 10,16 cm (4 Zoll) Touchscreen, 5 Megapixel Kamera,
+					8GB Speicher, microSDHC-Kartenslot, Android 4.2) - Weiß
+				</Title>
+				<TradeInValue>
+					<Amount>6840</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 68,40</FormattedPrice>
+				</TradeInValue>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>11190</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 111,90</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>8500</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 85,00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>71</TotalNew>
+				<TotalUsed>14</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.de/gp/offer-listing/B00JEISY70%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dvm06-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12738%26creativeASIN%3DB00JEISY70
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							cF3YrT4aXPcs5Q5Htyx6b4%2BT2qNvOKByYTxZWqp7sGDkVsaEvFU3xw87xbl0VlVpKFEgT7eBETYU4NdKkbDhLL2BrLyGkS8X70cvB%2FRnsk4%3D
+						</OfferListingId>
+						<Price>
+							<Amount>11190</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 111,90</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>9710</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 97,10</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>46</PercentageSaved>
+						<Availability>Gewöhnlich versandfertig in 24 Stunden</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

@@ -1,0 +1,999 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T14:21:00.779Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>231464726356</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL WEIß 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=231464726356</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.89</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.89</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT4H57M41S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T19:13:41.000Z</startTime>
+				<endTime>2015-05-27T19:18:41.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291366443145</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL SCHWARZ 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291366443145</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.98</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT4H59M5S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T19:15:05.000Z</startTime>
+				<endTime>2015-05-27T19:20:05.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291366442337</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL GELB 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mBc6CfGihxeY99ATfb0hO4g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291366442337</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.27</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.27</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT4H57M46S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T19:13:46.000Z</startTime>
+				<endTime>2015-05-27T19:18:46.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371240695805</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL ROT 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mRFn6GiJYcy1NRxdfHAf-iw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=371240695805</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.28</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P14DT20H55M41S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-21T11:11:41.000Z</startTime>
+				<endTime>2015-05-21T11:16:41.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371245504766</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL SCHWARZ 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mnf_lBhUWo6VZ9jyE3OLfwg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=371245504766</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.28</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT4H57M23S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T19:13:23.000Z</startTime>
+				<endTime>2015-05-27T19:18:23.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291366442419</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL WEIß 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mjnEMU4PObWGfNEe2xTPQrA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291366442419</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.28</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT4H57M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T19:13:54.000Z</startTime>
+				<endTime>2015-05-27T19:18:54.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291360257088</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL GRÜN 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/metmfj7JxMr1PiNydh-se2w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291360257088</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.29</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.29</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P14DT20H49M37S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-21T11:05:37.000Z</startTime>
+				<endTime>2015-05-21T11:10:37.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291360260496</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL BLAU 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m4HkfEo5bGfxPH8Sq5-hBAA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291360260496</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.3</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.3</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P14DT20H56M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-21T11:12:21.000Z</startTime>
+				<endTime>2015-05-21T11:17:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291414111955</itemId>
+			<title>HANDY LADE KABEL ADAPTER USB LADE KABEL für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mxuppiNamgeKeuMBidBzMQQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291414111955</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.39</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.39</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT20H22M11S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-23T10:38:11.000Z</startTime>
+				<endTime>2015-05-22T10:43:11.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291366442203</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL WEIß 1.8m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mVWMbgyGglCs8_Ai0zTHgpg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291366442203</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.69</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.69</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT4H57M29S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T19:13:29.000Z</startTime>
+				<endTime>2015-05-27T19:18:29.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236408</itemId>
+			<title>HANDY Premium USB LADEKABEL SCHWARZ 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=171695236408</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.98</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H49M1S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:01.000Z</startTime>
+				<endTime>2015-05-25T14:10:01.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870688241</itemId>
+			<title>HANDY Premium USB LADEKABEL WEIß 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=400870688241</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H49M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:20.000Z</startTime>
+				<endTime>2015-05-25T14:10:20.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400896064353</itemId>
+			<title>USB-KABEL für aktuelle ios- Software in weiß für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=400896064353</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT21H19M44S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-01T11:35:44.000Z</startTime>
+				<endTime>2015-05-31T11:40:44.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171740087136</itemId>
+			<title>USB DATENKABEL für neueste ios Software Version für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=171740087136</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT21H20M2S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-01T11:36:02.000Z</startTime>
+				<endTime>2015-05-31T11:41:02.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291366442576</itemId>
+			<title>HANDY USB DATENKABEL LADE KABEL SCHWARZ 1.8m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mMUAcHwvTBi_MN4LcCk5B-w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=291366442576</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>CCAccepted</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.98</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT4H58M7S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T19:14:07.000Z</startTime>
+				<endTime>2015-05-27T19:19:07.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371195885144</itemId>
+			<title>Eingabe Stift für Apple iPhone 5S 16GB 32GB 64GB soft Stylus Pen</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>48677</categoryId>
+				<categoryName>Eingabestifte</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mYpeO80pItE0tfr2vnOsBEg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=371195885144</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.99</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P14DT19H32M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-22T09:48:03.000Z</startTime>
+				<endTime>2015-05-21T09:53:03.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236289</itemId>
+			<title>HANDY Premium USB LADEKABEL GELB 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mBc6CfGihxeY99ATfb0hO4g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=171695236289</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.27</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.27</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H48M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:04:54.000Z</startTime>
+				<endTime>2015-05-25T14:09:54.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236720</itemId>
+			<title>HANDY Premium USB LADEKABEL SCHWARZ 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mnf_lBhUWo6VZ9jyE3OLfwg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=171695236720</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.28</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H49M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:21.000Z</startTime>
+				<endTime>2015-05-25T14:10:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870688247</itemId>
+			<title>HANDY Premium USB LADEKABEL ROT 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mRFn6GiJYcy1NRxdfHAf-iw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=400870688247</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.28</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H49M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:21.000Z</startTime>
+				<endTime>2015-05-25T14:10:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870688382</itemId>
+			<title>HANDY Premium USB LADEKABEL WEIß 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mjnEMU4PObWGfNEe2xTPQrA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229487&amp;item=400870688382</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Bischofswerda,Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">1.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.28</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H49M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:39.000Z</startTime>
+				<endTime>2015-05-25T14:10:39.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>14</totalPages>
+		<totalEntries>268</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/707-53477-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.de%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

@@ -1,0 +1,947 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T14:57:41.815Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>371192625860</itemId>
+			<title>Pink Gel TPU Case Cover Protector for Apple iPhone 5/5S 16GB/32GB/64GB UK</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mfhNibHUwf2xebROpWkxN7w/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Pink-Gel-TPU-Case-Cover-Protector-for-Apple-iPhone-5-5S-16GB-32GB-64GB-UK-/371192625860?pt=LH_DefaultDomain_3
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>NW27JP</postalCode>
+			<location>Wielka Brytania</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">10.67</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">5.42</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P10DT23H34M51S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-18T14:27:32.000Z</startTime>
+				<endTime>2015-05-17T14:32:32.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443349</itemId>
+			<title>Cavo USB 30cm dati nero piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-30cm-dati-nero-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/321654443349?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">8.06</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H49M32S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:13.000Z</startTime>
+				<endTime>2015-05-29T07:47:13.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443349_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443385</itemId>
+			<title>Cavo USB 30cm dati bianco piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-30cm-dati-bianco-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/321654443385?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">8.06</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H49M35S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:16.000Z</startTime>
+				<endTime>2015-05-29T07:47:16.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443385_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351293135312</itemId>
+			<title>Cavo USB 1m dati blu piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m4HkfEo5bGfxPH8Sq5-hBAA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1m-dati-blu-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/351293135312?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">12.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H58M0S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:50:41.000Z</startTime>
+				<endTime>2015-05-22T08:55:41.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/351293135312_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351293135324</itemId>
+			<title>Cavo USB 1m dati verde piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/metmfj7JxMr1PiNydh-se2w/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1m-dati-verde-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/351293135324?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">12.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H58M1S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:50:42.000Z</startTime>
+				<endTime>2015-05-22T08:55:42.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/351293135324_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>191490102022</itemId>
+			<title>Cavo USB 1m dati rosso piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mRFn6GiJYcy1NRxdfHAf-iw/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1m-dati-rosso-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/191490102022?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">12.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H58M36S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:51:17.000Z</startTime>
+				<endTime>2015-05-22T08:56:17.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/191490102022_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321678274935</itemId>
+			<title>3in1 USB Cavo Universale per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mxuppiNamgeKeuMBidBzMQQ/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/3in1-USB-Cavo-Universale-per-Apple-iPhone-5S-iPhone-5S-16GB-/321678274935?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">12.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT16H8M4S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T07:00:45.000Z</startTime>
+				<endTime>2015-05-25T07:05:45.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321678274935_1_5_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>191496623456</itemId>
+			<title>Cavo USB 1m dati bianco piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mjnEMU4PObWGfNEe2xTPQrA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1m-dati-bianco-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/191496623456?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">12.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H50M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:44.000Z</startTime>
+				<endTime>2015-05-29T07:47:44.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/191496623456_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443789</itemId>
+			<title>Cavo USB 1m dati giallo piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mBc6CfGihxeY99ATfb0hO4g/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1m-dati-giallo-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/321654443789?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">12.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H50M5S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:46.000Z</startTime>
+				<endTime>2015-05-29T07:47:46.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443789_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351299735335</itemId>
+			<title>Cavo USB 1m dati nero piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mnf_lBhUWo6VZ9jyE3OLfwg/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1m-dati-nero-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/351299735335?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">12.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H50M36S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:43:17.000Z</startTime>
+				<endTime>2015-05-29T07:48:17.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/351299735335_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443304</itemId>
+			<title>Cavo USB 1,8m dati bianco piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mVWMbgyGglCs8_Ai0zTHgpg/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1-8m-dati-bianco-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/321654443304?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">16.12</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H49M27S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:08.000Z</startTime>
+				<endTime>2015-05-29T07:47:08.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443304_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654444108</itemId>
+			<title>Cavo USB 1,8m dati nero piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mMUAcHwvTBi_MN4LcCk5B-w/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Cavo-USB-1-8m-dati-nero-piano-per-Apple-iPhone-5S-iPhone-5S-16GB-/321654444108?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">16.12</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H50M44S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:43:25.000Z</startTime>
+				<endTime>2015-05-29T07:48:25.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654444108_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371195885144</itemId>
+			<title>Eingabe Stift für Apple iPhone 5S 16GB 32GB 64GB soft Stylus Pen</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>48677</categoryId>
+				<categoryName>Eingabestifte</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mYpeO80pItE0tfr2vnOsBEg/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Eingabe-Stift-fur-Apple-iPhone-5S-16GB-32GB-64GB-soft-Stylus-Pen-/371195885144?pt=LH_DefaultDomain_77
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Niemcy</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.99</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">16.08</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P14DT18H55M22S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-22T09:48:03.000Z</startTime>
+				<endTime>2015-05-21T09:53:03.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236408</itemId>
+			<title>HANDY Premium USB LADEKABEL SCHWARZ 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/HANDY-Premium-USB-LADEKABEL-SCHWARZ-30cm-fur-APPLE-iPhone-5S-16GB-32GB-/171695236408?pt=LH_DefaultDomain_77
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Niemcy</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">27.8</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.98</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">7.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H12M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:01.000Z</startTime>
+				<endTime>2015-05-25T14:10:01.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>361124932988</itemId>
+			<title>2er Set Stift für Apple iPhone 5S 16GB 32GB 64GB Stifte Stylus Pen</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>48677</categoryId>
+				<categoryName>Eingabestifte</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m9isNevCI2JfUdDZgIO9E4w/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/2er-Set-Stift-fur-Apple-iPhone-5S-16GB-32GB-64GB-Stifte-Stylus-Pen-/361124932988?pt=LH_DefaultDomain_77
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Niemcy</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">24.14</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P14DT18H56M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-22T09:49:01.000Z</startTime>
+				<endTime>2015-05-21T09:54:01.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870688241</itemId>
+			<title>HANDY Premium USB LADEKABEL WEIß 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/HANDY-Premium-USB-LADEKABEL-WEIs-30cm-fur-APPLE-iPhone-5S-16GB-32GB-/400870688241?pt=LH_DefaultDomain_77
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Niemcy</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">27.8</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">8.06</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H12M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:20.000Z</startTime>
+				<endTime>2015-05-25T14:10:20.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654442604</itemId>
+			<title>Auto Caricabatteria nero 1A per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mUE-R9jWCRM616VAWeTNZgQ/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Auto-Caricabatteria-nero-1A-per-Apple-iPhone-5S-iPhone-5S-16GB-/321654442604?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">6.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">24.18</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H48M31S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:41:12.000Z</startTime>
+				<endTime>2015-05-29T07:46:12.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654442604_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654442939</itemId>
+			<title>Auto Caricabatteria bianco 1A per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mDVavPG3w0-ZBjReC_cjpdA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/Auto-Caricabatteria-bianco-1A-per-Apple-iPhone-5S-iPhone-5S-16GB-/321654442939?pt=LH_DefaultDomain_101
+			</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Włochy</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">11.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">6.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">24.18</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H49M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:41:44.000Z</startTime>
+				<endTime>2015-05-29T07:46:44.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654442939_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400896064353</itemId>
+			<title>USB-KABEL für aktuelle ios- Software in weiß für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/USB-KABEL-fur-aktuelle-ios-Software-in-weis-fur-APPLE-iPhone-5S-16GB-32GB-/400896064353?pt=LH_DefaultDomain_77
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Niemcy</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">27.8</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">8.06</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT20H43M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-01T11:35:44.000Z</startTime>
+				<endTime>2015-05-31T11:40:44.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171740087136</itemId>
+			<title>USB DATENKABEL für neueste ios Software Version für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.pl/itm/USB-DATENKABEL-fur-neueste-ios-Software-Version-fur-APPLE-iPhone-5S-16GB-32GB-/171740087136?pt=LH_DefaultDomain_77
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Niemcy</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PLN">27.8</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="PLN">8.06</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT20H43M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-01T11:36:02.000Z</startTime>
+				<endTime>2015-05-31T11:41:02.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nowy</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>11</totalPages>
+		<totalEntries>217</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://www.ebay.pl/sch/i.html?LH_BIN=1&amp;LH_ItemCondition=1&amp;LH_IncludeSIF=1&amp;_nkw=Apple+iPhone+5s+16GB&amp;_ddo=1&amp;_ipg=20&amp;_pgn=1&amp;_sop=15</itemSearchURL>
+</findItemsByKeywordsResponse>

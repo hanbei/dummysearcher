@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dynamic-data version="3.1" serial-number="201504142" name="query" xmlns="http://services.become.eu/livexml">
+	<params>
+		<param name="qry">xbox</param>
+	</params>
+	<top-level-categories-module>
+		<params/>
+		<top-level-categories nr-of-products="192099" nr-of-offers="2780227" n="11">
+			<category nr-of-products="1938" nr-of-offers="22095" cid="52124">
+				<label>Audio, Video &amp; TV</label>
+			</category>
+			<category nr-of-products="4955" nr-of-offers="125672" cid="51881">
+				<label>Computers &amp; Software</label>
+			</category>
+			<category nr-of-products="1708" nr-of-offers="7672" cid="51480">
+				<label>Telecommunication</label>
+			</category>
+			<category nr-of-products="752" nr-of-offers="11160" cid="51558">
+				<label>Photo, Camcorders &amp; Optical Devices</label>
+			</category>
+			<category nr-of-products="2255" nr-of-offers="3314" cid="51454">
+				<label>Games &amp; Consoles</label>
+			</category>
+			<category nr-of-products="167609" nr-of-offers="810605" cid="50680">
+				<label>Books, Movies &amp; Music</label>
+			</category>
+			<category nr-of-products="3472" nr-of-offers="138618" cid="52741">
+				<label>Beauty &amp; Wellness</label>
+			</category>
+			<category nr-of-products="948" nr-of-offers="662128" cid="52395">
+				<label>Fashion &amp; Accessories</label>
+			</category>
+			<category nr-of-products="7604" nr-of-offers="273643" cid="50781">
+				<label>Household &amp; Living</label>
+			</category>
+			<category nr-of-products="106" nr-of-offers="94203" cid="52240">
+				<label>Sports &amp; Recreation</label>
+			</category>
+			<category nr-of-products="752" nr-of-offers="631117" cid="65680">
+				<label>Other Products</label>
+			</category>
+		</top-level-categories>
+	</top-level-categories-module>
+	<current-category-module>
+		<params/>
+		<module-attributes/>
+	</current-category-module>
+	<navigation-trail-module>
+		<params/>
+		<navigation-trail n="2">
+			<element type="index">
+				<label>Index</label>
+			</element>
+			<element id="xbox" type="query">
+				<label>Xbox</label>
+			</element>
+		</navigation-trail>
+	</navigation-trail-module>
+	<suggestions-module>
+		<params/>
+		<suggestions>
+			<queries n="0"/>
+			<outstanding-category parent-cid="61858" cid="47736">
+				<label>Consoles</label>
+				<category-attributes n="0"/>
+			</outstanding-category>
+		</suggestions>
+	</suggestions-module>
+	<category-results-module>
+		<params/>
+		<category-results n="38" total="38">
+			<category nr-of-products="17" parent-cid="61858" cid="47736">
+				<label>Consoles</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="229" parent-cid="61860" cid="47730">
+				<label>Xbox 360 Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="135" parent-cid="61860" cid="645084">
+				<label>Xbox One Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="213" parent-cid="61858" cid="95600">
+				<label>Accessories For Games &amp; Consoles</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="44" parent-cid="51480" cid="47656">
+				<label>Headsets</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="5" parent-cid="61311" cid="94130">
+				<label>Hard Disks</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="7" parent-cid="61795" cid="47692">
+				<label>Mobiles Without Contract</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="37" parent-cid="60684" cid="94230">
+				<label>Women's Sports &amp; Recreational Fashion</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="7" parent-cid="609947" cid="610059">
+				<label>Other Computer &amp; Internet Books</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="8" parent-cid="61860" cid="47731">
+				<label>PS3 Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="9" parent-cid="609961" cid="610026">
+				<label>Game Guides</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="11" parent-cid="61229" cid="94123">
+				<label>Memory Cards</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="5" parent-cid="61282" cid="97941">
+				<label>Other Multimedia Items</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="61191" cid="94165">
+				<label>Receivers</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="4" parent-cid="61880" cid="47737">
+				<label>PC Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="609937" cid="609989">
+				<label>Business Books</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="609975" cid="610089">
+				<label>Social Science Books</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="5" parent-cid="61860" cid="645080">
+				<label>PS4 Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="61401" cid="94149">
+				<label>Notebooks</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="3" parent-cid="61282" cid="47223">
+				<label>PC Speakers</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="61282" cid="47227">
+				<label>TV Cards</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="5" parent-cid="51881" cid="94134">
+				<label>Computer Accessories</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="4" parent-cid="62465" cid="94177">
+				<label>Living Room</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="609956" cid="610022">
+				<label>Dictionaries &amp; Thesauri Books</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="62115" cid="47957">
+				<label>Toy Figurine</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="609937" cid="610044">
+				<label>Marketing &amp; Sales Books</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="9" parent-cid="79144" cid="658233">
+				<label>Other Offers From Argos.co.uk</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="61207" cid="47163">
+				<label>Projectors</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="61860" cid="47726">
+				<label>Nintendo Wii Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="656500" cid="654261">
+				<label>E-Book Downloads</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="61860" cid="626701">
+				<label>Nintendo Wii U Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="108041" cid="94202">
+				<label>Football</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="61860" cid="621574">
+				<label>PS Vita Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="4" parent-cid="79144" cid="654735">
+				<label>Other Offers From Toys R Us</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="61860" cid="47734">
+				<label>Nintendo 3DS Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="79144" cid="638781">
+				<label>Other Offers From Kobo EBooks</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="61880" cid="47738">
+				<label>Accessories For PC Games</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="62077" cid="94262">
+				<label>Musical Instrument Accessories</label>
+				<category-attributes n="0"/>
+			</category>
+		</category-results>
+	</category-results-module>
+	<result-filter-module>
+		<params/>
+		<result-filter n="5">
+			<filter-dimension n="30" selected="false" display-position="1">
+				<label>Category</label>
+				<dimension-class nr-of-products="17" selected="false" display-position="1" fdid="cat47736">
+					<label>Consoles</label>
+				</dimension-class>
+				<dimension-class nr-of-products="229" selected="false" display-position="2" fdid="cat47730">
+					<label>Xbox 360 Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="135" selected="false" display-position="3" fdid="cat645084">
+					<label>Xbox One Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="213" selected="false" display-position="4" fdid="cat95600">
+					<label>Accessories for Games &amp; Consoles</label>
+				</dimension-class>
+				<dimension-class nr-of-products="44" selected="false" display-position="5" fdid="cat47656">
+					<label>Headsets</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="6" fdid="cat94130">
+					<label>Hard Disks</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="7" fdid="cat47692">
+					<label>Mobiles without Contract</label>
+				</dimension-class>
+				<dimension-class nr-of-products="37" selected="false" display-position="8" fdid="cat94230">
+					<label>Women's Sports &amp; Recreational Fashion</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="9" fdid="cat610059">
+					<label>Other Computer &amp; Internet Books</label>
+				</dimension-class>
+				<dimension-class nr-of-products="8" selected="false" display-position="10" fdid="cat47731">
+					<label>PS3 Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="9" selected="false" display-position="11" fdid="cat610026">
+					<label>Game Guides</label>
+				</dimension-class>
+				<dimension-class nr-of-products="11" selected="false" display-position="12" fdid="cat94123">
+					<label>Memory Cards</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="13" fdid="cat97941">
+					<label>Other Multimedia Items</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="14" fdid="cat94165">
+					<label>Receivers</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="15" fdid="cat47737">
+					<label>PC Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="16" fdid="cat609989">
+					<label>Business Books</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="17" fdid="cat610089">
+					<label>Social Science Books</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="18" fdid="cat645080">
+					<label>PS4 Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="19" fdid="cat94149">
+					<label>Notebooks</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="20" fdid="cat47223">
+					<label>PC Speakers</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="21" fdid="cat47227">
+					<label>TV Cards</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="22" fdid="cat94134">
+					<label>Computer Accessories</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="23" fdid="cat94177">
+					<label>Living Room</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="24" fdid="cat610022">
+					<label>Dictionaries &amp; Thesauri Books</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="25" fdid="cat47957">
+					<label>Toy Figurine</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="26" fdid="cat610044">
+					<label>Marketing &amp; Sales Books</label>
+				</dimension-class>
+				<dimension-class nr-of-products="9" selected="false" display-position="27" fdid="cat658233">
+					<label>other offers from Argos.co.uk</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="28" fdid="cat47163">
+					<label>Projectors</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="29" fdid="cat47726">
+					<label>Nintendo Wii Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="30" fdid="cat654261">
+					<label>E-Book Downloads</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="30" selected="false" display-position="2">
+				<label>Brands</label>
+				<dimension-class nr-of-products="64" selected="false" display-position="1" fdid="mnQUNUSVZJU0lPTg..">
+					<label>ACTIVISION</label>
+				</dimension-class>
+				<dimension-class nr-of-products="67" selected="false" display-position="2" fdid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</dimension-class>
+				<dimension-class nr-of-products="82" selected="false" display-position="3" fdid="mnWGJveCBPbmU.">
+					<label>Xbox One</label>
+				</dimension-class>
+				<dimension-class nr-of-products="19" selected="false" display-position="4"
+				                 fdid="mnVm95ZXRyYSBUdXJ0bGUgQmVhY2g.">
+					<label>Voyetra Turtle Beach</label>
+				</dimension-class>
+				<dimension-class nr-of-products="10" selected="false" display-position="5" fdid="mnT1JC">
+					<label>ORB</label>
+				</dimension-class>
+				<dimension-class nr-of-products="51" selected="false" display-position="6" fdid="mnWGJveCAzNjA.">
+					<label>Xbox 360</label>
+				</dimension-class>
+				<dimension-class nr-of-products="13" selected="false" display-position="7" fdid="mnRGlzbmV5">
+					<label>Disney</label>
+				</dimension-class>
+				<dimension-class nr-of-products="9" selected="false" display-position="8" fdid="mnR2lvdGVjaw..">
+					<label>Gioteck</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="9" fdid="mnUERQ">
+					<label>PDP</label>
+				</dimension-class>
+				<dimension-class nr-of-products="10" selected="false" display-position="10" fdid="mnVHJpdHRvbg..">
+					<label>Tritton</label>
+				</dimension-class>
+				<dimension-class nr-of-products="36" selected="false" display-position="11" fdid="mnTW9sZWN1bGU.">
+					<label>Molecule</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="12" fdid="mnVmVub20.">
+					<label>Venom</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="13" fdid="mnR3VpbGxlbW90">
+					<label>Guillemot</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="14" fdid="mnU3RlZWwgU2VyaWVz">
+					<label>Steel Series</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="15" fdid="mnTm9raWE.">
+					<label>Nokia</label>
+				</dimension-class>
+				<dimension-class nr-of-products="24" selected="false" display-position="16" fdid="mnWGJveA..">
+					<label>Xbox</label>
+				</dimension-class>
+				<dimension-class nr-of-products="12" selected="false" display-position="17" fdid="mnVWJpIFNvZnQ.">
+					<label>Ubi Soft</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="18" fdid="mnYWRhdGE.">
+					<label>adata</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="19" fdid="mnSGF1cHBhdWdl">
+					<label>Hauppauge</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="20" fdid="mnU3BlZWQtTGluaw..">
+					<label>Speed-Link</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="21" fdid="mnVmVyc2F0aWxl">
+					<label>Versatile</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="22" fdid="mnSG9yaQ..">
+					<label>Hori</label>
+				</dimension-class>
+				<dimension-class nr-of-products="16" selected="false" display-position="23" fdid="mnSW50b3Jv">
+					<label>Intoro</label>
+				</dimension-class>
+				<dimension-class nr-of-products="15" selected="false" display-position="24" fdid="mnTGVnbw..">
+					<label>Lego</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="25" fdid="mnQVNUUk8gR0FNSU5H">
+					<label>ASTRO GAMING</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="26" fdid="mnT3B0b21h">
+					<label>Optoma</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="27" fdid="mnUG93ZXIgQQ..">
+					<label>Power A</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="28"
+				                 fdid="mnVHJ1c3QgQ29tcHV0ZXI.">
+					<label>Trust Computer</label>
+				</dimension-class>
+				<dimension-class nr-of-products="11" selected="false" display-position="29" fdid="mnVGFrZTI.">
+					<label>Take2</label>
+				</dimension-class>
+				<dimension-class nr-of-products="10" selected="false" display-position="30"
+				                 fdid="mnQXNzYXNzaW4gUyBDcmVlZA..">
+					<label>Assassin S Creed</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="2" selected="false" display-position="3">
+				<label>Consoles</label>
+				<dimension-class nr-of-products="1" selected="false" display-position="1" fdid="sc76130">
+					<label>Xbox</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="2" fdid="sc76131">
+					<label>Xbox 360</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="2" selected="false" display-position="4">
+				<label>Hard Drive Capacity</label>
+				<dimension-class nr-of-products="2" selected="false" display-position="1" fdid="sc1017699">
+					<label>250 GB</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="2" fdid="sc1017701">
+					<label>500 GB</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="13" selected="false" display-position="4">
+				<label>Shop</label>
+				<dimension-class nr-of-products="301" selected="false" display-position="1" fdid="me106290">
+					<label>Argos.co.uk</label>
+				</dimension-class>
+				<dimension-class nr-of-products="58" selected="false" display-position="2" fdid="me104571">
+					<label>MMOGA UK</label>
+				</dimension-class>
+				<dimension-class nr-of-products="49" selected="false" display-position="3" fdid="me104717">
+					<label>Toys R Us</label>
+				</dimension-class>
+				<dimension-class nr-of-products="37" selected="false" display-position="4" fdid="me59246">
+					<label>Molecule</label>
+				</dimension-class>
+				<dimension-class nr-of-products="24" selected="false" display-position="5" fdid="me63219">
+					<label>Kobo eBooks</label>
+				</dimension-class>
+				<dimension-class nr-of-products="8" selected="false" display-position="6" fdid="me106486">
+					<label>Argos Toys and Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="7" fdid="me107185">
+					<label>ClickandKeyboard</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="8" fdid="me108380">
+					<label>TiptoPrice</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="9" fdid="me7087">
+					<label>Thomann</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="10" fdid="me106424">
+					<label>cyberstore thomann UK</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="11" fdid="me106256">
+					<label>Pixmania</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="12" fdid="me55501">
+					<label>the plasma centre</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="13" fdid="me105341">
+					<label>Absolute Music</label>
+				</dimension-class>
+			</filter-dimension>
+		</result-filter>
+	</result-filter-module>
+	<product-results-module>
+		<params/>
+		<product-results n="10" total="784" nr="1" srt="RELEVANCE">
+			<product nr-of-offers="1" nr-of-merchants="1" oid="773404344" type="offer">
+				<label>Xbox 360 500GB Special Edition Blue Bundle</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/773/404/D_000773404344_UK_430.jpg"/>
+				<description>The Xbox 360 500GB Special Edition Blue Bundle features an iconic blue console, controller
+					with arctic blue accents, 1 months free Xbox Live Gold &amp; two free games - Max: The Curse of
+					Brotherhood and Toy Soldiers. Wi-Fi is built-in for easier connection to the world of entertainment
+					on Xbox Live, where HD movies and TV stream in an instant. The console is sleek and quiet, with a
+					stylish blue design. The internal 500GB hard drive allows you to save your games and store
+					television shows, movies, music, pictures, trailers, levels, demos, and other content available from
+					Xbox Live Marketplace. It's the only console with 802.11n Wi-Fi built in for a faster and easier
+					connection to Xbox Live. Download or stream HD movies, TV episodes, and games from Xbox Live
+					Marketplace in 1080p and 5.1 surround sound from anywhere in the house. Compatible with b/g/n
+					networks. Max: The Curse of Brotherhood is a cinematic adventure filled with action-packed
+					platforming and creative puzzle-solving. Armed with only a Magic Marker, Max must confront evil at
+					every turn in a hostile and fantastical world in order to save his kid brother, Felix. Join Max on
+					his great adventure! Play Toy Soldiers and command your men in epic action-packed battles. Position
+					your defences and take control of your artillery to bomb the enemy positions, pilot your bi-plane
+					against the enemy trench, or manoeuvre your tanks across No-Mans Land. Lead your Toy Soldiers to
+					victory! Dive into 2-player head-to-head combat, local and on Xbox Live. Includes Xbox 360 500GB
+					Console (Blue), Max: The Curse of Brotherhood (Digital), Toy Soldiers (Digital), 1 Month Xbox LIVE
+					Gold, Xbox 360 Wireless Controller (Blue), Xbox 360 Wired Headset, Composite A/V Cable. 500GB hard
+					drive capacity. For ages 16 years and over.
+				</description>
+				<offer oid="773404344">
+					<label>Microsoft Xbox 360 500GB Special Edition Blue Bundle</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=773404344&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=5MXHb61AvyigbpqkN6UbKw%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=179.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=0&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDJZkDmEmqOLHjaZwNKHgFwKUeJDMfdCB5cmEYrFxDuPK66hNCX29by4MyHx1b6zMtuAS0Y-RKYWluHk3a4iAjxIGShFMpTj_6WGPbQEhs-gV8dJ_o4w0sCRa2Agvm3qfyvHsaD5xekLpoQHi7nl7ou_h5ViXPamoIeCDlaRAgcFboPkFjXSfMry-crFiyO-JDTcICCpIhP0ZU8Z6_sUKho9bTWI3z_MROpYWBjcorT8YzxsB1sl9CI1kHtMCHI-13RKi5vXv8fuY9nWUcCbVcGw7HaSQALQCftG2EAgwUit3WCAJh-BCwYAnD6nCe513Fd-NV-9h0mQSIZ8h_O-4SvWik7mKoT-YhqajQaHecskIMaCTg0U2E0J2jOSma5RGe0wW3zHAOdMdBa0Z7TKU5sgQSbQReTPHfTbU5EAVyzV0IN-ttwQGgLogyKD1ceZuBUumhijaJanGFZ7-EbwUkFc4sRonRN_wful7RDP8LvLgCEQlIFFU-dAEADmTr5dEhzTOIZuFEOVXpCHg1tom92_iBWn-1SIsB-1jkP92DNrU0wGywGlf4-5H_bPOJ3Va4bufDiXnaEIxugTD3CaCSNOxl4oph0dpDAs8VjW2WvVmhQUORfeqmKs_4UqOur4smN0JutHCNNa40n7h16oxvnvJ2JK3jRdpT4_u-jvUJZM8YivNlXsAIbqUy_zWMPonL3L3Mojv3fedZwryz7JPW6LY-TDWCr4xisswXbputOt4EpNfMkFxGpk.</url>
+					<price cur="GBP">179.99</price>
+					<price-info cur="GBP" type="total">183.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="3.95">£3.95</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="690140523" type="offer">
+				<label>Xbox One Game</label>
+				<brand bid="mnTWluZWNyYWZ0">
+					<label>Minecraft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/690/140/D_000690140523_UK_430.jpg"/>
+				<description>Release date: 28 November 2014 Suitable for the Xbox One. Play on your own, or with up to 4
+					players split screen, or 8 players online. Explore, build and conquer in worlds 36 times bigger -
+					with faster draw times than ever before. You can also transfer your worlds from Xbox 360 to Xbox One
+					and keep playing plus bring all of your content packs over with you! For ages 7 years and over. EAN:
+					885370830125.
+				</description>
+				<offer oid="690140523">
+					<label>Minecraft Xbox One Game</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=690140523&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=eUYjtJYZpv7ico1MJ3wUIg%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Minecraft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=14.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=1&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDAFnNdfLumN5qpo8Kq83Id6qZVJhxazA1Yg4jt80oVHuHmQ4cIKKUUtt1tKHFWw-8pHgcogV7VH2eXXzdp7uFOPYEI7fLHtc4nLppVZJjrW0_TSSgON3lPu42d71jz2g2ja14jjyWZfvcyloW8gCx0cTI9HHCpkopmaTyToAJnFc1Lg1SeU2psiW5UkZxeGNxXwtGr-LqXsJHD8JCBwHm_q1UGcCKNY-IevnDKXZNNKFWgpi0wPthDrWiW5kQjRII6kjEN773H3tocfzaNRlXw92hFiVyLfWAfdJDPgb4j7GMs0MMFpNHWwrRP0bq7VAXET0Dt0upPuVxvud2atCVMTtVxmKLDAp2k5hzSWdBgqSEYxt9UsV9wdcKtV49T-jve1c8ST5tHunHGKUPyLPiJFS-MKZyDo20EH3h015alHeEQPVoWms37DsBGxjczwpZCvf56EzFLtxDLuplLHh0DeyKEfcRN_olo249qeFW3Az6v1iVbp2zMfW2CikXZVOiK6oiBACx9FNWZbYTU3a9bMyaSuMgQaDbJU684t3IMZWb0_jUqWU22NjHV0KV2am6JkBAafiXCM2dB3dCzGsn1LKuip9TXgXMDlJZCcdb__lh1NOYrQ2g4sthCOVdpTmNcsYbydhi4IQp1J7IDT0uixAabc8PfH5aiszH5NtKQYoA8DkNsyvoHewN0xc2yH7SQ7GSVwxqhDQfnbmTE2I-w0.</url>
+					<price cur="GBP">14.99</price>
+					<price-info cur="GBP" type="total">18.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="3.95">£3.95</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="796619457" type="offer">
+				<label>Destiny Pack (No Kinect)</label>
+				<brand bid="mnWGJveCBPbmU.">
+					<label>Xbox One</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/796/619/D_000796619457_UK_430.jpg"/>
+				<description>Product Features Introducing Xbox One. Where your favourite games, live TV, movies, music
+					and sports come together in one place. Where the entire experience wraps around you, and you're
+					immersed in games that look and feel like real life. Jump to apps...
+				</description>
+				<offer oid="796619457">
+					<label>Xbox One Destiny Pack (No Kinect)</label>
+					<merchant mid="104717">
+						<label>Toys R Us</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/104717/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=796619457&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=104717&amp;rid=6028499950&amp;ver=2.0&amp;market=en&amp;man=Xbox+One&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=349.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=2&amp;dle=cGFuZ29yYSHQb4LjBJuY8aAFnAtq1OOTEa27XZSdKAWlnG6gXfYxuwx2HzQjOT-8CreEs3GgJUFRk6yUs4oGLzFcBKqLwbXmCDA0BCih-NXGBGLg8-rJjV2cV-6dZLO5eU1EW-oscSI_49pGs87XlE2a1fHFlk4Wt56oxGgnNT_vZTZnQ-1qFOvqUMRpBH57xXOQ1Hcs-qvD6TwFiZJ12GTz7AjsXQeqiM2z3iYYgJyTT2FWw3gDUU_DE4wDehuaCsT3Ld_4rrWuS3mBFR9bbAScHYh7k6etyDVyxM8rhKSQ-matF5vLO35DXNBu6YETR9tsz5oOACwfmkLmI9WHkwGK65-B-cToc1Z66HCCc_dij4x95PmGHBrhbJ_cTjtcb82KZX4K7arf64R_NqykMJsT3P4MCRsTLRmqb6kw1--_SO4AzeYepuVRr8XW2B3DHpkB7kahKUE1KdoVfzl9S5sWr-b5LyQRSWEp030y2VVvKG-zQjKBmyUoFf3IsZvYQNcummS9C_AMKCzumwMJ9qwD6tCoUaOqFqgEmSY-fhJ_lIBWAVjtosET2kIhGyo4_EesGF76ycvR7Fk3cN1lHxilhKZQQ8RJqz4ggIz4TG0qHOQyRh95ls_XVZnILb-i9rTqJGEtE6VaMAe_qQdRn74uoPjONT0lESkQaosSISQeUqu76yGyoChz13zPA0D1Hl4QpGP3EuGhW16BTlDcS5BwEwe4ctTKCNExmLEsBrs.</url>
+					<price cur="GBP">349.99</price>
+					<price-info cur="GBP" type="total">349.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="802760683" type="offer">
+				<label>Xbox One, Xbox LIVE 12 Month Subs, Evolve and GTA V Bundle</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5027757081958</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/802/760/D_000802760683_UK_430.jpg"/>
+				<description>This amazing bundle includes an Xbox One Console with a 500GB hard drive, wireless
+					controller, chat headset, HDMI cable, power supply, Xbox LIVE Gold 12 month subscription, and Evolve
+					and GTA V games. Xbox One brings together the best exclusive games, the most advanced multiplayer,
+					and entertainment experiences you will not find anywhere else. Play Titanfall and Halo with friends
+					on a network powered by over 300,000 servers for maximum performance. Find new challengers who fit
+					your skill and style with Smart Match. The all in one entertainment system, where the best games,
+					multiplayer and your favourite movies, music, sports and live TV come together in one place. With
+					Xbox LIVE Gold, you get free games every month, the most advanced multiplayer, exclusive member
+					discounts up to 75% on games in the Xbox Store and more. All available on Xbox One and Xbox 360.
+					Evolve is the next generation of multiplayer shooters, featuring adrenaline pumping 4v1 action, A
+					player controlled Monster must evade a team of four unique playable Hunters who are working together
+					and stalking to kill. Evolve and overpower as the Monster or team up and outnumber as the Hunters.
+					It is survival of the fittest and any side can win. Rockstar games' critically acclaimed open world
+					game comes to Xbox One running at 1080p and 30fps. Enter the lives of three very different
+					criminals, Michael, Franklin and Trevor, as they risk everything in a series of daring and dangerous
+					heists that could set them up for life. Explore the stunning world of Los Santos and Blaine County
+					in the ultimate Grand Theft Auto V experience, featuring a range of technical upgrades and
+					enhancements for new and returning players. This game is classified as certificate 18. It contains
+					content unsuitable for persons under 18 years old. It is illegal to supply it to anyone under that
+					age. DO NOT attempt to purchase the item if you are under 18. 500GB hard drive capacity. Size H26,
+					W37, D37cm. EAN: 5027757081958.
+				</description>
+				<offer oid="802760683">
+					<label>Microsoft Xbox One, Xbox LIVE 12 Month Subs, Evolve and GTA V Bundle</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=802760683&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=-BtG6yJqe7zGh5sWqEcXtA%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=389.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=3&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDKAMMO3Re-ZMsLuDFHryZwmTcdKYswC94A2-JkKYJGvHRhJD69EczAUlwcVC2YfcsTiLHYu0IXJoyQMRMTtBqPrjO3gioeAW9wx9XB1pAsS2RFJLt8jdib58pay5ttKhuaaPcGoXARJOgdJWUxoNAKSOdrKGlJOE6A8zKjBn62Qj9Gj01bNWY2XUq6MPQEO_jDWirEJEOrg11Sc-WtSdiojm71kIClOB0mdznyk8YzBadlDBqkfy1nzXtoW-4PUV-KwyBoT-v1k3YeobxrKKl8kMPaA2lSg0h6bX_fKUTUSNdjs1KIz_zr7_HfIiZBqU2iSwlIsh9IE_YPL9IX6inIKxDp9hxdmLLEqN7IjZwAa_hEQN3FD1hH9mmND8Xzv4Bdm0StBMZXIOu1r4eRI8NZNODmCTTOpLZS3_oXd7VmPEcn_7bvWOeGPRxdICr2KCHNLaacSQXkT7grUjp67lkdXeIUc3edTsHLff3De_DpDENiorkXwbxGdAcpRv5IAzArmNjg8jHmDqKAe2C5xE7bGwynvZzWSnJWVQznthP8Utbj2uEOVtEQSPKUecBgEWt9ASTjxgqeAGKSrmp2ZP7ALpTAuOreKPYbjZOlKtcp0DdaiKPQQjJZJ2M88HvDwTOTyaIgG_XeJZEe1bALHmmyg2zM-irHGLse1YyoM-tks5_gMPIK7nfNziP88L4JKAkcgFdjLFjPYN_O95a-5DdSU1sEFyxZ51X6kTG8zoJIfKFRz_WE4E7QJFJCQTihTObTgJkGcGeIiWzuG7x-jwQeQIcF9sfq54sg..</url>
+					<price cur="GBP">389.99</price>
+					<price-info cur="GBP" type="total">389.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="824180742" type="offer">
+				<label>Xbox One, Kinect Sensor, Shape Up, Just Dance 2015 Bundle</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5027757083129</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/824/180/D_000824180742_UK_430.jpg"/>
+				<description>Release date: 6 March 2015 Welcome to a new generation of games and entertainment. Where
+					games push the boundaries of realism and television obeys your every command. Where listening to
+					music while playing a game is a snap and you can jump from TV to movies to music to a game in an
+					instant. Where your experience is custom tailored to you and the entertainment you love is all in
+					one place. Welcome to the all in one, Xbox One. The all in one entertainment system, where the best
+					games, multiplayer and your favourite movies, music, sports and live TV come together in one place.
+					The bundle includes the Xbox One Console with 500GB hard drive, a Kinect Sensor for Xbox One, a
+					wireless controller, a chat headset, a HDMI cable, a power supply, Shape Up and Just Dance 2015.
+					Tired of going to the gym and repeating the same boring workout routine? So are we. That is why we
+					created Shape Up. Shape Up is the game that proves when you have fun, you get better results. Here
+					is the thing: when you're having fun, you actually get a better workout because you work out harder.
+					Shape Up features unique and entertaining 90 second challenges that turn the chore of working out
+					into a fun experience. Simple. Fun. Effective. Take the work out of the work out and try Shape Up
+					for yourself. The world's #1 dance game is back with hot moves and new features! Just Dance 2015
+					gives the power to the community: challenge your friends, score on their performances and even be
+					part of the game! Get ready for this years hit songs and quirky dance moves that have something for
+					everyone. 500GB hard drive capacity. Size H26, W37, D37cm. EAN: 5027757083129.
+				</description>
+				<offer oid="824180742">
+					<label>Microsoft Xbox One, Kinect Sensor, Shape Up, Just Dance 2015 Bundle</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=824180742&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=eliwncAHOmZkrq98bwCSbQ%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=374.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=4&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDKAMMO3Re-ZMwuLWPUVwVfvdg-uTSgu9zilaNbjInMxGq6DsZ6w4TWjlOfT_ZNI3_utZAgFOBoRg1erf5zfNWvaj0homFW55UNFJhv0I1gzggqyZd43X3V6PRHhon-KCN1OVvt81yYH9A8uIFLJLXuM0WPfP8ob3FFWbMUO0PS2T7s0XOco_VWzy9CpANAYvSeQXWJQ2pnsBhTPF5RAVNrm2-F89fbOY13jZc9uOE414Xt-6wDw2Fuu9EHu0QAoIFsbVguw6XjbYeymguHqWZ8R2u9AyS0wYeebwSM1evPoWtvJUDd3P5gH251cqEZ87xdUvwrU-2_yPl5BouI9l55JDxom8F5ZcpuKqEl7vAnAcnu-lNYC-l2RzxHrkf4gKupP9421QOgSKso15uMmqaAC3rbsPmAIzu56urJJQyCbHaq6-sOmSzUO9YzVFrNa3sdpetfyld_wvYPo1OrAekI0k0KGSxQOjGcvAQmfW6JzQA1NAUCRfe4KENJeHHZKDQ2lwPrWBXajOmPTvUJrfj58K2tbX5RSspso0EseFQ1PYpIOlbD1RNfHR99jd_JmPaKggDA2ygLRQohDMACaXNDi0aVfiCUuNk8B8vBloPM0yqubnYqUgFiLcrqTwEI0RwH6fbm5FawmmJQ6CJkxqEpC8OCmT8LwAjCGza_aEyJQv7OBV00tlbumgLzaEPPX45GTdf6ESRR6rgyQj4Xj2wOlSHfrChL8bP76dDWOBm-yWsam4V6z376bMKMuKQQjPqJVKwARgIeAENHSPj3xYdSU.</url>
+					<price cur="GBP">374.99</price>
+					<price-info cur="GBP" type="total">374.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="667236123" type="offer">
+				<label>Xbox One Premium Console Bag</label>
+				<brand bid="mnUGxhbnRzIFZzIFpvbWJpZXM.">
+					<label>Plants Vs Zombies</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5055269704164</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/667/236/D_000667236123_UK_430.jpg"/>
+				<description>Premium cushioned Console Carry Bag with padded shoulder strap. Large central zipped
+					compartment, designed to store and protect your Xbox One or Xbox 360 Console. Additional zipped
+					compartments and front pocket to hold Xbox One or Xbox 360 accessories and games. Heavily cushioned
+					to offer ultimate storage and protection. Includes a strong clip. Multi format - for use with any
+					gaming console. Size H29.4, W37.5, D13.5cm. For ages 3 years and over. EAN: 5055269704164.
+					WARNING(S): Not suitable for children under 3 years old This toy does not provide protection
+				</description>
+				<offer oid="667236123">
+					<label>Plants Vs Zombies Xbox One Premium Console Bag</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=667236123&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=efzHcl1RAiewjNbWy_CxaA%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Plants+Vs+Zombies&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=23.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=5&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDJZkDmEmqOLHjaZwNKHgFwKUeJDMfdCB5cmEYrFxDuPK66hNCX29by4MyHx1b6zMtuAS0Y-RKYWld33m7jcHm3Z_Sk3tyn-F7quKC9AigqCRHd2Xmp10Eb5zpKM_vg2Ez24oam7jJIJbfbFwplWDOZWCR7XjCU1Ba7GdnhtCMXO2J4X38GHR06Y5EsMdvZM3Kf3A3PPR94pLn-h4GVTQP3GEb3r8WYrDCqO3EuoRwmYVmTzqcha8kXLexLq_CBqRvIAaIfQit4vgpShsyDydEt91CoyaH-ZZysFeW49xW5Zt5ntzPPg6VsCcCWToEGkH-AkKya5f7Es6nfCARMp15JdnCwrCb1zdwhcL8I0-EbEK3dkHTcXTolFlHZQsHyqVrnt-3I9UIhd4fkn_FCv9LIC70FMrpKMbWawizpMiqC0F4kZ7NDzKNpYMoediku0FooE4kV8Ztk1gHYHy3XclMfdda8Ij_OuFpoYBn4yQvZKkOwZieugWhZ49Jirv86bERByU6BCjsCpGih5bWo7OYeAJ-NpLoXJk9OEr2TdyXBBHXFDEkZjqmMJezZkkFpHDmTjAG8lt95U-FX5EVQmSgnnOs0b7XohYMfIoEdlyO4cueqc6RgzE_biambHIFt-hAnZef7Xqiv36fY9JO_TOjUUNwTk6WZizp4We-dVUcUHgBOCypaAYdoS528BuKGhfzNmzfVwqemFJJArtrS4C1C1DCPpeQmqLN_J9lusnvaWeBVriuPf3B1Q.</url>
+					<price cur="GBP">23.99</price>
+					<price-info cur="GBP" type="total">23.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="825455248" type="offer">
+				<label>Xbox One 500GB and Halo Bundle</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/825/455/D_000825455248_UK_430.jpg"/>
+				<description>Four Games. One Bundle. Master Chiefs entire story, only on Xbox One. Get the definitive
+					Halo experience with the Xbox One Halo: The Master Chief Collection Bundle. It includes The Master
+					Chiefs entire story with Halo Combat Evolved: Anniversary, newly remastered Halo 2: Anniversary,
+					Halo 3, and Halo 4 (digital download). Play all 45 campaign missions plus more than 100 multiplayer
+					and Spartan Ops maps, including 6 re-imagined maps from Halo 2: Anniversary in 1080p at 60fps. Also
+					comes with access to the new live action digital series from executive producer Ridley Scott, Halo:
+					Nightfall. Game DVR keeps a rolling video record of gameplay, and with Upload Studio you can edit
+					clips, add voiceover and share them with your friends. 500GB hard drive give you plenty of memory
+					for your games, demos, movies, apps, music and more. Snap a game, live TV, and apps like Netflix or
+					YouTube side-by-side, and switch quickly between them. Multiplayer - Effortless matchmaking means
+					you can set up and join games more easily, and play with people most like you. An advanced
+					reputation system helps keep out annoying players. Xbox One Wireless Controller - Experience the
+					action like never before with the Xbox One Wireless Controller. New Impulse Triggers, redesigned
+					thumb sticks and D-pad provide greater intensity, precision and comfort. Xbox One Chat Headset -
+					Keep your in-game communications crisp with the comfortable new Xbox One Chat Headset. Hear friends
+					and foes in crystal-clear digital audio. Includes - Xbox One Console, Halo Master Chief Collection,
+					Wireless Controller, Chat Headset, HDMI cable, Power Supply, 14-Day Xbox Live Gold membership. 500GB
+					hard drive capacity. Size H8, W27.4, D33.2cm. EAN: 885370891300.
+				</description>
+				<offer oid="825455248">
+					<label>Microsoft Xbox One 500GB and Halo Bundle</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=825455248&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=fCdKBBWZRxAFHMMlek0h5A%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=349.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=6&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDKAMMO3Re-ZMsLuDFHryZwmTcdKYswC94A2-JkKYJGvHRhJD69EczAUlwcVC2YfcsTiLHYu0IXJoV-x34YO7J17Qu_4gUxae-fb-RtXL_rBTrdOK7_gYwuklWhJd8wAdg_nFPBNveJAHMfwZOt2NsUpl5iz9sBE8N6G0cW_9cc-2Tzb9YBEEzC4sMa1jqGYq67gyjBoyY_BGNmp3EF8VCYM2RGXV_6UFJtcz9YrzcyAR481VC0J04JrICvJWoL_f4vy11G6UGZsE9mvJDTlNHjv4Xjbg3wKIkY4vROlhVxZGPWYmdCTA6hbZtyG1hYNZFfMBWpJkyd88smTOEmpgfKPW-t2strhz-vKqgQ_WAsym8V1vnAZQsnp3Dj6Vpq391-YE3FuJMCvaL2kOi_R_9R6GyzM37WPN_S5DHXlRnvC9mHHQK6DCkm-NnrJ8rOSybDWuscCnhdjITffA1LHVvRKYUtKx0Z5z9UU9deKN-g9QY_UeZX70qoDQlnd6Bb7lgwbimBMgYZfXNdBvvSD1LXYWyu0sjNxiUsdoEMxAYJlYzwbz3-prkOL3NJ0t80nXUHJPBWbYBtQyDFsODCaYgOoiNXUdM98Fy5KVrP_pp04juESTFKbm7O2YNG2EuO9FPVgVAOym8emNEaBh38uwAtqBe_YqcK4nbnk6O0m1QkPDdzB3xUp62PkPCoWq8aYPE4EH9Bc_aFzub1R6DmCVEYCUHu9xllPikA..</url>
+					<price cur="GBP">349.99</price>
+					<price-info cur="GBP" type="total">353.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="3.95">£3.95</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="824180754" type="offer">
+				<label>Xbox One, The Fighter Within and Halo M/C Collection Bundle</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5027757083037</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/824/180/D_000824180754_UK_430.jpg"/>
+				<description>Release date: 13 March 2015 Xbox One brings together the best exclusive games, the most
+					advanced multiplayer and entertainment experiences you won't find anywhere else. Play games like
+					Titanfall and Halo with friends on a network powered by over 300,000 servers for maximum
+					performance. Find new challengers who fit your skill and style with Smart Match. Switch quickly
+					between apps like Netflix or YouTube, or do two things at once by snapping a game, live TV, a movie
+					or apps side by side. The all in one entertainment system, where the best games, multiplayer and
+					your favourite movies, music, sports and live TV come together in one place. Bundle contains Xbox
+					One console with 500GB hard drive, wireless controller, chat headset, HDMI cable, power supply, Xbox
+					LIVE Gold 12 month subscription, Play and Charge kit, The Fighter Within and Halo: The Master Chief
+					Collection. With Xbox Live Gold, you get free games every month, the most advanced multiplayer,
+					exclusive member discounts up to 75% on games in the Xbox Store and more. Keep the action going with
+					the Xbox One Play and Charge Kit. Recharge while you play or afterwards, even when your Xbox is on
+					standby. The long lasting rechargeable battery fully charges in under four hours. Say goodbye to
+					disposable batteries and having to swap them out in the middle of a game. The Fighter Within. Defy
+					your best mates! Steph into the most immersive total body combat experience ever made and test your
+					real fighting skills using the new Kinect for Xbox One! Kicks, punches, grabs, counters, you call
+					the shots. Brawling with your friends will never feel the same. 500GB hard drive capacity. Size H26,
+					W37, D37cm. EAN: 5027757083037.
+				</description>
+				<offer oid="824180754">
+					<label>Microsoft Xbox One, The Fighter Within and Halo M/C Collection Bundle</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=824180754&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=gSCze1-UApZTu3Q44H3BWA%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=379.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=7&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDKAMMO3Re-ZMsLuDFHryZwmTcdKYswC94A2-JkKYJGvHRhJD69EczAUlwcVC2YfcsTiLHYu0IXJoNvWceRVGY1jVWSNQ3Ytj4tWNhGLAmqcrKf1HJe40DJUJGhDj1vzWuED8VRSf75XCGXrbDpo9lGlZ0t5ta9cwklF81kGNEKQUgx7u84h6Xn63wgmO7tNsTNjpyB7k5WVlqHiyFRVKX2mDRPu9HxatXMbLH7ffCDaO0zE0aoBCLsCc7XNzl7E-_J-edKg44WHU70gyamFEmX24sfVQ5YlJe4sP4M2eyKCS9n4hD2mUVAnsKdn2iOOWX1CrIJQ7lktmxakViph_wB791AWW0sZ1uoxR3BOT-0IZ2Fj5RS7HlPHZjDjkDJkAsd-HBP18X7TiydgawISg9ubSEdwZ7bRhAjUWeDaIiWQsCJ-6lP-_IF-azf5UBP9gsN2nbgiRZX3uEbQEdQBARx1jFylSVA_KOo8HvOPSOhADtjWiS1gqiQBGuUm9cjsEiiywLA-bNyBFV9KqQO0l3PaYyN3jDfy2DQ4o7oSMwoDjbe15RBP0ebn2UWWzVW1Z7YsxfsOlSmsHnk_7IreqTi2fjUqjQyEz7SaqibPlS98T2mSrehQ_ESQdM10QQFCDuX-CicvWPRqUcfKN1-Fi8hqq2HF1MMtowki055noftLS6qOBPTlht3sVcBzgdKuBGpb9_3ry5DxpzbJevvne5jxkv71Vg9xGENTNDP3p4VKQlkf0D9bXD1RVrTKQh2roY9EDnlxS2vg2GSKYooE1cCk.</url>
+					<price cur="GBP">379.99</price>
+					<price-info cur="GBP" type="total">379.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="824180895" type="offer">
+				<label>Xbox One and Halo Master Chief Collection Bundle</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5027757083082</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/824/180/D_000824180895_UK_430.jpg"/>
+				<description>Release date: 6 March 2015 Xbox One brings together the best exclusive games, the most
+					advanced multiplayer and entertainment experiences you won't find anywhere else. Play games like
+					Titanfall and Halo with friends on a network powered by over 300,000 servers for maximum
+					performance. Find new challengers who fit your skill and style with Smart Match. Switch quickly
+					between apps like Netflix or YouTube, or do two things at once by snapping a game, live TV, a movie
+					or apps side by side. The all in one entertainment system, where the best games, multiplayer and
+					your favourite movies, music, sports and live TV come together in one place. The bundle includes the
+					Xbox One Console with 500GB hard drive, a wireless controller, a chat headset, HDMI cable, a power
+					supply, Xbox Live Gold 12 month subscription, a Play and Charge kit and Halo: The Master Chief
+					Collection. With Xbox Live Gold, you get free games every month, the most advanced multiplayer,
+					exclusive member discounts up to 75% on games in the Xbox Store and more. Keep the action going with
+					the Xbox One Play and Charge Kit. Recharge while you play or afterwards, even when your Xbox is on
+					standby. The long lasting rechargeable battery fully charges in under four hours. Say goodbye to
+					disposable batteries and having to swap them out in the middle of a game. For the first time ever,
+					the Master Chief's entire story is on one console. Featuring a remastered Halo 2: Anniversary, along
+					with Halo: Combat Evolved Anniversary, Halo 3, Halo 4, Halo: Nightfall (a new digital series) and
+					access to the Halo 5: Guardians Multiplayer Beta. This is the definitive Halo experience. 500GB hard
+					drive capacity. Size H26, W37, D37cm. EAN: 5027757083082.
+				</description>
+				<offer oid="824180895">
+					<label>Microsoft Xbox One and Halo Master Chief Collection Bundle</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=824180895&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=xdbAEcJ7lX4iy22u4R3CZA%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=379.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=8&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDAFnNdfLumN5qpo8Kq83Id6qZVJhxazA1Yg4jt80oVHuHmQ4cIKKUUtt1tKHFWw-8pHgcogV7VH2SQ_2tte1QSV4xKMzdchKYQdPJSpUFjuK3mTWcB0_w3TwTyT5dPcb7c5g7zIhKRYIt98QDsMIhv3uhnFLwbT_nHDvA2oXbzzC1byCKld73slSKhB0OmY3vBCf9YWshLnzGwuQHjV_UQ6DRPH_6Mdfs8dvtjlLA0hM1piXvuQZAPYL9ZkAFkRVVqQHOSjXsBnRkVp7BbBgJ5e2NVCEgiQL5fYmARAkk1c0hldX-1cmK6XkyWCCJ6T4ASGF9_9MY5Yao7YyHRPtcy1f68wKc5bWoCoCkJZyEzJdgRE1q9XTH70XobYnDUKdZhzaJHKaLplBZB7P41qAVRXGYiFDP57j6aDASzzpUsRx0-s919qHg-4eIlNfjCjJyVTk8PIg7_LfRRZRFhlSowxmi1JDfJjhu-gxPE8KYP_ej-ErG7pThxYCoKyaCruBjui0T3YnpcouBIRPEWSfFj1kPY17fEleRx5RJ6WMCye_O9RD1oPR1VlmCzhVEJ5oh87wLiKMEp0SrKw9vkVIX6Keo-uufxQHKEzM8Ia-AGYQ-MZVqIkDtk7uWyNT35Om8W1JOifSklGLtI2iLx6WYAy9v4vergbiKUXr5QlPwYGFl67e0glzF7OLVtQJv3c1G5v3UK2HK--PlIYjINYv1m9jXh1wUaGYZopzrJVRlmwlfTzQupFkGBWAuZ8-2VTpVQ..</url>
+					<price cur="GBP">379.99</price>
+					<price-info cur="GBP" type="total">379.99</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="827216575" type="offer">
+				<label>Xbox One 500GB Console with Forza Horizons 2</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="47736">
+					<label>Consoles</label>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5027757082610</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_uk/images/offers/UK/430/000/827/216/D_000827216575_UK_430.jpg"/>
+				<description>Release date: 17 March 2015 Xbox One brings together the best exclusive games, the most
+					advanced multiplayer, and entertainment experiences you wont find anywhere else. Play Titanfall and
+					Halo with friends on a network powered by over 300,000 servers for maximum performance. Find new
+					challengers who fit your skill and style with Smart Match. Then switch quickly between apps like
+					Netflix or YouTube. Or do two things at once by snapping a game, live TV, a movie, or apps
+					side-by-side. The all-in-one entertainment system. Where the best games, multiplayer, and your
+					favorite movies, music, sports and live TV come together in one place. Bundle Includes: Xbox One
+					Console with 500GB Hard Drive. Wireless Controller. Chat Headset. HDMI Cable. Power Supply. Forza
+					Horizon 2. Forza Horizon 2: Race through a wide-open world featuring dramatic weather and day to
+					night cycles. Instantly connect with friends in the ultimate celebration of speed, style, and action
+					packed driving. Explore beautiful and exotic locations in more than 200 of the worlds greatest cars,
+					all created with precise detail in 1080p. 500GB hard drive capacity. Size H19.1, W32.3, D37.3cm.
+					EAN: 5027757082610.
+				</description>
+				<offer oid="827216575">
+					<label>Microsoft Xbox One 500GB Console with Forza Horizons 2</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001347&amp;c=47736&amp;o=827216575&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=dLJ3oxTUETc-VoEUzgDJSA%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=314.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=9&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDAFnNdfLumN5qpo8Kq83Id6qZVJhxazA1Yg4jt80oVHuHmQ4cIKKUUtt1tKHFWw-8pHgcogV7VH2CHyXxNH7VL_lo9ow0HIE_pZprwT4cXPPuVeh07IwHXGHXJd9RGf8nZnfqwdhS8RUXkyfNNFDZHNObi6rkOB7VlCvtK9B1waboT0XI02M05OsFlWO6vBeRGtctGszgAuvvFiGxTkGscO1XtZk2hpTF3Iztr05BjfYKsbU3sLZdkZmGUikOobPP2YAvg4-afe18Zb52p7UHFkUN5pokMhgYaZAB8RC8awm5EgLUUVy9MopFQ_GHwVQ5DFKTDqCm-da20f3rtIEbU4xDg-5szQON6wK5uhQfgzF_H8K2un1rSFxtfZMpK0afBvQ7i8P4vuwjaNPYcUJNh7BI7dCcqtZqFoWzRPQgsAO3PHkVLyRyZyPNqaHrRJso3pggpBCQYGj0UILPaFzgiiIxE3mQ65SkmghC_Lknk3nF1h-N9J9_JeUINtIoN2vD7tWJ1so4cz2JYXzZpkMXhy8-_WtDwk8LcjrNqvKjylMTuk1xA5gdI0zspOWcHcaxmiNygHuN2I7iUOr10oL7Y8aaiR0ATfwZAqhJQxP_V1490a2XtTCYw5TAEllaP5TZGsmxMclCySIXD1zyk1dpqaMRp440RuhWwMJ_dxrHH2IpEubB1oH8y13SymrWz6a0N5wQVXP66tJNFYXDUGPavduTPRJnUSJ6IUOIkrRxBxqETKYjEDA7ws.</url>
+					<price cur="GBP">314.99</price>
+					<price-info cur="GBP" type="total">318.94</price-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="3.95">£3.95</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<paging n="7" total="79" pge="10">
+				<page rel="FIRST" pgn="1" name="query" type="query"/>
+				<page rel="CURRENT" pgn="1" name="query" type="query"/>
+				<page rel="NEXT" pgn="2" name="query" type="query"/>
+				<page pgn="3" name="query" type="query"/>
+				<page pgn="4" name="query" type="query"/>
+				<page pgn="5" name="query" type="query"/>
+				<page rel="LAST" pgn="79" name="query" type="query"/>
+			</paging>
+		</product-results>
+	</product-results-module>
+	<popular-products-module>
+		<params/>
+		<popular-products n="4">
+			<product nr-of-offers="3" nr-of-merchants="1" pid="25894738" oid="667160878" type="product">
+				<label>Microsoft XBOX 360 - 250GB</label>
+				<price-range nr-of-offers="3" cur="GBP" max="169.99" min="129.99"/>
+				<sub-label>Table / Portable: Table - Hard Disc Capacity: 250 GB - Software Medium: DVD - Basic Colour:
+					Black
+				</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category nr-of-products="42" nr-of-offers="103" parent-cid="61858" cid="47736">
+					<label>Consoles</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370127164</code>
+					<code type="UPC">885370127164</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/017/703/B_000017703644_EN_230.jpg"/>
+				<image type="UNAVAILABLE" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/017/703/I_000017703644_EN_230.jpg"/>
+				<offer oid="667160878">
+					<label>Microsoft Xbox 360 250GB Console</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=25894738&amp;c=47736&amp;o=667160878&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=JdVlKbVxKRAQXAh1M-fe2A%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Microsoft&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=169.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDKAMMO3Re-ZMwuLWPUVwVfvdg-uTSgu9zilaNbjInMxGq6DsZ6w4TWjlOfT_ZNI3_utZAgFOBoRgPsXhQBrfhE6gbosfsQzzwsP08A7Kr3rU1QjS-IGqiKT2JsXyYbQ_4b9SVMGty-hy8j_kPaQGAPP61dUn8tC6OUIxx_SV845dtol6dDwSf_TWFE5H9yR-Gzkc-d0CQKYSxFffecWdIC5b3aazRBvEzqwXPCx4oNweW4SCo5CBr3BMh7VjRJMhmncjQygbbzEWvKaqTVSHpht2Zq8L6xKH3E4eKZBt2p6Nk3NRKxpnMUmMdkze_WP5Qf9zpD1COG3JWS_C2Z-eVgb7pUIz5Wc9qGq5OKZV3I1u0_sci8-aRUho1mEV-Ea4VOgfVsJC_0kMSxv4XHY2dX7LKDOXCkJ7yq2Bil0CVLuxEqfOENYWJJ3fxPNqlp8kHtyFSK5m992kkSIOSgbC1jyxNvAAiWZnFSwc7_-xki9SLxXnz3QDyOprf5pg7sYppWh6C3FcpkIdjYZa81OlkhOPuDC2GfIEkFVNYpHtbrU2ebt5gRm7lsbyb-DvNi4-Knfyp2oEHBQDprIAHPnvQJIge-iRx96TaxSsRekX_h9dv-aAk-b5vcBmMAjvAltGQHWxH0bO560pHyLpX6qNg6I_W2M7XcgAabauxWe5q0zV9uN3zgSAIM5JKhmNMzQdJy-YcQK2J-BKROubegpzu-XaBBMq2eaU7A..</url>
+					<price cur="GBP">169.99</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="3.95">£3.95</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes>
+					<product-attribute name="POPULAR"/>
+				</product-attributes>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="9" nr-of-merchants="2" pid="26790952" oid="806579786" type="product">
+				<label>Nintendo 3DS - Bundle</label>
+				<price-range nr-of-offers="9" cur="GBP" max="249.99" min="139.99"/>
+				<sub-label>Table / Portable: Portable - Software Medium: SD Card - Basic Colour: Blue</sub-label>
+				<brand bid="mnTmludGVuZG8.">
+					<label>Nintendo</label>
+				</brand>
+				<category nr-of-products="42" nr-of-offers="103" parent-cid="61858" cid="47736">
+					<label>Consoles</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0045496500856</code>
+					<code type="UPC">045496500856</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/019/833/B_000019833333_EN_230.jpg"/>
+				<image type="UNAVAILABLE" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/019/833/I_000019833333_EN_230.jpg"/>
+				<offer oid="806579786">
+					<label>Nintendo DS Nintendo 3DS XL Pink Console with Adapter</label>
+					<merchant mid="104717">
+						<label>Toys R Us</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/104717/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=26790952&amp;c=47736&amp;o=806579786&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=104717&amp;rid=5577173836&amp;ver=2.0&amp;market=en&amp;man=Nintendo+DS&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=172.89&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSHQb4LjBJuY8aAFnAtq1OOTEa27XZSdKAWlnG6gXfYxuwx2HzQjOT-8CreEs3GgJUFRk6yUs4oGLzFcBKqLwbXmCDA0BCih-NXGBGLg8-rJjV2cV-6dZLO5eU1EW-oscSI_49pGs87XlE2a1fHFlk4Wt56oxGgnNT_vZTZnQ-1qFOvqUMRpBH57xXOQ1Hcs-qu0YFX7P6c1dhHsXzDB4XCB0DeOpTtXbM0Vgc_LUGCD5z24aw5Tvpkl3hyNhAea92a0mGREcL7StY0heDb-MDCea5JTR5KLzJdPZ8KB_ycFF01tn_qyYzvvd0_adPHYQPlQnICrlbcBzGduldx0ceduP7CEwiazSpFEjXWQETaULW0setz1OvB-86KXIpD4zjpMvtob5FnpCGFGVfNpH_--9zPpHNMgpga7cbZGszE1zaDPhXJKRO0D8jBy_KkycePlwcxNsm9J8OMg4UidEe9kmT43222FG2VUKcjm9u6Iz4TRs1VrQvX8EoHnThwGGoiuLqBhQfATjSCp0hsalAIlMBBuz9624yynMGpqpFFTaUZ2i07uzqLs51Igu_Ik45gUX4LyNZmdKOSYD7suq0vI_vXP7KGxYwtdB1mt6tMYPGWKBUzQFy5IU31DWMVCm3qBVtHuzluRQS6Y73MuZkqqabciDiR2yGvXFeuvQVsFxRlhJOWpnlvp70TZfeNvUdZ9uWD5GUMEMNx8PKOfHPeg5Ahkf_T8bv8.</url>
+					<price cur="GBP">172.89</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" pid="27299531" oid="667206727" type="product">
+				<label>Sony PS Vita Wi-Fi + 3G</label>
+				<price-range nr-of-offers="1" cur="GBP" max="139.99" min="139.99"/>
+				<sub-label>Table / Portable: Portable - Software Medium: Flash Memory Card - Basic Colour: Black
+				</sub-label>
+				<brand bid="mnU29ueQ..">
+					<label>Sony</label>
+				</brand>
+				<category nr-of-products="42" nr-of-offers="103" parent-cid="61858" cid="47736">
+					<label>Consoles</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0711719207023</code>
+					<code type="UPC">711719207023</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/020/957/B_000020957562_EN_230.jpg"/>
+				<image type="UNAVAILABLE" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/020/957/I_000020957562_EN_230.jpg"/>
+				<offer oid="667206727">
+					<label>Sony PS Vita Slim Console and LEGO games Mega Bundle</label>
+					<merchant mid="106290">
+						<label>Argos.co.uk</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/106290/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27299531&amp;c=47736&amp;o=667206727&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=106290&amp;rid=Vr-4P0Wme6W2_DHfIZGekw%3D%3D&amp;ver=2.0&amp;market=en&amp;man=Sony&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=139.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSH2SzeAyVPW54_G_WkjkaiCkksW8Js76vrswNAQwvK6gGGCWiQJznwuHR3lgDFBWIMPVm9nc3-VDKAMMO3Re-ZMwuLWPUVwVfvdg-uTSgu9zilaNbjInMxGq6DsZ6w4TWjlOfT_ZNI3_utZAgFOBoRgvgaAGZjM1jnvefS1OSl2NouzrujC7psMKTfEY9Zkfpq4ymENiERSwXcWJtGowCrcU8O52aZNWwIaub18lgZDS6nDiL2wtwf-vRKlPgmeU7nJ-aMFQ-dGvvcClI1kHryLDkm5IzRGOy0FzdF8mohjeCcFUhjrUxZHAxOjONwod4P6GYD751zETYzZY-B_SvEj-aX5yUnLteyoIYLLEG3Ka2DwdIqAVWhIwz-u0Gilrbn3X6lFV2gm47OKv3jYSlJkoVStOrPHcV0nKPXuwBMZmGEDFc8-dGyuXUtaJ2Sf1JyndpRU_1jfLB-y4W1cV7WOkzJltKoWaiX7SRdGxL1A8ZP_4ku1REXRMaSF5ERebjzXdES3bls4dPtE4E2e4vfavX1fgOFUdquzffAi6lV26Su3OXMO0fkiV-I4sgDON8kBe9DIHX76SbjmC2-ff7vMipYECgOPDxmtCJSJgnSVOF97cAOWqEC7aRLs8v3qL9fE0BFc7AfGeInFtfuUwlR1vS_oCaWoW43RgtfCWw1WG_8aip8aBamoRAN8SJl4BzXK-73C51HNIYmj1rkXYPmunirtIzzCu3rdu_fmRMecyaVydn5qUUbZlXKhIU-oVYVPzZZ7jFB9XJvHSaL8SVaj6wZr0leonMvHW6HGpcLXZccwa7pRzqyvp-4rXFokWoAR3y8UxEElyg..</url>
+					<price cur="GBP">139.99</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="3.95">£3.95</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="3" nr-of-merchants="2" pid="31859873" oid="796619358" type="product">
+				<label>Microsoft Xbox One 500GB Console</label>
+				<price-range nr-of-offers="3" cur="GBP" max="399.99" min="299.99"/>
+				<sub-label></sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category nr-of-products="42" nr-of-offers="103" parent-cid="61858" cid="47736">
+					<label>Consoles</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="1">
+					<code type="EAN">5050013372248</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/035/724/B_000035724688_EN_230.jpg"/>
+				<image type="UNAVAILABLE" name="I" height="300" width="300"
+				       source="http://images.pangora.com/foxydeal_uk/images/products/EN/230/000/035/724/I_000035724688_EN_230.jpg"/>
+				<offer oid="796619358">
+					<label>Xbox One Console (No Kinect)</label>
+					<merchant mid="104717">
+						<label>Toys R Us</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_uk/images/merchants/p/104717/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=31859873&amp;c=47736&amp;o=796619358&amp;che=cGFuZ29yYSFn2KNSuS1VS8VVcfHhPNkG&amp;m=104717&amp;rid=5899237201&amp;ver=2.0&amp;market=en&amp;man=Xbox+One&amp;ser=2706&amp;pc=20001347&amp;pcat=23245&amp;abob=cGFuZ29yYSEMDOlUwOGDtQ..&amp;abobcur=GBP&amp;ts=MjAxNTA0MTUtMTA0MjAx&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=329.89&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_8&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSHQb4LjBJuY8aAFnAtq1OOTEa27XZSdKAWlnG6gXfYxuwx2HzQjOT-8CreEs3GgJUFRk6yUs4oGLzFcBKqLwbXmCDA0BCih-NXGBGLg8-rJjV2cV-6dZLO5eU1EW-oscSI_49pGs87XlE2a1fHFlk4Wt56oxGgnNT_vZTZnQ-1qFOvqUMRpBH57xXOQ1Hcs-qsnbqdpUuYegnHJL2dBC53DDwUuwnBXvcJfvurDCqjxkPDzEQk2LbTrUnWdgZXAzeL-zGw4xd7F94m_ZxaD_Athi21ck-8r6qfTwg-xyuvLzoYPuVQZWC4h9qJvZ7_kV6fXvZavEIv2W7trJDl00Y2CCDBKZCzTf2QW8jzmf_jUL8SdO-O4VaOzc76S_egpIgNjH5j18qJItRw9qT4CGCEq7aVnxdsiHjCLhz0UYWcuBjGidYHWJocn8qLLnIxbThfZYL4cYH0LScaXL3eBudyqrVznn3NfIYAffzQSJh3YnTsfx8W9JttUmrn33PEhUKPiq03IqKLdKYtMKHq_iZCi5DAKEFpFW64kv67NLldi7CSWZseqGvGohkJUNkuLU12ZE9_313akGqAzE5BvFXMSeiDgTqKwfBEOPNl_fUXJJMgEuK7ehrURR-_7WaO9mjU-7zLiI_G46dFqADjwP_J9t7fx5AyN3BOwxFdab7CLXoUDMrWXxgwf8cz4aELWokhLlgAYZ_9aHJeLJ3-xVFx1ZbkHDFYaa2w.</url>
+					<price cur="GBP">329.89</price>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="GBP" price="0.00">£0.00</charge>
+					</delivery>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+		</popular-products>
+	</popular-products-module>
+	<document-info service-id="2706" channel-id="foxydeal_uk" host="foxydeal-uk" msecs="37">
+		<tracking>
+			<tracking-data totalNumber="784">xbox</tracking-data>
+			<tracking-image height="1" width="1" source="http://uk.channel.become.eu/livexml/3.1/tr/lxtrimg.gif"/>
+			<tracking-script type="text/javascript">&lt;script type="text/javascript"
+				src="http://uk.channel.become.eu/livexml/3.1/tr/lxtrscript.js"&gt;&lt;/script&gt;
+				&lt;noscript&gt;&lt;div&gt;&lt;img src="http://uk.channel.become.eu/livexml/3.1/tr/lxtrimg.gif" alt=""
+				style="height: 1px; width: 1px;"/&gt;&lt;/div&gt;&lt;/noscript&gt;</tracking-script>
+		</tracking>
+		<cache-control expires="2015-04-15T10:47:01.045+02:00" max-age="300">
+			<last-modified>2015-04-15T10:42:01.045+02:00</last-modified>
+			<etag>MjAxNTA0MTQyfHwxNDI5MDg3MzIxMDQ1</etag>
+		</cache-control>
+	</document-info>
+</dynamic-data>

@@ -1,0 +1,1324 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>4c802ac7-dae9-4586-9e98-01e3d4373437</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="foxydeal-21"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:09:16Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="b7uv8a0gd/kbmPF9UHyK4Dvlwi46cvPAopvr5hziuWc="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.8919690000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>8823321</TotalResults>
+		<TotalPages>882333</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.co.uk/gp/redirect.html?camp=2025&amp;creative=12734&amp;location=http%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=foxydeal-21&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00J29BR3Y</ASIN>
+			<ParentASIN>B00K19DH6E</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-Memory-MicroSDHC-UHS-I-Adapter/dp/B00J29BR3Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J29BR3Y
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00J29BR3Y%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00J29BR3Y
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00J29BR3Y%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00J29BR3Y
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00J29BR3Y%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00J29BR3Y
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00J29BR3Y%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00J29BR3Y
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>##-SAMSUNG--MB-MP32DA-EU</CatalogNumberListElement>
+				</CatalogNumberList>
+				<EAN>8806086050999</EAN>
+				<EANList>
+					<EANListElement>8806086050999</EANListElement>
+					<EANListElement>4043023301231</EANListElement>
+				</EANList>
+				<Feature>Waterproof to protect your data in the worst of conditions</Feature>
+				<Feature>Your content is safe from magnetic fields</Feature>
+				<Feature>X-ray proof technology</Feature>
+				<Feature>Temperature proof</Feature>
+				<Feature>High-performance, stylish and secure memory card</Feature>
+				<IsAutographed>0</IsAutographed>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">4921</Height>
+					<Length Units="hundredths-inches">551</Length>
+					<Weight Units="hundredths-pounds">1</Weight>
+					<Width Units="hundredths-inches">1693</Width>
+				</ItemDimensions>
+				<ItemPartNumber>MBMP32DAEU</ItemPartNumber>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>2499</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£24.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>MB-MP32DA/EU</Model>
+				<MPN>8806086050999</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">16</Height>
+					<Length Units="hundredths-inches">543</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">346</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806086050999</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>COMPUTER_COMPONENT</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2014-09-17</ReleaseDate>
+				<Size>32 GB with SD Adapter</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Memory 32GB Evo MicroSDHC UHS-I Grade 1 Class 10 Memory Card with SD Adapter</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>790</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£7.90</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>42</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00J29BR3Y%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00J29BR3Y
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							GhaklONoIfmmo%2BZ1oCZZocPluBgNp7c%2Budm0IMe0F3bmhHjq%2F%2BRhMP9hHSsTK7ISfZ6vmeMR4DfMtTWL0geD6Pg3H8KwAspIndeo8fGiMWZw5mjaRCa4Mx0agy%2FWodIEoRm7id9oPrEKX4ullzgZXg%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>790</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£7.90</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1709</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£17.09</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>68</PercentageSaved>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00CKQU6ME</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/B00CKQU6ME/dp/B00CKQU6ME%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CKQU6ME
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00CKQU6ME%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00CKQU6ME
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00CKQU6ME%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00CKQU6ME
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00CKQU6ME%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00CKQU6ME
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00CKQU6ME%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00CKQU6ME
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Feature>Colour: White</Feature>
+				<Feature>2 Amp</Feature>
+				<Feature>3 Pin Uk Plug</Feature>
+				<Feature>Micro USB Data cable included</Feature>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">150</Height>
+					<Length Units="hundredths-inches">394</Length>
+					<Weight Units="hundredths-pounds">22</Weight>
+					<Width Units="hundredths-inches">370</Width>
+				</PackageDimensions>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>COMPUTER_COMPONENT</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Genuine Samsung 2 AMP USB Mains Charger and Sync/ Data Cable for Galaxy S3/ S4/ Note/ Note II 2 +
+					More - ETA-U90UWE/ ECB-DU4AWE (Non Retail Packaging)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>399</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£3.99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>549</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£5.49</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>9</TotalNew>
+				<TotalUsed>5</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00CKQU6ME%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00CKQU6ME
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							p3Oj9p%2FYqeJV35y37pOG43uTdxSFhToW7dar%2FFbcnSlLTSEKfRRdJZO5apPHaQwgWlzwxe6mBgPkpRp%2Bc6a%2FANWHCm01edQOfJC1C1EGR32wkRJiuOFMocNvHCTT6lFeKxKxLPJN1hFC7DIH3gUWOdNczCDoWNr2
+						</OfferListingId>
+						<Price>
+							<Amount>399</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£3.99</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00UPCKMNI</ASIN>
+			<ParentASIN>B00URN6JFK</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-Version-SIM-Free-Android-Smartphone/dp/B00UPCKMNI%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00UPCKMNI
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00UPCKMNI%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00UPCKMNI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00UPCKMNI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00UPCKMNI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00UPCKMNI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00UPCKMNI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00UPCKMNI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00UPCKMNI
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Black Sapphire</Color>
+				<EAN>8806086828024</EAN>
+				<EANList>
+					<EANListElement>8806086828024</EANListElement>
+					<EANListElement>8806086932882</EANListElement>
+				</EANList>
+				<Feature>Exquisitely Crafted, Captivatingly Brilliant</Feature>
+				<Feature>Improved Aperture, Clearer Pictures</Feature>
+				<Feature>Ultra-fast Charging</Feature>
+				<Feature>Peerless Performance</Feature>
+				<Feature>Dazzling Display</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">278</Height>
+					<Length Units="hundredths-inches">565</Length>
+					<Weight Units="hundredths-pounds">30</Weight>
+					<Width Units="hundredths-inches">27</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>These are Open Box...Serial Numbers have been removed and this unit comes with a 12
+					Month Electronics Warehouse Warranty.
+				</LegalDisclaimer>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-G920FZKABTU</Model>
+				<MPN>SM-G920FZKABTU</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">205</Height>
+					<Length Units="hundredths-inches">630</Length>
+					<Weight Units="hundredths-pounds">93</Weight>
+					<Width Units="hundredths-inches">331</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G920FZKABTU</PartNumber>
+				<ProductGroup>Wireless Phone</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2015-04-10</ReleaseDate>
+				<Size>32GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S6 UK Version SIM-Free Android Smartphone - Black</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>43999</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£439.99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>13</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00UPCKMNI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00UPCKMNI
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							FnQOgsId4%2FbVHqXgP5LcL8OukTjuYqfFNv9y%2FQFEUoDtNde9Ntr4ihd55hM4%2B%2FiqkA%2B%2FAYkeTG8RLZV0634VGnNe8MtmRg6%2BG8OfgO6K7WN5axC%2FPYETnyev6kpaxyV%2F8KE%2FB2DanZVgsFTKRHMz1A%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>55515</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£555.15</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00AX8WQ06</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/607/dp/B00AX8WQ06%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00AX8WQ06
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00AX8WQ06%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00AX8WQ06
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00AX8WQ06%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00AX8WQ06
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00AX8WQ06%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00AX8WQ06
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00AX8WQ06%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00AX8WQ06
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>White</Color>
+				<EAN>0754311422685</EAN>
+				<EANList>
+					<EANListElement>0754311422685</EANListElement>
+				</EANList>
+				<Feature>3.55 mm jack</Feature>
+				<Feature>100% Genuine</Feature>
+				<Feature>Beware of fake products</Feature>
+				<ItemDimensions>
+					<Weight Units="Kilograms">0.035</Weight>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>280</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£2.80</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>0000438828</Model>
+				<MPN>0000438828</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">150</Height>
+					<Length Units="hundredths-inches">350</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">230</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>0000438828</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>HEADPHONES</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2015-04-17</ReleaseDate>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Headset with Remote and Microphone - Not in Retail Packaging</Title>
+				<UPC>754311422685</UPC>
+				<UPCList>
+					<UPCListElement>754311422685</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>132</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£1.32</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>10</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£0.10</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>269</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£2.69</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>12</TotalNew>
+				<TotalUsed>8</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>1</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00AX8WQ06%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00AX8WQ06
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							BLk0MApNEL%2FSCUw9D0WlrxJGkX6MfMLGhWSbFqrefZ2ZUutvWlArze8CHE6QKw8%2F4epYIsQ7I2fDU6DRbuJMhCd5TPcFdQE8OgUplCwn21uZoqzhAyeX34OZWaJ%2FkXytRbhK56bvIC6uGmxRSEkbLooLOOzVjm4E
+						</OfferListingId>
+						<Price>
+							<Amount>132</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£1.32</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>148</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£1.48</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>53</PercentageSaved>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KLEDF8O</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-Galaxy-10-1-inch-Tablet-Black/dp/B00KLEDF8O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KLEDF8O
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KLEDF8O%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KLEDF8O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00KLEDF8O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KLEDF8O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00KLEDF8O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KLEDF8O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00KLEDF8O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KLEDF8O
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>LN59044</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Black</Color>
+				<EAN>8806086061605</EAN>
+				<EANList>
+					<EANListElement>8806086061605</EANListElement>
+				</EANList>
+				<Feature>Enjoy ultraportable design that's comfortable to hold and use</Feature>
+				<Feature>Make the most of enhanced multimedia, multitasking and more</Feature>
+				<Feature>Give everyone in the family their own personalised user account</Feature>
+				<Feature>Connect with other devices to share, play games and view photos</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">694</Height>
+					<Length Units="hundredths-inches">958</Length>
+					<Weight Units="hundredths-pounds">109</Weight>
+					<Width Units="hundredths-inches">31</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>29456</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£294.56</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T530NYKABTU</Model>
+				<MPN>SM-T530NYKABTU</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android 4.2.2</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">189</Height>
+					<Length Units="hundredths-inches">984</Length>
+					<Weight Units="hundredths-pounds">159</Weight>
+					<Width Units="hundredths-inches">724</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T530NYKABTU</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2014-07-01</ReleaseDate>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab 4 10.1-inch Tablet (Black) - (Quad Core 1.2GHz, 1.5GB RAM, 16GB Storage,
+					Wi-Fi, Bluetooth, 2x Camera, Android 4.4)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>19999</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£199.99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>15399</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£153.99</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>17999</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£179.99</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>26</TotalNew>
+				<TotalUsed>6</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>2</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00KLEDF8O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KLEDF8O
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							FnQOgsId4%2FbVHqXgP5LcLyv4vcMK%2FSRGaskCkBa9eaJfVQBESXZNDKnpZNZP2ILdgeniHjOiAhYPpETO6CrZbTdzV4rVWqpXUPdOnZZi4Pyd4paqs6jqHZcqONAKvz0u%2FGzp85%2F7O7hHQdMnLh%2FVIQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>19999</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£199.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>9457</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£94.57</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>32</PercentageSaved>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00P736UEU</ASIN>
+			<ParentASIN>B00UV6S578</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-2-5-Inch-Solid-State-Drive/dp/B00P736UEU%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00P736UEU
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00P736UEU%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00P736UEU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00P736UEU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00P736UEU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00P736UEU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00P736UEU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00P736UEU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00P736UEU
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>##-SAMSUNG-HDi-SSD-MZ-75E250B-EU</CatalogNumberListElement>
+					<CatalogNumberListElement>LN61674</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Black</Color>
+				<EAN>8806086522977</EAN>
+				<EANList>
+					<EANListElement>8806086522977</EANListElement>
+				</EANList>
+				<Feature>Form Factor:2.5"</Feature>
+				<Feature>Weight:40 g</Feature>
+				<Feature>Buffer Size:512 MB</Feature>
+				<Feature>Features:Self Encrypting Drive (SED), Hardware Full Disk Encryption (FDE), TRIM support,
+					Garbage Collection technology, DRAM cache, DevSleep mode, TCG Opal Encryption 2.0, 3D V-NAND
+					Technology, Dynamic Thermal Guard protection, Worldwide Name (WWN), RAPID mode support, TurboWrite
+					Technology, Low Power DDR2 SDRAM Cache, Samsung MGX Controller , S.M.A.R.T., 256-bit AES, IEEE 1667
+				</Feature>
+				<Feature>Width:69.85 mm</Feature>
+				<IsAutographed>0</IsAutographed>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">27</Height>
+					<Length Units="hundredths-inches">394</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">275</Width>
+				</ItemDimensions>
+				<ItemPartNumber>MZ75E250BEU</ItemPartNumber>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>8899</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£88.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>MZ-75E250BW/EU</Model>
+				<MPN>MZ-75E250B/EU</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">79</Height>
+					<Length Units="hundredths-inches">567</Length>
+					<Weight Units="hundredths-pounds">4</Weight>
+					<Width Units="hundredths-inches">559</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MZ-75E250B/EU</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>COMPUTER_DRIVE_OR_STORAGE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2014-12-10</ReleaseDate>
+				<Size>250 GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung 2.5-Inch 250 GB 850 EVO Solid State Drive</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7989</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£79.89</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>7790</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£77.90</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>63</TotalNew>
+				<TotalUsed>3</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00P736UEU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00P736UEU
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							EgjNaIT%2BsQ7XB05Y2ewSAgvPp9aBJMJGBgrst9TV%2F4Q0sHDaL6KGH1hbsvVF44ezv09h3Z6E1u4%2FHQeGd3rqBUex7TqLPJcspHBUKTLG8ztYzpM6ErxDJmb25%2BwNPEQjYxXwXkx0fEYqjVrB1unL6A%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>7989</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£79.89</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>910</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£9.10</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>10</PercentageSaved>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00A4A5CO0</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-Touchscreen-Android-simfree-smartpone/dp/B00A4A5CO0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00A4A5CO0
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00A4A5CO0%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00A4A5CO0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00A4A5CO0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00A4A5CO0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00A4A5CO0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00A4A5CO0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00A4A5CO0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00A4A5CO0
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>4250344858010</EAN>
+				<EANList>
+					<EANListElement>4250344858010</EANListElement>
+					<EANListElement>0519808829398</EANListElement>
+					<EANListElement>5055614492043</EANListElement>
+					<EANListElement>0633643350753</EANListElement>
+					<EANListElement>8806085181939</EANListElement>
+					<EANListElement>3662687002608</EANListElement>
+				</EANList>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">538</Height>
+					<Length Units="hundredths-inches">278</Length>
+					<Weight Units="hundredths-pounds">0</Weight>
+					<Width Units="hundredths-inches">34</Width>
+				</ItemDimensions>
+				<Model>Galaxy S III</Model>
+				<MPN>GT-I9300</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">591</Length>
+					<Weight Units="hundredths-pounds">84</Weight>
+					<Width Units="hundredths-inches">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-I9300</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Title>Samsung GALAXY Star Plus S7262 DUAL sim Touchscreen Android simfree smartpone</Title>
+				<UPC>633643350753</UPC>
+				<UPCList>
+					<UPCListElement>633643350753</UPCListElement>
+					<UPCListElement>519808829398</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7999</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£79.99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>5500</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£55.00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00A4A5CO0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00A4A5CO0
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							FnQOgsId4%2FbVHqXgP5LcLxkps6cWaQmb0OUi2xmmYO3bcsqtN0I%2F3pHJU1x6rH8F3yntlaW3AYmTcvcu8RDg1EFqHlJZUO4efYQKnnSIWnQi5dCTpH1RsAFsrOiujHEEEjqjE2JTYo2YuLKEgH3wfEm8o%2BMdqfyO
+						</OfferListingId>
+						<Price>
+							<Amount>7999</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£79.99</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00D7ZMT4A</ASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-Galaxy-mini-i9195-Smartphone/dp/B00D7ZMT4A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D7ZMT4A
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00D7ZMT4A%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00D7ZMT4A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00D7ZMT4A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00D7ZMT4A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00D7ZMT4A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00D7ZMT4A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00D7ZMT4A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00D7ZMT4A
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>GT-I9195ZWABTU</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>White</Color>
+				<Department>PHONE</Department>
+				<EAN>8806085719118</EAN>
+				<EANList>
+					<EANListElement>8806085719118</EANListElement>
+					<EANListElement>2724277350917</EANListElement>
+				</EANList>
+				<Feature>Smooth and powerful performance</Feature>
+				<Feature>Fast and large memory</Feature>
+				<Feature>High resolution camera</Feature>
+				<Feature>Use smart services for health, travel and more</Feature>
+				<Feature>Play and share with friends using Group Play</Feature>
+				<IsAutographed>0</IsAutographed>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">491</Height>
+					<Length Units="hundredths-inches">241</Length>
+					<Weight Units="hundredths-pounds">24</Weight>
+					<Width Units="hundredths-inches">35</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>WARRANTY:
+					COMES WITH 30 DAYS PARTS AND LABOUR WARRANTY,
+					EFFICIENT AND QUICK TECHNICAL SUPPORT IS AVAILABLE.
+					RETURN POLICY:
+					In case you wish to return phone for a refund within 7 days please note that a 7% restocking fee may
+					apply.
+
+
+					Warranty Conditions:
+					We only entertain genuine claims, phone MUST NOT be physically opened, manipulated or altered. We
+					hold right to decline any false claims. Also phone must not be taken to any repair shop or other
+					technician, that could void the warranty.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>22296</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£222.96</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-I9195ZWABTU</Model>
+				<MPN>GT-I9195ZWABTU</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">197</Height>
+					<Length Units="hundredths-inches">528</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">315</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-I9195ZWABTU</PartNumber>
+				<Platform>Android</Platform>
+				<ProductGroup>Wireless Phone</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2013-07-01</ReleaseDate>
+				<Size>8GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S4 mini i9195 Sim Free Smartphone - White</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>15999</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£159.99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>7499</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£74.99</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>8999</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£89.99</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>36</TotalNew>
+				<TotalUsed>24</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>2</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00D7ZMT4A%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00D7ZMT4A
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							UJpkpLq49mm7h1CKBNTJkrABT6%2F4ITDUafbGHsY5Ev4e5WQgwwOq0RyFzQUZr2v3DV90DbD34v5t8kfI02Z2yGzvXsu9O3htb%2BEFb5DbqdqtF8Mx7GQLwZQzr97eHR3O0OLxE%2BLWM0T5J25vxQJ8VA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>16175</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£161.75</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>6121</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£61.21</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>27</PercentageSaved>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KHA5G6G</ASIN>
+			<ParentASIN>B00H9KLWPG</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-Titanium-Octa-Core-Android-SM-T800NTSABTU/dp/B00KHA5G6G%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KHA5G6G
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KHA5G6G%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KHA5G6G
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00KHA5G6G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KHA5G6G
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00KHA5G6G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KHA5G6G
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00KHA5G6G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KHA5G6G
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>687023</CatalogNumberListElement>
+					<CatalogNumberListElement>VT5535</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Titanium Bronze</Color>
+				<EAN>0887276033976</EAN>
+				<EANList>
+					<EANListElement>0887276033976</EANListElement>
+				</EANList>
+				<Feature>Features Ultra Power Saving Mode and Fingerprint Scanner</Feature>
+				<Feature>Super AMOLED Display with 2560x1600 WQXGA Resolution</Feature>
+				<Feature>16 GB Flash Memory, 3 GB RAM Memory</Feature>
+				<Feature>Camera: 8MP Rear with LED Flash + 2.1MP Front</Feature>
+				<Feature>Android 4.4 Kit Kat OS, 1.9 GHz Exynos 5 Octa Processor (1.9 GHz Quad Core + 1.3 GHz Quad
+					Core)
+				</Feature>
+				<IsAdultProduct>0</IsAdultProduct>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">200</Height>
+					<Length Units="hundredths-inches">1000</Length>
+					<Weight Units="hundredths-pounds">155</Weight>
+					<Width Units="hundredths-inches">750</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T800NTSAXAR</Model>
+				<MPN>SM-T800NTSAXAR</MPN>
+				<OperatingSystem>Android OS, v4.4.2 (KitKat)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">1402</Length>
+					<Weight Units="hundredths-pounds">159</Weight>
+					<Width Units="hundredths-inches">1197</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T800NTSAXAR</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>TABLET_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab S 10.5" Titanium Bronze Tablet Octa-Core 1.9GHz 3Gb Ram 16GB HD Android Kit
+					Kat 4.4 SM-T800NTSABTU
+				</Title>
+				<UPC>887276033976</UPC>
+				<UPCList>
+					<UPCListElement>887276033976</UPCListElement>
+				</UPCList>
+				<Warranty>Manufacturer warranty only applicable in Hong Kong, in case of any claim needed you can send
+					it back to us.
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>32599</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£325.99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>25899</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£258.99</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>6</TotalNew>
+				<TotalUsed>7</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00KHA5G6G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00KHA5G6G
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							FnQOgsId4%2FbVHqXgP5LcL15DtNVkPQIqSJI2esj%2B0nhpm7jN8B6M5s91ove5bp1geYMS8KhcCb3Sn8NsBzvedW8vyL6Km4UpucjHAwLWj5N1A262m9JYFF%2BrlvBpOkJjkayiaxM8kQRgm9abAPYe2t9wdnNuFHL9
+						</OfferListingId>
+						<Price>
+							<Amount>32599</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£325.99</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S4RGG3Q</ASIN>
+			<ParentASIN>B00TQK151I</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.co.uk/Samsung-Galaxy-A5-SIM-Free-Smartphone/dp/B00S4RGG3Q%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S4RGG3Q
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00S4RGG3Q%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00S4RGG3Q
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/pdp/taf/B00S4RGG3Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00S4RGG3Q
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.co.uk/review/product/B00S4RGG3Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00S4RGG3Q
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.co.uk/gp/offer-listing/B00S4RGG3Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00S4RGG3Q
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Black</Color>
+				<EAN>8806086589192</EAN>
+				<EANList>
+					<EANListElement>8806086589192</EANListElement>
+				</EANList>
+				<Feature>Stand out with a premium full metal design</Feature>
+				<Feature>Capture the moment with enhanced selfie settings</Feature>
+				<Feature>Enjoy a perfect view every time with adaptive 5 inch display</Feature>
+				<Feature>Take control with new interface and sound experience</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">548</Height>
+					<Length Units="hundredths-inches">274</Length>
+					<Weight Units="hundredths-pounds">27</Weight>
+					<Width Units="hundredths-inches">26</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>30225</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£302.25</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-A500FZKUBTU  </Model>
+				<MPN>SM-A500FZKUBTU  </MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">236</Height>
+					<Length Units="hundredths-inches">583</Length>
+					<Weight Units="hundredths-pounds">66</Weight>
+					<Width Units="hundredths-inches">307</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-A500FZKUBTU  </PartNumber>
+				<Platform>Android</Platform>
+				<ProductGroup>Wireless Phone</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2015-01-09</ReleaseDate>
+				<Size>16GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy A5 SIM-Free Smartphone - Black</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>25350</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£253.50</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>20999</Amount>
+					<CurrencyCode>GBP</CurrencyCode>
+					<FormattedPrice>£209.99</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>16</TotalNew>
+				<TotalUsed>4</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.co.uk/gp/offer-listing/B00S4RGG3Q%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12734%26creativeASIN%3DB00S4RGG3Q
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							FnQOgsId4%2FbVHqXgP5LcL%2BmI3X%2Bc4Wb5jJZdBvEC6g78%2Bt9cmqwrY9qLjub9tXvaNZfvuXWhzi%2B37%2F%2BxyeeI4Krlk7PdchQLuJ3DSz3cmcK%2FQleKWAGxznE0%2BF2%2Bs0op0yibxOempcUJmXD3j6JqNonXyMirBlC1
+						</OfferListingId>
+						<Price>
+							<Amount>25350</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£253.50</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>4875</Amount>
+							<CurrencyCode>GBP</CurrencyCode>
+							<FormattedPrice>£48.75</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>16</PercentageSaved>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

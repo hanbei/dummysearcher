@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RESULTAT>
+	<QUERY_ID>15132096532489731010</QUERY_ID>
+	<EXACT_MATCH>
+		<CAT_ID_INTERNE>0</CAT_ID_INTERNE>
+		<CAT_ID>0</CAT_ID>
+		<CAT_NAME>
+			<![CDATA[]]>
+		</CAT_NAME>
+		<CAT_NAME_NORMAL>
+			<![CDATA[]]>
+		</CAT_NAME_NORMAL>
+		<CAT_URL>
+			<![CDATA[]]>
+		</CAT_URL>
+	</EXACT_MATCH>
+	<WORD_COUNT>1</WORD_COUNT>
+	<PRODUCT_COUNT>3</PRODUCT_COUNT>
+	<OFFRE_COUNT>3</OFFRE_COUNT>
+	<NEUF_COUNT>3</NEUF_COUNT>
+	<OCCASE_COUNT>0</OCCASE_COUNT>
+	<SOLDE_COUNT>0</SOLDE_COUNT>
+	<BARRE_COUNT>0</BARRE_COUNT>
+	<SHOP_COUNT>3</SHOP_COUNT>
+	<CAT_COUNT>9</CAT_COUNT>
+	<PAGE_COUNT>1</PAGE_COUNT>
+	<PRICE_LIST_COUNT>2</PRICE_LIST_COUNT>
+	<PRICE_LIST>
+		<PRICE PLACE="1">
+			<PRICE_MIN>0</PRICE_MIN>
+			<PRICE_MAX>10</PRICE_MAX>
+			<PRODUCT_COUNT>1</PRODUCT_COUNT>
+		</PRICE>
+		<PRICE PLACE="2">
+			<PRICE_MIN>10</PRICE_MIN>
+			<PRICE_MAX>370</PRICE_MAX>
+			<PRODUCT_COUNT>2</PRODUCT_COUNT>
+		</PRICE>
+	</PRICE_LIST>
+	<MARK_COUNT>1</MARK_COUNT>
+	<MARK_LIST_COUNT>0</MARK_LIST_COUNT>
+	<MARK_LIST/>
+	<POPULAR_CAT_LIST_COUNT>0</POPULAR_CAT_LIST_COUNT>
+	<POPULAR_CAT_LIST/>
+	<PRODUCT_LIST_COUNT>3</PRODUCT_LIST_COUNT>
+	<PRODUCT_LIST>
+		<PRODUCT PLACE="1">
+			<PROD_ID>
+				<![CDATA[290865671210]]>
+			</PROD_ID>
+			<PROD_BASE_ID>0</PROD_BASE_ID>
+			<PROD_MARK>
+				<![CDATA[]]>
+			</PROD_MARK>
+			<PROD_WITH_CARAC>0</PROD_WITH_CARAC>
+			<PROD_MASQUE>0</PROD_MASQUE>
+			<PROD_GARANTIE>12</PROD_GARANTIE>
+			<PROD_DISPO>0</PROD_DISPO>
+			<PROD_DISPO_NAME>0</PROD_DISPO_NAME>
+			<PROD_OCCASION>0</PROD_OCCASION>
+			<PROD_SOLDE>0</PROD_SOLDE>
+			<CAT_ID_INTERNE>8011000</CAT_ID_INTERNE>
+			<CAT_ID>3070900</CAT_ID>
+			<CAT_SINGLE_NAME>
+				<![CDATA[Bicicleta]]>
+			</CAT_SINGLE_NAME>
+			<CAT_URL>
+				<![CDATA[/bicicletas.htm]]>
+			</CAT_URL>
+			<CAT_NAME_NORMAL>
+				<![CDATA[bicicletas]]>
+			</CAT_NAME_NORMAL>
+			<SHOPSITE_ID>
+				<![CDATA[29086567]]>
+			</SHOPSITE_ID>
+			<SHOP_ID>29086567</SHOP_ID>
+			<SHOP_VARS>
+				<![CDATA[tc:p]]>
+			</SHOP_VARS>
+			<SHOP_LOGO>1</SHOP_LOGO>
+			<SHOP_NAME>
+				<![CDATA[Bicicletadas]]>
+			</SHOP_NAME>
+			<SHOP_GLOBAL>
+				<![CDATA[3.7]]>
+			</SHOP_GLOBAL>
+			<SHOP_MEDIATION>
+				<![CDATA[0]]>
+			</SHOP_MEDIATION>
+			<SHOP_PAYS>
+				<![CDATA[ES]]>
+			</SHOP_PAYS>
+			<SHOP_LABEL_VALID>
+				<![CDATA[0]]>
+			</SHOP_LABEL_VALID>
+			<SHOP_LABEL_DEBUT>
+				<![CDATA[]]>
+			</SHOP_LABEL_DEBUT>
+			<SHOP_LABEL_FIN>
+				<![CDATA[]]>
+			</SHOP_LABEL_FIN>
+			<PROD_EURO_PRICE>17.99</PROD_EURO_PRICE>
+			<PROD_EURO_FP>0.00</PROD_EURO_FP>
+			<PROD_EURO_DISCOUNT>0.00</PROD_EURO_DISCOUNT>
+			<PROD_D3E>0.00</PROD_D3E>
+			<PROD_INTL_DEVISE>
+				<![CDATA[EUR]]>
+			</PROD_INTL_DEVISE>
+			<PROD_INTL_PRICE>17.99</PROD_INTL_PRICE>
+			<PROD_INTL_FP>0.00</PROD_INTL_FP>
+			<PROD_CAT_SHOP>
+				<![CDATA[ACCESORIOS]]>
+			</PROD_CAT_SHOP>
+			<PROD_ALPHA1>
+				<![CDATA[]]>
+			</PROD_ALPHA1>
+			<PROD_ALPHA2>
+				<![CDATA[]]>
+			</PROD_ALPHA2>
+			<PROD_EAN13>
+				<![CDATA[]]>
+			</PROD_EAN13>
+			<PROD_REF_INTERNE>
+				<![CDATA[1210]]>
+			</PROD_REF_INTERNE>
+			<PROD_REF>
+				<![CDATA[38751]]>
+			</PROD_REF>
+			<PROD_URL>
+				<![CDATA[http://bicicletadas.com/accesorios/1210-soporte-para-phone-movenegro.html]]>
+			</PROD_URL>
+			<PROD_IMG>
+				<![CDATA[<70x70>http://bicicletadas.com/1210-large/soporte-para-phone-movenegro.jpg]]></PROD_IMG>
+			<PROD_DESIGNATION>
+				<![CDATA[SOPORTE PARA PHONE-MOVE,NEGRO]]>
+			</PROD_DESIGNATION>
+			<PROD_DESCRIPTION>
+				<![CDATA[VAYA PRECIO! en ACCESORIOS PARA BICIS - SOPORTE PARA PHONE-MOVE NEGRO Calidad y Precio.]]>
+			</PROD_DESCRIPTION>
+			<PROD_EXTRAS>
+				<![CDATA[]]>
+			</PROD_EXTRAS>
+			<OFFRE_COUNT>1</OFFRE_COUNT>
+			<SHOP_COUNT>1</SHOP_COUNT>
+			<PRICE_MIN>17.99</PRICE_MIN>
+			<PRICE_MAX>17.99</PRICE_MAX>
+			<GROUP_SOLDE>0</GROUP_SOLDE>
+			<WORD_LIST>
+				<WORD PLACE="1">
+					<FIELD>1</FIELD>
+					<START>13</START>
+					<LENGTH>5</LENGTH>
+				</WORD>
+			</WORD_LIST>
+		</PRODUCT>
+		<PRODUCT PLACE="2">
+			<PROD_ID>
+				<![CDATA[29042868es930]]>
+			</PROD_ID>
+			<PROD_BASE_ID>0</PROD_BASE_ID>
+			<PROD_MARK>
+				<![CDATA[]]>
+			</PROD_MARK>
+			<PROD_WITH_CARAC>0</PROD_WITH_CARAC>
+			<PROD_MASQUE>0</PROD_MASQUE>
+			<PROD_GARANTIE>-1</PROD_GARANTIE>
+			<PROD_DISPO/>
+			<PROD_DISPO_NAME>
+				<![CDATA[in stock]]>
+			</PROD_DISPO_NAME>
+			<PROD_OCCASION>0</PROD_OCCASION>
+			<PROD_SOLDE>0</PROD_SOLDE>
+			<CAT_ID_INTERNE>8031000</CAT_ID_INTERNE>
+			<CAT_ID>3091000</CAT_ID>
+			<CAT_SINGLE_NAME>
+				<![CDATA[Espiritualidad / Esoterismo]]>
+			</CAT_SINGLE_NAME>
+			<CAT_URL>
+				<![CDATA[/espiritualidad_esoterismo.htm]]>
+			</CAT_URL>
+			<CAT_NAME_NORMAL>
+				<![CDATA[espiritualidad esoterismo]]>
+			</CAT_NAME_NORMAL>
+			<SHOPSITE_ID>
+				<![CDATA[29042868]]>
+			</SHOPSITE_ID>
+			<SHOP_ID>29042868</SHOP_ID>
+			<SHOP_VARS>
+				<![CDATA[tc:p]]>
+			</SHOP_VARS>
+			<SHOP_LOGO>1</SHOP_LOGO>
+			<SHOP_NAME>
+				<![CDATA[Tienda Nostradamus]]>
+			</SHOP_NAME>
+			<SHOP_GLOBAL>
+				<![CDATA[3.7]]>
+			</SHOP_GLOBAL>
+			<SHOP_MEDIATION>
+				<![CDATA[0]]>
+			</SHOP_MEDIATION>
+			<SHOP_PAYS>
+				<![CDATA[ES]]>
+			</SHOP_PAYS>
+			<SHOP_LABEL_VALID>
+				<![CDATA[0]]>
+			</SHOP_LABEL_VALID>
+			<SHOP_LABEL_DEBUT>
+				<![CDATA[]]>
+			</SHOP_LABEL_DEBUT>
+			<SHOP_LABEL_FIN>
+				<![CDATA[]]>
+			</SHOP_LABEL_FIN>
+			<PROD_EURO_PRICE>7.90</PROD_EURO_PRICE>
+			<PROD_EURO_FP>-1</PROD_EURO_FP>
+			<PROD_EURO_DISCOUNT>0.00</PROD_EURO_DISCOUNT>
+			<PROD_D3E>-1</PROD_D3E>
+			<PROD_INTL_DEVISE>
+				<![CDATA[EUR]]>
+			</PROD_INTL_DEVISE>
+			<PROD_INTL_PRICE>7.90</PROD_INTL_PRICE>
+			<PROD_INTL_FP>-1</PROD_INTL_FP>
+			<PROD_CAT_SHOP>
+				<![CDATA[OFERTAS ESPECIALES]]>
+			</PROD_CAT_SHOP>
+			<PROD_ALPHA1>
+				<![CDATA[]]>
+			</PROD_ALPHA1>
+			<PROD_ALPHA2>
+				<![CDATA[]]>
+			</PROD_ALPHA2>
+			<PROD_EAN13>
+				<![CDATA[]]>
+			</PROD_EAN13>
+			<PROD_REF_INTERNE>
+				<![CDATA[es930]]>
+			</PROD_REF_INTERNE>
+			<PROD_REF>
+				<![CDATA[]]>
+			</PROD_REF>
+			<PROD_URL>
+				<![CDATA[http://www.tiendanostradamus.com/ofertas-especiales/930-carcasa-para-i-phone-5-5s.html]]>
+			</PROD_URL>
+			<PROD_IMG>
+				<![CDATA[<70x70>http://www.tiendanostradamus.com/2193-medium/carcasa-para-i-phone-5-5s.jpg]]></PROD_IMG>
+			<PROD_DESIGNATION>
+				<![CDATA[Carcasa para i-phone 5 5s - OFERTAS ESPECIALES]]>
+			</PROD_DESIGNATION>
+			<PROD_DESCRIPTION>
+				<![CDATA[Quieres darle un toque diferente a tu I-phone 5 o 5S? Te gusta el Mundo del Mas allá? Te sientes atraído por el espiritismo? Con esta carcasa podrás diferenciar tu IPhone de los demás, con un original y único diseño: Una tabla oui-ja]]>
+			</PROD_DESCRIPTION>
+			<PROD_EXTRAS>
+				<![CDATA[]]>
+			</PROD_EXTRAS>
+			<OFFRE_COUNT>1</OFFRE_COUNT>
+			<SHOP_COUNT>1</SHOP_COUNT>
+			<PRICE_MIN>7.90</PRICE_MIN>
+			<PRICE_MAX>7.90</PRICE_MAX>
+			<GROUP_SOLDE>0</GROUP_SOLDE>
+			<WORD_LIST>
+				<WORD PLACE="1">
+					<FIELD>1</FIELD>
+					<START>15</START>
+					<LENGTH>5</LENGTH>
+				</WORD>
+			</WORD_LIST>
+		</PRODUCT>
+		<PRODUCT PLACE="3">
+			<PROD_ID>
+				<![CDATA[000042151div011]]>
+			</PROD_ID>
+			<PROD_BASE_ID>0</PROD_BASE_ID>
+			<PROD_MARK>
+				<![CDATA[]]>
+			</PROD_MARK>
+			<PROD_WITH_CARAC>0</PROD_WITH_CARAC>
+			<PROD_MASQUE>0</PROD_MASQUE>
+			<PROD_GARANTIE>-1</PROD_GARANTIE>
+			<PROD_DISPO/>
+			<PROD_DISPO_NAME>
+				<![CDATA[out of stock]]>
+			</PROD_DISPO_NAME>
+			<PROD_OCCASION>0</PROD_OCCASION>
+			<PROD_SOLDE>0</PROD_SOLDE>
+			<CAT_ID_INTERNE>10040706</CAT_ID_INTERNE>
+			<CAT_ID>10000697</CAT_ID>
+			<CAT_SINGLE_NAME>
+				<![CDATA[Muebles de oficina]]>
+			</CAT_SINGLE_NAME>
+			<CAT_URL>
+				<![CDATA[/muebles_de_oficina.htm]]>
+			</CAT_URL>
+			<CAT_NAME_NORMAL>
+				<![CDATA[muebles de oficina]]>
+			</CAT_NAME_NORMAL>
+			<SHOPSITE_ID>
+				<![CDATA[34763]]>
+			</SHOPSITE_ID>
+			<SHOP_ID>4215</SHOP_ID>
+			<SHOP_VARS>
+				<![CDATA[tc:p]]>
+			</SHOP_VARS>
+			<SHOP_LOGO>1</SHOP_LOGO>
+			<SHOP_NAME>
+				<![CDATA[Superestudio]]>
+			</SHOP_NAME>
+			<SHOP_GLOBAL>
+				<![CDATA[3.5]]>
+			</SHOP_GLOBAL>
+			<SHOP_MEDIATION>
+				<![CDATA[0]]>
+			</SHOP_MEDIATION>
+			<SHOP_PAYS>
+				<![CDATA[ES]]>
+			</SHOP_PAYS>
+			<SHOP_LABEL_VALID>
+				<![CDATA[0]]>
+			</SHOP_LABEL_VALID>
+			<SHOP_LABEL_DEBUT>
+				<![CDATA[]]>
+			</SHOP_LABEL_DEBUT>
+			<SHOP_LABEL_FIN>
+				<![CDATA[]]>
+			</SHOP_LABEL_FIN>
+			<PROD_EURO_PRICE>363.00</PROD_EURO_PRICE>
+			<PROD_EURO_FP>-1</PROD_EURO_FP>
+			<PROD_EURO_DISCOUNT>0.00</PROD_EURO_DISCOUNT>
+			<PROD_D3E>-1</PROD_D3E>
+			<PROD_INTL_DEVISE>
+				<![CDATA[EUR]]>
+			</PROD_INTL_DEVISE>
+			<PROD_INTL_PRICE>363.00</PROD_INTL_PRICE>
+			<PROD_INTL_FP>-1</PROD_INTL_FP>
+			<PROD_CAT_SHOP>
+				<![CDATA[Oficina]]>
+			</PROD_CAT_SHOP>
+			<PROD_ALPHA1>
+				<![CDATA[]]>
+			</PROD_ALPHA1>
+			<PROD_ALPHA2>
+				<![CDATA[]]>
+			</PROD_ALPHA2>
+			<PROD_EAN13>
+				<![CDATA[8409437056147]]>
+			</PROD_EAN13>
+			<PROD_REF_INTERNE>
+				<![CDATA[1div011]]>
+			</PROD_REF_INTERNE>
+			<PROD_REF>
+				<![CDATA[]]>
+			</PROD_REF>
+			<PROD_URL>
+				<![CDATA[https://www.superestudio.com/lampara-audio-diva?utm_source=LeGuide&utm_medium=Afiliacion&utm_content=&utm_campaign=LeGuideESP]]>
+			</PROD_URL>
+			<PROD_IMG>
+				<![CDATA[<70x70>http://www.superestudio.com/imagenes/productos/1DIV0/1DIV01.jpg]]></PROD_IMG>
+			<PROD_DESIGNATION>
+				<![CDATA[Lámpara Audio DIVA Blanco]]>
+			</PROD_DESIGNATION>
+			<PROD_DESCRIPTION>
+				<![CDATA[Diva es una lámpara LED integrada en un sistema audio diseñado para tu I-Pod o I-Phone. A su vez combina un elegante y moderno diseño.]]>
+			</PROD_DESCRIPTION>
+			<PROD_EXTRAS>
+				<![CDATA[]]>
+			</PROD_EXTRAS>
+			<OFFRE_COUNT>1</OFFRE_COUNT>
+			<SHOP_COUNT>1</SHOP_COUNT>
+			<PRICE_MIN>363.00</PRICE_MIN>
+			<PRICE_MAX>363.00</PRICE_MAX>
+			<GROUP_SOLDE>0</GROUP_SOLDE>
+			<WORD_LIST>
+				<WORD PLACE="1">
+					<FIELD>2</FIELD>
+					<START>81</START>
+					<LENGTH>5</LENGTH>
+				</WORD>
+			</WORD_LIST>
+		</PRODUCT>
+	</PRODUCT_LIST>
+	<UNIVERS_LIST_COUNT>2</UNIVERS_LIST_COUNT>
+	<UNIVERS_LIST>
+		<UNIVERS PLACE="1">
+			<CAT_ID_INTERNE>8000000</CAT_ID_INTERNE>
+			<CAT_ID>10000119</CAT_ID>
+			<CAT_NAME>
+				<![CDATA[Deportes y Ocio]]>
+			</CAT_NAME>
+			<CAT_URL>
+				<![CDATA[/deportes_y_ocio.htm]]>
+			</CAT_URL>
+			<CAT_NAME_NORMAL>
+				<![CDATA[deportes y ocio]]>
+			</CAT_NAME_NORMAL>
+			<CAT_LIST_COUNT>5</CAT_LIST_COUNT>
+			<CAT_LIST>
+				<CAT PLACE="1">
+					<CAT_ID_INTERNE>8000000</CAT_ID_INTERNE>
+					<CAT_ID>10000119</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Deportes y Ocio]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/deportes_y_ocio.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[deportes y ocio]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>2</PRODUCT_COUNT>
+				</CAT>
+				<CAT PLACE="2">
+					<CAT_ID_INTERNE>8030000</CAT_ID_INTERNE>
+					<CAT_ID>3090000</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Hobbies y Aficiones]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/hobbies_y_aficiones.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[hobbies y aficiones]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+				<CAT PLACE="3">
+					<CAT_ID_INTERNE>8010000</CAT_ID_INTERNE>
+					<CAT_ID>10000120</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Actividades deportivas]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/actividades_deportivas.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[actividades deportivas]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+				<CAT PLACE="4">
+					<CAT_ID_INTERNE>8011000</CAT_ID_INTERNE>
+					<CAT_ID>3070900</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Bicicletas]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/bicicletas.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[bicicletas]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+				<CAT PLACE="5">
+					<CAT_ID_INTERNE>8031000</CAT_ID_INTERNE>
+					<CAT_ID>3091000</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Espiritualidad / Esoterismo]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/espiritualidad_esoterismo.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[espiritualidad esoterismo]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+			</CAT_LIST>
+		</UNIVERS>
+		<UNIVERS PLACE="2">
+			<CAT_ID_INTERNE>10000000</CAT_ID_INTERNE>
+			<CAT_ID>10000243</CAT_ID>
+			<CAT_NAME>
+				<![CDATA[Casa y jardín]]>
+			</CAT_NAME>
+			<CAT_URL>
+				<![CDATA[/casa_y_jardin.htm]]>
+			</CAT_URL>
+			<CAT_NAME_NORMAL>
+				<![CDATA[casa y jardin]]>
+			</CAT_NAME_NORMAL>
+			<CAT_LIST_COUNT>4</CAT_LIST_COUNT>
+			<CAT_LIST>
+				<CAT PLACE="1">
+					<CAT_ID_INTERNE>10000000</CAT_ID_INTERNE>
+					<CAT_ID>10000243</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Casa y jardín]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/casa_y_jardin.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[casa y jardin]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+				<CAT PLACE="2">
+					<CAT_ID_INTERNE>10040706</CAT_ID_INTERNE>
+					<CAT_ID>10000697</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Muebles de oficina]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/muebles_de_oficina.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[muebles de oficina]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+				<CAT PLACE="3">
+					<CAT_ID_INTERNE>10040000</CAT_ID_INTERNE>
+					<CAT_ID>5050600</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Muebles]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/muebles.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[muebles]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+				<CAT PLACE="4">
+					<CAT_ID_INTERNE>10040700</CAT_ID_INTERNE>
+					<CAT_ID>7050512</CAT_ID>
+					<CAT_NAME>
+						<![CDATA[Mobiliario Oficina]]>
+					</CAT_NAME>
+					<CAT_URL>
+						<![CDATA[/mobiliario_oficina.htm]]>
+					</CAT_URL>
+					<CAT_NAME_NORMAL>
+						<![CDATA[mobiliario oficina]]>
+					</CAT_NAME_NORMAL>
+					<PRODUCT_COUNT>1</PRODUCT_COUNT>
+				</CAT>
+			</CAT_LIST>
+		</UNIVERS>
+	</UNIVERS_LIST>
+</RESULTAT>

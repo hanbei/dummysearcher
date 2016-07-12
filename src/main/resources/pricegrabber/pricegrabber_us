@@ -1,0 +1,960 @@
+<?xml version="1.0"?>
+<document
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://www.pricegrabber.com/pg_2.55.xsd">
+	<version>2.55</version>
+	<api_request_id>f90af24fa2f7b725e02d59742ecd0443</api_request_id>
+	<num_results>23</num_results>
+	<search_keyword>ipad</search_keyword>
+	<pricegrabber_url>http://www.api.pricegrabber.com/electronics/tablets-e-readers++ipad/p-5908/</pricegrabber_url>
+	<pricegrabber_url_text>ipad by PriceGrabber.com</pricegrabber_url_text>
+	<partner_url>http://foxydeal.api.pgpartner.com</partner_url>
+	<market>us</market>
+	<result_category id="5908" type="page" nr="23">Tablets &amp; E-Readers</result_category>
+	<page id="5908">Tablets &amp; E-Readers</page>
+	<catzero id="20">Portable Media</catzero>
+	<topcat id="2">Electronics</topcat>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1364978394
+		</url>
+		<masterid>1364978394</masterid>
+		<title>iPad mini with Retina display 7.9" 16 GB 4G Space Gray Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title>
+		<title_short>iPad mini with Retina display 7.9" 16 GB 4G Space Gray Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/b3418c-1364978394_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/8cd9e5-1364978394_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/9b2411-1364978394_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/8da69b-1364978394_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF069LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$329.99</price>
+		<price qlty="n">$329.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$329.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1364978394&amp;mt=1~1~329.99~329.99~329.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=40e0363b8cf704dc72ee6bf8b066cd19</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895524
+		</url>
+		<masterid>1696895524</masterid>
+		<title>iPad Air 32GB in Space Gray</title>
+		<title_short>iPad Air 32GB in Space Gray</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/a1db85-1696895524_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/6ab75b-1696895524_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/93a93f-1696895524_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/a4b339-1696895524_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF004LLB</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895524&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=bcd90ad79a4090f057cc2b6d57868789</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1697303434
+		</url>
+		<masterid>1697303434</masterid>
+		<title>iPad Air 2 Silver 64GB</title>
+		<title_short>iPad Air 2 Silver 64GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/4fbb40-1697303434_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/8df7b1-1697303434_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/fd7fb0-1697303434_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/ddb849-1697303434_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGK02LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$629.99</price>
+		<price qlty="n">$629.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$629.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1697303434&amp;mt=1~1~629.99~629.99~629.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=e8680128853f9ec9e108cea322ea4e8e</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895536
+		</url>
+		<masterid>1696895536</masterid>
+		<title>iPad mini 3 Silver 16GB</title>
+		<title_short>iPad mini 3 Silver 16GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/92daf4-1696895536_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/2b3bde-1696895536_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/d6f4d4-1696895536_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/250ebd-1696895536_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGJX2LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$429.99</price>
+		<price qlty="n">$429.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$429.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895536&amp;mt=1~1~429.99~429.99~429.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=4c3828f7b72a11dc7b5b304e1561967a</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895534
+		</url>
+		<masterid>1696895534</masterid>
+		<title>iPad Air 2 Silver 16GB</title>
+		<title_short>iPad Air 2 Silver 16GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/fb1d1e-1696895534_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/fa018d-1696895534_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/deb983-1696895534_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/e2ba2f-1696895534_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGHC2LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895534&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=403fef17e2e88ad1c501e15df7365d99</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1373958612
+		</url>
+		<masterid>1373958612</masterid>
+		<title>iPad mini with Retina display 7.9" 64 GB 4G Silver Tablet - Verizon 2013 Model (iOS 7, LCD Touchscreen,
+			2048x1536, 10 Hours)
+		</title>
+		<title_short>iPad mini with Retina display 7.9" 64 GB 4G Silver Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/ecd5d0-1373958612_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/6f9b0e-1373958612_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/663ddc-1373958612_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/6714d2-1373958612_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF090LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1373958612&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=9957a7c6c94e6008aa4386d24444d407</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1380070470
+		</url>
+		<masterid>1380070470</masterid>
+		<title>iPad mini with Retina display 7.9" 128 GB 4G Silver Tablet - Verizon 2013 Model (iOS 7, LCD Touchscreen,
+			2048x1536, 10 Hours)
+		</title>
+		<title_short>iPad mini with Retina display 7.9" 128 GB 4G Silver Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/fb7b5b-1380070470_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/56f883-1380070470_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/97173f-1380070470_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/a60082-1380070470_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF121LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$629.99</price>
+		<price qlty="n">$629.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$629.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1380070470&amp;mt=1~1~629.99~629.99~629.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=f833493124c2faafe41517d728024cdd</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1364978370
+		</url>
+		<masterid>1364978370</masterid>
+		<title>iPad mini with Retina display 7.9" 32 GB 4G Silver Tablet - Verizon 2013 Model (iOS 7, LCD Touchscreen,
+			2048x1536, 10 Hours)
+		</title>
+		<title_short>iPad mini with Retina display 7.9" 32 GB 4G Silver Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/41ae84-1364978370_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/c9ac59-1364978370_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/357d85-1364978370_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/2f63af-1364978370_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF084LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$429.99</price>
+		<price qlty="n">$429.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$429.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1364978370&amp;mt=1~1~429.99~429.99~429.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=2cc6f2fbcf8021227378daa0fcdd5c21</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1364978366
+		</url>
+		<masterid>1364978366</masterid>
+		<title>iPad mini with Retina display 7.9" 32 GB 4G Space Gray Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title>
+		<title_short>iPad mini with Retina display 7.9" 32 GB 4G Space Gray Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/5118d9-1364978366_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/3ae797-1364978366_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/9fd624-1364978366_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/3e253f-1364978366_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF081LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$429.99</price>
+		<price qlty="n">$429.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$429.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1364978366&amp;mt=1~1~429.99~429.99~429.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=61d53151c9aa7cbb39e2e8bff2e67ea9</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1371519824
+		</url>
+		<masterid>1371519824</masterid>
+		<title>iPad Air 9.7" 128 GB 4G Silver Tablet - Verizon (iOS 7, LCD Touchscreen, 2048x1536, 10 Hours)</title>
+		<title_short>iPad Air 9.7" 128 GB 4G Silver Tablet - Verizon (iOS 7, LCD Touchscreen, 2048x1536, 10 Hours)
+		</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/02ca2f-1371519824_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/fba41b-1371519824_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/ba009e-1371519824_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/99b380-1371519824_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF019LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$729.99</price>
+		<price qlty="n">$729.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$729.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1371519824&amp;mt=1~1~729.99~729.99~729.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=05ae44c7956fbecdfb64ef9d87ab579a</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1752082451
+		</url>
+		<masterid>1752082451</masterid>
+		<title>Ipad 4 16GB With Retina Display; GSM Unlocked or Wifi Only</title>
+		<title_short>Ipad 4 16GB With Retina Display; GSM Unlocked or Wifi Only</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/4de797-1752082451_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/c66ee1-1752082451_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/f6a197-1752082451_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/38b072-1752082451_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum/>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$379.99</price>
+		<price qlty="n">$379.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Groupon Goods</retailer>
+			<id type="retid">23158</id>
+			<quality>n</quality>
+			<has_mobile>n</has_mobile>
+			<retailer_url>http://www.groupon.com</retailer_url>
+			<price>$379.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/groupon-goods/r-23158/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~9&amp;r=23158&amp;m=1752082451&amp;mt=1~1~379.99~379.99~379.99~~~~n~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=7d00ed7f96b4af81fce04c4971672ad5</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895539
+		</url>
+		<masterid>1696895539</masterid>
+		<title>iPad mini 3 Space Gray 128GB</title>
+		<title_short>iPad mini 3 Space Gray 128GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/bc12ae-1696895539_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/2c10e8-1696895539_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/27ff1e-1696895539_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/1e1855-1696895539_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGK32LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$629.99</price>
+		<price qlty="n">$629.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$629.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895539&amp;mt=1~1~629.99~629.99~629.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=1abcc47a21d521821f286d69d652d6c2</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1752081412
+		</url>
+		<masterid>1752081412</masterid>
+		<title>Ipad 4 16GB With Retina Display; GSM Unlocked or Wifi Only</title>
+		<title_short>Ipad 4 16GB With Retina Display; GSM Unlocked or Wifi Only</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/2049eb-1752081412_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/498baf-1752081412_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/444167-1752081412_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/cc5dce-1752081412_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum/>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$379.99</price>
+		<price qlty="n">$379.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Groupon Goods</retailer>
+			<id type="retid">23158</id>
+			<quality>n</quality>
+			<has_mobile>n</has_mobile>
+			<retailer_url>http://www.groupon.com</retailer_url>
+			<price>$379.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/groupon-goods/r-23158/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~9&amp;r=23158&amp;m=1752081412&amp;mt=1~1~379.99~379.99~379.99~~~~n~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=81e0624bd823fac39dbe7f6cb6c539d0</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1697303433
+		</url>
+		<masterid>1697303433</masterid>
+		<title>iPad Air 2 Space Gray 16GB</title>
+		<title_short>iPad Air 2 Space Gray 16GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/90c6f4-1697303433_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/d5a67a-1697303433_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/242b9a-1697303433_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/bb6274-1697303433_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGH62LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1697303433&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=ae296595d8878ac13c289fa13e50953f</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1712584409
+		</url>
+		<masterid>1712584409</masterid>
+		<title>32GB iPad Air (Verizon, Silver, iOS 8) iPadAir</title>
+		<title_short>32GB iPad Air (Verizon, Silver, iOS 8) iPadAir</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/79f124-1712584409_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/d5e1ad-1712584409_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/9a0558-1712584409_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/ebbece-1712584409_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF532LLB</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1712584409&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=5a3bee1e5f9c5dcf8fa6f0d6b08e0f2b</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895537
+		</url>
+		<masterid>1696895537</masterid>
+		<title>iPad mini 3 Space Gray 64GB</title>
+		<title_short>iPad mini 3 Space Gray 64GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/fd32bd-1696895537_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/298468-1696895537_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/b793ff-1696895537_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/83ee44-1696895537_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGK12LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895537&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=64da7325e3662c9894c6485f0716d309</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895541
+		</url>
+		<masterid>1696895541</masterid>
+		<title>iPad mini 3 Gold 64GB</title>
+		<title_short>iPad mini 3 Gold 64GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/340cce-1696895541_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/d6943c-1696895541_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/a5fa93-1696895541_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/e7c301-1696895541_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MH0A2LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895541&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=49bc2ce64ecf5b4aec307f10f739a066</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895538
+		</url>
+		<masterid>1696895538</masterid>
+		<title>iPad mini 3 Silver 64GB</title>
+		<title_short>iPad mini 3 Silver 64GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/59a5bf-1696895538_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/017b6a-1696895538_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/4e4eff-1696895538_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/8f97ff-1696895538_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGK22LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$529.99</price>
+		<price qlty="n">$529.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$529.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895538&amp;mt=1~1~529.99~529.99~529.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=20fc1f22449472b8e72cf1328cd5a30e</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895521
+		</url>
+		<masterid>1696895521</masterid>
+		<title>iPad Air 16GB in Space Gray</title>
+		<title_short>iPad Air 16GB in Space Gray</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/02874c-1696895521_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/86fb59-1696895521_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/c355e2-1696895521_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/cdeeed-1696895521_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>ME993LLB</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$429.99</price>
+		<price qlty="n">$429.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$429.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895521&amp;mt=1~1~429.99~429.99~429.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=25f02efb35aa1fd696c54ef8181e8c1e</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895523
+		</url>
+		<masterid>1696895523</masterid>
+		<title>iPad Air 16GB in Silver</title>
+		<title_short>iPad Air 16GB in Silver</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/8e9c47-1696895523_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/768a40-1696895523_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/af373e-1696895523_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/17095e-1696895523_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>ME999LLB</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$429.99</price>
+		<price qlty="n">$429.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$429.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895523&amp;mt=1~1~429.99~429.99~429.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=1992ba767de4e64bd6a9ec10637dbf11</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895552
+		</url>
+		<masterid>1696895552</masterid>
+		<title>iPad Air 2 Gold 64GB</title>
+		<title_short>iPad Air 2 Gold 64GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/eadce1-1696895552_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/8c827e-1696895552_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/a7bfe2-1696895552_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/608951-1696895552_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MH1Y2LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$629.99</price>
+		<price qlty="n">$629.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$629.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895552&amp;mt=1~1~629.99~629.99~629.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=be71e7751248c4154e4ab4a0c11f80de</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1696895535
+		</url>
+		<masterid>1696895535</masterid>
+		<title>iPad mini 3 Space Gray 16GB</title>
+		<title_short>iPad mini 3 Space Gray 16GB</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/d0ee75-1696895535_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/86ce74-1696895535_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/f86899-1696895535_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/00da51-1696895535_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MGJW2LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$429.99</price>
+		<price qlty="n">$429.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$429.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1696895535&amp;mt=1~1~429.99~429.99~429.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=d5bee30647ddd802cd7e5b2222ae4492</url>
+		</direct_offer>
+	</product>
+	<product>
+		<url>
+			http://foxydeal.api.pgpartner.com/mrdr.php?url=http%3A%2F%2Ffoxydeal.api.pgpartner.com%2Fsearch_getprod.php%3Fmasterid%3D1380070467
+		</url>
+		<masterid>1380070467</masterid>
+		<title>iPad mini with Retina display 7.9" 128 GB 4G Space Gray Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title>
+		<title_short>iPad mini with Retina display 7.9" 128 GB 4G Space Gray Tablet - Verizon 2013 Model (iOS 7, LCD
+			Touchscreen, 2048x1536, 10 Hours)
+		</title_short>
+		<image_small>http://d3vv6xw699rjh3.cloudfront.net/9ae436-1380070467_1_50.jpg</image_small>
+		<image_medium>http://d3vv6xw699rjh3.cloudfront.net/567a14-1380070467_1_75.jpg</image_medium>
+		<image_large>http://d3vv6xw699rjh3.cloudfront.net/0c5449-1380070467_1_125.jpg</image_large>
+		<image_160>http://d3vv6xw699rjh3.cloudfront.net/f415a4-1380070467_1_160.jpg</image_160>
+		<has_image>y</has_image>
+		<manufacturer>Apple</manufacturer>
+		<partnum>MF117LLA</partnum>
+		<topcat id="2">Electronics</topcat>
+		<catzero id="20">Portable Media</catzero>
+		<page id="5908">Tablets &amp; E-Readers</page>
+		<rating>0</rating>
+		<price sellers="1" qlty="all">$629.99</price>
+		<price qlty="n">$629.99</price>
+		<num_sellers qlty="all" desc="All">1</num_sellers>
+		<num_sellers qlty="n" desc="New">1</num_sellers>
+		<direct_offer>
+			<retailer>Verizon Wireless</retailer>
+			<id type="retid">27239</id>
+			<quality>n</quality>
+			<has_mobile>y</has_mobile>
+			<retailer_url>http://www.verizonwireless.com</retailer_url>
+			<retailer_logo>http://cfsi.pgcdn.com/images/retbutton_27239.gif</retailer_logo>
+			<price>$629.99</price>
+			<tax/>
+			<shipping/>
+			<bottomlineprice/>
+			<num_reviews/>
+			<rating/>
+			<rating_image>http://cfsi.pgcdn.com/images/rating_0_newo2.gif</rating_image>
+			<rating_url>http://www.api.pricegrabber.com/reviews/verizon-wireless/r-27239/</rating_url>
+			<url>http://foxydeal.api.pgpartner.com/rd.php?pg=~~10&amp;r=27239&amp;m=1380070467&amp;mt=1~1~629.99~629.99~629.99~~~~y~~~~~&amp;q=n&amp;rdgt=1425467209&amp;search=ipad&amp;dl=1&amp;source=xmlapi&amp;request_id=f90af24fa2f7b725e02d59742ecd0443&amp;ret=1425467209&amp;k=5147cfe423fad399f40623a662d26b84</url>
+		</direct_offer>
+	</product>
+</document>

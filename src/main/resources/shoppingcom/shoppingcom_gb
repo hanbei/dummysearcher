@@ -1,0 +1,1293 @@
+<GeneralSearchResponse
+	xmlns="urn:types.partner.api.shopping.com">
+	<serverDetail>
+		<apiEnv>prod</apiEnv>
+		<apiVersion>r91.2015.sprint08</apiVersion>
+		<buildNumber>27169</buildNumber>
+		<buildTimestamp>2015.04.29 15:40:16 PST</buildTimestamp>
+		<requestId>p2.fd935a4312ae2675defb</requestId>
+		<timestamp>2015-05-05T09:34:54.878-04:00</timestamp>
+		<responseTime>P0DT0H0M0.013S</responseTime>
+	</serverDetail>
+	<exceptions exceptionCount="2">
+		<exception type="warning">
+			<code>1148</code>
+			<message>WARNING: Missing the "visitorUserAgent" parameter. Discover how you can easily add it to your
+				queries: http://developer.shopping.com/docs/read/Adding_Useragent_to_your_Queries
+			</message>
+		</exception>
+		<exception type="warning">
+			<code>1149</code>
+			<message>WARNING: We detected that you are missing the parameter "visitorIPAddress".</message>
+		</exception>
+	</exceptions>
+	<clientTracking height="1" type="pixel" width="1">
+		<sourceURL>http://www999.shopping.com/pixel/noscript?PV_EvnTyp=APPV&amp;APPV_APITSP=05%2F05%2F15_09%3A34%3A54_AM&amp;APPV_DSPRQSID=p2.fd935a4312ae2675defb&amp;APPV_IMGURL=&amp;APPV_LI_LNKINID=8053728&amp;APPV_LI_SBMKYW=samsung&amp;APPV_MTCTYP=1000&amp;APPV_PRTID=146949&amp;APPV_BrnID=14305</sourceURL>
+		<hrefURL>http://uk.shopping.com/mobile-phones/products</hrefURL>
+		<titleText>Mobile Phones</titleText>
+		<altText>Mobile Phones</altText>
+	</clientTracking>
+	<searchHistory>
+		<categorySelection id="87700">
+			<name>Mobile and Accessories</name>
+			<categoryURL>http://uk.shopping.com/xCH-Mobile_and_Accessories-samsung~linkin_id-8053728?oq=samsung
+			</categoryURL>
+		</categorySelection>
+		<categorySelection id="93767">
+			<name>Mobile Phones</name>
+			<categoryURL>http://uk.shopping.com/mobile-phones/samsung/products?oq=samsung&amp;linkin_id=8053728
+			</categoryURL>
+		</categorySelection>
+		<dynamicNavigationHistory>
+			<keywordSearch dropped="false" modified="false">
+				<originalKeyword>samsung</originalKeyword>
+				<resultKeyword>samsung</resultKeyword>
+			</keywordSearch>
+		</dynamicNavigationHistory>
+	</searchHistory>
+	<categories matchedCategoryCount="1" returnedCategoryCount="1">
+		<category id="93767">
+			<name>Mobile Phones</name>
+			<categoryURL>http://uk.shopping.com/mobile-phones/samsung/products?oq=samsung&amp;linkin_id=8053728
+			</categoryURL>
+			<items matchedItemCount="19" pageNumber="1" returnedItemCount="10">
+				<product id="175462759">
+					<name>Samsung Galaxy S5 SM-G900F (Latest Model) - 16GB - Charcoal Black (Unlocked) Smartphone</name>
+					<fullDescription>The Samsung SM-G900F runs on Android operating system and offers useful features.
+						This charcoal black smartphone is powered by a reliable processor, ensuring stable performance.
+						The Samsung phone has a 5.1 in. display providing clear visuals. In addition, Samsung SM-G900F
+						features 16 MP camera, so you can capture images wherever you go and store them on 16 GB of
+						memory space.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/s/MTMwN1g2ODg=/z/wHEAAOSwQItT1uuK/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=1&amp;pr=1&amp;pid=175462759&amp;pdid=OKXtUiywngnmPYyTGP1NNQ%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>19</reviewCount>
+						<rating>4.53</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_4.5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>
+							http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_charcoal_black_unlocked_smartphone/reviews~linkin_id-8053728
+						</reviewURL>
+					</rating>
+					<minPrice>370.43</minPrice>
+					<maxPrice>370.43</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_charcoal_black_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_charcoal_black_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="OKXtUiywngnmPYyTGP1NNQ==" smartBuy="false" used="false">
+							<name>Samsung Galaxy S5 4G LTE 16GB G900F Unlocked (Black)</name>
+							<description>New technologies, greater security, faster performance and beefier specs
+								characterize the Samsung Galaxy S5 G900F. Slightly bigger than the S4 at 5.1-inch, this
+								champ packs some serious punch under its hood. Running the latest Android 4.4.2 KitKat,
+								it is juiced by a powerful 2.5GHz Quad-core processor and together they deliver a
+								smooth-as-butter performance. Making a debut with the S5 is the Finger Scanner that
+								guarantees improved security, both while making mobile payments or while logging on to
+								your phone. And for the 'photog' in you, the Ultra HD 16MP rear camera, 2MP HD front
+								camera and Ultra HD video recording will amass more than enough content for FB, Twitter,
+								Instagram and other social media platforms. Some other cool and key features include
+								dust and water-resistant body, built-in Heart Rate Sensor, MIMO and Ultra Power Saving
+								Mode.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4f/4b/58/74556979776e676e6d505979544750314e4e51-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=175462759&amp;fks=0&amp;pdid=OKXtUiywngnmPYyTGP1NNQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4f/4b/58/74556979776e676e6d505979544750314e4e51-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=175462759&amp;fks=0&amp;pdid=OKXtUiywngnmPYyTGP1NNQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4f/4b/58/74556979776e676e6d505979544750314e4e51-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=175462759&amp;fks=0&amp;pdid=OKXtUiywngnmPYyTGP1NNQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=175462759&amp;fks=0&amp;pdid=OKXtUiywngnmPYyTGP1NNQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="388" width="388">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4f/4b/58/74556979776e676e6d505979544750314e4e51-388x388-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=175462759&amp;fks=0&amp;pdid=OKXtUiywngnmPYyTGP1NNQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="GBP">370.43</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">0.00</shippingCost>
+							<totalPrice currency="GBP">370.43</totalPrice>
+							<originalPrice currency="GBP">370.43</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=377&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=501366&amp;crawler_id=501366&amp;dealId=OKXtUiywngnmPYyTGP1NNQ%3D%3D&amp;url=http%3A%2F%2Fwww.onestop-digital.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D34519&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Samsung+Galaxy+S5+4G+LTE+16GB+G900F+Unlocked+%28Black%29&amp;dlprc=370.43&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175462759&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=359&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=8806086153980</offerURL>
+							<store authorizedReseller="false" id="501366" trusted="false">
+								<name>Onestop Digital</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/501366.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/HK.gif</sourceURL>
+									<countryCode>HK</countryCode>
+								</countryFlag>
+							</store>
+							<sku>8806086153980</sku>
+							<quantity>0</quantity>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="175464342">
+					<name>Samsung Galaxy S5 SM-G900F (Latest Model) - 16GB - Electric Blue (Unlocked) Smartphone</name>
+					<fullDescription>The Samsung SM-G900F runs on Android operating system and offers useful features.
+						This electric blue smartphone is powered by a reliable processor, ensuring stable performance.
+						The Samsung phone has a 5.1 in. display providing clear visuals. In addition, Samsung SM-G900F
+						features 16 MP camera, so you can capture images wherever you go and store them on 16 GB of
+						memory space.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/s/MTMwN1g2ODg=/z/wHEAAOSwQItT1uuK/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=2&amp;pr=2&amp;pid=175464342&amp;pdid=CqYPgVBs3YBUrCdyXvcbcg%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>6</reviewCount>
+						<rating>4.50</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_4.5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>
+							http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_electric_blue_unlocked_smartphone/reviews~linkin_id-8053728
+						</reviewURL>
+					</rating>
+					<minPrice>370.43</minPrice>
+					<maxPrice>370.43</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_electric_blue_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_electric_blue_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="CqYPgVBs3YBUrCdyXvcbcg==" smartBuy="false" used="false">
+							<name>Samsung Galaxy S5 4G LTE 16GB G900F Unlocked (Blue)</name>
+							<description>New technologies, greater security, faster performance and beefier specs
+								characterize the Samsung Galaxy S5 G900F. Slightly bigger than the S4 at 5.1-inch, this
+								champ packs some serious punch under its hood. Running the latest Android 4.4.2 KitKat,
+								it is juiced by a powerful 2.5GHz Quad-core processor and together they deliver a
+								smooth-as-butter performance. Making a debut with the S5 is the Finger Scanner that
+								guarantees improved security, both while making mobile payments or while logging on to
+								your phone. And for the 'photog' in you, the Ultra HD 16MP rear camera, 2MP HD front
+								camera and Ultra HD video recording will amass more than enough content for FB, Twitter,
+								Instagram and other social media platforms. Some other cool and key features include
+								dust and water-resistant body, built-in Heart Rate Sensor, MIMO and Ultra Power Saving
+								Mode.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/43/71/59/50675642733359425572436479587663626367-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=175464342&amp;fks=0&amp;pdid=CqYPgVBs3YBUrCdyXvcbcg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/43/71/59/50675642733359425572436479587663626367-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=175464342&amp;fks=0&amp;pdid=CqYPgVBs3YBUrCdyXvcbcg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/43/71/59/50675642733359425572436479587663626367-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=175464342&amp;fks=0&amp;pdid=CqYPgVBs3YBUrCdyXvcbcg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=175464342&amp;fks=0&amp;pdid=CqYPgVBs3YBUrCdyXvcbcg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="388" width="388">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/43/71/59/50675642733359425572436479587663626367-388x388-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=175464342&amp;fks=0&amp;pdid=CqYPgVBs3YBUrCdyXvcbcg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="GBP">370.43</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">0.00</shippingCost>
+							<totalPrice currency="GBP">370.43</totalPrice>
+							<originalPrice currency="GBP">370.43</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=377&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=501366&amp;crawler_id=501366&amp;dealId=CqYPgVBs3YBUrCdyXvcbcg%3D%3D&amp;url=http%3A%2F%2Fwww.onestop-digital.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D34520&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Samsung+Galaxy+S5+4G+LTE+16GB+G900F+Unlocked+%28Blue%29&amp;dlprc=370.43&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175464342&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=359&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=8806086194983</offerURL>
+							<store authorizedReseller="false" id="501366" trusted="false">
+								<name>Onestop Digital</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/501366.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/HK.gif</sourceURL>
+									<countryCode>HK</countryCode>
+								</countryFlag>
+							</store>
+							<sku>8806086194983</sku>
+							<quantity>0</quantity>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="175462760">
+					<name>Samsung Galaxy S5 SM-G900F (Latest Model) - 16 GB - Shimmery White (Unlocked) Smartphone
+					</name>
+					<fullDescription>The Samsung SM-G900F runs on Android operating system and offers useful features.
+						This shimmery white smartphone is powered by a reliable processor, ensuring stable performance.
+						The Samsung phone has a 5.1 in. display providing clear visuals. In addition, Samsung SM-G900F
+						features 16 MP camera, so you can capture images wherever you go and store them on 16 GB of
+						memory space.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/s/NDUwWDMyMQ==/z/1t0AAOxyni9TER2a/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=3&amp;pr=3&amp;pid=175462760&amp;pdid=NNSfTcIF9kFK1i4qzA-aBA%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>7</reviewCount>
+						<rating>3.71</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_3.5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>
+							http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_shimmery_white_unlocked_smartphone/reviews~linkin_id-8053728
+						</reviewURL>
+					</rating>
+					<minPrice>370.43</minPrice>
+					<maxPrice>370.43</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_shimmery_white_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_s_5_sm_g900f_16_gb_shimmery_white_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="NNSfTcIF9kFK1i4qzA-aBA==" smartBuy="false" used="false">
+							<name>Samsung Galaxy S5 4G LTE 16GB G900F Unlocked (White)</name>
+							<description>New technologies, greater security, faster performance and beefier specs
+								characterize the Samsung Galaxy S5 G900F. Slightly bigger than the S4 at 5.1-inch, this
+								champ packs some serious punch under its hood. Running the latest Android 4.4.2 KitKat,
+								it is juiced by a powerful 2.5GHz Quad-core processor and together they deliver a
+								smooth-as-butter performance. Making a debut with the S5 is the Finger Scanner that
+								guarantees improved security, both while making mobile payments or while logging on to
+								your phone. And for the 'photog' in you, the Ultra HD 16MP rear camera, 2MP HD front
+								camera and Ultra HD video recording will amass more than enough content for FB, Twitter,
+								Instagram and other social media platforms. Some other cool and key features include
+								dust and water-resistant body, built-in Heart Rate Sensor, MIMO and Ultra Power Saving
+								Mode.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/4e/53/6654634946396b464b316934717a412d614241-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=175462760&amp;fks=0&amp;pdid=NNSfTcIF9kFK1i4qzA-aBA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/4e/53/6654634946396b464b316934717a412d614241-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=175462760&amp;fks=0&amp;pdid=NNSfTcIF9kFK1i4qzA-aBA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/4e/53/6654634946396b464b316934717a412d614241-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=175462760&amp;fks=0&amp;pdid=NNSfTcIF9kFK1i4qzA-aBA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=175462760&amp;fks=0&amp;pdid=NNSfTcIF9kFK1i4qzA-aBA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="388" width="388">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/4e/53/6654634946396b464b316934717a412d614241-388x388-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=175462760&amp;fks=0&amp;pdid=NNSfTcIF9kFK1i4qzA-aBA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="GBP">370.43</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">0.00</shippingCost>
+							<totalPrice currency="GBP">370.43</totalPrice>
+							<originalPrice currency="GBP">370.43</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=377&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=501366&amp;crawler_id=501366&amp;dealId=NNSfTcIF9kFK1i4qzA-aBA%3D%3D&amp;url=http%3A%2F%2Fwww.onestop-digital.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D34521&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Samsung+Galaxy+S5+4G+LTE+16GB+G900F+Unlocked+%28White%29&amp;dlprc=370.43&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175462760&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=359&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=8806086117869</offerURL>
+							<store authorizedReseller="false" id="501366" trusted="false">
+								<name>Onestop Digital</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/501366.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/HK.gif</sourceURL>
+									<countryCode>HK</countryCode>
+								</countryFlag>
+							</store>
+							<sku>8806086117869</sku>
+							<quantity>0</quantity>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="176598253">
+					<name>Samsung Galaxy K zoom SM-C115 (Latest Model) - 8 GB - Charcoal Black (Unlocked) Smartphone
+					</name>
+					<onSale>true</onSale>
+					<onSalePercentOff>21</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/s/NTAwWDUwMA==/z/QzcAAOSw-dBTu~A4/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=4&amp;pr=4&amp;pid=176598253&amp;pdid=1y5p5N1yPVKiLLC6psAN1g%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>314.99</minPrice>
+					<maxPrice>314.99</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_k_zoom_sm_c115_8_gb_charcoal_black_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_k_zoom_sm_c115_8_gb_charcoal_black_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="1y5p5N1yPVKiLLC6psAN1g==" smartBuy="false" used="false">
+							<name>Sim Free Samsung K Zoom Mobile Phone - Black</name>
+							<description>The Samsung Galaxy K Zoom combines the best of a cutting-edge Galaxy smartphone
+								with an incredibly smart and powerful camera. This versatile two-in-one device gives you
+								all you need to capture important moments perfectly. You can take mobile photography to
+								the next level with features you would usually find in a standalone camera. Mobile phone
+								features: Get closer to the action with the 10x optical zoom lens with Optical Image
+								stabilisation. 20.7MP BSI CMOS Sensor. The sensor is almost 1.7x larger than a typical
+								smartphone, letting you capture every detail. The backside illumination ensures great
+								results in low light. Full HD 1080p recording. Capture stunning video in full HD, use
+								the zoom to get closer to the action. Manage your health. Use the S Health Lite app to
+								track and manage your fitness. Combine it with the wearable Samsung Gear Fit, Gear 2 and
+								Gear Neo devices and monitor your fitness, as well as see incoming calls and other
+								notifications. Network provider: Sim free. Android Kitkat 4.4.2 operating system. MP3
+								player. Display and camera information: 4.8 inch screen. 1280 x 720 pixels. Super AMOLED
+								display. Full HD screen. 20.7 megapixel camera. Video capture and playback. Network and
+								connectivity: 4G network capability. Micro SIM card. Wi-Fi connectivity. Bluetooth.
+								Memory information: 8GB of internal memory. 64 GB of expandable memory (memory card not
+								included). Type of memory card required: microSD. General information: Up to 330 hours
+								standby time. Up to 19800 mins talk time. Size H137.5, W70.8, D20.2mm. Weight 200g.
+								Manufacturer's 2 year guarantee. EAN: 8806086265676.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/31/79/35/70354e317950564b694c4c43367073414e3167-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=176598253&amp;fks=0&amp;pdid=1y5p5N1yPVKiLLC6psAN1g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/31/79/35/70354e317950564b694c4c43367073414e3167-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=176598253&amp;fks=0&amp;pdid=1y5p5N1yPVKiLLC6psAN1g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/31/79/35/70354e317950564b694c4c43367073414e3167-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=176598253&amp;fks=0&amp;pdid=1y5p5N1yPVKiLLC6psAN1g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/31/79/35/70354e317950564b694c4c43367073414e3167-400x400-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=176598253&amp;fks=0&amp;pdid=1y5p5N1yPVKiLLC6psAN1g%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>In stock</storeNotes>
+							<basePrice currency="GBP">314.99</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">3.95</shippingCost>
+							<totalPrice currency="GBP">318.94</totalPrice>
+							<originalPrice currency="GBP">399.95</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=891&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=461876&amp;crawler_id=461876&amp;dealId=1y5p5N1yPVKiLLC6psAN1g%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-3086088-10697412%3FURL%3Dhttp%253A%252F%252Fwww.argos.co.uk%252Fstatic%252FProduct%252FpartNumber%252F2786274.htm%26mid%3D461876%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Sim+Free+Samsung+K+Zoom+Mobile+Phone+-+Black&amp;dlprc=314.99&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=176598253&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=879&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=2786274</offerURL>
+							<store authorizedReseller="false" id="461876" trusted="true">
+								<name>Argos.co.uk</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/461876.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://uk.shopping.com/xMR-store_argos_co_uk_9689~MRD-461876~S-1~linkin_id-8053728
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/GB.gif</sourceURL>
+									<countryCode>GB</countryCode>
+								</countryFlag>
+							</store>
+							<sku>2786274</sku>
+							<quantity>0</quantity>
+							<upc>08806086265676</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="181299466">
+					<name>Samsung GALAXY A5 - 16 GB - Midnight Black (Unlocked) Smartphone</name>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/s/NzE2WDYxMA==/z/TIAAAOSwZjJU4MqD/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=5&amp;pr=5&amp;pid=181299466&amp;pdid=VrcKLabQ3BMzZ7dkrqOf6Q%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>299.95</minPrice>
+					<maxPrice>299.95</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_a5_16_gb_midnight_black_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_a5_16_gb_midnight_black_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="VrcKLabQ3BMzZ7dkrqOf6Q==" smartBuy="false" used="false">
+							<name>Sim Free Samsung Galaxy A5 Smartphone - Black</name>
+							<description>Samsung Galaxy A5 Smartphone with 5 inch 720 x 1280 display powered by 1.2GHz
+								processor alongside 2GB RAM and 13MP rear camera. The first Samsung Smartphone with a
+								full metal body, the Samsung Galaxy A5 boasts an innoative, luxurious design and a
+								stunning 12.63cm (5) HD sAMOLED display. Sleek full metal body. Mobile phone features:
+								With the Samsung Galaxy A5 you don't need to touch the button when taking selfies. Snap
+								a selfie with your voice or palm and make your friends think your own personal
+								photographer is following you around. With the latest image detection and voice
+								recognition software. The new wide selfie function allows you to create a panaorama-like
+								selfie by merging three photos taken from the left/middle/right into one perfect group
+								selfie. Up to 110 degrees of range in portrait mode and 120 degrees of range in
+								landscape mode. Auto editing functions. Its newly designed interface offers a diverse
+								range of changeable themes on your A5. Plus, new ringtones, startup, touch and
+								notification sounds specifically made for the Galaxy A5 will perfectly match your mood
+								and style. Show off your own style with Samsung Galaxy A5's new interface and sound.
+								Network provider: Sim free. Android. Quad-Core Processor. MP3 player. Display and camera
+								information: 5 inch screen. 1280 x 720 pixels. Super AMOLED display. Full HD screen. 13
+								megapixel camera. Video capture and playback. Network and connectivity: 2G, 3G and 4G
+								network capability. Nano SIM card. Wi-Fi connectivity. Bluetooth. Memory information:
+								16GB of internal memory. 64 GB of expandable memory (memory card not included). Type of
+								memory card required: microSD. General information: Up to 900 mins talk time. Size
+								H139.3, W69.7, D6.7mm. Weight 123g. EAN: 8806086589192.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/56/72/63/4b4c61625133424d7a5a37646b72714f663651-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181299466&amp;fks=0&amp;pdid=VrcKLabQ3BMzZ7dkrqOf6Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/56/72/63/4b4c61625133424d7a5a37646b72714f663651-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181299466&amp;fks=0&amp;pdid=VrcKLabQ3BMzZ7dkrqOf6Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/56/72/63/4b4c61625133424d7a5a37646b72714f663651-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181299466&amp;fks=0&amp;pdid=VrcKLabQ3BMzZ7dkrqOf6Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/56/72/63/4b4c61625133424d7a5a37646b72714f663651-400x400-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181299466&amp;fks=0&amp;pdid=VrcKLabQ3BMzZ7dkrqOf6Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="404" width="620">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/56/72/63/4b4c61625133424d7a5a37646b72714f663651-620x404-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=181299466&amp;fks=0&amp;pdid=VrcKLabQ3BMzZ7dkrqOf6Q%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>In stock</storeNotes>
+							<basePrice currency="GBP">299.95</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">0.00</shippingCost>
+							<totalPrice currency="GBP">299.95</totalPrice>
+							<originalPrice currency="GBP">299.95</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=891&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=461876&amp;crawler_id=461876&amp;dealId=VrcKLabQ3BMzZ7dkrqOf6Q%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-3086088-10697412%3FURL%3Dhttp%253A%252F%252Fwww.argos.co.uk%252Fstatic%252FProduct%252FpartNumber%252F3799277.htm%26mid%3D461876%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Sim+Free+Samsung+Galaxy+A5+Smartphone+-+Black&amp;dlprc=299.95&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=181299466&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=879&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=3799277</offerURL>
+							<store authorizedReseller="false" id="461876" trusted="true">
+								<name>Argos.co.uk</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/461876.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://uk.shopping.com/xMR-store_argos_co_uk_9689~MRD-461876~S-1~linkin_id-8053728
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/GB.gif</sourceURL>
+									<countryCode>GB</countryCode>
+								</countryFlag>
+							</store>
+							<sku>3799277</sku>
+							<quantity>0</quantity>
+							<upc>08806086589192</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="181299474">
+					<name>Samsung GALAXY A5 - 16 GB - Pearl White (Unlocked) Smartphone</name>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/s/MTA0OVg5MTI=/z/XjIAAOSwv0tU4Mp9/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=6&amp;pr=6&amp;pid=181299474&amp;pdid=iNKGwGt5wMjw3A4I9Nw37A%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>299.95</minPrice>
+					<maxPrice>299.95</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_a5_16_gb_pearl_white_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_a5_16_gb_pearl_white_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="iNKGwGt5wMjw3A4I9Nw37A==" smartBuy="false" used="false">
+							<name>Sim Free Samsung Galaxy A5 Smartphone - White</name>
+							<description>Samsung Galaxy A5 Smartphone with 5 inch 720 x 1280 display powered by 1.2GHz
+								processor alongside 2GB RAM and 13MP rear camera. The first Samsung Smartphone with a
+								full metal body, the Samsung Galaxy A5 boasts an innoative, luxurious design and a
+								stunning 12.63cm (5) HD sAMOLED display. Sleek full metal body. Mobile phone features:
+								With the Samsung Galaxy A5 you don't need to touch the button when taking selfies. Snap
+								a selfie with your voice or palm and make your friends think your own personal
+								photographer is following you around. With the latest image detection and voice
+								recognition software. The new wide selfie function allows you to create a panaorama-like
+								selfie by merging three photos taken from the left/middle/right into one perfect group
+								selfie. Up to 110 degrees of range in portrait mode and 120 degrees of range in
+								landscape mode. Auto editing functions. Its newly designed interface offers a diverse
+								range of changeable themes on your A5. Plus, new ringtones, startup, touch and
+								notification sounds specifically made for the Galaxy A5 will perfectly match your mood
+								and style. Show off your own style with Samsung Galaxy A5's new interface and sound.
+								Network provider: Sim free. Android. Quad-Core Processor. MP3 player. Display and camera
+								information: 5 inch screen. 1280 x 720 pixels. Super AMOLED display. Full HD screen. 13
+								megapixel camera. Video capture and playback. Network and connectivity: 2G, 3G and 4G
+								network capability. Nano SIM card. Wi-Fi connectivity. Bluetooth. Memory information:
+								16GB of internal memory. 64 GB of expandable memory (memory card not included). Type of
+								memory card required: microSD. General information: Up to 900 mins talk time. Size
+								H139.3, W69.7, D6.7mm. Weight 123g. EAN: 8806086589130.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/69/4e/4b/4777477435774d6a7733413449394e77333741-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=181299474&amp;fks=0&amp;pdid=iNKGwGt5wMjw3A4I9Nw37A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/69/4e/4b/4777477435774d6a7733413449394e77333741-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=181299474&amp;fks=0&amp;pdid=iNKGwGt5wMjw3A4I9Nw37A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/69/4e/4b/4777477435774d6a7733413449394e77333741-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=181299474&amp;fks=0&amp;pdid=iNKGwGt5wMjw3A4I9Nw37A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/69/4e/4b/4777477435774d6a7733413449394e77333741-400x400-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=181299474&amp;fks=0&amp;pdid=iNKGwGt5wMjw3A4I9Nw37A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="404" width="620">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/69/4e/4b/4777477435774d6a7733413449394e77333741-620x404-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=181299474&amp;fks=0&amp;pdid=iNKGwGt5wMjw3A4I9Nw37A%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>In stock</storeNotes>
+							<basePrice currency="GBP">299.95</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">0.00</shippingCost>
+							<totalPrice currency="GBP">299.95</totalPrice>
+							<originalPrice currency="GBP">299.95</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=891&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=461876&amp;crawler_id=461876&amp;dealId=iNKGwGt5wMjw3A4I9Nw37A%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-3086088-10697412%3FURL%3Dhttp%253A%252F%252Fwww.argos.co.uk%252Fstatic%252FProduct%252FpartNumber%252F3599635.htm%26mid%3D461876%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Sim+Free+Samsung+Galaxy+A5+Smartphone+-+White&amp;dlprc=299.95&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=181299474&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=879&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=3599635</offerURL>
+							<store authorizedReseller="false" id="461876" trusted="true">
+								<name>Argos.co.uk</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/461876.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://uk.shopping.com/xMR-store_argos_co_uk_9689~MRD-461876~S-1~linkin_id-8053728
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/GB.gif</sourceURL>
+									<countryCode>GB</countryCode>
+								</countryFlag>
+							</store>
+							<sku>3599635</sku>
+							<quantity>0</quantity>
+							<upc>08806086589130</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="146688120">
+					<name>Samsung GT E1200 - Black (Unlocked) Mobile Phone</name>
+					<fullDescription>Portable, slim, and simple, this black Samsung mobile phone is for the no-frills
+						consumer who wants basic functionality and still the freedom of a cell phone. With the Samsung
+						GT-E1200, users enjoy seven hours of talktime, and up to 720 hours of standby time. This
+						bar-style cellular phone measures 108 mm long by 45 mm wide by 13.5 mm thick, fitting
+						unobtrusively into a pocket or small purse, and weighs about 65 g so it does not weigh users
+						down. Users can navigate this Samsung mobile phone through the five-way directional button, with
+						dust-resistant rubber offering no-slip access to the number keypad for reliable dialling.
+						Supporting 65,000 colours, the screen on the Samsung GT-E1200 squares off at 3.86 cm per side,
+						with 128x128-pixel resolution coming through clearly thanks to TFT LCD technology. With this
+						bar-style cellular phone, users can pair incoming calls to MP3 ringtones, using up to 16 MB of
+						storage for contacts and sound bytes. Unlocked for use with a variety of carriers, this Samsung
+						mobile phone supports dual-band frequencies at 900 and 1800 MHz, and is compatible with S20 pin
+						connectors for earpiece usage.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<upcs>
+						<upc>8806085021310</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqJ,!jYF!7QbzP1rBQRLKzhlRg~~_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=7&amp;pr=7&amp;pid=146688120&amp;pdid=n4nLQMsVsL26_VhnOfXp1Q%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>17</reviewCount>
+						<rating>4.65</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_4.5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>
+							http://uk.shopping.com/samsung_gt_e1200_black_unlocked_mobile_phone/reviews~linkin_id-8053728
+						</reviewURL>
+					</rating>
+					<minPrice>14.95</minPrice>
+					<maxPrice>14.95</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_gt_e1200_black_unlocked_mobile_phone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_gt_e1200_black_unlocked_mobile_phone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="n4nLQMsVsL26_VhnOfXp1Q==" smartBuy="false" used="false">
+							<name>Sim Free Samsung E1200 Mobile Phone - Black</name>
+							<description>The stylish Samsung E1200 mobile phone packs lots of features into a compact
+								design. The handset is ideal for those looking for a mobile phone that is simple and
+								easy-to-use. Mobile phone features: Not compatible with the Three network. Network
+								provider: Sim free. Feature. Display and camera information: 1.4 inch screen. TFT
+								display. Network and connectivity: 2G network capability. Standard SIM card. Memory
+								information: General information: Up to 660 hours standby time. Up to 520 mins talk
+								time. Size H11.06, W4.54, D1.39mm. Weight 73g. EAN: 8806085021310.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6e/34/6e/4c514d7356734c32365f56686e4f6658703151-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=146688120&amp;fks=0&amp;pdid=n4nLQMsVsL26_VhnOfXp1Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6e/34/6e/4c514d7356734c32365f56686e4f6658703151-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=146688120&amp;fks=0&amp;pdid=n4nLQMsVsL26_VhnOfXp1Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6e/34/6e/4c514d7356734c32365f56686e4f6658703151-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=146688120&amp;fks=0&amp;pdid=n4nLQMsVsL26_VhnOfXp1Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6e/34/6e/4c514d7356734c32365f56686e4f6658703151-400x400-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=146688120&amp;fks=0&amp;pdid=n4nLQMsVsL26_VhnOfXp1Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="404" width="620">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6e/34/6e/4c514d7356734c32365f56686e4f6658703151-620x404-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=146688120&amp;fks=0&amp;pdid=n4nLQMsVsL26_VhnOfXp1Q%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>In stock</storeNotes>
+							<basePrice currency="GBP">14.95</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">3.95</shippingCost>
+							<totalPrice currency="GBP">18.90</totalPrice>
+							<originalPrice currency="GBP">14.95</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=891&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=461876&amp;crawler_id=461876&amp;dealId=n4nLQMsVsL26_VhnOfXp1Q%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-3086088-10697412%3FURL%3Dhttp%253A%252F%252Fwww.argos.co.uk%252Fstatic%252FProduct%252FpartNumber%252F1579420.htm%26mid%3D461876%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Sim+Free+Samsung+E1200+Mobile+Phone+-+Black&amp;dlprc=14.95&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=146688120&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=879&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=1579420</offerURL>
+							<store authorizedReseller="false" id="461876" trusted="true">
+								<name>Argos.co.uk</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/461876.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://uk.shopping.com/xMR-store_argos_co_uk_9689~MRD-461876~S-1~linkin_id-8053728
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/GB.gif</sourceURL>
+									<countryCode>GB</countryCode>
+								</countryFlag>
+							</store>
+							<sku>1579420</sku>
+							<quantity>0</quantity>
+							<upc>08806085021310</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="146692256">
+					<name>Samsung GT E1200 - Black (Vodafone) Mobile Phone</name>
+					<onSale>true</onSale>
+					<onSalePercentOff>37</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqJHJDgFHlSP1FZGBS!qZOFjKw~~_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=8&amp;pr=8&amp;pid=146692256&amp;pdid=9JsfSpff_x3iDwlnZttuYQ%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>3</reviewCount>
+						<rating>5.00</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>
+							http://uk.shopping.com/samsung_gt_e1200_black_vodafone_mobile_phone/reviews~linkin_id-8053728
+						</reviewURL>
+					</rating>
+					<minPrice>4.99</minPrice>
+					<maxPrice>4.99</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_gt_e1200_black_vodafone_mobile_phone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_gt_e1200_black_vodafone_mobile_phone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="9JsfSpff_x3iDwlnZttuYQ==" smartBuy="false" used="false">
+							<name>Vodafone Samsung E1200 Mobile Phone - Black</name>
+							<description>The stylish Samsung E1200 mobile phone packs lots of features into a compact
+								design. The handset is ideal for those looking for a mobile phone that is simple and
+								easy-to-use. This handset must be purchased with Â£10 airtime, this will automatically
+								be added to your transaction in store. Mobile phone features: Network provider:
+								Vodafone. Feature. Display and camera information: 1.4 inch screen. TFT display. Network
+								and connectivity: 2G network capability. Standard SIM card. Memory information: General
+								information: Up to 660 hours standby time. Up to 520 mins talk time. Size H11.06, W4.54,
+								D1.39mm. Weight 73g.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/39/4a/73/66537066665f78336944776c6e5a7474755951-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=146692256&amp;fks=0&amp;pdid=9JsfSpff_x3iDwlnZttuYQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/39/4a/73/66537066665f78336944776c6e5a7474755951-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=146692256&amp;fks=0&amp;pdid=9JsfSpff_x3iDwlnZttuYQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/39/4a/73/66537066665f78336944776c6e5a7474755951-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=146692256&amp;fks=0&amp;pdid=9JsfSpff_x3iDwlnZttuYQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/39/4a/73/66537066665f78336944776c6e5a7474755951-400x400-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=146692256&amp;fks=0&amp;pdid=9JsfSpff_x3iDwlnZttuYQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="404" width="620">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/39/4a/73/66537066665f78336944776c6e5a7474755951-620x404-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=146692256&amp;fks=0&amp;pdid=9JsfSpff_x3iDwlnZttuYQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>In stock</storeNotes>
+							<basePrice currency="GBP">4.99</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">3.95</shippingCost>
+							<totalPrice currency="GBP">8.94</totalPrice>
+							<originalPrice currency="GBP">7.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=891&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=461876&amp;crawler_id=461876&amp;dealId=9JsfSpff_x3iDwlnZttuYQ%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-3086088-10697412%3FURL%3Dhttp%253A%252F%252Fwww.argos.co.uk%252Fstatic%252FProduct%252FpartNumber%252F1416284.htm%26mid%3D461876%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Vodafone+Samsung+E1200+Mobile+Phone+-+Black&amp;dlprc=4.99&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=146692256&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=879&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=1416284</offerURL>
+							<store authorizedReseller="false" id="461876" trusted="true">
+								<name>Argos.co.uk</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/461876.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://uk.shopping.com/xMR-store_argos_co_uk_9689~MRD-461876~S-1~linkin_id-8053728
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/GB.gif</sourceURL>
+									<countryCode>GB</countryCode>
+								</countryFlag>
+							</store>
+							<sku>1416284</sku>
+							<quantity>0</quantity>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="176986218">
+					<name>Samsung Galaxy Alpha SM-G850F (Latest Model) - 32 GB - Charcoal Black (Unlocked) Smartphone
+					</name>
+					<onSale>true</onSale>
+					<onSalePercentOff>19</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/s/NTE5WDQwMA==/z/L7IAAOSwstxU4Itq/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=9&amp;pr=9&amp;pid=176986218&amp;pdid=D-K6pxI2C8jgMv1jybz82A%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>3</reviewCount>
+						<rating>5.00</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>
+							http://uk.shopping.com/samsung_galaxy_alpha_32_gb_charcoal_black_unlocked_smartphone/reviews~linkin_id-8053728
+						</reviewURL>
+					</rating>
+					<minPrice>419.95</minPrice>
+					<maxPrice>419.95</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_alpha_32_gb_charcoal_black_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_alpha_32_gb_charcoal_black_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="D-K6pxI2C8jgMv1jybz82A==" smartBuy="false" used="false">
+							<name>Sim Free Samsung Galaxy Alpha Mobile Phone - Black</name>
+							<description>The first Samsung Galaxy smartphone with a high quality metal frame, the Galaxy
+								Alpha exudes luxury and sophistication. Fine crafting accentuautes the premium look and
+								feel of the metal frame. Mobile phone features: Powered by new big.LITTLE multi
+								processing technology, the Galaxy Alpha offers essential features - the HDR equipped
+								camera, the fast autofocus, the fingerprint scanner and S-health with its heart rate
+								sensor. Never miss an important call because of a dead battery. Ultra Power Saving mode
+								dramatically reduces battery consumption by shutting down unnecessary functions,
+								ensuring your phone is available when you need it. Private mode keeps the personal
+								information on your Galaxy Alpha secure, hidden in a secret location that can only be
+								accessed by the swipe of your finger. Do away with the hassle of memorising website IDs
+								and passwords. Fingerprint Web Sign in lets you log in to password protected websites
+								with just a swipe of your finger. Network provider: Sim free. Android. MP3 player.
+								Display and camera information: 4.7 inch screen. 1280 x 720 pixels. LCD display. Full HD
+								screen. 12 megapixel camera. Video capture and playback. Network and connectivity: Nano
+								SIM card. Wi-Fi connectivity. Bluetooth. Memory information: 2048MB/32GB of internal
+								memory. General information: Size H132.4, W67, D65.5mm. Weight 115g. EAN: 8806086385794.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/44/2d/4b/367078493243386a674d76316a79627a383241-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=176986218&amp;fks=0&amp;pdid=D-K6pxI2C8jgMv1jybz82A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/44/2d/4b/367078493243386a674d76316a79627a383241-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=176986218&amp;fks=0&amp;pdid=D-K6pxI2C8jgMv1jybz82A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/44/2d/4b/367078493243386a674d76316a79627a383241-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=176986218&amp;fks=0&amp;pdid=D-K6pxI2C8jgMv1jybz82A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/44/2d/4b/367078493243386a674d76316a79627a383241-400x400-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=176986218&amp;fks=0&amp;pdid=D-K6pxI2C8jgMv1jybz82A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="404" width="620">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/44/2d/4b/367078493243386a674d76316a79627a383241-620x404-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=176986218&amp;fks=0&amp;pdid=D-K6pxI2C8jgMv1jybz82A%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>In stock</storeNotes>
+							<basePrice currency="GBP">419.95</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">0.00</shippingCost>
+							<totalPrice currency="GBP">419.95</totalPrice>
+							<originalPrice currency="GBP">519.95</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=891&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=461876&amp;crawler_id=461876&amp;dealId=D-K6pxI2C8jgMv1jybz82A%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-3086088-10697412%3FURL%3Dhttp%253A%252F%252Fwww.argos.co.uk%252Fstatic%252FProduct%252FpartNumber%252F3224766.htm%26mid%3D461876%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Sim+Free+Samsung+Galaxy+Alpha+Mobile+Phone+-+Black&amp;dlprc=419.95&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=176986218&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=879&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=3224766</offerURL>
+							<store authorizedReseller="false" id="461876" trusted="true">
+								<name>Argos.co.uk</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/461876.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://uk.shopping.com/xMR-store_argos_co_uk_9689~MRD-461876~S-1~linkin_id-8053728
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/GB.gif</sourceURL>
+									<countryCode>GB</countryCode>
+								</countryFlag>
+							</store>
+							<sku>3224766</sku>
+							<quantity>0</quantity>
+							<upc>08806086385794</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="181120546">
+					<name>Samsung Galaxy Core Prime SM-G3608 - 8GB - White (Unlocked) Smartphone</name>
+					<onSale>true</onSale>
+					<onSalePercentOff>7</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/s/NjAwWDkwMA==/z/vmkAAOSwo8hToa9S/$_32-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=2&amp;c=44&amp;l=8053728&amp;r=10&amp;pr=10&amp;pid=181120546&amp;pdid=3NWUTEK_Rxv00u-OIFyyBw%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>119.95</minPrice>
+					<maxPrice>119.95</maxPrice>
+					<productOffersURL>
+						http://uk.shopping.com/samsung_galaxy_core_prime_sm_g3608_8_gb_white_unlocked_smartphone/prices~linkin_id-8053728
+					</productOffersURL>
+					<productSpecsURL>
+						http://uk.shopping.com/samsung_galaxy_core_prime_sm_g3608_8_gb_white_unlocked_smartphone/info~linkin_id-8053728
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="3NWUTEK_Rxv00u-OIFyyBw==" smartBuy="false" used="false">
+							<name>Sim Free Samsung G360F Galaxy Core Prime Smartphone - White</name>
+							<description>The Samsung Galaxy Core Prime features 4.5 inch WVGA display, 1.2GHz quad core
+								processor, 1GB of RAM and 8GB of expandable memory. There is a 5MP, autofocus camera
+								with LED flash on the back, as well as 2MP front shooter. The phone runs Android KitKat
+								4.4 and is powered by 2000mAh battery. Mobile phone features: Only 8.6mm thick, the
+								Galaxy Core Prime combines sophistication and powerful performance, compressing all the
+								essential features for fun on the go into a sleek, modern package. But svelte doesn't
+								mean small: The 12.64cm (5) qHD display makes sure nothing cramps your style. Equipped
+								with a powerful 1.2 GHz quad core processor for blazing fast multitasking performance,
+								no matter how much you have going on. 5MP camera with an ultra wide view angle of 85
+								degrees. The wider angle of view means you can get more of your friends and the
+								background in every shot. The high resolution ensures you'll get crisper, more awesome
+								photos that you can't wait to post. Network provider: Sim free. Android KitKat 4.4
+								operating system. Qualcomm Snapdragon. MP3 player. Display and camera information: 4.5
+								inch screen. 480 x 800 pixels. TFT display. 5 megapixel camera. Video capture and
+								playback. Network and connectivity: 3G network capability. Micro SIM card. Wi-Fi
+								connectivity. Bluetooth. Memory information: 8000MB/8GB of internal memory. 64 GB of
+								expandable memory (memory card not included). Type of memory card required: microSD.
+								General information: Up to 540 hours standby time. Up to 660 mins talk time. Size
+								H131.1, W68.4, D8.8mm. Weight 130g. EAN: 8806086588164.
+							</description>
+							<categoryId>93767</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/33/4e/57/5554454b5f5278763030752d4f494679794277-100x100-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181120546&amp;fks=0&amp;pdid=3NWUTEK_Rxv00u-OIFyyBw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/33/4e/57/5554454b5f5278763030752d4f494679794277-200x200-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181120546&amp;fks=0&amp;pdid=3NWUTEK_Rxv00u-OIFyyBw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/33/4e/57/5554454b5f5278763030752d4f494679794277-300x300-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181120546&amp;fks=0&amp;pdid=3NWUTEK_Rxv00u-OIFyyBw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/33/4e/57/5554454b5f5278763030752d4f494679794277-400x400-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181120546&amp;fks=0&amp;pdid=3NWUTEK_Rxv00u-OIFyyBw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="404" width="620">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/33/4e/57/5554454b5f5278763030752d4f494679794277-620x404-0-0.jpg?rqid=p2.fd935a4312ae2675defb&amp;rqt=SRS&amp;a=1&amp;c=44&amp;l=8053728&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181120546&amp;fks=0&amp;pdid=3NWUTEK_Rxv00u-OIFyyBw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>In stock</storeNotes>
+							<basePrice currency="GBP">119.95</basePrice>
+							<tax currency="GBP">0.00</tax>
+							<shippingCost currency="GBP">0.00</shippingCost>
+							<totalPrice currency="GBP">119.95</totalPrice>
+							<originalPrice currency="GBP">129.95</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=891&amp;BEFID=93767&amp;aon=%5E&amp;MerchantID=461876&amp;crawler_id=461876&amp;dealId=3NWUTEK_Rxv00u-OIFyyBw%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-3086088-10697412%3FURL%3Dhttp%253A%252F%252Fwww.argos.co.uk%252Fstatic%252FProduct%252FpartNumber%252F3798364.htm%26mid%3D461876%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053728&amp;Issdt=150505093454&amp;searchID=p2.fd935a4312ae2675defb&amp;DealName=Sim+Free+Samsung+G360F+Galaxy+Core+Prime+Smartphone+-+White&amp;dlprc=119.95&amp;AR=1&amp;NG=2&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=181120546&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=879&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=3798364</offerURL>
+							<store authorizedReseller="false" id="461876" trusted="true">
+								<name>Argos.co.uk</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/461876.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://uk.shopping.com/xMR-store_argos_co_uk_9689~MRD-461876~S-1~linkin_id-8053728
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/GB.gif</sourceURL>
+									<countryCode>GB</countryCode>
+								</countryFlag>
+							</store>
+							<sku>3798364</sku>
+							<quantity>0</quantity>
+							<upc>08806086588164</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+			</items>
+			<attributes matchedAttributeCount="5" returnedAttributeCount="5">
+				<attribute id="Dynamic_Price_Range">
+					<name>Price range</name>
+					<attributeURL>
+						http://uk.shopping.com/mobile-phones/samsung/products?oq=samsung&amp;linkin_id=8053728
+					</attributeURL>
+					<attributeValues matchedValueCount="2" returnedValueCount="2">
+						<attributeValue id="price_range_4_302" matchingItemsCount="1">
+							<name>Â£4 - Â£302</name>
+							<attributeValueURL>http://uk.shopping.com/mobile-phones/samsung/products?minPrice=4&amp;maxPrice=302&amp;linkin_id=8053728</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="price_range_302_599" matchingItemsCount="1">
+							<name>Â£302 - Â£599</name>
+							<attributeValueURL>http://uk.shopping.com/mobile-phones/samsung/products?minPrice=302&amp;maxPrice=599&amp;linkin_id=8053728</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="9688_brand">
+					<name>Brand</name>
+					<attributeURL>http://uk.shopping.com/mobile-phones/samsung/products~all-9688-brand~MS-1?oq=samsung&amp;linkin_id=8053728</attributeURL>
+					<attributeValues matchedValueCount="2" returnedValueCount="2">
+						<attributeValue id="samsung" matchingItemsCount="29">
+							<name>Samsung</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+samsung/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="ee" matchingItemsCount="1">
+							<name>EE</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+ee/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="23979514_colour">
+					<name>Colour</name>
+					<attributeURL>
+						http://uk.shopping.com/mobile-phones/samsung/products~all-23979514-colour~MS-1?oq=samsung&amp;linkin_id=8053728
+					</attributeURL>
+					<attributeValues matchedValueCount="8" returnedValueCount="5">
+						<attributeValue id="23979514_black" matchingItemsCount="13">
+							<name>Black</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979514-black/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979514_white" matchingItemsCount="9">
+							<name>White</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979514-white/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979514_charcoal_black" matchingItemsCount="3">
+							<name>Charcoal black</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979514-charcoal-black/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979514_midnight_black" matchingItemsCount="1">
+							<name>Midnight black</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979514-midnight-black/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979514_pearl_white" matchingItemsCount="1">
+							<name>Pearl white</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979514-pearl-white/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="23979525_family_line">
+					<name>Family Line</name>
+					<attributeURL>
+						http://uk.shopping.com/mobile-phones/samsung/products~all-23979525-family-line~MS-1?oq=samsung&amp;linkin_id=8053728
+					</attributeURL>
+					<attributeValues matchedValueCount="10" returnedValueCount="5">
+						<attributeValue id="23979525_samsung_galaxy" matchingItemsCount="6">
+							<name>Samsung GALAXY</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979525-samsung-galaxy/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979525_samsung" matchingItemsCount="5">
+							<name>Samsung</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979525-samsung/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979525_samsung_galaxy_s_5" matchingItemsCount="3">
+							<name>Samsung Galaxy S 5</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979525-samsung-galaxy-s-5/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_s5" matchingItemsCount="3">
+							<name>Samsung Galaxy S5</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+samsung-galaxy-s5/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979525_samsung_e" matchingItemsCount="3">
+							<name>Samsung E</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979525-samsung-e/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="23979536_type">
+					<name>Type</name>
+					<attributeURL>
+						http://uk.shopping.com/mobile-phones/samsung/products~all-23979536-type~MS-1?oq=samsung&amp;linkin_id=8053728
+					</attributeURL>
+					<attributeValues matchedValueCount="2" returnedValueCount="2">
+						<attributeValue id="23979536_smartphone" matchingItemsCount="15">
+							<name>Smartphone</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979536-smartphone/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="23979536_mobile_phone" matchingItemsCount="11">
+							<name>Mobile Phone</name>
+							<attributeValueURL>
+								http://uk.shopping.com/mobile-phones/samsung+23979536-mobile-phone/products~linkin_id-8053728
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+			</attributes>
+			<contentType>hybrid</contentType>
+		</category>
+		<intActualCategoryCount>1</intActualCategoryCount>
+	</categories>
+	<relatedTerms></relatedTerms>
+</GeneralSearchResponse>

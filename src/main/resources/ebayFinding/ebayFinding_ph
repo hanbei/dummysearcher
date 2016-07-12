@@ -1,0 +1,868 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T14:13:10.370Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>281038012539</itemId>
+			<title>Ultra Clear Film Screen Protector Shield For iPhone 5 (Professional Screenguard)</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mQJvaOk1ziT1zEbMshR5CAw/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Ultra-Clear-Film-Screen-Protector-Shield-iPhone-5-Professional-Screenguard-/281038012539?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">60.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">60.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT23H28M47S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-12-12T13:36:57.000Z</startTime>
+				<endTime>2015-05-31T13:41:57.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221654720895</itemId>
+			<title>UMBRELLA BLING! Anti Dust Cover / Plug 3.5mm Jack for IPAD Iphone Cellphone</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>176970</categoryId>
+				<categoryName>iPad/Tablet/eBook Accessories</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mf1TV9hJJqehbj137dJ2DFA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/UMBRELLA-BLING-Anti-Dust-Cover-Plug-3-5mm-Jack-IPAD-Iphone-Cellphone-/221654720895?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">120.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">120.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT21H45M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-06T11:53:59.000Z</startTime>
+				<endTime>2015-06-05T11:58:59.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221654720905</itemId>
+			<title>HEART BLING! Anti Dust Cover / Plug 3.5mm Jack for IPAD Iphone Ipod Cellphone</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>176970</categoryId>
+				<categoryName>iPad/Tablet/eBook Accessories</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mhHRYKuZq27sk4KleWkPrEQ/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/HEART-BLING-Anti-Dust-Cover-Plug-3-5mm-Jack-IPAD-Iphone-Ipod-Cellphone-/221654720905?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">120.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">120.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT21H45M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-06T11:53:59.000Z</startTime>
+				<endTime>2015-06-05T11:58:59.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221654720923</itemId>
+			<title>GENIE LAMP BLING! Anti Dust Cover / Plug 3.5mm Jack for IPAD Iphone Cellphone</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>176970</categoryId>
+				<categoryName>iPad/Tablet/eBook Accessories</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mjAxmrebyW7jR4qLLFFv01g/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/GENIE-LAMP-BLING-Anti-Dust-Cover-Plug-3-5mm-Jack-IPAD-Iphone-Cellphone-/221654720923?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">120.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">120.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT21H45M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-06T11:53:59.000Z</startTime>
+				<endTime>2015-06-05T11:58:59.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>301475483898</itemId>
+			<title>VW BUG CAR BLING! Anti Dust Cover / Plug 3.5mm Jack for IPAD Iphone Cellphone</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>176970</categoryId>
+				<categoryName>iPad/Tablet/eBook Accessories</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mKOk73PUtsL_7YjL8uwzNOA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/VW-BUG-CAR-BLING-Anti-Dust-Cover-Plug-3-5mm-Jack-IPAD-Iphone-Cellphone-/301475483898?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">120.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">120.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT21H45M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-06T11:53:59.000Z</startTime>
+				<endTime>2015-06-05T11:58:59.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281018701834</itemId>
+			<title>Antiscratch UltraClear Front &amp; Back Screen Protector For Apple iPhone 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m1YY_Vli2t00dGmk3X2ZENA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Antiscratch-UltraClear-Front-Back-Screen-Protector-Apple-iPhone-5-/281018701834?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">139.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">139.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT21H13M0S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-11-07T11:21:10.000Z</startTime>
+				<endTime>2015-05-26T11:26:10.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>271098879113</itemId>
+			<title>Antiscratch UltraClear Front &amp; Back Screen Protector For Apple iPhone 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m1YY_Vli2t00dGmk3X2ZENA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Antiscratch-UltraClear-Front-Back-Screen-Protector-Apple-iPhone-5-/271098879113?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">139.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">139.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT21H13M23S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-11-07T11:21:33.000Z</startTime>
+				<endTime>2015-05-26T11:26:33.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281018702102</itemId>
+			<title>Antiscratch UltraClear Front &amp; Back Screen Protector For Apple iPhone 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m1YY_Vli2t00dGmk3X2ZENA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Antiscratch-UltraClear-Front-Back-Screen-Protector-Apple-iPhone-5-/281018702102?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">139.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">139.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT21H13M57S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-11-07T11:22:07.000Z</startTime>
+				<endTime>2015-05-26T11:27:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281018702224</itemId>
+			<title>Antiscratch UltraClear Front &amp; Back Screen Protector For Apple iPhone 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m1YY_Vli2t00dGmk3X2ZENA/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Antiscratch-UltraClear-Front-Back-Screen-Protector-Apple-iPhone-5-/281018702224?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingType>FreePickup</shippingType>
+				<shipToLocations>None</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">139.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">139.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT21H14M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-11-07T11:22:30.000Z</startTime>
+				<endTime>2015-05-26T11:27:30.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>151158188648</itemId>
+			<title>Ultra Clear Anti-Scratch Screen Protector For Apple iPhone 5C</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mbkTUK1dnYC41QTogwweaUw/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Ultra-Clear-Anti-Scratch-Screen-Protector-Apple-iPhone-5C-/151158188648?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">139.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">139.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT8H20M33S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-11-03T22:28:43.000Z</startTime>
+				<endTime>2015-05-27T22:33:43.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/151158188648_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>151158189155</itemId>
+			<title>Matte Anti-Fingerprint Screen Protector For Apple iPhone 5C</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mbkTUK1dnYC41QTogwweaUw/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Matte-Anti-Fingerprint-Screen-Protector-Apple-iPhone-5C-/151158189155?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">139.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">139.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT8H21M47S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-11-03T22:29:57.000Z</startTime>
+				<endTime>2015-05-27T22:34:57.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/151158189155_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281002135046</itemId>
+			<title>front and back clear LCD Screen Protector Cover Guard for Apple iPhone 5 5th -</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mNKz2J53JSxJSDJZHWT801Q/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/front-and-back-clear-LCD-Screen-Protector-Cover-Guard-Apple-iPhone-5-5th-/281002135046?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">50.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">90.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">90.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT20H57M58S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-10-18T11:06:08.000Z</startTime>
+				<endTime>2015-06-05T11:11:08.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141087172215</itemId>
+			<title>1 RED Diamond ANTI DUST PLUG STOPPER Earphone Galaxy Note IPHONE IPAD 4 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mWF9Dp9RRMYDeaFgOgMikyw/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/1-RED-Diamond-ANTI-DUST-PLUG-STOPPER-Earphone-Galaxy-Note-IPHONE-IPAD-4-5-/141087172215?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">125.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">20.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">20.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT15H8M9S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-11T05:16:19.000Z</startTime>
+				<endTime>2015-06-03T05:21:19.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141087173851</itemId>
+			<title>1 BLUE Diamond ANTI DUST PLUG STOPPER Earphone Galaxy Note IPHONE IPAD 4 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mf4lTsTVZw8fpYRqazFyJ3w/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/1-BLUE-Diamond-ANTI-DUST-PLUG-STOPPER-Earphone-Galaxy-Note-IPHONE-IPAD-4-5-/141087173851?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">125.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">20.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">20.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT15H13M47S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-11T05:21:57.000Z</startTime>
+				<endTime>2015-06-03T05:26:57.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141087174420</itemId>
+			<title>1YELLOW Diamond ANTI DUST PLUG STOPPER Earphone Galaxy Note IPHONE IPAD 4 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mPUiqMaTGAen4jqNNtgeVDg/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/1YELLOW-Diamond-ANTI-DUST-PLUG-STOPPER-Earphone-Galaxy-Note-IPHONE-IPAD-4-5-/141087174420?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">125.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">20.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">20.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT15H15M14S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-11T05:23:24.000Z</startTime>
+				<endTime>2015-06-03T05:28:24.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141087175048</itemId>
+			<title>1 GREEN Diamond ANTI DUST PLUG STOPPER Earphone Galaxy Note IPHONE IPAD 4 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mWF9Dp9RRMYDeaFgOgMikyw/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/1-GREEN-Diamond-ANTI-DUST-PLUG-STOPPER-Earphone-Galaxy-Note-IPHONE-IPAD-4-5-/141087175048?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">125.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">20.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">20.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT15H17M18S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-11T05:25:28.000Z</startTime>
+				<endTime>2015-06-03T05:30:28.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141087175784</itemId>
+			<title>1DARK GREEN Diamond ANTI DUST PLUG STOPPER Earphone Galaxy Note IPHONE IPAD 4 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mM5eND8P-B89v4iNTD1vxMg/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/1DARK-GREEN-Diamond-ANTI-DUST-PLUG-STOPPER-Earphone-Galaxy-Note-IPHONE-IPAD-4-5-/141087175784?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">125.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">20.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">20.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT15H19M43S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-11T05:27:53.000Z</startTime>
+				<endTime>2015-06-03T05:32:53.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141087178291</itemId>
+			<title>1LIGHT BLUE Diamond ANTI DUST PLUG STOPPER Earphone Galaxy Note IPHONE IPAD 4 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m-Z1f1wUe-7zE80ULDYjCAQ/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/1LIGHT-BLUE-Diamond-ANTI-DUST-PLUG-STOPPER-Earphone-Galaxy-Note-IPHONE-IPAD-4-5-/141087178291?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">125.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">20.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">20.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT15H26M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-11T05:34:31.000Z</startTime>
+				<endTime>2015-06-03T05:39:31.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141087180805</itemId>
+			<title>1PURPLE Diamond ANTI DUST PLUG STOPPER Earphone Galaxy Note IPHONE IPAD 4 5</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mZcZYhETeYHoLV0QbnN3zMQ/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/1PURPLE-Diamond-ANTI-DUST-PLUG-STOPPER-Earphone-Galaxy-Note-IPHONE-IPAD-4-5-/141087180805?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">125.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">20.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">20.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT15H30M8S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-11T05:38:18.000Z</startTime>
+				<endTime>2015-06-03T05:43:18.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>280981330662</itemId>
+			<title>Matte LCD Screen Protector Cover Guard for Apple iPhone 5 5th - PAYPAL ACCEPTED</title>
+			<globalId>EBAY-PH</globalId>
+			<primaryCategory>
+				<categoryId>9394</categoryId>
+				<categoryName>Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mWP-7K6ksZkl9i-VOWtbWzw/140.jpg</galleryURL>
+			<viewItemURL>
+				http://www.ebay.ph/itm/Matte-LCD-Screen-Protector-Cover-Guard-Apple-iPhone-5-5th-PAYPAL-ACCEPTED-/280981330662?pt=LH_DefaultDomain_211
+			</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Philippines</location>
+			<country>PH</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="PHP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>PH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="PHP">149.0</currentPrice>
+				<convertedCurrentPrice currencyId="PHP">149.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P10DT1H33M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-09-28T15:41:13.000Z</startTime>
+				<endTime>2015-05-16T15:46:13.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>95</totalPages>
+		<totalEntries>1882</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://www.ebay.ph/sch/i.html?LH_BIN=1&amp;LH_ItemCondition=1&amp;LH_IncludeSIF=1&amp;_nkw=iphone+5&amp;_ddo=1&amp;_ipg=20&amp;_pgn=1&amp;_sop=15</itemSearchURL>
+</findItemsByKeywordsResponse>

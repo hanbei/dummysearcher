@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductResponse
+	xmlns="http://www.shopzilla.com/services/catalog">
+	<Classification>
+		<relevancyScore>982</relevancyScore>
+		<searchUrl>http://www.bizrate-partner.com/samsung?rf=af1&amp;af_assettype_id=10&amp;af_creative_id=6&amp;af_id=603385&amp;af_placement_id=1</searchUrl>
+	</Classification>
+	<Offers includedResults="10" totalResults="250">
+		<PriceSet>
+			<minPrice integral="199">$1.99</minPrice>
+			<maxPrice integral="74999">$749.99</maxPrice>
+		</PriceSet>
+		<Offer merchantId="192250" categoryId="11510600" id="5801961207">
+			<title>Samsung Galaxy S4 LCD + Digitizer Assembly + Frame (GSM) - Black</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>If your Samsung Galaxy's screen/frame is damaged, get this non-refurbished, brand new Samsung
+				Galaxy S4 LCD and Touch Screen Digitizer with Frame (GSM) in Black from RepairsUniverse. This new screen
+				assembly will resolve all screen issues with your...
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.repairsuniverse.com%2Fsamsung-galaxy-s4-lcd-digitizer-assembly-frame-gsm-blue.html%3Futm_source%3DBizrateShopzilla%26utm_medium%3DCPC%26utm_term%3Dsamsung-galaxy-s4-lcd-digitizer-assembly-frame-gsm-blue%26utm_campaign%3DBizrateShopzilla&amp;mid=192250&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=5801961207&amp;pos=1&amp;b_id=18&amp;bid_type=2&amp;bamt=19217d09265b01cb&amp;cobrand=1&amp;ppr=36e5c7a5e97fe464&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4-pub.bizrate.com/resize?sq=60&amp;uid=5801961207&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4-pub.bizrate.com/resize?sq=100&amp;uid=5801961207&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4-pub.bizrate.com/resize?sq=160&amp;uid=5801961207&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4-pub.bizrate.com/resize?sq=400&amp;uid=5801961207&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>2BK1350</sku>
+			<upc>samsung-galaxy-s4-lcd-digitizer-frame-gsm-blue</upc>
+			<detailUrl>http://www.bizrate-partner.com/oid5801961207?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="12999">$129.99</price>
+			<originalPrice integral="13499">$134.99</originalPrice>
+			<markdownPercent>3.70</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>samsung-galaxy-s4-lcd-digitizer-assembly-frame-gsm-blue</merchantProductId>
+			<merchantName>RepairsUniverse</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img12.bizrate-images.com/merchant/little/192250.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>UNKNOWN</shipType>
+			<shipWeight>0.160</shipWeight>
+			<relevancy>7984.939941</relevancy>
+		</Offer>
+		<Offer merchantId="192250" categoryId="11510600" id="5563886144">
+			<title>Samsung Galaxy S4 LCD and Touch Screen Replacement White</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>This is the Galaxy S4 Glass Touch Digitizer and LCD Screen Replacement assembly part that is
+				non-refurbished, pre-tested, and 100% OEM-compliant. Whether you have damaged the Super AMOLED, cracked
+				the glass screen or there is something wrong with the...
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.repairsuniverse.com%2Fsamsung-galaxy-s4-lcd-touch-screen-replacement-white.html%3Futm_source%3DBizrateShopzilla%26utm_medium%3DCPC%26utm_term%3Dsamsung-galaxy-s4-lcd-touch-screen-replacement-white%26utm_campaign%3DBizrateShopzilla&amp;mid=192250&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=5563886144&amp;pos=1&amp;b_id=18&amp;bid_type=2&amp;bamt=19217d09265b01cb&amp;cobrand=1&amp;ppr=69a56ce6c475942e&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d1-pub.bizrate.com/resize?sq=60&amp;uid=5563886144&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d1-pub.bizrate.com/resize?sq=100&amp;uid=5563886144&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d1-pub.bizrate.com/resize?sq=160&amp;uid=5563886144&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d1-pub.bizrate.com/resize?sq=400&amp;uid=5563886144&amp;mid=192250&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>2BK0455</sku>
+			<upc>samsung-galaxy-s4-lcd-touch-screen-repair-white</upc>
+			<detailUrl>http://www.bizrate-partner.com/oid5563886144?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="11999">$119.99</price>
+			<originalPrice integral="13499">$134.99</originalPrice>
+			<markdownPercent>11.11</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>samsung-galaxy-s4-lcd-touch-screen-replacement-white</merchantProductId>
+			<merchantName>RepairsUniverse</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img12.bizrate-images.com/merchant/little/192250.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>UNKNOWN</shipType>
+			<shipWeight>0.200</shipWeight>
+			<relevancy>7845.288574</relevancy>
+		</Offer>
+		<Offer merchantId="294498" categoryId="11510600" id="6168678617">
+			<title>Samsung Galaxy Note 3 USB 3.0 Data Cable Original Samsung OEM...</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>This is a Samsung© white USB 3.0 data cable for Samsung© Galaxy Note 3 N9000 [OEM] ET-DQ10Y0WE.
+				Charge your cell phone with this USB 3.0 high speed data cable.Simultaneously charges your cell phone
+				and syncs/ transfers dataTransfers data up to 10x...
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.rectatech.com%2Fsamsung-galaxy-note-3-usb-3-0-data-cable-original-samsung-oem-et-dq10y0we%3F___store%3Dus&amp;mid=294498&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=6168678617&amp;pos=1&amp;b_id=18&amp;bid_type=0&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=718c92361b0ca9b1&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2-pub.bizrate.com/resize?sq=60&amp;uid=6168678617&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2-pub.bizrate.com/resize?sq=100&amp;uid=6168678617&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2-pub.bizrate.com/resize?sq=160&amp;uid=6168678617&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2-pub.bizrate.com/resize?sq=400&amp;uid=6168678617&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>ETDQ10Y0WE</sku>
+			<detailUrl>http://www.bizrate-partner.com/oid6168678617?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="899">$8.99</price>
+			<originalPrice integral="899">$8.99</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>C-USB-Cable-N3recta</merchantProductId>
+			<merchantName>Recta Tech</merchantName>
+			<MerchantRating value="7.30">
+				<Image xsize="34" ysize="34">http://img13.bizrate-images.com/site/smiley_good_34x34.gif</Image>
+			</MerchantRating>
+			<MerchantCertification certified="true" level="CUSTOMER_CERTIFIED">
+				<Image xsize="18" ysize="30">http://img11.bizrate-images.com/site/cc_ribbon_30x18_on.gif</Image>
+			</MerchantCertification>
+			<merchantLogoUrl>http://img12.bizrate-images.com/merchant/little/294498.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>UNKNOWN</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>5569.872070</relevancy>
+		</Offer>
+		<Offer merchantId="290612" categoryId="11510600" id="5906217352">
+			<title>&quot;Cobalt Wireless Bluetooth FM Transmitter Radio Adapter Hands-free Car Kit with Handsfree
+				Calling, Cigarette Lighter Charging Port for iPhone 5s 5c 4s 4 iPod, Android, MP3 player, iPad Air Mini
+				2, Samsung Galaxy S 4 3, Galaxy Note 3 2, Nexus 4 5, HTC...
+			</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>&quot;Upgrade your car with Hands Free Bluetooth through the stereo system. No more wires or
+				dashboard clutter. Just plug it in, connect your Bluetooth device, and drive. The phone cradle holds
+				most smartphones (min 2.1&quot;&quot;, max 2.9&quot;&quot;) such as the iPhone 5,...
+			</description>
+			<manufacturer>Source FM</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fsourcefmtransmitter.com%2Fshop%2Fcobalt-bluetooth-fm-transmitter%2F&amp;mid=290612&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=5906217352&amp;pos=1&amp;b_id=18&amp;bid_type=1&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=c3df62017714bfd0&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d1-pub.bizrate.com/resize?sq=60&amp;uid=5906217352&amp;mid=290612&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d1-pub.bizrate.com/resize?sq=100&amp;uid=5906217352&amp;mid=290612&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d1-pub.bizrate.com/resize?sq=160&amp;uid=5906217352&amp;mid=290612&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d1-pub.bizrate.com/resize?sq=400&amp;uid=5906217352&amp;mid=290612&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>BQNR7YBDOE</sku>
+			<upc>8.14358E+11</upc>
+			<detailUrl>http://www.bizrate-partner.com/oid5906217352?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="2999">$29.99</price>
+			<originalPrice integral="10000">$100.00</originalPrice>
+			<markdownPercent>70.01</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>BQ-NR7Y-BDOE</merchantProductId>
+			<merchantName>Source Fm</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="500">$5.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1.000</shipWeight>
+			<relevancy>5474.726074</relevancy>
+		</Offer>
+		<Offer merchantId="286448" categoryId="11510600" id="6141745598">
+			<title>Samsung Galaxy S5 Battery Replacement</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>OEM compliant</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.strivemobile.com%2Fsamsung-galaxy-s5-battery-replacement%3Futm_source%3DShopzilla%26utm_medium%3DCPC%26utm_campaign%3DShopzilla&amp;mid=286448&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=6141745598&amp;pos=1&amp;b_id=18&amp;bid_type=0&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=4a8c88292875e9ec&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d3-pub.bizrate.com/resize?sq=60&amp;uid=6141745598&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d3-pub.bizrate.com/resize?sq=100&amp;uid=6141745598&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d3-pub.bizrate.com/resize?sq=160&amp;uid=6141745598&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d3-pub.bizrate.com/resize?sq=400&amp;uid=6141745598&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>10BK1630</sku>
+			<detailUrl>http://www.bizrate-partner.com/oid6141745598?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="1999">$19.99</price>
+			<originalPrice integral="1999">$19.99</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>10-BK-1630</merchantProductId>
+			<merchantName>Strive Mobile Repairs</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.bizrate-images.com/merchant/little/286448.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>0.070</shipWeight>
+			<relevancy>5161.716797</relevancy>
+		</Offer>
+		<Offer merchantId="286448" categoryId="11510600" id="6141729803">
+			<title>Samsung Galaxy S5 G900P Charging Port Flex Cable (Sprint)</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung Galaxy S5 G900P Charging Port Flex Cable (Sprint)</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.strivemobile.com%2Fsamsung-galaxy-s5-g900p-charging-port-flex-cable-sprint%3Futm_source%3DShopzilla%26utm_medium%3DCPC%26utm_campaign%3DShopzilla&amp;mid=286448&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=6141729803&amp;pos=1&amp;b_id=18&amp;bid_type=0&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=95876b04671ef51c&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4-pub.bizrate.com/resize?sq=60&amp;uid=6141729803&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4-pub.bizrate.com/resize?sq=100&amp;uid=6141729803&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4-pub.bizrate.com/resize?sq=160&amp;uid=6141729803&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4-pub.bizrate.com/resize?sq=400&amp;uid=6141729803&amp;mid=286448&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>9BK1622</sku>
+			<detailUrl>http://www.bizrate-partner.com/oid6141729803?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="1499">$14.99</price>
+			<originalPrice integral="1499">$14.99</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>9-BK-1622</merchantProductId>
+			<merchantName>Strive Mobile Repairs</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.bizrate-images.com/merchant/little/286448.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>0.070</shipWeight>
+			<relevancy>5147.735352</relevancy>
+		</Offer>
+		<Offer merchantId="293739" categoryId="11510600" id="6114093933">
+			<title>BinTEK� Samsung Galaxy S5 EB-BG900BBC 2800mAH Li-Ion Li-Ion Premium Battery</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>BinTEK� Samsung Galaxy S5 EB-BG900BBC 2800mAH Li-Ion Li-Ion Premium Battery</description>
+			<manufacturer>BinTEK</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.phonepartsusa.com%2Fbintektm-samsung-galaxy-s5-eb-bg900bbc-2800mah-li-ion-li-ion-premium-battery-bt-bp-30062&amp;mid=293739&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=6114093933&amp;pos=1&amp;b_id=18&amp;bid_type=1&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=fc5409e1a6fc23e9&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2-pub.bizrate.com/resize?sq=60&amp;uid=6114093933&amp;mid=293739&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2-pub.bizrate.com/resize?sq=100&amp;uid=6114093933&amp;mid=293739&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2-pub.bizrate.com/resize?sq=160&amp;uid=6114093933&amp;mid=293739&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2-pub.bizrate.com/resize?sq=400&amp;uid=6114093933&amp;mid=293739&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<detailUrl>http://www.bizrate-partner.com/oid6114093933?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="1895">$18.95</price>
+			<originalPrice integral="1895">$18.95</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>BT-BP-30062</merchantProductId>
+			<merchantName>PhonePartsUSA.com</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="295">$2.95</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>5086.264648</relevancy>
+		</Offer>
+		<Offer merchantId="294498" categoryId="11510600" id="6168687712">
+			<title>Rock Elegant Series Flip Case for Samsung Galaxy S5 Pink</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>This is a brand new Rock high quality leather case for Samsung Galaxy S5.  It is made up of
+				imported PU + high quality polycarbonate material, and it has easy access to all buttons and ports
+				without removing the case.  With its hard pc inner frame, it...
+			</description>
+			<manufacturer>Rock</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.rectatech.com%2Frock-elegant-series-flip-case-for-samsung-galaxy-s5-pink%3F___store%3Dus&amp;mid=294498&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=6168687712&amp;pos=1&amp;b_id=18&amp;bid_type=0&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=82de66ee967f8f65&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d1-pub.bizrate.com/resize?sq=60&amp;uid=6168687712&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d1-pub.bizrate.com/resize?sq=100&amp;uid=6168687712&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d1-pub.bizrate.com/resize?sq=160&amp;uid=6168687712&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d1-pub.bizrate.com/resize?sq=400&amp;uid=6168687712&amp;mid=294498&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>S5RockFlipPink</sku>
+			<detailUrl>http://www.bizrate-partner.com/oid6168687712?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="2199">$21.99</price>
+			<originalPrice integral="2199">$21.99</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>S5-Rock-Flip-Pinkrecta</merchantProductId>
+			<merchantName>Recta Tech</merchantName>
+			<MerchantRating value="7.30">
+				<Image xsize="34" ysize="34">http://img13.bizrate-images.com/site/smiley_good_34x34.gif</Image>
+			</MerchantRating>
+			<MerchantCertification certified="true" level="CUSTOMER_CERTIFIED">
+				<Image xsize="18" ysize="30">http://img11.bizrate-images.com/site/cc_ribbon_30x18_on.gif</Image>
+			</MerchantCertification>
+			<merchantLogoUrl>http://img12.bizrate-images.com/merchant/little/294498.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>UNKNOWN</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>4865.209473</relevancy>
+		</Offer>
+		<Offer merchantId="292560" categoryId="11510600" id="6031311216">
+			<title>3000mAh Power Bank Flip Battery Case For SAMSUNG GALAXY s4 mini i9190</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Hot Selling SAMSUNG GALAXY s4 mini i9190 battery case offers over 100% power with a 3000mAh
+				capacity rechargeable battery for your SAMSUNG GALAXY family.
+			</description>
+			<manufacturer>NewNow</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fwww.newnow.com%2Fproducts%2F3000mah-samsung-galaxy-s4-mini-i9190-power-bank-flip-case.html&amp;mid=292560&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=6031311216&amp;pos=1&amp;b_id=18&amp;bid_type=2&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=a753ce49b02e18e5&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d1-pub.bizrate.com/resize?sq=60&amp;uid=6031311216&amp;mid=292560&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d1-pub.bizrate.com/resize?sq=100&amp;uid=6031311216&amp;mid=292560&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d1-pub.bizrate.com/resize?sq=160&amp;uid=6031311216&amp;mid=292560&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d1-pub.bizrate.com/resize?sq=400&amp;uid=6031311216&amp;mid=292560&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>MP11864</sku>
+			<detailUrl>http://www.bizrate-partner.com/oid6031311216?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="2256">$22.56</price>
+			<originalPrice integral="4512">$45.12</originalPrice>
+			<markdownPercent>50.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>56</merchantProductId>
+			<merchantName>NewNow</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.bizrate-images.com/merchant/little/292560.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>500.000</shipWeight>
+			<relevancy>4832.659180</relevancy>
+		</Offer>
+		<Offer merchantId="32908" categoryId="11510600" id="6087126000">
+			<title>Samsung Galaxy Note Pro SMP905VZKA</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Meet the innovative and immersive Samsung Galaxy NotePro. It has the utility and elegance you'd
+				expect from a tablet, plus a dazzling 12.2-inch Full HD display and business essentialsall in a
+				lightweight design. With this combination of size, power and...
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.bizrate.com/rd?t=http%3A%2F%2Fverizonwireless.rdr.channelintelligence.com%2Fgo.asp%3FfVhzOC8fBggESSMBIjNSQxQIfggFLx8GTAICI2VeUV5KXW5DPywnWUIKHxg*NkEHBAZDMlpHU00gL31DV0QfWzM5VFFTQBNqF3FxYRYDAQAJaGNYUllITGFXNzAjFx0fRkcofBkGGRpbMVFTVlYmKDZeQR5TWjJ9GwIJH0QqV2w3MkBBRV5RcjUODwoLWHNRLDA2AEJCXxhgMQITVhBSOxJ3V0szPjpBXlEdaxICVlNeJXsVZWU3IU5RX1RcYjEGCjRCEW4LcHBlFRRTQV48PQsGVk9CMlZHVE0na20%3D%26nAID%3D10043468&amp;mid=32908&amp;cat_id=11510600&amp;atom=10382&amp;prod_id=&amp;oid=6087126000&amp;pos=1&amp;b_id=18&amp;bid_type=2&amp;bamt=a5fedf14fd8fec0d&amp;cobrand=1&amp;ppr=35da7bb0e2222e60&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d1-pub.bizrate.com/resize?sq=60&amp;uid=6087126000&amp;mid=32908&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d1-pub.bizrate.com/resize?sq=100&amp;uid=6087126000&amp;mid=32908&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d1-pub.bizrate.com/resize?sq=160&amp;uid=6087126000&amp;mid=32908&amp;kw=samsung&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d1-pub.bizrate.com/resize?sq=400&amp;uid=6087126000&amp;mid=32908&amp;kw=samsung&amp;af_sid=22</Image>
+			</Images>
+			<sku>SMP905VZKA</sku>
+			<detailUrl>http://www.bizrate-partner.com/oid6087126000?af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=603385&amp;af_placement_id=1</detailUrl>
+			<price integral="74999">$749.99</price>
+			<originalPrice integral="74999">$749.99</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>SMP905VZKA</merchantProductId>
+			<merchantName>Verizon Wireless</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.bizrate-images.com/merchant/little/32908.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">$0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>4667.313477</relevancy>
+		</Offer>
+	</Offers>
+</ProductResponse>

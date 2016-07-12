@@ -1,0 +1,889 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:11:56.207Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>311273870824</itemId>
+			<title>Cavo USB 30cm dati nero piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=311273870824</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H35M1S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:41:57.000Z</startTime>
+				<endTime>2015-05-29T07:46:57.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/311273870824_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>311273870986</itemId>
+			<title>Cavo USB 30cm dati bianco piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=311273870986</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H35M19S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:15.000Z</startTime>
+				<endTime>2015-05-29T07:47:15.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/311273870986_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371192625860</itemId>
+			<title>Pink Gel TPU Case Cover Protector for Apple iPhone 5/5S 16GB/32GB/64GB UK</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mfhNibHUwf2xebROpWkxN7w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=371192625860</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>NW27JP</postalCode>
+			<location>Regno Unito</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.65</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.34</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P10DT23H20M36S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-18T14:27:32.000Z</startTime>
+				<endTime>2015-05-17T14:32:32.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443349</itemId>
+			<title>Cavo USB 30cm dati nero piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=321654443349</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H35M17S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:13.000Z</startTime>
+				<endTime>2015-05-29T07:47:13.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443349_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443385</itemId>
+			<title>Cavo USB 30cm dati bianco piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=321654443385</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H35M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:16.000Z</startTime>
+				<endTime>2015-05-29T07:47:16.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443385_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>311264992565</itemId>
+			<title>Cavo USB 1m dati blu piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m4HkfEo5bGfxPH8Sq5-hBAA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=311264992565</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H43M57S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:50:53.000Z</startTime>
+				<endTime>2015-05-22T08:55:53.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/311264992565_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>311264993728</itemId>
+			<title>Cavo USB 1m dati verde piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/metmfj7JxMr1PiNydh-se2w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=311264993728</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H44M48S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:51:44.000Z</startTime>
+				<endTime>2015-05-22T08:56:44.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/311264993728_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>311264994715</itemId>
+			<title>Cavo USB 1m dati rosso piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mRFn6GiJYcy1NRxdfHAf-iw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=311264994715</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H45M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:51:59.000Z</startTime>
+				<endTime>2015-05-22T08:56:59.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/311264994715_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171694901028</itemId>
+			<title>3in1 USB Cavo Universale VHBW per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mxuppiNamgeKeuMBidBzMQQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=171694901028</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT15H54M14S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T07:01:10.000Z</startTime>
+				<endTime>2015-05-25T07:06:10.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/171694901028_1_5_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>311273870549</itemId>
+			<title>Cavo USB 1m dati giallo piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mBc6CfGihxeY99ATfb0hO4g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=311273870549</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H34M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:41:35.000Z</startTime>
+				<endTime>2015-05-29T07:46:35.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/311273870549_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>191496623502</itemId>
+			<title>Cavo USB 1m dati nero piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mnf_lBhUWo6VZ9jyE3OLfwg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=191496623502</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H35M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:50.000Z</startTime>
+				<endTime>2015-05-29T07:47:50.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/191496623502_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171660923413</itemId>
+			<title>Cavo USB 1m dati bianco piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mjnEMU4PObWGfNEe2xTPQrA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=171660923413</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H36M12S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:43:08.000Z</startTime>
+				<endTime>2015-05-29T07:48:08.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/171660923413_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351293135312</itemId>
+			<title>Cavo USB 1m dati blu piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m4HkfEo5bGfxPH8Sq5-hBAA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=351293135312</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H43M45S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:50:41.000Z</startTime>
+				<endTime>2015-05-22T08:55:41.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/351293135312_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351293135324</itemId>
+			<title>Cavo USB 1m dati verde piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/metmfj7JxMr1PiNydh-se2w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=351293135324</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H43M46S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:50:42.000Z</startTime>
+				<endTime>2015-05-22T08:55:42.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/351293135324_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>191490102022</itemId>
+			<title>Cavo USB 1m dati rosso piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mRFn6GiJYcy1NRxdfHAf-iw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=191490102022</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H44M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:51:17.000Z</startTime>
+				<endTime>2015-05-22T08:56:17.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/191490102022_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321678274935</itemId>
+			<title>3in1 USB Cavo Universale per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mxuppiNamgeKeuMBidBzMQQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=321678274935</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT15H53M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T07:00:45.000Z</startTime>
+				<endTime>2015-05-25T07:05:45.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321678274935_1_5_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>191496623456</itemId>
+			<title>Cavo USB 1m dati bianco piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mjnEMU4PObWGfNEe2xTPQrA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=191496623456</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H35M48S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:44.000Z</startTime>
+				<endTime>2015-05-29T07:47:44.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/191496623456_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443789</itemId>
+			<title>Cavo USB 1m dati giallo piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mBc6CfGihxeY99ATfb0hO4g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=321654443789</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H35M50S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:46.000Z</startTime>
+				<endTime>2015-05-29T07:47:46.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443789_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351299735335</itemId>
+			<title>Cavo USB 1m dati nero piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mnf_lBhUWo6VZ9jyE3OLfwg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=351299735335</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H36M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:43:17.000Z</startTime>
+				<endTime>2015-05-29T07:48:17.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/351299735335_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>311273870507</itemId>
+			<title>Cavo USB 1,8m dati nero piano vhbw per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mMUAcHwvTBi_MN4LcCk5B-w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229494&amp;item=311273870507</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Torino,Italia</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">5.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">5.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H34M35S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:41:31.000Z</startTime>
+				<endTime>2015-05-29T07:46:31.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/311273870507_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Nuovo</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>22</totalPages>
+		<totalEntries>426</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

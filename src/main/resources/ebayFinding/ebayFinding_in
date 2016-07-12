@@ -1,0 +1,850 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:11:11.342Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>181266729543</itemId>
+			<title>Branded 3-Layer Scratch Guard Screen Protector For Apple iPhone 5S 16GB Clear</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>VAT Invoice+Mfr Wrty+ Titanium PowerSeller+ Powership</subtitle>
+			<primaryCategory>
+				<categoryId>162263</categoryId>
+				<categoryName>ScratchGuard, Screen Protector</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mZNMPWB6DyJuJO_w3hqKVjg/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=181266729543</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">161.5</currentPrice>
+				<convertedCurrentPrice currencyId="INR">161.5</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT16H7M23S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-11-22T07:13:34.000Z</startTime>
+				<endTime>2015-05-16T07:18:34.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171179344904</itemId>
+			<title>Branded 3-Layer Scratch Guard Screen Protector Apple iPhone 5S 16GB GOLD Clear</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>VAT Invoice+Mfr Wrty+ Titanium PowerSeller+ Powership</subtitle>
+			<primaryCategory>
+				<categoryId>162263</categoryId>
+				<categoryName>ScratchGuard, Screen Protector</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mZNMPWB6DyJuJO_w3hqKVjg/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=171179344904</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">161.5</currentPrice>
+				<convertedCurrentPrice currencyId="INR">161.5</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT16H23M28S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-11-22T07:29:39.000Z</startTime>
+				<endTime>2015-05-16T07:34:39.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291326871174</itemId>
+			<title>Premium Slip In Pull Up Hand Pouch Case wid Strap Apple iphone 5S 16gb 32gb 64gb</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>GOSF Sale+Stock in Hand+Powerseller</subtitle>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Pouches</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m_wHz8IcQ5n2SD2MoeB2rDQ/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=291326871174</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">275.5</currentPrice>
+				<convertedCurrentPrice currencyId="INR">275.5</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P7DT22H47M24S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-12-15T13:53:35.000Z</startTime>
+				<endTime>2015-05-14T13:58:35.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291206129573</itemId>
+			<title>NEW APPLE iPhone 5S 16GB 32GB BATTERY LI-ION REPLACEMENT BATTERY 3.8V &amp;1560MAH</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>DURABLE PRODUCT WITH HIGH QUALITY</subtitle>
+			<primaryCategory>
+				<categoryId>72113</categoryId>
+				<categoryName>Batteries</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m-Pl7tI7OMyuZj7uf0jIRcg/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=291206129573</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>110009</postalCode>
+			<location>DELHI,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">775.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">775.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P21DT18H58M50S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-08-01T10:05:01.000Z</startTime>
+				<endTime>2015-05-28T10:10:01.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>331525712421</itemId>
+			<title>INSTEN Black Folding Travel Speaker For iPhone 4 4s 5 5th 5C 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-IN</globalId>
+			<primaryCategory>
+				<categoryId>86529</categoryId>
+				<categoryName>Apple iPod Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/muqBr8XuTHX1KP8y34iYilA/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=331525712421</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">1657.8</currentPrice>
+				<convertedCurrentPrice currencyId="INR">1657.8</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT9H59M29S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-09T01:05:40.000Z</startTime>
+				<endTime>2015-05-09T01:10:40.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>151668941207</itemId>
+			<title>16GB - iFlashDrive Photo Fast For Adding Extra Storage For iPhone 5s 6 iPad iPod</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>Fast ship plus top quality + cheapest on ebay+free gift</subtitle>
+			<primaryCategory>
+				<categoryId>18867</categoryId>
+				<categoryName>Memory Cards &amp; Readers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/my8mscGgjMuF2zaBh9wOtKA/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=151668941207</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>411048</postalCode>
+			<location>Pune,MAHARASHTRA,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">55.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">1999.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">1999.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P26DT17H31M24S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-03T08:37:35.000Z</startTime>
+				<endTime>2015-06-02T08:42:35.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/151668941207_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>121597653919</itemId>
+			<title>16GB i-Flash Drive USB Flash Drive for Apple iPhone 5 5s 5c 6 6 plus iPad</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>COD +EMI + Fast Ship+ From Trust Seller</subtitle>
+			<primaryCategory>
+				<categoryId>10364</categoryId>
+				<categoryName>Other Mobile Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mWx3WV6zfhh_BZQ-7z5_s_A/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=121597653919</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">2250.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">2250.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P8DT23H1M0S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-16T14:07:11.000Z</startTime>
+				<endTime>2015-05-15T14:12:11.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/121597653919_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>271840519660</itemId>
+			<title>USB i-Flash Drive for iPhone 5 5C 5S 6 iPad iPod + 16 GB Micro Sd Card Free.</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>Expandable Memory through Micro SD Card Slot</subtitle>
+			<primaryCategory>
+				<categoryId>10364</categoryId>
+				<categoryName>Other Mobile Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mIjLtVlPb3PRS4YXy6n3YtA/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=271840519660</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>400002</postalCode>
+			<location>MUMBAI,MAHARASHTRA,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">2799.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">2799.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT23H33M27S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-16T14:39:38.000Z</startTime>
+				<endTime>2015-05-16T14:44:38.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>301311160335</itemId>
+			<title>Genuine LCD Display with Touch Screen+Frame For iphone 5S 16GB 32GB 64GB -Black</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>100% Genuine product with warranty</subtitle>
+			<primaryCategory>
+				<categoryId>39401</categoryId>
+				<categoryName>LCD Screens</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mkjDpxOZNudbFGitGrOFe0g/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=301311160335</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>560094</postalCode>
+			<location>DASARAHALLI,KARNATAKA,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">4989.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">4989.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P3DT2H17M57S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-09-11T17:24:08.000Z</startTime>
+				<endTime>2015-05-09T17:29:08.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321735454531</itemId>
+			<title>NEW! Mophie Space Pack Battery Case for iPhone 5s/5 Black 16GB Extra Storage</title>
+			<globalId>EBAY-IN</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Pouches</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mooTt9UjXo2zt-0UwNC7Euw/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=321735454531</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">6583.67</currentPrice>
+				<convertedCurrentPrice currencyId="INR">6583.67</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P17DT12H12M53S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-24T03:19:04.000Z</startTime>
+				<endTime>2015-05-24T03:24:04.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321740609341</itemId>
+			<title>NEW!!! Mophie Space Pack Battery Case for iPhone 5/5S - 16GB - Black/Matte</title>
+			<globalId>EBAY-IN</globalId>
+			<primaryCategory>
+				<categoryId>72113</categoryId>
+				<categoryName>Batteries</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mw_GHJd2zCJMxrg0IHOK-_Q/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=321740609341</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">8953.45</currentPrice>
+				<convertedCurrentPrice currencyId="INR">8953.45</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT13H9M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-29T04:16:05.000Z</startTime>
+				<endTime>2015-05-29T04:21:05.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>331498598444</itemId>
+			<title>Mophie Space Pack Battery Case - Apple iPhone 5/5S, 1700mAh, 16GB Storage - Blac</title>
+			<globalId>EBAY-IN</globalId>
+			<primaryCategory>
+				<categoryId>79846</categoryId>
+				<categoryName>Batteries &amp; Chargers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mR1BNikarLMPMM3LArUna4g/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=331498598444</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">17494.5</currentPrice>
+				<convertedCurrentPrice currencyId="INR">17494.5</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT7H41M9S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-06T22:47:20.000Z</startTime>
+				<endTime>2015-06-04T22:52:20.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>381251334892</itemId>
+			<title>GEB - 151664141142 - NEW SEALED - iPhone 5s - 16GB - Sp[06/19:09:54]</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>Global Easy Buy Payment for International Item</subtitle>
+			<primaryCategory>
+				<categoryId>157612</categoryId>
+				<categoryName>Others</categoryName>
+			</primaryCategory>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=381251334892</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">27767.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">27767.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT22H28M44S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-06T13:39:55.000Z</startTime>
+				<endTime>2015-05-09T13:39:55.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171780034569</itemId>
+			<title>GEB - 151664141142 - NEW SEALED - iPhone 5s - 16GB - Sp[06/19:12:11]</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>Global Easy Buy Payment for International Item</subtitle>
+			<primaryCategory>
+				<categoryId>157612</categoryId>
+				<categoryName>Others</categoryName>
+			</primaryCategory>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=171780034569</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">27767.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">27767.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT22H31M2S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-06T13:42:13.000Z</startTime>
+				<endTime>2015-05-09T13:42:13.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>271860422848</itemId>
+			<title>Apple iPhone 5s - 16 GB - Space Grey - Smartphone</title>
+			<globalId>EBAY-IN</globalId>
+			<primaryCategory>
+				<categoryId>15032</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mTglE12h4Z3-183rc-4yA_Q/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=271860422848</viewItemURL>
+			<productId type="ReferenceID">172629175</productId>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>122001</postalCode>
+			<location>GURGAON,HARYANA,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">31999.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">31999.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P8DT14H47M24S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-05T05:58:35.000Z</startTime>
+				<endTime>2015-05-15T05:58:35.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>131503063894</itemId>
+			<title>ONE TIME OFFER !! APPLE I PHONE 5S 16GB WHITE FACTORY UNLOCKED IMPORTED</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>TOP RATED SELLER.!COUPONS ARE APPLICABLE!1 YEAR WARANTY</subtitle>
+			<primaryCategory>
+				<categoryId>15032</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mppt_jeU2KXtQJwKHGNYtTg/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=131503063894</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>700023</postalCode>
+			<location>KOLKATA,WEST BENGAL,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">31999.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">31999.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT13H34M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-04T04:46:07.000Z</startTime>
+				<endTime>2015-06-03T04:46:07.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141656722029</itemId>
+			<title>ONE TIME OFFER !! APPLE I PHONE 5S 16GB SPACE GREY FACTORY UNLOCKED IMPORTED</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>TOP RATED SELLER.!COUPONS ARE APPLICABLE!1 YEAR WARANTY</subtitle>
+			<primaryCategory>
+				<categoryId>15032</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m9e_lFM8jhY5SIqlWMRlo3w/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=141656722029</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>700023</postalCode>
+			<location>KOLKATA,WEST BENGAL,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">31999.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">31999.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT13H41M2S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-04T04:52:13.000Z</startTime>
+				<endTime>2015-06-03T04:52:13.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221764525564</itemId>
+			<title>Apple iPhone 5S 16GB | Space Gray | Brand New | LOWEST ON EBAY</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>1Yr Slr Wrty |Coupon Inside use &amp; Get it @ Rs.30030/-</subtitle>
+			<primaryCategory>
+				<categoryId>15032</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mwtWZL0HZUF3wVLJPBI_KWQ/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=221764525564</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>600001</postalCode>
+			<location>CHENNAI,TAMIL NADU,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">33000.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">33000.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT5H25M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-05T20:37:07.000Z</startTime>
+				<endTime>2015-05-08T20:37:07.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>261875894866</itemId>
+			<title>Brand New Factory Unlocked Apple iPhone 5S 16 GB (Space Grey) - SEALED BOX</title>
+			<globalId>EBAY-IN</globalId>
+			<primaryCategory>
+				<categoryId>15032</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mVo7x8JoAWyips5q1O7fl-A/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=261875894866</viewItemURL>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<paymentMethod>COD</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>683109</postalCode>
+			<location>ALUVA,KERALA,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">33333.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">33333.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P7DT19H12M47S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-04T10:23:58.000Z</startTime>
+				<endTime>2015-05-14T10:23:58.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221758930724</itemId>
+			<title>Apple iPhone 5S 16GB-Gold-Imported</title>
+			<globalId>EBAY-IN</globalId>
+			<subtitle>Expedite Dispatch-Best Deal Ever-Unbeatable Price.</subtitle>
+			<primaryCategory>
+				<categoryId>15032</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/muwI705Y-vc8nBThNLk_v4A/80.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=238521&amp;item=221758930724</viewItemURL>
+			<productId type="ReferenceID">172604821</productId>
+			<paymentMethod>PaisaPayEMI</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>110034</postalCode>
+			<location>DELHI,India</location>
+			<country>IN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="INR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>IN</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="INR">33487.0</currentPrice>
+				<convertedCurrentPrice currencyId="INR">33487.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P23DT21H18M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-30T12:30:00.000Z</startTime>
+				<endTime>2015-05-30T12:30:00.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>4</totalPages>
+		<totalEntries>64</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/4686-53472-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.in%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

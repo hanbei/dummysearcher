@@ -1,0 +1,2214 @@
+<GeneralSearchResponse
+	xmlns="urn:types.partner.api.shopping.com">
+	<serverDetail>
+		<apiEnv>prod</apiEnv>
+		<apiVersion>r91.2015.sprint08</apiVersion>
+		<buildNumber>27169</buildNumber>
+		<buildTimestamp>2015.04.29 15:40:16 PST</buildTimestamp>
+		<requestId>p15.6acda90838243e9f5e9e</requestId>
+		<timestamp>2015-05-05T09:31:29.448-04:00</timestamp>
+		<responseTime>P0DT0H0M0.064S</responseTime>
+	</serverDetail>
+	<exceptions exceptionCount="2">
+		<exception type="warning">
+			<code>1148</code>
+			<message>WARNING: Missing the "visitorUserAgent" parameter. Discover how you can easily add it to your
+				queries: http://developer.shopping.com/docs/read/Adding_Useragent_to_your_Queries
+			</message>
+		</exception>
+		<exception type="warning">
+			<code>1149</code>
+			<message>WARNING: We detected that you are missing the parameter "visitorIPAddress".</message>
+		</exception>
+	</exceptions>
+	<clientTracking height="19" type="logo" width="106">
+		<sourceURL>http://www999.shopping.com/pixel/noscript?PV_EvnTyp=APPV&amp;APPV_APITSP=05%2F05%2F15_09%3A31%3A29_AM&amp;APPV_DSPRQSID=p15.6acda90838243e9f5e9e&amp;APPV_IMGURL=http://img.shopping.com/sc/glb/ecn_logo_api.png&amp;APPV_LI_LNKINID=8053756&amp;APPV_LI_SBMKYW=samsung&amp;APPV_MTCTYP=1000&amp;APPV_PRTID=148656&amp;APPV_BrnID=14743</sourceURL>
+		<hrefURL>http://www.au.shopping.com/cartridges-and-toners/products</hrefURL>
+		<titleText>Cartridges and Toners</titleText>
+		<altText>Cartridges and Toners</altText>
+	</clientTracking>
+	<searchHistory>
+		<categorySelection id="72">
+			<name>Computers</name>
+			<categoryURL>http://www.au.shopping.com/xCH-computers-samsung~linkin_id-8053756?oq=samsung</categoryURL>
+		</categorySelection>
+		<categorySelection id="96409">
+			<name>Computer Accessories</name>
+			<categoryURL>http://www.au.shopping.com/xCH-computer_accessories-samsung~linkin_id-8053756?oq=samsung
+			</categoryURL>
+		</categorySelection>
+		<categorySelection id="352">
+			<name>Cartridges and Toners</name>
+			<categoryURL>http://www.au.shopping.com/cartridges-and-toners/samsung/products?oq=samsung&amp;linkin_id=8053756</categoryURL>
+		</categorySelection>
+		<dynamicNavigationHistory>
+			<keywordSearch dropped="false" modified="false">
+				<originalKeyword>samsung</originalKeyword>
+				<resultKeyword>samsung</resultKeyword>
+			</keywordSearch>
+		</dynamicNavigationHistory>
+	</searchHistory>
+	<categories matchedCategoryCount="1" returnedCategoryCount="1">
+		<category id="352">
+			<name>Cartridges and Toners</name>
+			<categoryURL>http://www.au.shopping.com/cartridges-and-toners/samsung/products?oq=samsung&amp;linkin_id=8053756</categoryURL>
+			<items matchedItemCount="201" pageNumber="1" returnedItemCount="10">
+				<product id="140780118">
+					<name>Samsung (CLT-K406S) Toner Cartridge</name>
+					<fullDescription>Only original Samsung supplies allow users to take full advantage of the advanced
+						easy-to-use features and benefits built into every Samsung printer. Samsung designs and
+						manufactures our original color supplies hand-in-hand with Samsung printers to ensure the full
+						spectrum of bright, crisp colors, print quality and reliability that result in real value and
+						savings.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqF,!nsFECuimfP,BRryK+0QEQ~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;pid=140780118&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;pid=140780118&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;pid=140780118&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;pid=140780118&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="180" width="180">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqF,!nsFECuimfP,BRryK+0QEQ~~_32-180x180-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;pid=140780118&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>50.30</minPrice>
+					<maxPrice>79.00</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/samsung-samsung-clt-k406s-toner-black/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/samsung-samsung-clt-k406s-toner-black/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="3" pageNumber="1" returnedOfferCount="3">
+						<offer featured="false" id="1Xrd-pdqtq03WZnAqoBMhA==" smartBuy="false" used="false">
+							<name>Samsung CLTK406S Black Toner</name>
+							<description>Purchase genuine Samsung consumables for all your printing needs.Enjoy quality,
+								reliability and performance without sacrificing the useful life of your printer.Drop off
+								your used Samsung toner cartridges at any Officeworks store for recycling.Product
+								Details:Brand: Samsung Colour: BlackDimensions(WDH): 73 X 183 X 363 MmWeight: 0.52
+								KgsCompatible Machines: Clp-360365Manufacturer Code: Clt-K406SSee
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/58/72/642d70647174713033575a6e41716f424d6841-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/58/72/642d70647174713033575a6e41716f424d6841-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/58/72/642d70647174713033575a6e41716f424d6841-250x250-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="AUD">79.00</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">79.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=0&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=513023&amp;crawler_id=513023&amp;dealId=1Xrd-pdqtq03WZnAqoBMhA%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D1914160781%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLTK406S+Black+Toner&amp;dlprc=79.0&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140780118&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=9&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SACLTK406S</offerURL>
+							<store authorizedReseller="false" id="513023" trusted="false">
+								<name>Officeworks</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/513023.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.30</cpc>
+							<sku>SACLTK406S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTK406S</mpn>
+						</offer>
+						<offer featured="false" id="Pim20zwLXHJYWdjcEVAEJQ==" smartBuy="false" used="false">
+							<name>Samsung CLT-K406S Black Toner Cartridge (Up to 1,500 pages)</name>
+							<description>Genuine Samsung CLTK406S for: CLP-360, CLP-365, CLP-365W, CLX-3300, CLX-3305
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/50/69/6d/32307a774c58484a5957646a63455641454a51-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/50/69/6d/32307a774c58484a5957646a63455641454a51-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/50/69/6d/32307a774c58484a5957646a63455641454a51-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/50/69/6d/32307a774c58484a5957646a63455641454a51-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">56.60</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">56.60</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=Pim20zwLXHJYWdjcEVAEJQ%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clt-k406s-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-K406S+Black+Toner+Cartridge+%28Up+to+1%2C500+pages%29&amp;dlprc=56.6&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140780118&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLTK406S</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLTK406S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTK406S</mpn>
+						</offer>
+						<offer featured="false" id="1KU3fNph7Q_fzvq5q443sg==" smartBuy="false" used="false">
+							<name>Samsung CLT-K406S Black Toner Cartridge (CLT-K406S) CLT-406 CLT406 CLTK406S CLX-3305;
+								SL-C410W; CLP-360; CLP-365; SL-C460FW; CLX-3300
+							</name>
+							<description>Samsung CLT-K406S Black Toner Cartridge (CLT-K406S) CLT-406 CLT406 CLTK406S
+								CLX-3305; SL-C410W; CLP-360; CLP-365; SL-C460FW; CLX-3300
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/31/4b/55/33664e706837515f667a767135713434337367-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="200" width="200">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="150" width="150">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/31/4b/55/33664e706837515f667a767135713434337367-150x150-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=140780118&amp;fks=0&amp;pdid=1Xrd-pdqtq03WZnAqoBMhA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">50.30</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">50.30</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=1KU3fNph7Q_fzvq5q443sg%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-k406s-black-toner-cartridge%2FGP1916%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-K406S+Black+Toner+Cartridge+%28CLT-K406S%29+CLT-406+CLT406+CLTK406S++CLX-3305%3B+SL-C410W%3B+CLP-360%3B+CLP-365%3B+SL-C460FW%3B+CLX-3300&amp;dlprc=50.3&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140780118&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1916</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>GP1916</sku>
+							<quantity>0</quantity>
+							<mpn>CLTK406S</mpn>
+						</offer>
+					</offers>
+					<numStores>3</numStores>
+				</product>
+				<product id="140780179">
+					<name>Samsung (CLT-K504S) Toner Cartridge</name>
+					<fullDescription>Samsung CLT-K504S Toner Cartridge - Black Laser 2500 Page - CLT-K504S Samsung
+						Electronics is a South Korean multinational corporation and the world's largest and leading
+						electronics and information technology company. Samsung Electronics was founded in 1969 in
+						Daegu, South Korea as Samsung Electric Industries originally manufacturing electronic appliances
+						such as TVs, calculators, refrigerators, air conditioners and washers.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16N,!yME9s5qF8ZwBRryLU)+dg~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;pid=140780179&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;pid=140780179&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;pid=140780179&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;pid=140780179&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="180" width="180">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16N,!yME9s5qF8ZwBRryLU)+dg~~_32-180x180-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;pid=140780179&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>63.20</minPrice>
+					<maxPrice>135.00</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/samsung-samsung-clt-k504s-toner-black/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/samsung-samsung-clt-k504s-toner-black/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="4" pageNumber="1" returnedOfferCount="4">
+						<offer featured="false" id="jSSjr89yLlLg1NFojvv3LQ==" smartBuy="false" used="false">
+							<name>Samsung CLTK504S Black Toner</name>
+							<description>Purchase genuine Samsung consumables for all your printing needs.Enjoy quality,
+								reliability and performance without sacrificing the useful life of your printer.Drop off
+								your used Samsung toner cartridges at any Officeworks store for recycling,Product
+								Details:Brand: SamsungColour: BlackCompatible Machines: Clp415, Clx4170,
+								Clx4195Estimated Page Yield: 2500Manufacturer Code: Clt-K504SSee
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6a/53/53/6a723839794c6c4c67314e466f6a7676334c51-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6a/53/53/6a723839794c6c4c67314e466f6a7676334c51-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/6a/53/53/6a723839794c6c4c67314e466f6a7676334c51-250x250-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="AUD">135.00</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">135.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=0&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=513023&amp;crawler_id=513023&amp;dealId=jSSjr89yLlLg1NFojvv3LQ%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D1891597920%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLTK504S+Black+Toner&amp;dlprc=135.0&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140780179&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=9&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SACLTK504S</offerURL>
+							<store authorizedReseller="false" id="513023" trusted="false">
+								<name>Officeworks</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/513023.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.30</cpc>
+							<sku>SACLTK504S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTK504S</mpn>
+						</offer>
+						<offer featured="false" id="YDCFViMxfFx9CYxLQ8eWaA==" smartBuy="false" used="false">
+							<name>Samsung CLT-K504S Black Toner Cartridge (Up to 2,500 pages)</name>
+							<description>Genuine Samsung CLTK504S for: CLP-415N, CLP-415W, CLX-4170, CLX-4195FN,
+								CLX-4195FW
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/59/44/43/4656694d78664678394359784c513865576141-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=2&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/59/44/43/4656694d78664678394359784c513865576141-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=2&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/59/44/43/4656694d78664678394359784c513865576141-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=2&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/59/44/43/4656694d78664678394359784c513865576141-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=2&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">105.00</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">105.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=YDCFViMxfFx9CYxLQ8eWaA%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clt-k504s-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-K504S+Black+Toner+Cartridge+%28Up+to+2%2C500+pages%29&amp;dlprc=105.0&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140780179&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLTK504S</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLTK504S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTK504S</mpn>
+						</offer>
+						<offer featured="false" id="woPgYMAwH2hZUcd2Pq1SKQ==" smartBuy="false" used="false">
+							<name>Samsung CLT-K504S Compatible Black Toner Cartridge (CLT-K504S) CLTK504S SL-C1810W;
+								SL-C1860FW; CLX-4190; CLX-6210FX; CLX-6240FX
+							</name>
+							<description>Samsung CLT-K504S Compatible Black Toner Cartridge (CLT-K504S) CLTK504S
+								SL-C1810W; SL-C1860FW; CLX-4190; CLX-6210FX; CLX-6240FX
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/77/6f/50/67594d41774832685a55636432507131534b51-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=3&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/77/6f/50/67594d41774832685a55636432507131534b51-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=3&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=3&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=3&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/77/6f/50/67594d41774832685a55636432507131534b51-250x250-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=3&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">63.20</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">63.20</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=woPgYMAwH2hZUcd2Pq1SKQ%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-k504s-cartridge-black-toner-cartridge%2FCP0874%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-K504S+Compatible+Black+Toner+Cartridge+%28CLT-K504S%29+CLTK504S++SL-C1810W%3B+SL-C1860FW%3B+CLX-4190%3B+CLX-6210FX%3B+CLX-6240FX&amp;dlprc=63.2&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140780179&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CP0874</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>CP0874</sku>
+							<quantity>0</quantity>
+							<mpn>CLTK504S</mpn>
+						</offer>
+						<offer featured="false" id="yA4HI2cpdC7RfqrTJv7Wkw==" smartBuy="false" used="false">
+							<name>Samsung CLT-K504S Black Toner Cartridge (CLT-K504S) CLTK504S CLX-4170; CLX-4190;
+								SCX-4195FX; SCX-4195FW; SL-C1810W; CLP-415; SL-C1860FW
+							</name>
+							<description>Samsung CLT-K504S Black Toner Cartridge (CLT-K504S) CLTK504S CLX-4170;
+								CLX-4190; SCX-4195FX; SCX-4195FW; SL-C1810W; CLP-415; SL-C1860FW
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/79/41/34/484932637064433752667172544a7637576b77-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=4&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/79/41/34/484932637064433752667172544a7637576b77-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=4&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=4&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=4&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="250">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/79/41/34/484932637064433752667172544a7637576b77-250x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=2&amp;pr=2&amp;dipr=4&amp;pid=140780179&amp;fks=0&amp;pdid=jSSjr89yLlLg1NFojvv3LQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">93.10</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">93.10</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=yA4HI2cpdC7RfqrTJv7Wkw%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-k504s-black-toner-cartridge%2FGP1899%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-K504S+Black+Toner+Cartridge+%28CLT-K504S%29+CLTK504S++CLX-4170%3B+CLX-4190%3B+SCX-4195FX%3B+SCX-4195FW%3B+SL-C1810W%3B+CLP-415%3B+SL-C1860FW&amp;dlprc=93.1&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140780179&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1899</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>GP1899</sku>
+							<quantity>0</quantity>
+							<mpn>CLTK504S</mpn>
+						</offer>
+					</offers>
+					<numStores>3</numStores>
+				</product>
+				<product id="140776933">
+					<name>Samsung (CLTC406S) Toner Cartridge - 635753715224</name>
+					<fullDescription>Maximise your printing performance with the Samsung CLT-C406S Cyan Toner Cartridge
+						. Think ink The large toner cartridge offers a high 1000-page yield so you can enjoy
+						long-lasting printing. The Samsung cyan ink ensures uniform print quality, so your documents and
+						photos are sharp and vibrant. Optimised for Samsung printers, enjoy an easy ink management with
+						optimum print quality with the Samsung CLT-C406S Cyan Toner Cartridge .Only one offer can be
+						applied per basket , so you'll be eligible for the biggest saving of all the items you buy when
+						you reach the checkout.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqZ,!hYFCcyud04uBQtNkD2fUQ~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;pid=140776933&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="200" width="200">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;pid=140776933&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;pid=140776933&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;pid=140776933&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="150" width="150">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqZ,!hYFCcyud04uBQtNkD2fUQ~~_32-150x150-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;pid=140776933&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>50.30</minPrice>
+					<maxPrice>79.00</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/samsung-samsung-electronics-clt-c406s-toner-cyan/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/samsung-samsung-electronics-clt-c406s-toner-cyan/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="3" pageNumber="1" returnedOfferCount="3">
+						<offer featured="false" id="jy3-xjSfRDbudXuA-tmC5Q==" smartBuy="false" used="false">
+							<name>Samsung CLTC406S Cyan Toner</name>
+							<description>Purchase genuine Samsung consumables for all your printing needs.Enjoy quality,
+								reliability and performance without sacrificing the useful life of your printer.Drop off
+								your used Samsung toner cartridges at any Officeworks store for recycling. Product
+								Details:Brand: Samsung Colour: CyanDimensions(WDH): 73 X 183 X 363 MmWeight: 0.47
+								KgsCompatible Machines: Clp-360365Manufacturer Code: Clt-C406SSee
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6a/79/33/2d786a536652446275645875412d746d433551-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6a/79/33/2d786a536652446275645875412d746d433551-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6a/79/33/2d786a536652446275645875412d746d433551-250x250-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="AUD">79.00</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">79.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=0&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=513023&amp;crawler_id=513023&amp;dealId=jy3-xjSfRDbudXuA-tmC5Q%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D1877882423%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLTC406S+Cyan+Toner&amp;dlprc=79.0&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140776933&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=9&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SACLTC406S</offerURL>
+							<store authorizedReseller="false" id="513023" trusted="false">
+								<name>Officeworks</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/513023.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.30</cpc>
+							<sku>SACLTC406S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC406S</mpn>
+						</offer>
+						<offer featured="false" id="2yk9lWdGdNJCuT8m_cUuQw==" smartBuy="false" used="false">
+							<name>Samsung CLT-C406S Cyan Toner Cartridge (Up to 1,000 pages)</name>
+							<description>Genuine Samsung CLTC406S for: CLP-360, CLP-365, CLP-365W, CLX-3300, CLX-3305
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/32/79/6b/396c576447644e4a437554386d5f6355755177-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/32/79/6b/396c576447644e4a437554386d5f6355755177-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/32/79/6b/396c576447644e4a437554386d5f6355755177-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/32/79/6b/396c576447644e4a437554386d5f6355755177-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">56.60</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">56.60</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=2yk9lWdGdNJCuT8m_cUuQw%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clt-c406s-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-C406S+Cyan+Toner+Cartridge+%28Up+to+1%2C000+pages%29&amp;dlprc=56.6&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140776933&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLTC406S</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLTC406S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC406S</mpn>
+						</offer>
+						<offer featured="false" id="dEWoAsE8D08O0SXwp3ANyw==" smartBuy="false" used="false">
+							<name>Samsung CLT-C406S Cyan Toner Cartridge (CLT-C406S) CLT-406 CLT406 CLTC406S CLX-3305;
+								SL-C410W; CLP-360; CLP-365; SL-C460FW; CLX-3300
+							</name>
+							<description>Samsung CLT-C406S Cyan Toner Cartridge (CLT-C406S) CLT-406 CLT406 CLTC406S
+								CLX-3305; SL-C410W; CLP-360; CLP-365; SL-C460FW; CLX-3300
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/64/45/57/6f417345384430384f305358777033414e7977-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="200" width="200">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="150" width="150">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/64/45/57/6f417345384430384f305358777033414e7977-150x150-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=140776933&amp;fks=0&amp;pdid=jy3-xjSfRDbudXuA-tmC5Q%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">50.30</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">50.30</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=dEWoAsE8D08O0SXwp3ANyw%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-c406s-cyan-toner-cartridge%2FGP1917%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-C406S+Cyan+Toner+Cartridge+%28CLT-C406S%29+CLT-406+CLT406+CLTC406S++CLX-3305%3B+SL-C410W%3B+CLP-360%3B+CLP-365%3B+SL-C460FW%3B+CLX-3300&amp;dlprc=50.3&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140776933&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1917</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>GP1917</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC406S</mpn>
+						</offer>
+					</offers>
+					<numStores>3</numStores>
+				</product>
+				<product id="140421526">
+					<name>Samsung CLX-8385ND Toner Cartridge Black</name>
+					<fullDescription>With 20,000 pages of high quality mono printing, the Samsung CLX-K8385A Black toner
+						cartridge provides your printer with consistent and accurate mono printing which will last
+						longer than conventional toner cartridges. Present your work in crisp and defined text and
+						graphics by using the Samsung CLX-K8385A Black toner cartridge to print with. Take care of all
+						your printing needs with ease by using the Samsung CLX-K8385A Black toner cartridge to enable
+						quick, efficient and accurate printer operation to occur from your Samsung printer. With its
+						easy to manage cartridge body design, the Samsung CLX-K8385A Black toner cartridge enables quick
+						and easy toner cartridge replacements. Ideal for presenting your work in high quality mono
+						finish, the Samsung CLX-K8385A Black toner cartridge will consistently present your work in a
+						professional manner.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqNHJDMFCfInfCjJBQtPvO)DV!~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;pid=140421526&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqNHJDMFCfInfCjJBQtPvO)DV!~~_32-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;pid=140421526&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqNHJDMFCfInfCjJBQtPvO)DV!~~_32-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;pid=140421526&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;pid=140421526&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="236" width="329">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqNHJDMFCfInfCjJBQtPvO)DV!~~_32-329x236-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;pid=140421526&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>56.90</minPrice>
+					<maxPrice>64.20</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/Samsung-CLX-8385ND-Toner-Cartridge-Black/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/Samsung-CLX-8385ND-Toner-Cartridge-Black/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="4lH7paIpzZViQRQUiCZ3Kw==" smartBuy="false" used="false">
+							<name>Samsung CLX-K8385A Black Toner Cartridge (Up to 15,000 pages)</name>
+							<description>Genuine Samsung CLXK8385A for: CLX-8385ND</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/34/6c/48/37706149707a5a56695152515569435a334b77-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/34/6c/48/37706149707a5a56695152515569435a334b77-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/34/6c/48/37706149707a5a56695152515569435a334b77-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">64.20</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">64.20</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=4lH7paIpzZViQRQUiCZ3Kw%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clx-k8385a-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLX-K8385A+Black+Toner+Cartridge+%28Up+to+15%2C000+pages%29&amp;dlprc=64.2&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140421526&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLXK8385A</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLXK8385A</sku>
+							<quantity>0</quantity>
+							<mpn>CLXK8385A</mpn>
+						</offer>
+						<offer featured="false" id="6qJqDFQsq1UNBWYTK4IoZQ==" smartBuy="false" used="false">
+							<name>Samsung CLX-8385A Black Toner Cartridge (CLX-K8385A) CLXK8385A CLX-8385ND</name>
+							<description>Samsung CLX-8385A Black Toner Cartridge (CLX-K8385A) CLXK8385A CLX-8385ND
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/36/71/4a/71444651737131554e425759544b34496f5a51-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/36/71/4a/71444651737131554e425759544b34496f5a51-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/36/71/4a/71444651737131554e425759544b34496f5a51-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/36/71/4a/71444651737131554e425759544b34496f5a51-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="334" width="500">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/36/71/4a/71444651737131554e425759544b34496f5a51-500x334-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=140421526&amp;fks=0&amp;pdid=4lH7paIpzZViQRQUiCZ3Kw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">56.90</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">56.90</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=6qJqDFQsq1UNBWYTK4IoZQ%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clx-8385a-black-toner-cartridge%2FGP1550%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLX-8385A+Black+Toner+Cartridge+%28CLX-K8385A%29+CLXK8385A++CLX-8385ND&amp;dlprc=56.9&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140421526&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=651&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1550</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.08</cpc>
+							<sku>GP1550</sku>
+							<quantity>0</quantity>
+							<mpn>CLXK8385A</mpn>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<product id="140421370">
+					<name>Samsung CLX-C8385A Toner Cartridge</name>
+					<fullDescription>Samsung Colour Laser Supplies are designed to maximise the machine performance.
+						Constantly redesigned and improved Samsung Supplies provide best performance, reliability and
+						outstanding colour printing quality. Samsung Colour Laser Toner cartridges have stable &amp;
+						professional image quality in high-speed and high volume printings. High capacity colour toner
+						cartridges make it easy to produce brilliant &amp; cost effective colour documents and increase
+						uptime. unique toner design The Samsung colour printer series is the smallest and lightest
+						consumable in its class targeting personal and SOHO users. It features compact toner bottles,
+						instead of bulky cartridges for complete customer satisfaction. easy toner change Samsung
+						printer cartridges are easy to change by following 3 steps. 1. Open the front cabinet. 2. Change
+						cartridges. 3. Close cabinet.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16d,!w0E9szN,Fq3BQs9Pum1sQ~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;pid=140421370&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16d,!w0E9szN,Fq3BQs9Pum1sQ~~_32-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;pid=140421370&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16d,!w0E9szN,Fq3BQs9Pum1sQ~~_32-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;pid=140421370&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;pid=140421370&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="299" width="300">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16d,!w0E9szN,Fq3BQs9Pum1sQ~~_32-300x299-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;pid=140421370&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>220.40</minPrice>
+					<maxPrice>242.10</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/Samsung-CLX-8385ND-Toner-Cartridge-Cyan/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/Samsung-CLX-8385ND-Toner-Cartridge-Cyan/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="jadshQK-K2snZSkAFzAJ4Q==" smartBuy="false" used="false">
+							<name>Samsung CLX-C8385A Cyan Toner Cartridge (Up to 15,000 pages)</name>
+							<description>Genuine Samsung CLXC8385A for: CLX-8385ND</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/6a/61/64/7368514b2d4b32736e5a536b41467a414a3451-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/6a/61/64/7368514b2d4b32736e5a536b41467a414a3451-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/6a/61/64/7368514b2d4b32736e5a536b41467a414a3451-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=1&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">242.10</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">242.10</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=jadshQK-K2snZSkAFzAJ4Q%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clx-c8385a-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLX-C8385A+Cyan+Toner+Cartridge+%28Up+to+15%2C000+pages%29&amp;dlprc=242.1&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140421370&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLXC8385A</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLXC8385A</sku>
+							<quantity>0</quantity>
+							<mpn>CLXC8385A</mpn>
+						</offer>
+						<offer featured="false" id="ou-7jgKHvvYAHrIJaZmfxw==" smartBuy="false" used="false">
+							<name>Samsung CLX-8385A Cyan Toner Cartridge (CLX-C8385A) CLXC8385A CLX-8385ND</name>
+							<description>Samsung CLX-8385A Cyan Toner Cartridge (CLX-C8385A) CLXC8385A CLX-8385ND
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6f/75/2d/376a674b48767659414872494a615a6d667877-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6f/75/2d/376a674b48767659414872494a615a6d667877-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6f/75/2d/376a674b48767659414872494a615a6d667877-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6f/75/2d/376a674b48767659414872494a615a6d667877-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="334" width="500">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/6f/75/2d/376a674b48767659414872494a615a6d667877-500x334-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=5&amp;pr=5&amp;dipr=2&amp;pid=140421370&amp;fks=0&amp;pdid=jadshQK-K2snZSkAFzAJ4Q%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">220.40</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">220.40</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=ou-7jgKHvvYAHrIJaZmfxw%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clx-8385a-cyan-toner-cartridge%2FGP1551%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLX-8385A+Cyan+Toner+Cartridge+%28CLX-C8385A%29+CLXC8385A++CLX-8385ND&amp;dlprc=220.4&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140421370&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=651&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1551</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.08</cpc>
+							<sku>GP1551</sku>
+							<quantity>0</quantity>
+							<mpn>CLXC8385A</mpn>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<product id="140779913">
+					<name>Samsung (CLTC504S) Toner Cartridge - 635753727302</name>
+					<fullDescription>This cyan ink cartridge has an approximate page yield of up to 1,800 pages, you
+						print tons of high-quality documents and images with consistency.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJGwE9n)yTd9EBQtP3(t6hg~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;pid=140779913&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJGwE9n)yTd9EBQtP3(t6hg~~_32-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;pid=140779913&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJGwE9n)yTd9EBQtP3(t6hg~~_32-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;pid=140779913&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>63.20</minPrice>
+					<maxPrice>105.00</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/samsung-samsung-cyan-toner-cltc504s/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/samsung-samsung-cyan-toner-cltc504s/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="3" pageNumber="1" returnedOfferCount="3">
+						<offer featured="false" id="T3ztWnVc-pGSGyJpTYIbnw==" smartBuy="false" used="false">
+							<name>Samsung CLT-C504S Cyan Toner Cartridge (Up to 1,800 pages)</name>
+							<description>Genuine Samsung CLTC504S for: CLP-415N, CLP-415W, CLX-4170, CLX-4195FN,
+								CLX-4195FW
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/54/33/7a/74576e56632d70475347794a70545949626e77-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/54/33/7a/74576e56632d70475347794a70545949626e77-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/54/33/7a/74576e56632d70475347794a70545949626e77-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/54/33/7a/74576e56632d70475347794a70545949626e77-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">105.00</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">105.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=T3ztWnVc-pGSGyJpTYIbnw%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clt-c504s-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-C504S+Cyan+Toner+Cartridge+%28Up+to+1%2C800+pages%29&amp;dlprc=105.0&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140779913&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLTC504S</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLTC504S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC504S</mpn>
+						</offer>
+						<offer featured="false" id="rczKVwvZZLS9oHLamckCCQ==" smartBuy="false" used="false">
+							<name>Samsung CLT-C504S Cyan Toner Cartridge (CLT-C504S) CLTC504S CLX-4170; CLX-4190;
+								SCX-4195FX; SCX-4195FW; SL-C1810W; CLP-415; SL-C1860FW
+							</name>
+							<description>Samsung CLT-C504S Cyan Toner Cartridge (CLT-C504S) CLTC504S CLX-4170; CLX-4190;
+								SCX-4195FX; SCX-4195FW; SL-C1810W; CLP-415; SL-C1860FW
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/72/63/7a/4b5677765a5a4c53396f484c616d636b434351-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/72/63/7a/4b5677765a5a4c53396f484c616d636b434351-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="250">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/72/63/7a/4b5677765a5a4c53396f484c616d636b434351-250x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">93.10</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">93.10</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=rczKVwvZZLS9oHLamckCCQ%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-c504s-cyan-toner-cartridge%2FGP1900%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-C504S+Cyan+Toner+Cartridge+%28CLT-C504S%29+CLTC504S++CLX-4170%3B+CLX-4190%3B+SCX-4195FX%3B+SCX-4195FW%3B+SL-C1810W%3B+CLP-415%3B+SL-C1860FW&amp;dlprc=93.1&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140779913&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1900</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>GP1900</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC504S</mpn>
+						</offer>
+						<offer featured="false" id="yRe1qYAeyr2c1KylpDlhKg==" smartBuy="false" used="false">
+							<name>Samsung CLT-C504S Compatible Cyan Toner Cartridge (CLT-C504S) CLTC504S SL-C1810W;
+								SL-C1860FW; CLX-4190; CLX-6210FX; CLX-6240FX
+							</name>
+							<description>Samsung CLT-C504S Compatible Cyan Toner Cartridge (CLT-C504S) CLTC504S
+								SL-C1810W; SL-C1860FW; CLX-4190; CLX-6210FX; CLX-6240FX
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/79/52/65/317159416579723263314b796c70446c684b67-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/79/52/65/317159416579723263314b796c70446c684b67-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/79/52/65/317159416579723263314b796c70446c684b67-250x250-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=140779913&amp;fks=0&amp;pdid=T3ztWnVc-pGSGyJpTYIbnw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">63.20</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">63.20</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=yRe1qYAeyr2c1KylpDlhKg%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-c504s-cartridge-cyan-toner-cartridge%2FCP0875%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-C504S+Compatible+Cyan+Toner+Cartridge+%28CLT-C504S%29+CLTC504S++SL-C1810W%3B+SL-C1860FW%3B+CLX-4190%3B+CLX-6210FX%3B+CLX-6240FX&amp;dlprc=63.2&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140779913&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CP0875</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>CP0875</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC504S</mpn>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<product id="140371004">
+					<name>Samsung (CLT-C609S) Toner Cartridge - 635753724202</name>
+					<fullDescription>Toner cartridge is designed for use with Samsung CLP-770ND and CLP-775ND. Cartridge
+						offers great print quality and reliable performance for affordable, professional-quality color
+						printing. Design also incorporates advanced toner, easy-to-use features and smart technology.
+						Cartridge yields 7,000 pages.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!lcFCfNGOoghBQs9Q2T+yg~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;pid=140371004&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!lcFCfNGOoghBQs9Q2T+yg~~_32-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;pid=140371004&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!lcFCfNGOoghBQs9Q2T+yg~~_32-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;pid=140371004&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!lcFCfNGOoghBQs9Q2T+yg~~_32-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;pid=140371004&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="399" width="400">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!lcFCfNGOoghBQs9Q2T+yg~~_32-400x399-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;pid=140371004&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>204.30</minPrice>
+					<maxPrice>224.50</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/Samsung-Cyan-Toner-7K-Yield-CLP770ND/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/Samsung-Cyan-Toner-7K-Yield-CLP770ND/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="_As9uXWX7mKljVwpEa9HZg==" smartBuy="false" used="false">
+							<name>Samsung CLT-C609S Cyan Toner Cartridge (Up to 7,000 pages)</name>
+							<description>Genuine Samsung CLTC609S for: CLP-770ND, CLP-775ND</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/5f/41/73/3975585758376d4b6c6a567770456139485a67-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/5f/41/73/3975585758376d4b6c6a567770456139485a67-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/5f/41/73/3975585758376d4b6c6a567770456139485a67-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="350" width="350">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/5f/41/73/3975585758376d4b6c6a567770456139485a67-350x350-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">224.50</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">224.50</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=_As9uXWX7mKljVwpEa9HZg%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clt-c609s-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-C609S+Cyan+Toner+Cartridge+%28Up+to+7%2C000+pages%29&amp;dlprc=224.5&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140371004&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLTC609S</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLTC609S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC609S</mpn>
+						</offer>
+						<offer featured="false" id="45IyOuUvEdZKMsjUPEgPbg==" smartBuy="false" used="false">
+							<name>Samsung CLT-C609S Cyan Toner Cartridge (CLT-C609S) CLTC609S CLP-770ND; CLP-775ND
+							</name>
+							<description>Samsung CLT-C609S Cyan Toner Cartridge (CLT-C609S) CLTC609S CLP-770ND;
+								CLP-775ND
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/34/35/49/794f75557645645a4b4d736a55504567506267-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/34/35/49/794f75557645645a4b4d736a55504567506267-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/34/35/49/794f75557645645a4b4d736a55504567506267-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/34/35/49/794f75557645645a4b4d736a55504567506267-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="334" width="500">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/34/35/49/794f75557645645a4b4d736a55504567506267-500x334-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=140371004&amp;fks=0&amp;pdid=_As9uXWX7mKljVwpEa9HZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">204.30</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">204.30</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=45IyOuUvEdZKMsjUPEgPbg%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-c609s-cyan-toner-cartridge%2FGP1559%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-C609S+Cyan+Toner+Cartridge+%28CLT-C609S%29+CLTC609S++CLP-770ND%3B+CLP-775ND&amp;dlprc=204.3&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140371004&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1559</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>GP1559</sku>
+							<quantity>0</quantity>
+							<mpn>CLTC609S</mpn>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<product id="140585523">
+					<name>Black Toner Cartridge (MLTD307L) for Samsung Printer</name>
+					<fullDescription>Original - Samsung MLT-D307L / ML5010L Black Toner Cartridge - 15,000 pages - Full
+						manufacturer warranty applies. This original Samsung toner cartridge is suitable for the
+						following Samsung printers : Samsung ML5010. All prices are GST inclusive.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16F,!zUE9s38-OWlBQs9390-y!~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;pid=140585523&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16F,!zUE9s38-OWlBQs9390-y!~~_32-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;pid=140585523&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16F,!zUE9s38-OWlBQs9390-y!~~_32-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;pid=140585523&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16F,!zUE9s38-OWlBQs9390-y!~~_32-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;pid=140585523&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="600" width="600">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16F,!zUE9s38-OWlBQs9390-y!~~_32-600x600-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;pid=140585523&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>253.90</minPrice>
+					<maxPrice>278.90</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/samsung-samsung-mlt-d307l-toner-cartridge-high-yield-15-000-pages-coming-soon-pre-order/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/samsung-samsung-mlt-d307l-toner-cartridge-high-yield-15-000-pages-coming-soon-pre-order/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="0nxvAxCIiuqfTw58F8VLZg==" smartBuy="false" used="false">
+							<name>Samsung MLT-D307L Toner Cartridge High Yield (Up to 15,000 pages)</name>
+							<description>Genuine Samsung MLTD307L for: ML-5010ND</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/30/6e/78/764178434969757166547735384638564c5a67-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/30/6e/78/764178434969757166547735384638564c5a67-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/30/6e/78/764178434969757166547735384638564c5a67-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/30/6e/78/764178434969757166547735384638564c5a67-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="600" width="600">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/30/6e/78/764178434969757166547735384638564c5a67-600x600-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=1&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">278.90</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">278.90</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=0nxvAxCIiuqfTw58F8VLZg%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-mono-laser-toner%2Fsamsung-mlt-d307l-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+MLT-D307L+Toner+Cartridge+High+Yield+%28Up+to+15%2C000+pages%29&amp;dlprc=278.9&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140585523&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=MLTD307L</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>MLTD307L</sku>
+							<quantity>0</quantity>
+							<mpn>MLTD307L</mpn>
+						</offer>
+						<offer featured="false" id="TEejGR9rn4OueaaKd4k4IA==" smartBuy="false" used="false">
+							<name>Samsung MLT-D307L Toner Cartridge (MLT-D307L) MLTD307L ML-5010ND</name>
+							<description>Samsung MLT-D307L Toner Cartridge (MLT-D307L) MLTD307L ML-5010ND</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/54/45/65/6a475239726e344f756561614b64346b344941-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=2&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/54/45/65/6a475239726e344f756561614b64346b344941-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=2&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/54/45/65/6a475239726e344f756561614b64346b344941-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=2&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/54/45/65/6a475239726e344f756561614b64346b344941-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=2&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="321" width="482">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/54/45/65/6a475239726e344f756561614b64346b344941-482x321-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=8&amp;pr=8&amp;dipr=2&amp;pid=140585523&amp;fks=0&amp;pdid=0nxvAxCIiuqfTw58F8VLZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">253.90</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">253.90</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=TEejGR9rn4OueaaKd4k4IA%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-mlt-d307l-toner-cartridge%2FGP1809%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+MLT-D307L+Toner+Cartridge+%28MLT-D307L%29+MLTD307L++ML-5010ND&amp;dlprc=253.9&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140585523&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1809</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>GP1809</sku>
+							<quantity>0</quantity>
+							<mpn>MLTD307L</mpn>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<product id="140333534">
+					<name>Black Imaging Drum (CLX-R838XK) for Samsung Printer - 635753710434</name>
+					<fullDescription>SAMSUNG colour laser supplies are designed to maximise your printer's performance.
+						You'll enjoy top performance, total reliability, and impressive colour quality every time you
+						print. Their unique design and advanced technology offer easy-to-use features that make it easy
+						to produce professional results at home or in the office. a great way to finish - The SAMSUNG
+						original imaging unit finishes the process of perfectly printed text and images. And it's as
+						easy to replace as a toner cartridge. No experience required. easy imaging unit installation -
+						Changing the imaging unit is as easy as changing a toner cartridge, designed with your
+						convenience in mind.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJI!E9qSO8)dkBQs-IOU0!!~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;pid=140333534&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJI!E9qSO8)dkBQs-IOU0!!~~_32-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;pid=140333534&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJI!E9qSO8)dkBQs-IOU0!!~~_32-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;pid=140333534&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;pid=140333534&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="299" width="300">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJI!E9qSO8)dkBQs-IOU0!!~~_32-300x299-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;pid=140333534&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>99.80</minPrice>
+					<maxPrice>112.50</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/Samsung-SAMSUNG-ELECTRONICS-AMERICA-I-Sam-30K-Yield-Black-Image-Drum-NAE-CLXR838XK/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/Samsung-SAMSUNG-ELECTRONICS-AMERICA-I-Sam-30K-Yield-Black-Image-Drum-NAE-CLXR838XK/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="7HgRBMbo7RMTJ0ME2QIl3w==" smartBuy="false" used="false">
+							<name>Samsung CLX-R838XK Black Imaging Unit (Up to 30,000 pages)</name>
+							<description>Genuine Samsung CLXR838XK for: CLX-8380ND</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/37/48/67/52424d626f37524d544a304d453251496c3377-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/37/48/67/52424d626f37524d544a304d453251496c3377-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/37/48/67/52424d626f37524d544a304d453251496c3377-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="320" width="320">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/37/48/67/52424d626f37524d544a304d453251496c3377-320x320-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">112.50</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">112.50</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clx-r838xk-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLX-R838XK+Black+Imaging+Unit+%28Up+to+30%2C000+pages%29&amp;dlprc=112.5&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140333534&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLXR838XK</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLXR838XK</sku>
+							<quantity>0</quantity>
+							<mpn>CLXR838XK</mpn>
+						</offer>
+						<offer featured="false" id="8SM2H4EtAOGWHf1lidBChQ==" smartBuy="false" used="false">
+							<name>Samsung CLX-8380 Black Imaging Unit (CLX-R838XK) CLXR838XK CLX-8380</name>
+							<description>Samsung CLX-8380 Black Imaging Unit (CLX-R838XK) CLXR838XK CLX-8380
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/38/53/4d/3248344574414f47574866316c696442436851-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=2&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/38/53/4d/3248344574414f47574866316c696442436851-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=2&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/38/53/4d/3248344574414f47574866316c696442436851-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=2&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/38/53/4d/3248344574414f47574866316c696442436851-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=2&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="334" width="500">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/38/53/4d/3248344574414f47574866316c696442436851-500x334-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=9&amp;pr=9&amp;dipr=2&amp;pid=140333534&amp;fks=0&amp;pdid=7HgRBMbo7RMTJ0ME2QIl3w%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">99.80</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">99.80</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=8SM2H4EtAOGWHf1lidBChQ%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clx-8380-black-imaging-unit%2FGP1262%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLX-8380+Black+Imaging+Unit+%28CLX-R838XK%29+CLXR838XK++CLX-8380&amp;dlprc=99.8&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140333534&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=651&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GP1262</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.08</cpc>
+							<sku>GP1262</sku>
+							<quantity>0</quantity>
+							<mpn>CLXR838XK</mpn>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<product id="140322373">
+					<name>Color CLT-W409S for Samsung</name>
+					<fullDescription>Original - Samsung CLT-W409S / CLP-310 / CLP-315 / CLX-3170 / CLX-3175 Waste Toner
+						Bottle - Approx 5K - Full manufacturer warranty applies. This original Samsung Waste Toner
+						Bottle is suitable for the following Samsung colour printers : Samsung CLP-310 / Samsung CLP-315
+						/ Samsung CLX-3170 / Samsung CLX-3175. All prices are GST inclusive.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16dHJHQE9nzEzslCBQs9N)DmmQ~~_32-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;pid=140322373&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16dHJHQE9nzEzslCBQs9N)DmmQ~~_32-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;pid=140322373&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16dHJHQE9nzEzslCBQs9N)DmmQ~~_32-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;pid=140322373&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;pid=140322373&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="340" width="340">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16dHJHQE9nzEzslCBQs9N)DmmQ~~_32-340x340-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=2&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;pid=140322373&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>14.10</minPrice>
+					<maxPrice>17.50</maxPrice>
+					<productOffersURL>
+						http://www.au.shopping.com/Samsung-Samsung-CLT-W409S-Waste-Toner-Bottle/prices~linkin_id-8053756
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.au.shopping.com/Samsung-Samsung-CLT-W409S-Waste-Toner-Bottle/info~linkin_id-8053756
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="90r21L23YGLvJS9P3NGXQQ==" smartBuy="false" used="false">
+							<name>Samsung CLT-W409S Waste Toner Bottle (Up to 5,000 pages)</name>
+							<description>Genuine Samsung CLTW409S for: CLP-310, CLP-315, CLP-315W, CLX-3170, CLX-3175,
+								CLX-3175FN
+							</description>
+							<categoryId>352</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/39/30/72/32314c323359474c764a533950334e47585151-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/39/30/72/32314c323359474c764a533950334e47585151-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/39/30/72/32314c323359474c764a533950334e47585151-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="340" width="340">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/39/30/72/32314c323359474c764a533950334e47585151-340x340-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Ships within 24h</storeNotes>
+							<basePrice currency="AUD">17.50</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">17.50</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=420&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=457435&amp;crawler_id=457435&amp;dealId=90r21L23YGLvJS9P3NGXQQ%3D%3D&amp;url=http%3A%2F%2Fwww.image-nation.com.au%2Findex.php%2Fshop%2Fconsumables-genuine%2Fsamsung%2Fsamsung-colour-laser-toner%2Fsamsung-clt-w409s-detail&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-W409S+Waste+Toner+Bottle+%28Up+to+5%2C000+pages%29&amp;dlprc=17.5&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140322373&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=430&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=CLTW409S</offerURL>
+							<store authorizedReseller="false" id="457435" trusted="false">
+								<name>Image Nation Online Pty L</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/457435.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.29</cpc>
+							<sku>CLTW409S</sku>
+							<quantity>0</quantity>
+							<mpn>CLTW409S</mpn>
+						</offer>
+						<offer featured="false" id="dCfxMj8PT5ClQvPeCRIMeg==" smartBuy="false" used="false">
+							<name>Samsung CLT-W409S Waste Toner Bottle (CLT-W409S) CLTW409S CLP-325W; CLX-3175, FN;
+								CLP-310; CLP-325; CLX-3185 Series; CLP-315; CLP-320N; CLX-3170
+							</name>
+							<description>Samsung CLT-W409S Waste Toner Bottle (CLT-W409S) CLTW409S CLP-325W; CLX-3175,
+								FN; CLP-310; CLP-325; CLX-3185 Series; CLP-315; CLP-320N; CLX-3170
+							</description>
+							<categoryId>352</categoryId>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/64/43/66/784d6a38505435436c517650654352494d6567-100x100-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=2&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/64/43/66/784d6a38505435436c517650654352494d6567-200x200-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=2&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/64/43/66/784d6a38505435436c517650654352494d6567-300x300-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=2&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/64/43/66/784d6a38505435436c517650654352494d6567-400x400-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=2&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="334" width="500">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/64/43/66/784d6a38505435436c517650654352494d6567-500x334-0-0.jpg?rqid=p15.6acda90838243e9f5e9e&amp;rqt=SRS&amp;a=1&amp;c=36&amp;l=8053756&amp;r=10&amp;pr=10&amp;dipr=2&amp;pid=140322373&amp;fks=0&amp;pdid=90r21L23YGLvJS9P3NGXQQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>FAST DELIVERY from $5.90. NO FEE for Visa, Master and PayPal!</storeNotes>
+							<basePrice currency="AUD">14.10</basePrice>
+							<tax currency="AUD">0.00</tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="AUD">14.10</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=660&amp;BEFID=352&amp;aon=%5E1&amp;MerchantID=526643&amp;crawler_id=526643&amp;dealId=dCfxMj8PT5ClQvPeCRIMeg%3D%3D&amp;url=http%3A%2F%2Fwww.pcdepot.com.au%2Fp%2Fsamsung-clt-w409s-waste-toner-bottle%2FGZ0101%3FNeto&amp;linkin_id=8053756&amp;Issdt=150505093129&amp;searchID=p15.6acda90838243e9f5e9e&amp;DealName=Samsung+CLT-W409S+Waste+Toner+Bottle+%28CLT-W409S%29+CLTW409S++CLP-325W%3B+CLX-3175%2C+FN%3B+CLP-310%3B+CLP-325%3B+CLX-3185+Series%3B+CLP-315%3B+CLP-320N%3B+CLX-3170&amp;dlprc=14.1&amp;AR=1&amp;NG=3&amp;NDP=0&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=140322373&amp;brnId=14743&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=663&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=GZ0101</offerURL>
+							<store authorizedReseller="false" id="526643" trusted="false">
+								<name>PCDepot.com.au</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/526643.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/AU.gif</sourceURL>
+									<countryCode>AU</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.20</cpc>
+							<sku>GZ0101</sku>
+							<quantity>0</quantity>
+							<mpn>CLTW409S</mpn>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+			</items>
+			<attributes matchedAttributeCount="5" returnedAttributeCount="5">
+				<attribute id="Dynamic_Price_Range">
+					<name>Price range</name>
+					<attributeURL>http://www.au.shopping.com/cartridges-and-toners/samsung/products?oq=samsung&amp;linkin_id=8053756</attributeURL>
+					<attributeValues matchedValueCount="2" returnedValueCount="2">
+						<attributeValue id="price_range_14_4750" matchingItemsCount="1">
+							<name>$14 - $4750</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung/products?minPrice=14&amp;maxPrice=4750&amp;linkin_id=8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="price_range_4750_9487" matchingItemsCount="1">
+							<name>$4750 - $9487</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung/products?minPrice=4750&amp;maxPrice=9487&amp;linkin_id=8053756
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="24188890_features">
+					<name>Features</name>
+					<attributeURL>
+						http://www.au.shopping.com/cartridges-and-toners/samsung/products~all-24188890-features~MS-1?oq=samsung&amp;linkin_id=8053756
+					</attributeURL>
+					<attributeValues matchedValueCount="44" returnedValueCount="5">
+						<attributeValue id="24188890_touch_screen" matchingItemsCount="79">
+							<name>Touch Screen</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+24188890-touch-screen/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="bluetooth_enabled" matchingItemsCount="37">
+							<name>Bluetooth Enabled</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+bluetooth-enabled/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="wi_fi_capable" matchingItemsCount="36">
+							<name>Wi-Fi Capable</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+wi-fi-capable/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24188890_speakerphone" matchingItemsCount="30">
+							<name>Speakerphone</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+24188890-speakerphone/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24188890_web_browser" matchingItemsCount="25">
+							<name>Web Browser</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+24188890-web-browser/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="60291_family_line">
+					<name>Family Line</name>
+					<attributeURL>
+						http://www.au.shopping.com/cartridges-and-toners/samsung/products~all-60291-family-line~MS-1?oq=samsung&amp;linkin_id=8053756
+					</attributeURL>
+					<attributeValues matchedValueCount="42" returnedValueCount="5">
+						<attributeValue id="60291_samsung_galaxy_s" matchingItemsCount="24">
+							<name>Samsung Galaxy S</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+60291-samsung-galaxy-s/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_note_3" matchingItemsCount="30">
+							<name>Samsung Galaxy Note 3</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+samsung-galaxy-note-3/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_s5" matchingItemsCount="22">
+							<name>Samsung Galaxy S5</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+samsung-galaxy-s5/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_s_duos" matchingItemsCount="19">
+							<name>Samsung Galaxy S Duos</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+samsung-galaxy-s-duos/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="samsung_galaxy_s_4" matchingItemsCount="15">
+							<name>Samsung Galaxy S 4</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+samsung-galaxy-s-4/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="24188896_colour">
+					<name>Colour</name>
+					<attributeURL>
+						http://www.au.shopping.com/cartridges-and-toners/samsung/products~all-24188896-colour~MS-1?oq=samsung&amp;linkin_id=8053756
+					</attributeURL>
+					<attributeValues matchedValueCount="42" returnedValueCount="5">
+						<attributeValue id="24188896_white" matchingItemsCount="62">
+							<name>White</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+24188896-white/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24188896_black" matchingItemsCount="57">
+							<name>Black</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+24188896-black/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="galaxy_blue" matchingItemsCount="14">
+							<name>Galaxy blue</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+galaxy-blue/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24188896_charcoal_black" matchingItemsCount="7">
+							<name>Charcoal Black</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+24188896-charcoal-black/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24188896_grey" matchingItemsCount="8">
+							<name>Grey</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/cartridges-and-toners/samsung+24188896-grey/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="category">
+					<name>Category</name>
+					<attributeURL>http://www.au.shopping.com/samsung/products~all-Category~MS-1?oq=samsung&amp;linkin_id=8053756</attributeURL>
+					<attributeValues matchedValueCount="4" returnedValueCount="4">
+						<attributeValue id="API3_CATEGORY_93767" matchingItemsCount="181">
+							<name>Mobile Phones</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/samsung+mobile-phones/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="API3_CATEGORY_352" matchingItemsCount="26">
+							<name>Cartridges and Toners</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/samsung+cartridges-and-toners/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="API3_CATEGORY_96252" matchingItemsCount="16">
+							<name>Televisions</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/samsung+televisions/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="API3_CATEGORY_7185" matchingItemsCount="1">
+							<name>Digital Cameras</name>
+							<attributeValueURL>
+								http://www.au.shopping.com/samsung+digital-cameras/products~linkin_id-8053756
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+			</attributes>
+			<contentType>hybrid</contentType>
+		</category>
+		<intActualCategoryCount>1</intActualCategoryCount>
+	</categories>
+	<relatedTerms></relatedTerms>
+</GeneralSearchResponse>

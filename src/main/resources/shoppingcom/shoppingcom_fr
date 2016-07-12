@@ -1,0 +1,1523 @@
+<GeneralSearchResponse
+	xmlns="urn:types.partner.api.shopping.com">
+	<serverDetail>
+		<apiEnv>prod</apiEnv>
+		<apiVersion>r91.2015.sprint08</apiVersion>
+		<buildNumber>27169</buildNumber>
+		<buildTimestamp>2015.04.29 15:40:16 PST</buildTimestamp>
+		<requestId>p5.86268085d83528f3992e</requestId>
+		<timestamp>2015-05-05T09:33:39.473-04:00</timestamp>
+		<responseTime>P0DT0H0M0.039S</responseTime>
+	</serverDetail>
+	<exceptions exceptionCount="2">
+		<exception type="warning">
+			<code>1148</code>
+			<message>WARNING: Missing the "visitorUserAgent" parameter. Discover how you can easily add it to your
+				queries: http://developer.shopping.com/docs/read/Adding_Useragent_to_your_Queries
+			</message>
+		</exception>
+		<exception type="warning">
+			<code>1149</code>
+			<message>WARNING: We detected that you are missing the parameter "visitorIPAddress".</message>
+		</exception>
+	</exceptions>
+	<clientTracking height="1" type="pixel" width="1">
+		<sourceURL>http://www999.shopping.com/pixel/noscript?PV_EvnTyp=APPV&amp;APPV_APITSP=05%2F05%2F15_09%3A33%3A39_AM&amp;APPV_DSPRQSID=p5.86268085d83528f3992e&amp;APPV_IMGURL=&amp;APPV_LI_LNKINID=8053638&amp;APPV_LI_SBMKYW=samsung&amp;APPV_MTCTYP=1000&amp;APPV_PRTID=146969&amp;APPV_BrnID=14305</sourceURL>
+		<hrefURL>http://fr.shopping.com/televisions/produits</hrefURL>
+		<titleText>Télévisions</titleText>
+		<altText>Télévisions</altText>
+	</clientTracking>
+	<searchHistory>
+		<categorySelection id="3">
+			<name>Image et son</name>
+			<categoryURL>http://fr.shopping.com/xCH-image_et_son-samsung~linkin_id-8053638?oq=samsung</categoryURL>
+		</categorySelection>
+		<categorySelection id="85747">
+			<name>TV et vidéo</name>
+			<categoryURL>http://fr.shopping.com/xCH-tv_et_video-samsung~linkin_id-8053638?oq=samsung</categoryURL>
+		</categorySelection>
+		<categorySelection id="96252">
+			<name>Télévisions</name>
+			<categoryURL>http://fr.shopping.com/televisions/samsung/produits?oq=samsung&amp;linkin_id=8053638
+			</categoryURL>
+		</categorySelection>
+		<dynamicNavigationHistory>
+			<keywordSearch dropped="false" modified="false">
+				<originalKeyword>samsung</originalKeyword>
+				<resultKeyword>samsung</resultKeyword>
+			</keywordSearch>
+		</dynamicNavigationHistory>
+	</searchHistory>
+	<categories matchedCategoryCount="1" returnedCategoryCount="1">
+		<category id="96252">
+			<name>Télévisions</name>
+			<categoryURL>http://fr.shopping.com/televisions/samsung/produits?oq=samsung&amp;linkin_id=8053638
+			</categoryURL>
+			<items matchedItemCount="430" pageNumber="1" returnedItemCount="10">
+				<product id="151280140">
+					<name>Samsung UE32EH4003 LED 32" Téléviseur</name>
+					<fullDescription>Grâce à un algorithme avancé permettant d'améliorer la qualité d'image, la
+						technologie Wide Color Enhancer Plus du téléviseur Samsung UE32EH4003 sublime encore la qualité
+						des images et dévoile les détails cachés.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<upcs>
+						<upc>8806085093065</upc>
+						<upc>8806085093065</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJGkE9no8hZ6tBRHdCOIwf!~~_32-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;pid=151280140&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>236.99</minPrice>
+					<maxPrice>367.84</maxPrice>
+					<productOffersURL>
+						http://fr.shopping.com/samsung_ue32eh4003_lcd_32_t_l_viseur_groupe_d_efficacit_nerg_tique_a/prix~linkin_id-8053638
+					</productOffersURL>
+					<productSpecsURL>
+						http://fr.shopping.com/samsung_ue32eh4003_lcd_32_t_l_viseur_groupe_d_efficacit_nerg_tique_a/info~linkin_id-8053638
+					</productSpecsURL>
+					<offers matchedOfferCount="8" pageNumber="1" returnedOfferCount="8">
+						<offer featured="false" id="SwQK_PcrQOPyil83QswSZg==" smartBuy="false" used="false">
+							<name>Samsung TV LED EH4003 32 (UE32EH4003)</name>
+							<description>Le téléviseur Samsung UE32EH4003 mise sur le plus important, il offre une image
+								nette et des contrastes profonds sur son écran LED de 82 cm de diagonale en haute
+								définition. Cle...
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/53/77/51/4b5f506372514f5079696c3833517377535a67-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/53/77/51/4b5f506372514f5079696c3833517377535a67-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/53/77/51/4b5f506372514f5079696c3833517377535a67-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="350" width="350">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/53/77/51/4b5f506372514f5079696c3833517377535a67-350x350-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="EUR">239.00</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">19.00</shippingCost>
+							<totalPrice currency="EUR">258.00</totalPrice>
+							<originalPrice currency="EUR">239.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=206&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=448217&amp;crawler_id=448217&amp;dealId=SwQK_PcrQOPyil83QswSZg%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F1784-29638-80712%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=Samsung+TV+LED+EH4003+32+%28UE32EH4003%29&amp;dlprc=239.0&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=194&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=80712</offerURL>
+							<store authorizedReseller="false" id="448217" trusted="false">
+								<name>Materiel.net</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/448217.gif</sourceURL>
+								</logo>
+								<phoneNumber></phoneNumber>
+								<ratingInfo>
+									<reviewCount>2</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_materiel_net~MRD-448217~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.27</cpc>
+							<sku>80712</sku>
+							<quantity>0</quantity>
+							<mpn>UE32EH4003</mpn>
+							<upc>08806085093065</upc>
+						</offer>
+						<offer featured="false" id="Yhrl-PXVs62Ng3BJNfKI9w==" smartBuy="false" used="false">
+							<name>TV Samsung UE32EH4003 LED - TV LCD 30 à 39</name>
+							<description>Diagonale de l'écran : 81 cm - 32 , HDTV LED, TNT HD MPEG4 et tuner câble.
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/59/68/72/6c2d5058567336324e6733424a4e664b493977-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/59/68/72/6c2d5058567336324e6733424a4e664b493977-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/59/68/72/6c2d5058567336324e6733424a4e664b493977-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/59/68/72/6c2d5058567336324e6733424a4e664b493977-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="375" width="500">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/59/68/72/6c2d5058567336324e6733424a4e664b493977-500x375-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=2&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="EUR">236.99</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">0.00</shippingCost>
+							<totalPrice currency="EUR">236.99</totalPrice>
+							<originalPrice currency="EUR">236.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=934&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=486945&amp;crawler_id=1928811&amp;dealId=Yhrl-PXVs62Ng3BJNfKI9w%3D%3D&amp;url=http%3A%2F%2Feultech.fnac.com%2Fdynclick%2Ffnac%2F%3Fetf-publisher%3DShopping.com%26etf-name%3DShopping.com_tvs_mp%26etf-prdref%3D1-4468359%26eseg-name%3Dreferentiel_produit%26eseg-item%3DMarketplace%26eurl%3Dhttp%3A%2F%2Fwww.fnac.com%2FTV-Samsung-UE32EH4003-LED%2Fa4468359%2Fw-4%3Foref%3D7b2d4435-8547-0ae8-3450-86148beb4bd6%26Origin%3DCMP_SHOPPING_MPTv&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+Samsung+UE32EH4003+LED+-+TV+LCD+30+%C3%A0+39&amp;dlprc=236.99&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=934&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=1-4468359</offerURL>
+							<store authorizedReseller="false" id="486945" trusted="false">
+								<name>Fnac.com Marketplace</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/486945.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.23</cpc>
+							<sku>1-4468359</sku>
+							<quantity>0</quantity>
+							<mpn>UE32EH4003WXZF</mpn>
+							<upc>08806085093065</upc>
+						</offer>
+						<offer featured="false" id="GWcpw4HgUgQ0AO5tqGqJMQ==" smartBuy="false" used="false">
+							<name>TV SAMSUNG UE32EH4003 50Hz CMR + Support mural ESSENTIELB 32-52' ORIENT'T</name>
+							<description>Le + : - Taille : 80 cm (32) - TV connectée : Non</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/47/57/63/707734486755675130414f35747147714a4d51-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/47/57/63/707734486755675130414f35747147714a4d51-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/47/57/63/707734486755675130414f35747147714a4d51-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/47/57/63/707734486755675130414f35747147714a4d51-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=3&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Garantie 24 mois-Livraison à domicile sous 1 à 10 jours</storeNotes>
+							<basePrice currency="EUR">367.84</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">0.00</shippingCost>
+							<totalPrice currency="EUR">367.84</totalPrice>
+							<originalPrice currency="EUR">367.84</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=889&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=458878&amp;crawler_id=458878&amp;dealId=GWcpw4HgUgQ0AO5tqGqJMQ%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F1034-33346-1028314%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+SAMSUNG+UE32EH4003+50Hz+CMR+%2B+Support+mural+ESSENTIELB+32-52%27+ORIENT%27T&amp;dlprc=367.84&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=845&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=1028314</offerURL>
+							<store authorizedReseller="false" id="458878" trusted="false">
+								<name>Boulanger</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/458878.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1</reviewCount>
+									<rating>2.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_2.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_boulanger~MRD-458878~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.35</cpc>
+							<sku>1028314</sku>
+							<quantity>0</quantity>
+							<mpn>UE32EH4003WXZF871041</mpn>
+							<upc>08806085093065</upc>
+						</offer>
+						<offer featured="false" id="2VDm3Bp9Dwb-gtPDO35V_g==" smartBuy="false" used="false">
+							<name>Tv Led Samsung Ue32eh4003 50hz Cmr</name>
+							<description>/ Disponible en UNIQUE / Equipement &gt; Image &gt; Téléviseurs &gt; / le
+								téléviseur Samsung - 3 SUISSES
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/32/56/44/6d334270394477622d677450444f3335565f67-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=4&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/32/56/44/6d334270394477622d677450444f3335565f67-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=4&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/32/56/44/6d334270394477622d677450444f3335565f67-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=4&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/32/56/44/6d334270394477622d677450444f3335565f67-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=4&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Livraison 24h</storeNotes>
+							<basePrice currency="EUR">249.00</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">19.00</shippingCost>
+							<totalPrice currency="EUR">268.00</totalPrice>
+							<originalPrice currency="EUR">249.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=166&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=400177&amp;crawler_id=400177&amp;dealId=2VDm3Bp9Dwb-gtPDO35V_g%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F516-61861-50030354%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=Tv+Led+Samsung+Ue32eh4003+50hz+Cmr&amp;dlprc=249.0&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=190&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=50030354</offerURL>
+							<store authorizedReseller="false" id="400177" trusted="true">
+								<name>3 Suisses</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/400177.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>2883</reviewCount>
+									<rating>3.50</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_3_suisses~MRD-400177~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.15</cpc>
+							<sku>50030354</sku>
+							<quantity>0</quantity>
+						</offer>
+						<offer featured="false" id="ZR0lQTs8uvne7UvB3SWxaQ==" smartBuy="false" used="false">
+							<name>TV LED SAMSUNG UE32EH4003 (80cm) SAMSUNG</name>
+							<description>Les points clés TypeTélévision TechnologieLED Taille de l'écrande 61 à 90 cm
+								TunerTNT HD Fréquence de balayage restituée50 Hz RésolutionHDTV ConnexionAucune
+								Compatible sans décodeur supplémentaireTNT + Câble EcologieSans Eco Label PiedFixeLes p
+								de ce modele AvantagesPort USB Multimédia Ecran Rétroéclairage / DalleDirect LED
+								Technologie utilisée2D Taille de l'écran80 cm Résolution native1366 x 768 pixels HDTV
+								1080pNon HDTVOui Ultra HDNon Fréquence de balayage50 Hz natif Format16/9 ContrasteMega
+								Contrast Traitement numérique de l'imageWide Color Enhancer Plus Traitement et reception
+								Tuner TNT HDOui Tuner câbleOui Tuner satelliteNon Guide des programmes (EPG)Oui Nombre
+								de pages télétexte1000 Son Puissance des haut-parleurs2 x 10 Watts Nature du sonStéréo
+								Traitement du sonDolby Digital Plus Ajustement automatique du volumeOui Connectique
+								Péritel1 Composite1 HDMI 1.42 Prise casque0 Port USB (dont vidéo)1 Slot PCMCIA1
+								Connectivite WiFiNon DLNANon CI+Oui Confort et utilisation CouleurNoir Nombre de
+								langues29 Fo
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/5a/52/30/6c5154733875766e6537557642335357786151-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=5&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/5a/52/30/6c5154733875766e6537557642335357786151-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=5&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/5a/52/30/6c5154733875766e6537557642335357786151-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=5&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/5a/52/30/6c5154733875766e6537557642335357786151-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=5&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="641" width="641">
+									<sourceURL>
+										http://di68.shoppingshadow.com/images/di/5a/52/30/6c5154733875766e6537557642335357786151-641x641-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=5&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="EUR">243.99</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">5.00</shippingCost>
+							<totalPrice currency="EUR">248.99</totalPrice>
+							<originalPrice currency="EUR">243.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=259&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=505276&amp;crawler_id=505276&amp;dealId=ZR0lQTs8uvne7UvB3SWxaQ%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F149-85769-015656237%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+LED+SAMSUNG+UE32EH4003+%2880cm%29+SAMSUNG&amp;dlprc=243.99&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=5&amp;IsLps=0&amp;code=&amp;acode=271&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=401256660</offerURL>
+							<store authorizedReseller="false" id="505276" trusted="false">
+								<name>Marketplace by La Redoute</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/505276.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>2</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_la_redoute_marketplace~MRD-505276~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.27</cpc>
+							<sku>401256660</sku>
+							<quantity>0</quantity>
+							<upc>08806085093065</upc>
+						</offer>
+						<offer featured="false" id="B8ssUQFvmvlfx0QY4GkTUQ==" smartBuy="false" used="false">
+							<name>TV LED Samsung UE32EH4003 LED</name>
+							<description>Ecran de 80 cm / HDTV / Rétro-éclairage LED Direct / Port USB (MP3, JPEG,
+								Vidéo)
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/42/38/73/73555146766d766c667830515934476b545551-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=6&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/42/38/73/73555146766d766c667830515934476b545551-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=6&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/42/38/73/73555146766d766c667830515934476b545551-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=6&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=6&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="230" width="345">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/42/38/73/73555146766d766c667830515934476b545551-345x230-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=6&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Expédié sous 24h.Livraison gratuite dès 20 eur d'achat. Garantie Darty 2 ans
+								pièces (voir condit
+							</storeNotes>
+							<basePrice currency="EUR">239.00</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">0.00</shippingCost>
+							<totalPrice currency="EUR">239.00</totalPrice>
+							<originalPrice currency="EUR">239.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=387&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=433404&amp;crawler_id=433404&amp;dealId=B8ssUQFvmvlfx0QY4GkTUQ%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F440-5880-3628868%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+LED+Samsung+UE32EH4003+LED&amp;dlprc=239.0&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=6&amp;IsLps=0&amp;code=&amp;acode=391&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=3628868</offerURL>
+							<store authorizedReseller="false" id="433404" trusted="false">
+								<name>Darty.com</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/433404.gif</sourceURL>
+								</logo>
+								<phoneNumber>0821 082 082</phoneNumber>
+								<ratingInfo>
+									<reviewCount>14</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_darty_com~MRD-433404~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.19</cpc>
+							<sku>3628868</sku>
+							<quantity>0</quantity>
+							<mpn>UE32EH4003LED</mpn>
+							<upc>08806085093065</upc>
+						</offer>
+						<offer featured="false" id="rqkJ_mVS5_ZKY9PrRirWGA==" smartBuy="false" used="false">
+							<name>UE32EH4003</name>
+							<description>Televiseur LED 32 pouces (80 cm) HDTV 2x HDMI USB Multimédia</description>
+							<categoryId>96252</categoryId>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/72/71/6b/4a5f6d5653355f5a4b59395072526972574741-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=7&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="200" width="200">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=7&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=7&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=7&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="188" width="188">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/72/71/6b/4a5f6d5653355f5a4b59395072526972574741-188x188-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=7&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>unknown</stockStatus>
+							<basePrice currency="EUR">239.00</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">7.00</shippingCost>
+							<totalPrice currency="EUR">246.00</totalPrice>
+							<originalPrice currency="EUR">239.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=750&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=498761&amp;crawler_id=498761&amp;dealId=rqkJ_mVS5_ZKY9PrRirWGA%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F2857-98179-B167442%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=UE32EH4003&amp;dlprc=239.0&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=7&amp;IsLps=0&amp;code=&amp;acode=738&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=B167442</offerURL>
+							<store authorizedReseller="false" id="498761" trusted="false">
+								<name>Auchan</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/498761.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.27</cpc>
+							<sku>B167442</sku>
+							<quantity>0</quantity>
+							<upc>08806085093065</upc>
+						</offer>
+						<offer featured="false" id="1JvbgyGb1OgaTiEWDX6NeA==" smartBuy="false" used="false">
+							<name>Téléviseur LED UE32EH4003</name>
+							<description>Le téléviseur Samsung UE32EH4003 associe la technologie de rétroéclairage LED
+								au processeur HyperReal Engine pour un affichage lumineux et un contraste élevé au
+								format 16:9. Vous profitez ainsi confortablement de sa résolution HD TV et de son tuner
+								TNT HD. La TV UE-32EH4003 est équipée d'un tuner PIP qui vous permet même de regarder
+								simultanément deux programmes via l'incrustation d'une image dans l'image. Et grâce à la
+								technologie propriétaire Wide Color Enhancer, la colorimétrie s'avère particulièrement
+								étendue. Outre ses 2 ports HDMI pour les sources numériques, le téléviseur LED
+								UE32-EH4003 dispose d'1 port USB compatible ConnectShare pour en faire un lecteur
+								multimédia. Vous profitez ainsi directement de vos contenus préférés (vidéo, photo,
+								musique) depuis une clé de stockage, par exemple. Cette télévision Samsung intègre aussi
+								le mode jeu qui optimise les paramètres d'affichage de vos jeux vidéo.
+							</description>
+							<categoryId>96252</categoryId>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/4a/76/6267794762314f6761546945574458364e6541-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=8&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/4a/76/6267794762314f6761546945574458364e6541-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=8&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/4a/76/6267794762314f6761546945574458364e6541-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=8&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/4a/76/6267794762314f6761546945574458364e6541-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=8&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="532" width="600">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/31/4a/76/6267794762314f6761546945574458364e6541-600x532-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=1&amp;pr=1&amp;dipr=8&amp;pid=151280140&amp;fks=0&amp;pdid=SwQK_PcrQOPyil83QswSZg%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="EUR">240.29</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">13.00</shippingCost>
+							<totalPrice currency="EUR">253.29</totalPrice>
+							<originalPrice currency="EUR">240.29</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=828&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=449811&amp;crawler_id=449811&amp;dealId=1JvbgyGb1OgaTiEWDX6NeA%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F5239-89359-18003670%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=T%C3%A9l%C3%A9viseur+LED+UE32EH4003&amp;dlprc=240.29&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151280140&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=8&amp;IsLps=0&amp;code=&amp;acode=814&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=18003670</offerURL>
+							<store authorizedReseller="false" id="449811" trusted="false">
+								<name>PIXmania certified seller</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/449811.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>5</reviewCount>
+									<rating>1.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_1.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_pixmania_certified_seller~MRD-449811~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.05</cpc>
+							<sku>18003670</sku>
+							<quantity>0</quantity>
+							<mpn>8806085093065</mpn>
+							<upc>08806085093065</upc>
+						</offer>
+					</offers>
+					<numStores>8</numStores>
+				</product>
+				<product id="145839317">
+					<name>Samsung ME40B LED 40" Téléviseur</name>
+					<fullDescription>Avec une profondeur de seulement 29.9 mm grâce à la technologie LED, le Samsung
+						ME40B s'intègre facilement dans n'importe quel environnement. Polyvalent et peu gourmand en
+						énergie, ce moniteur professionnel affichera votre communication de manière claire et efficace.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<upcs>
+						<upc>8806071997667</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16RHJIQE9qUHsjrMBRbEZ1rYjg~~_32-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;pid=145839317&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16RHJIQE9qUHsjrMBRbEZ1rYjg~~_32-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;pid=145839317&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="300" width="300">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;pid=145839317&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;pid=145839317&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="150" width="200">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16RHJIQE9qUHsjrMBRbEZ1rYjg~~_32-200x150-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;pid=145839317&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>1301.95</minPrice>
+					<maxPrice>1301.95</maxPrice>
+					<productOffersURL>
+						http://fr.shopping.com/televiseur-a-ecran-plat-samsung-samsung-monitors-samsung-40-me40b-commercial-led-lcd-display-black-by-samsung-monitors/prix~linkin_id-8053638
+					</productOffersURL>
+					<productSpecsURL>
+						http://fr.shopping.com/televiseur-a-ecran-plat-samsung-samsung-monitors-samsung-40-me40b-commercial-led-lcd-display-black-by-samsung-monitors/info~linkin_id-8053638
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="Ud8UTP7gBl9jllYoTfchcw==" smartBuy="false" used="false">
+							<name>Ecran large Samsung SyncMaster ME40B 40 SAMSUNG</name>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/55/64/38/5554503767426c396a6c6c596f546663686377-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=145839317&amp;fks=0&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/55/64/38/5554503767426c396a6c6c596f546663686377-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=145839317&amp;fks=0&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/55/64/38/5554503767426c396a6c6c596f546663686377-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=145839317&amp;fks=0&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/55/64/38/5554503767426c396a6c6c596f546663686377-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=145839317&amp;fks=0&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="641" width="641">
+									<sourceURL>
+										http://di63.shoppingshadow.com/images/di/55/64/38/5554503767426c396a6c6c596f546663686377-641x641-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=2&amp;pr=2&amp;dipr=1&amp;pid=145839317&amp;fks=0&amp;pdid=Ud8UTP7gBl9jllYoTfchcw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="EUR">1301.95</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">0.00</shippingCost>
+							<totalPrice currency="EUR">1301.95</totalPrice>
+							<originalPrice currency="EUR">1301.95</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=259&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=505276&amp;crawler_id=505276&amp;dealId=Ud8UTP7gBl9jllYoTfchcw%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F149-85769-013532684%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=Ecran+large+Samsung+SyncMaster+ME40B+40++SAMSUNG&amp;dlprc=1301.95&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=145839317&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=271&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=400662818</offerURL>
+							<store authorizedReseller="false" id="505276" trusted="false">
+								<name>Marketplace by La Redoute</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/505276.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>2</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_la_redoute_marketplace~MRD-505276~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.27</cpc>
+							<sku>400662818</sku>
+							<quantity>0</quantity>
+							<upc>08806071997667</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="151279922">
+					<name>Samsung MD40B LED 40" Téléviseur - Groupe d'efficacité énergétique: Label Energy Star</name>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<upcs>
+						<upc>8806071866604</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16ZHJGoE9nuQgjwzBRHov6!Bo!~~_32-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;pid=151279922&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>1016.10</minPrice>
+					<maxPrice>1197.45</maxPrice>
+					<productOffersURL>
+						http://fr.shopping.com/samsung_md40b_led_40_t_l_viseur_groupe_d_efficacit_nerg_tique_label_energy_star/prix~linkin_id-8053638
+					</productOffersURL>
+					<productSpecsURL>
+						http://fr.shopping.com/samsung_md40b_led_40_t_l_viseur_groupe_d_efficacit_nerg_tique_label_energy_star/info~linkin_id-8053638
+					</productSpecsURL>
+					<offers matchedOfferCount="2" pageNumber="1" returnedOfferCount="2">
+						<offer featured="false" id="TRUGDqAD6f1WD0eyJn1SLA==" smartBuy="false" used="false">
+							<name>Ecran LED SAMSUNG SyncMaster MD40B 40 SAMSUNG</name>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/54/52/55/474471414436663157443065794a6e31534c41-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/54/52/55/474471414436663157443065794a6e31534c41-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/54/52/55/474471414436663157443065794a6e31534c41-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/54/52/55/474471414436663157443065794a6e31534c41-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="641" width="641">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/54/52/55/474471414436663157443065794a6e31534c41-641x641-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="EUR">1197.45</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">0.00</shippingCost>
+							<totalPrice currency="EUR">1197.45</totalPrice>
+							<originalPrice currency="EUR">1197.45</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=259&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=505276&amp;crawler_id=505276&amp;dealId=TRUGDqAD6f1WD0eyJn1SLA%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F149-85769-013533253%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=Ecran+LED+SAMSUNG+SyncMaster+MD40B+40+SAMSUNG&amp;dlprc=1197.45&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151279922&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=271&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=400881239</offerURL>
+							<store authorizedReseller="false" id="505276" trusted="false">
+								<name>Marketplace by La Redoute</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/505276.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>2</reviewCount>
+									<rating>3.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_la_redoute_marketplace~MRD-505276~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.27</cpc>
+							<sku>400881239</sku>
+							<quantity>0</quantity>
+							<upc>08806071866604</upc>
+						</offer>
+						<offer featured="false" id="Wiu2ztnlI0xNUT2pdkuVNA==" smartBuy="false" used="false">
+							<name>SyncMaster MD40B Ecran LED 40</name>
+							<description>Un affichage à coût réduit avec la technologie Direct LEDGrâce à la technologie
+								Samsung Direct LED, profitez de l'innovation LED à moindre coût mais pour un résultat
+								professionnel.Une consommation moindreLa série MD de Samsung est composée de moniteurs
+								peu gourmand en energie et de ce fait respecteux de l'environnement. Consommant moins
+								qu'un moniteur CCFL classique et rejettant moins de CO2, les moniteurs Large Format
+								Display possèdent la certification Energy Star 5.0.Un cadre fin pour un maximum
+								d'impactAfin de profiter d'une surface d'affichage optimale, le MD40B possède des bords
+								réduits.Caractéristiques : - Diagonale 40- 60 Hz LED BLU- Résolution 1920 x 1080 (16:9)-
+								Pitch (mm) 0.15375 (H) x 0.46125 (V) mm- Surface d'affichage active 885.6 (H) x 498.15
+								(V) mm- Luminosité 350 nit- Taux de contraste dynamique 100 000:1 (AV Mode)- Angle de
+								vue 178%u02DA / 178%u02DA- Temps de réponse (G à G) 8 ms- Couleur affichage 16.7
+								Million- Gamme de couleurs 72%- Taux de contraste 5 000:1- Connectique : VGA, DVI-D,
+								CVBS, HDMI, Stereo Mini Jack, Stereo Mini Jack, RS232C (In / Out), RJ45- Dimensions de
+								l'ensemble (LxHxP) : 925.4 x 541 x 93.5 mm - Poids net : 9.3 kg- Poids brut : 11.7 kg-
+								VESA : 200 x 200 mm
+							</description>
+							<categoryId>96252</categoryId>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/57/69/75/327a746e6c4930784e55543270646b75564e41-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/57/69/75/327a746e6c4930784e55543270646b75564e41-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/57/69/75/327a746e6c4930784e55543270646b75564e41-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/57/69/75/327a746e6c4930784e55543270646b75564e41-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="532" width="600">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/57/69/75/327a746e6c4930784e55543270646b75564e41-600x532-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=151279922&amp;fks=0&amp;pdid=TRUGDqAD6f1WD0eyJn1SLA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="EUR">1016.10</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">8.90</shippingCost>
+							<totalPrice currency="EUR">1025.00</totalPrice>
+							<originalPrice currency="EUR">1016.10</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=828&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=449811&amp;crawler_id=449811&amp;dealId=Wiu2ztnlI0xNUT2pdkuVNA%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F5239-89359-15202899%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=SyncMaster+MD40B+Ecran+LED+40&amp;dlprc=1016.1&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=151279922&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=814&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=15202899</offerURL>
+							<store authorizedReseller="false" id="449811" trusted="false">
+								<name>PIXmania certified seller</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/449811.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>5</reviewCount>
+									<rating>1.00</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_1.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_pixmania_certified_seller~MRD-449811~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.05</cpc>
+							<sku>15202899</sku>
+							<quantity>0</quantity>
+							<mpn>8806071866604</mpn>
+							<upc>08806071866604</upc>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<offer featured="false" id="0fIoCl5wInWfNmBIPOkSNw==" smartBuy="false" used="false">
+					<name>Samsung UE75JU7000 UHD 4K</name>
+					<description>Téléviseur LED UHD 4K Samsung UE75JU7000 L'excellence est dans les détails Voici le
+						plus bel écran plat UHD de la gamme Samsung. Equipé des technologies de traitement d'image les
+						plus avancées de la gamme LED Samsung, il offre bien plus que la Ultra Haute Résolution. Toutes
+						vos sources sont optimisées avec une finesse et une précision inégalée. Et la technologie Peak
+						Illuminator sublime chaque détail, pour un réalisme saisissant. Une image magnifique, même sur
+						grand écran La résolution Ultra HD offre 4 fois plus de détails que la Full HD. Même sur un
+						grand écran, profitez d'une image précise et sans défauts pour un spectacle grandiose. Grâce à
+						sa technologie de pointe, votre téléviseur Samsung optimise chaque contenu pour vous faire
+						profiter de la plus belle qualité d'image possible pour toutes vos sources Du mobile à la TV, ou
+						de la TV vers le mobile Il n'a jamais été aussi simple de partager vos plus belles photos et vos
+						plus belles vidéos sur le grand écran de votre TV. Il est tout aussi simple de récupérer l'image
+						de votre TV sur votre smartphone ou votre tablette pour aller finir de regarder votre film dans
+						une autre pièce de la maison. Des détails éclatants Jusqu'à présent, il était impossible de
+						récréer la véritable intensité d'une étoile dans le ciel ou d'un reflet de soleil sur la surface
+						de l'eau. La technologie Peak Illuminator permet de renforcer la luminosité de certaines zones
+						de l'image pour reproduire la véritable intensité de ces détails. Parce que ce sont justement
+						ces petits détails qui font toute la différence.   en un coup d'oeil ✔ Connectez votre
+						téléviseur et votre smartphone en un tournemain ✔ Une Smart TV qui facilite le multitâche ✔ Une
+						qualité d'image améliorée grâce à l'UHD Picture Engine ✔ Le divertissement 3D dans votre salon
+						Connectez votre téléviseur et votre smartphone en un tournemain La nouvelle Smart TV de Samsung
+						vous facilite la vie grâce à ses applications pratiques au quotidien. Par exemple, vous pouvez
+						connecter le téléviseur à votre smartphone pour une interaction optimale entre les deux
+						appareils. Laissez le téléviseur vous réveiller et vous donner un aperçu de votre journée.
+						Transférez en un seul clic des photos de votre smartphone vers votre téléviseur, et vice versa,
+						et ne manquez plus jamais votre série préférée. * Cette fonction est disponible sur toutes les
+						Smart TV 2015 de Samsung, notamment en combinaison avec le Galaxy S6 et Note 4. Renseignez-vous
+						auprès de votre vendeur pour de plus amples informations. La fonction Easy Sharing de Samsung
+						vous permet de partager facilement des contenus entre votre téléviseur et votre smartphone ou
+						tablette. Ainsi, vous pouvez aisément montrer au reste de votre famille une vidéo amusante de
+						votre smartphone sur votre téléviseur. Ou vous pouvez continuer à regarder sur le grand écran la
+						suite d'une série que vous étiez en train de regarder en rentrant chez vous. Votre téléviseur
+						Samsung reconnaît le signal de votre appareil mobile et lit parfaitement tous les contenus dans
+						la bonne résolution. L'inverse est évidemment aussi possible : vous pouvez quitter le salon et
+						continuer à regarder votre contenu sur votre smartphone ou tablette. * Cette fonction est
+						disponible sur toutes les Smart TV 2015 de Samsung. Renseignez-vous auprès de votre vendeur pour
+						plus d'informations. Vous utilisez chaque matin votre smartphone pour regarder l'heure et votre
+						agenda ? Puis vous allumez la télévision pour regarder la météo et les actualités ? Désormais,
+						votre téléviseur Samsung vous permet de tout voir d'un seul coup d'oeil. Le téléviseur s'allume
+						automatiquement à l'heure programmée et vous fournit toutes les informations importantes dont
+						vous avez besoin le matin. * L'image n'est fournie qu'à titre d'exemple. L'interface ut
+					</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/30/66/49/6f436c3577496e57664e6d4249504f6b534e77-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/30/66/49/6f436c3577496e57664e6d4249504f6b534e77-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/30/66/49/6f436c3577496e57664e6d4249504f6b534e77-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/30/66/49/6f436c3577496e57664e6d4249504f6b534e77-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="562">
+							<sourceURL>
+								http://di65.shoppingshadow.com/images/di/30/66/49/6f436c3577496e57664e6d4249504f6b534e77-562x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=4&amp;pr=4&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>unknown</stockStatus>
+					<storeNotes>Expédition sous 48h par transporteur</storeNotes>
+					<basePrice currency="EUR">5990.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">0.00</shippingCost>
+					<totalPrice currency="EUR">5990.00</totalPrice>
+					<originalPrice currency="EUR">5990.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=870&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=492881&amp;crawler_id=492881&amp;dealId=0fIoCl5wInWfNmBIPOkSNw%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F444-40519-SamsungUE75JU7000%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=Samsung+UE75JU7000+UHD+4K&amp;dlprc=5990.0&amp;AR=4&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=878&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SamsungUE75JU7000</offerURL>
+					<store authorizedReseller="false" id="492881" trusted="false">
+						<name>Iacono</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/492881.gif</sourceURL>
+						</logo>
+						<ratingInfo>
+							<reviewCount>0</reviewCount>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+							<countryCode>FR</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.31</cpc>
+					<sku>SamsungUE75JU7000</sku>
+					<quantity>0</quantity>
+				</offer>
+				<offer featured="false" id="vrQ0Grx7fuS9IQew77NjUg==" smartBuy="false" used="false">
+					<name>Samsung TV LED H5000 22 (UE22H5000)</name>
+					<description>Le téléviseur Samsung UE22H5000 allie design et image nette avec des contrastes
+						profonds sur son écran LED Full HD de 58 cm de diagonale. Il intègre des technologies pour plus
+						d...
+					</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/76/72/51/3047727837667553394951657737374e6a5567-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=5&amp;pr=5&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/76/72/51/3047727837667553394951657737374e6a5567-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=5&amp;pr=5&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/76/72/51/3047727837667553394951657737374e6a5567-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=5&amp;pr=5&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="false" height="400" width="400">
+							<sourceURL>
+								http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=5&amp;pr=5&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="350" width="350">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/76/72/51/3047727837667553394951657737374e6a5567-350x350-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=5&amp;pr=5&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<basePrice currency="EUR">189.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">14.99</shippingCost>
+					<totalPrice currency="EUR">203.99</totalPrice>
+					<originalPrice currency="EUR">189.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=206&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=448217&amp;crawler_id=448217&amp;dealId=vrQ0Grx7fuS9IQew77NjUg%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F1784-29638-103722%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=Samsung+TV+LED+H5000+22+%28UE22H5000%29&amp;dlprc=189.0&amp;AR=5&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=194&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=103722</offerURL>
+					<store authorizedReseller="false" id="448217" trusted="false">
+						<name>Materiel.net</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/448217.gif</sourceURL>
+						</logo>
+						<phoneNumber></phoneNumber>
+						<ratingInfo>
+							<reviewCount>2</reviewCount>
+							<rating>3.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>http://fr.shopping.com/xMR-store_materiel_net~MRD-448217~S-1~linkin_id-8053638
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+							<countryCode>FR</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.27</cpc>
+					<sku>103722</sku>
+					<quantity>0</quantity>
+					<mpn>UE22H5000</mpn>
+					<upc>08806085987050</upc>
+				</offer>
+				<offer featured="false" id="Ki9bn9ZyOlGWmOHMX3n6tg==" smartBuy="false" used="false">
+					<name>SAMSUNG - UE 32 H 6200 - Écrans TV</name>
+					<description>le  samsung ue32h6200 appartient à la nouvelle gamme smart tv des hd tv 1080p led 3d de
+						la marque samsung. ce smart tv (téléviseur intelligent) 3d ready propose une diagonale de 32 cm
+						(81 cm). ce téléviseur  embarque de nombreuses technologies comme le wide color enhencer, la
+						clear motion ...
+					</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/4b/69/39/626e395a794f6c47576d4f484d58336e367467-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/4b/69/39/626e395a794f6c47576d4f484d58336e367467-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/4b/69/39/626e395a794f6c47576d4f484d58336e367467-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/4b/69/39/626e395a794f6c47576d4f484d58336e367467-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="600" width="800">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/4b/69/39/626e395a794f6c47576d4f484d58336e367467-800x600-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=6&amp;pr=6&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<storeNotes>TNT EXPRESS</storeNotes>
+					<basePrice currency="EUR">385.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">19.99</shippingCost>
+					<totalPrice currency="EUR">404.99</totalPrice>
+					<originalPrice currency="EUR">499.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=779&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=449796&amp;crawler_id=449796&amp;dealId=Ki9bn9ZyOlGWmOHMX3n6tg%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F1048-19234-20105%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=SAMSUNG+-+UE+32+H+6200+-+%C3%89crans+TV&amp;dlprc=385.0&amp;AR=6&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=775&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAM.UE32H6200</offerURL>
+					<store authorizedReseller="false" id="449796" trusted="false">
+						<name>COBRASON</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/449796.gif</sourceURL>
+						</logo>
+						<phoneNumber>0 825 30 10 80</phoneNumber>
+						<ratingInfo>
+							<reviewCount>0</reviewCount>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+							<countryCode>FR</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.27</cpc>
+					<sku>SAM.UE32H6200</sku>
+					<quantity>0</quantity>
+					<upc>08806085986183</upc>
+				</offer>
+				<offer featured="false" id="xXIo7lkrik94UTupZet0hA==" smartBuy="false" used="false">
+					<name>TV SAMSUNG UE19H4000 100Hz CMR</name>
+					<description>Le + : - Taille : 47 cm (19) - TV connectée : Non</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/78/58/49/6f376c6b72696b3934555475705a6574306841-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/78/58/49/6f376c6b72696b3934555475705a6574306841-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/78/58/49/6f376c6b72696b3934555475705a6574306841-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/78/58/49/6f376c6b72696b3934555475705a6574306841-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="349" width="400">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/78/58/49/6f376c6b72696b3934555475705a6574306841-400x349-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=7&amp;pr=7&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<storeNotes>Garantie 24 mois-Livraison à domicile sous 2 à 3 jours</storeNotes>
+					<basePrice currency="EUR">149.00</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">0.00</shippingCost>
+					<totalPrice currency="EUR">149.00</totalPrice>
+					<originalPrice currency="EUR">149.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=889&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=458878&amp;crawler_id=458878&amp;dealId=xXIo7lkrik94UTupZet0hA%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F1034-33346-1025645%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+SAMSUNG+UE19H4000+100Hz+CMR&amp;dlprc=149.0&amp;AR=7&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=845&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=1025645</offerURL>
+					<store authorizedReseller="false" id="458878" trusted="false">
+						<name>Boulanger</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/458878.gif</sourceURL>
+						</logo>
+						<ratingInfo>
+							<reviewCount>1</reviewCount>
+							<rating>2.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_2.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>http://fr.shopping.com/xMR-store_boulanger~MRD-458878~S-1~linkin_id-8053638
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+							<countryCode>FR</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.35</cpc>
+					<sku>1025645</sku>
+					<quantity>0</quantity>
+					<mpn>UE19H4000AWXZF</mpn>
+					<upc>08806085987548</upc>
+				</offer>
+				<offer featured="false" id="IPwUMH5E5WTmbJfjlrkM9w==" smartBuy="false" used="false">
+					<name>TV LED SAMSUNG UE40H5000 100Hz FULL HD (102cm) SAMSUNG</name>
+					<description>Les points clés TypeTélévision TechnologieLED Taille de l'écrande 91 à 110 cm TunerTNT
+						HD Fréquence de balayage restituée100 Hz RésolutionHDTV 1080p ConnexionAucune Compatible sans
+						décodeur supplémentaireTNT + Câble PiedFixeLes p de ce modele AvantagesPassez à la Full HD avec
+						ce TV qui vous offrira l'essentiel de la technologie dans un design moderne et élégant Ecran
+						Rétroéclairage / DalleLED Technologie utilisée2D Taille de l'écran101.8 cm Résolution native1920
+						x 1080 pixels HDTV 1080pOui Ultra HDNon Fréquence de balayage100 Hz avec traitement CMR
+						Traitement et reception Tuner TNT HDOui Tuner câbleOui Tuner satelliteNon Guide des programmes
+						(EPG)Oui TélétexteOui Son Puissance des haut-parleurs2 x 10 Watts Ajustement automatique du
+						volumeOui Connectique Péritel1 Composite1 Connecteur YUV (ou YPbPr)1 HDMI 1.42 Audio analogique1
+						Sortie optique1 Prise casque1 Port USB (dont vidéo)1 Slot PCMCIA0 Connectivite WiFiNon DLNANon
+						CI+Oui Tv connectee smart tv Navigateur InternetNon HBBTV (télévison intéractive)Non Confort et
+						utilisation CouleurNoir Mode FootballOui
+					</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/49/50/77/554d4835453557546d624a666a6c726b4d3977-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/49/50/77/554d4835453557546d624a666a6c726b4d3977-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/49/50/77/554d4835453557546d624a666a6c726b4d3977-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/49/50/77/554d4835453557546d624a666a6c726b4d3977-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="641" width="641">
+							<sourceURL>
+								http://di61.shoppingshadow.com/images/di/49/50/77/554d4835453557546d624a666a6c726b4d3977-641x641-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<basePrice currency="EUR">391.14</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">12.90</shippingCost>
+					<totalPrice currency="EUR">404.04</totalPrice>
+					<originalPrice currency="EUR">449.00</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=259&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=505276&amp;crawler_id=505276&amp;dealId=IPwUMH5E5WTmbJfjlrkM9w%3D%3D&amp;url=http%3A%2F%2Ftracking.lengow.com%2FshortUrl%2F149-85769-022232253%2F&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+LED+SAMSUNG+UE40H5000+100Hz+FULL+HD+%28102cm%29+SAMSUNG&amp;dlprc=391.14&amp;AR=8&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=5&amp;IsLps=0&amp;code=&amp;acode=294&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=410576205</offerURL>
+					<store authorizedReseller="false" id="505276" trusted="false">
+						<name>Marketplace by La Redoute</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/505276.gif</sourceURL>
+						</logo>
+						<ratingInfo>
+							<reviewCount>2</reviewCount>
+							<rating>3.00</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>
+								http://fr.shopping.com/xMR-store_la_redoute_marketplace~MRD-505276~S-1~linkin_id-8053638
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+							<countryCode>FR</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.50</cpc>
+					<sku>410576205</sku>
+					<quantity>0</quantity>
+					<upc>08806085987067</upc>
+				</offer>
+				<offer featured="false" id="n63sejZXqtb9YYH3fNWbEw==" smartBuy="false" used="false">
+					<name>TV Samsung UE48H6400 3D TV LCD 45 à 49</name>
+					<description>Téléviseur - TV LED 48'', Full HD, Smart TV, 3D</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di64.shoppingshadow.com/images/di/6e/36/33/73656a5a587174623959594833664e57624577-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di64.shoppingshadow.com/images/di/6e/36/33/73656a5a587174623959594833664e57624577-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di64.shoppingshadow.com/images/di/6e/36/33/73656a5a587174623959594833664e57624577-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di64.shoppingshadow.com/images/di/6e/36/33/73656a5a587174623959594833664e57624577-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="265" width="500">
+							<sourceURL>
+								http://di64.shoppingshadow.com/images/di/6e/36/33/73656a5a587174623959594833664e57624577-500x265-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=9&amp;pr=9&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<basePrice currency="EUR">579.90</basePrice>
+					<tax currency="EUR">0.00</tax>
+					<shippingCost currency="EUR">0.00</shippingCost>
+					<totalPrice currency="EUR">579.90</totalPrice>
+					<originalPrice currency="EUR">579.90</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=203&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=453220&amp;crawler_id=1925053&amp;dealId=n63sejZXqtb9YYH3fNWbEw%3D%3D&amp;url=http%3A%2F%2Feultech.fnac.com%2Fdynclick%2Ffnac%2F%3Fetf-publisher%3DShopping.com%26etf-name%3DShopping.com_tvs%26etf-prdref%3D1-7716888%26eseg-name%3Dreferentiel_produit%26eseg-item%3DFnac%26eurl%3Dhttp%3A%2F%2Fwww.fnac.com%2FTV-Samsung-UE48H6400-3D%2Fa7716888%2Fw-4%3Foref%3D00000000-0000-0000-0000-000000000000%26Origin%3DCMP_SHOPPING_TEK%26adhce%3Dcrtdcvrt2014&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+Samsung+UE48H6400+3D+TV++LCD+45+%C3%A0+49&amp;dlprc=579.9&amp;AR=9&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=6&amp;IsLps=0&amp;code=&amp;acode=203&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=1-7716888</offerURL>
+					<store authorizedReseller="false" id="453220" trusted="false">
+						<name>Fnac.com</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/453220.gif</sourceURL>
+						</logo>
+						<ratingInfo>
+							<reviewCount>6</reviewCount>
+							<rating>2.83</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_3.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>http://fr.shopping.com/xMR-store_fnac_9689~MRD-453220~S-1~linkin_id-8053638
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+							<countryCode>FR</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.23</cpc>
+					<sku>1-7716888</sku>
+					<quantity>0</quantity>
+					<mpn>UE48H6400</mpn>
+					<upc>08806085986244</upc>
+				</offer>
+				<product id="181249334">
+					<name>Samsung UE48H5000AK LED 48" Téléviseur</name>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<upcs>
+						<upc>8806085982352</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/s/MTA2NlgxNjAw/z/ceMAAOSwbqpTvWJP/$_32-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=2&amp;c=250&amp;l=8053638&amp;r=10&amp;pr=10&amp;pid=181249334&amp;pdid=4wWpPzY85O5yO4Gct5sMKw%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>480.26</minPrice>
+					<maxPrice>480.26</maxPrice>
+					<productOffersURL>
+						http://fr.shopping.com/samsung_ue48h5000ak_led_48_televiseur/prix~linkin_id-8053638
+					</productOffersURL>
+					<productSpecsURL>
+						http://fr.shopping.com/samsung_ue48h5000ak_led_48_televiseur/info~linkin_id-8053638
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="4wWpPzY85O5yO4Gct5sMKw==" smartBuy="false" used="false">
+							<name>TV LED Samsung UE48H5000AK 48 Full HD Smart TV</name>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/34/77/57/70507a5938354f35794f3447637435734d4b77-100x100-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181249334&amp;fks=0&amp;pdid=4wWpPzY85O5yO4Gct5sMKw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/34/77/57/70507a5938354f35794f3447637435734d4b77-200x200-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181249334&amp;fks=0&amp;pdid=4wWpPzY85O5yO4Gct5sMKw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/34/77/57/70507a5938354f35794f3447637435734d4b77-300x300-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181249334&amp;fks=0&amp;pdid=4wWpPzY85O5yO4Gct5sMKw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/34/77/57/70507a5938354f35794f3447637435734d4b77-400x400-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181249334&amp;fks=0&amp;pdid=4wWpPzY85O5yO4Gct5sMKw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="500" width="500">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/34/77/57/70507a5938354f35794f3447637435734d4b77-500x500-0-0.jpg?rqid=p5.86268085d83528f3992e&amp;rqt=SRS&amp;a=1&amp;c=250&amp;l=8053638&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=181249334&amp;fks=0&amp;pdid=4wWpPzY85O5yO4Gct5sMKw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Livraison sous 2 à 5 jours</storeNotes>
+							<basePrice currency="EUR">480.26</basePrice>
+							<tax currency="EUR">0.00</tax>
+							<shippingCost currency="EUR">0.00</shippingCost>
+							<totalPrice currency="EUR">480.26</totalPrice>
+							<originalPrice currency="EUR">480.26</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=718&amp;BEFID=96252&amp;aon=%5E&amp;MerchantID=508729&amp;crawler_id=508729&amp;dealId=4wWpPzY85O5yO4Gct5sMKw%3D%3D&amp;url=http%3A%2F%2Fk.keyade.com%2Fkack%2F1%2F%3FkaPt%3Dshopbot%26kaTckM%3Ddcwr%26kaPcId%3D17357%26kaTckId%3D92847249%26kaAcId%3D35%26kaNtw%3D14%26kaTG%3D1430726461%26kaRdt%3Dhttp%253A%252F%252Fwww.priceminister.com%252Foffer%252Fbuy%252F293830021%252Fsamsung-48-pollici-fullhd-led-smart-tv.html%253Ft%253D150712%2526ja1%253Dtsid%253A66254%257Ccgn%253Ahifi%257Ckw%253A293830021%2523sort%253D0%2526filter%253D10%2526bbaid%253D1025974790&amp;linkin_id=8053638&amp;Issdt=150505093339&amp;searchID=p5.86268085d83528f3992e&amp;DealName=TV+LED+Samsung+UE48H5000AK+48+Full+HD+Smart+TV&amp;dlprc=480.26&amp;AR=1&amp;NG=12&amp;NDP=6&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=181249334&amp;brnId=14305&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=735&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=293830021</offerURL>
+							<store authorizedReseller="false" id="508729" trusted="false">
+								<name>PriceMinister</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/508729.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>150</reviewCount>
+									<rating>3.39</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://fr.shopping.com/xMR-store_priceminister_4220315~MRD-508729~S-1~linkin_id-8053638
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/FR.gif</sourceURL>
+									<countryCode>FR</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.06</cpc>
+							<sku>293830021</sku>
+							<quantity>0</quantity>
+							<mpn>UE48H5000AK</mpn>
+							<upc>08806085985698</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+			</items>
+			<attributes matchedAttributeCount="3" returnedAttributeCount="3">
+				<attribute id="Dynamic_Price_Range">
+					<name>Fourchette de prix</name>
+					<attributeURL>http://fr.shopping.com/televisions/samsung/produits?oq=samsung&amp;linkin_id=8053638
+					</attributeURL>
+					<attributeValues matchedValueCount="2" returnedValueCount="2">
+						<attributeValue id="fourchette_de_prix_139_7150" matchingItemsCount="1">
+							<name>139â¬ - 7150â¬</name>
+							<attributeValueURL>http://fr.shopping.com/televisions/samsung/produits?minPrice=139&amp;maxPrice=7150&amp;linkin_id=8053638</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="fourchette_de_prix_7150_14161" matchingItemsCount="1">
+							<name>7150â¬ - 14161â¬</name>
+							<attributeValueURL>http://fr.shopping.com/televisions/samsung/produits?minPrice=7150&amp;maxPrice=14161&amp;linkin_id=8053638</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="magasin">
+					<name>Magasin</name>
+					<attributeURL>http://fr.shopping.com/televisions/samsung/produits~all-magasin~MS-1?oq=samsung&amp;linkin_id=8053638</attributeURL>
+					<attributeValues matchedValueCount="14" returnedValueCount="5">
+						<attributeValue id="store_priceminister_4220315" matchingItemsCount="198">
+							<name>PriceMinister</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+store-priceminister-4220315/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_boulanger" matchingItemsCount="69">
+							<name>Boulanger</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+store-boulanger/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_darty_com" matchingItemsCount="35">
+							<name>Darty.com</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+store-darty-com/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_fnac_9689" matchingItemsCount="32">
+							<name>Fnac.com</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+store-fnac-9689/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_materiel_net" matchingItemsCount="20">
+							<name>Materiel.net</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+store-materiel-net/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="technologie_d_ecran">
+					<name>Technologie d'écran</name>
+					<attributeURL>
+						http://fr.shopping.com/televisions/samsung/produits~all-technologie-d-ecran~MS-1?oq=samsung&amp;linkin_id=8053638
+					</attributeURL>
+					<attributeValues matchedValueCount="3" returnedValueCount="3">
+						<attributeValue id="147737_led" matchingItemsCount="257">
+							<name>LED</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+147737-led/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="147737_lcd" matchingItemsCount="46">
+							<name>LCD</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+147737-lcd/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="plasma" matchingItemsCount="1">
+							<name>Plasma</name>
+							<attributeValueURL>
+								http://fr.shopping.com/televisions/samsung+plasma/produits~linkin_id-8053638
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+			</attributes>
+			<contentType>hybrid</contentType>
+		</category>
+		<intActualCategoryCount>1</intActualCategoryCount>
+	</categories>
+	<relatedTerms></relatedTerms>
+</GeneralSearchResponse>

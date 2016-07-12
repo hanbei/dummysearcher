@@ -1,0 +1,2411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="286" firstResultPosition="1" totalResultsReturned="50" totalMerchantsAvailable="5" searchOperator="and">
+		<Product>
+			<Offer id="dbd4068569e5906229829496d8d3e5bf" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Кейс для смартфона: iPhone 6, Отв. для встр. камеры: Да, Вид гарантии: по чеку, Страна: КНР, Цвет: синий, Материал корпуса: кожа, Краткое описание: iPhone 6;кожа;синий, Количество отделений: 1, Отверстие для подзарядки: Да, Гарантия: 1 год, Тип корпуса: "шелл"</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041700b.jpg/y92QCKocubWM0lXZyq.u4yKVPkegpj5Lnw8p5TqbUXE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041700b.jpg/y92QCKocubWM0lXZyq.u4yKVPkegpj5Lnw8p5TqbUXE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186305&amp;.sig=zNqBKWg_tK1TgOg2nds5_iVni9I-&amp;offerId=dbd4068569e5906229829496d8d3e5bf&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>3290</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>3580</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f63c3bf5be909815a208c653db66205e" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5s Apple Case MF044ZM/A Blue</Title>
+				<Description>Чехол Чехол для iPhone 5s Apple Case MF044ZM/A Blue</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Ff81%2Ff81f4dcf7203727e6c04444dc310782a.jpeg/uOkF8U08zxqOSwzO73PK1mCvXdGeEZqpMXEqMHlb5CI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Ff81%2Ff81f4dcf7203727e6c04444dc310782a.jpeg/uOkF8U08zxqOSwzO73PK1mCvXdGeEZqpMXEqMHlb5CI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186305&amp;.sig=0I8EW8uoLHpewjkzwYqgWoeS8eY-&amp;offerId=f63c3bf5be909815a208c653db66205e&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2630</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2630</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5/5S</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="38af558e2f8a3298b2bab2c32a5f1b22" type="MANUFACTURER_PRODUCTS">
+				<Title>LINCOS , AF-712 для Apple iPhone 3GS/4GS</Title>
+				<Description>LINCOS AF-712 Автомобильный держатель  для Apple iPhone 3GS/4GS. Многофункциональное зарядное устройство со встроенным FM трансмитером, громкой связью. Особенности: Встроенный Hi-Fi стерео FM трансмиттер  (88,1-107,9 МГц) с функцией громкой связи при разговоре. Питание и зарядка телефона через адаптер</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/14189213/100353123/90/90/http%3A%2F%2Fimg13.wikimart.ru%2F96%2F3f%2F5aa14aa7-8ca7-4a8b-96e0-01d7953f96fc.jpeg/vXSirfveQN17jnLhgPWdK4j50oxNCdMDmI5.IwPRjE0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/14189213/100353123/auto/auto/http%3A%2F%2Fimg13.wikimart.ru%2F96%2F3f%2F5aa14aa7-8ca7-4a8b-96e0-01d7953f96fc.jpeg/vXSirfveQN17jnLhgPWdK4j50oxNCdMDmI5.IwPRjE0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=.xLo0OoHq5AKqwjfEw6uQ26NsVU-&amp;offerId=38af558e2f8a3298b2bab2c32a5f1b22&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14189213&amp;comId=14189213&amp;catId=100353123&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14189213">
+					<Name>Wikimart</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100353123">
+					<Name>Прочие товары</Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1550</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1550</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Авто, мото, запчасти - Акустика и мультимедиа - Аудиопроцессоры, эквалайзеры</MerchantCategory>
+				<Brand>LINCOS</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="20b1d6510ba25009801726949cc61198" type="MANUFACTURER_PRODUCTS">
+				<Title>Чехол-накладка Sotomore Ultra Slim для Apple iPhone 5/5s (оранжевый)</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/14146013/125801/90/90/http%3A%2F%2Fwww.cifrocity.ru%2Fupload%2Fiblock%2F88a%2F88acc3e27b0a6148f5a0d27ee853a918.jpg/FLtf4XAJlW9k6B47JRdE7Ph8NO4.SihRwpgyJsvjbGY-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/14146013/125801/auto/auto/http%3A%2F%2Fwww.cifrocity.ru%2Fupload%2Fiblock%2F88a%2F88acc3e27b0a6148f5a0d27ee853a918.jpg/FLtf4XAJlW9k6B47JRdE7Ph8NO4.SihRwpgyJsvjbGY-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=JVKoBbY8DPrfh7kVPZFtMiiXbiw-&amp;offerId=20b1d6510ba25009801726949cc61198&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14146013&amp;comId=14146013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14146013">
+					<Name>ЦифроТерра</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>90</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>90</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Портативная электроника - Аксессуары для iPhone - Чехлы, накладки и др.</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c89d9335444a85c93b1ff2a5ccd14654" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Отв. для встр. камеры: Да, Материал корпуса: силикон, Тип корпуса: "шелл", Страна: КНР, Отверстие для подзарядки: Да, Гарантия: 1 год, Краткое описание: iPhone 6;силикон;розовый, Цвет: розовый, Кейс для смартфона: iPhone 6, Количество отделений: 1, Вид гарантии: по чеку</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041706b.jpg/X9yAj.UbGhnKC9sTT7Sk0RBG5qAJeUPpVss5AimgI60-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041706b.jpg/X9yAj.UbGhnKC9sTT7Sk0RBG5qAJeUPpVss5AimgI60-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=kDvO0QmrKrnDdNpQa_nQl6KSPNI-&amp;offerId=c89d9335444a85c93b1ff2a5ccd14654&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1990</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8db2d5e01623e713185e6c937ac9771b" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Краткое описание: iPhone 6 Plus;силикон;розовый, Отв. для встр. камеры: Да, Страна: КНР, Гарантия: 1 год, Цвет: розовый, Тип корпуса: "шелл", Количество отделений: 1, Отверстие для подзарядки: Да, Материал корпуса: силикон, Кейс для смартфона: iPhone 6 Plus, Вид гарантии: по чеку</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041718b.jpg/ntgtMx6SIZTyzN_IMdFzPPI1By0QagwDSIgUT.1En9A-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041718b.jpg/ntgtMx6SIZTyzN_IMdFzPPI1By0QagwDSIgUT.1En9A-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=QeGmBPTck18dZXUvv8HLHT2kscU-&amp;offerId=8db2d5e01623e713185e6c937ac9771b&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1990</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2280</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="68a5f0d79bb610d41d6ea2e6c550ab77" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Количество отделений: 1, Страна: КНР, Отверстие для подзарядки: Да, Цвет: синий, Кейс для смартфона: iPhone 6 Plus, Вид гарантии: по чеку, Гарантия: 1 год, Краткое описание: iPhone 6 Plus;кожа;синий, Материал корпуса: кожа, Отв. для встр. камеры: Да, Тип корпуса: "шелл"</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041711b.jpg/igy8i95jdrxfw09aQQylumkKviAE501vMGIyu_szieg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041711b.jpg/igy8i95jdrxfw09aQQylumkKviAE501vMGIyu_szieg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=iuJXkEGgE7BFlZlasbWrZNLM.zY-&amp;offerId=68a5f0d79bb610d41d6ea2e6c550ab77&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2190</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2480</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="cc58d8b2fba21805443b278f6d2b6225" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Вид гарантии: по чеку, Отв. для встр. камеры: Да, Отверстие для подзарядки: Да, Краткое описание: iPhone 6;силикон;зеленый, Материал корпуса: силикон, Цвет: зеленый, Гарантия: 1 год, Тип корпуса: "шелл", Кейс для смартфона: iPhone 6, Количество отделений: 1, Страна: КНР</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041705b.jpg/JefmjNBJd59Jonu38KTUmQO3mAUGSRIoIJwxC15PiwU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041705b.jpg/JefmjNBJd59Jonu38KTUmQO3mAUGSRIoIJwxC15PiwU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=yhpGu7mkMtRC2cZzdZ_xQHegcsg-&amp;offerId=cc58d8b2fba21805443b278f6d2b6225&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1990</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2280</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="56e243fde414e7c7534b3d7245149365" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Кейс для смартфона: iPhone 6 Plus, Цвет: синий, Материал корпуса: силикон, Количество отделений: 1, Отверстие для подзарядки: Да, Страна: КНР, Вид гарантии: по чеку, Краткое описание: iPhone 6 Plus;силикон;синий, Отв. для встр. камеры: Да, Гарантия: 1 год, Тип корпуса: "шелл"</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041716b.jpg/QOko8VXq_CMDxb4olJcrnKiwX2UEvqldWdNUYp1EVlY-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041716b.jpg/QOko8VXq_CMDxb4olJcrnKiwX2UEvqldWdNUYp1EVlY-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=95vQz7vm8ZBMCdiKbmbu.8pxROA-&amp;offerId=56e243fde414e7c7534b3d7245149365&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1990</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bc4967955f7fdf39b64e7fbe92d8ca98" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Материал корпуса: кожа, Кейс для смартфона: iPhone 6 Plus, Количество отделений: 1, Гарантия: 1 год, Цвет: коричневый, Краткое описание: iPhone 6 Plus;кожа;коричневый, Отв. для встр. камеры: Да, Вид гарантии: по чеку, Страна: КНР, Отверстие для подзарядки: Да, Тип корпуса: "шелл"</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041712b.jpg/w7uKb5GScwW9w5ldnbCu7RG4ZBowSX8xjDMj2WIkxGk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041712b.jpg/w7uKb5GScwW9w5ldnbCu7RG4ZBowSX8xjDMj2WIkxGk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=hBM.eA3OwKYJDput29kiFtcRG3M-&amp;offerId=bc4967955f7fdf39b64e7fbe92d8ca98&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>3290</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>3580</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1c8744915bbbe671f6845928a6c5a7e9" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Краткое описание: iPhone 6;кожа;красный, Цвет: красный, Тип корпуса: "шелл", Отверстие для подзарядки: Да, Кейс для смартфона: iPhone 6, Материал корпуса: кожа, Вид гарантии: по чеку, Отв. для встр. камеры: Да, Гарантия: 1 год, Количество отделений: 1, Страна: КНР</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041699b.jpg/VF64zl_dOpGjpYRFHcp68J4L1c5_tT.YnqPaaQKmgSM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041699b.jpg/VF64zl_dOpGjpYRFHcp68J4L1c5_tT.YnqPaaQKmgSM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=YgqU0muNyMpZRfswiqx3O1Rebn8-&amp;offerId=1c8744915bbbe671f6845928a6c5a7e9&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>3290</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>3580</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3d435fe3ef469b1d45cbad3a88b96daa" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Отв. для встр. камеры: Да, Краткое описание: iPhone 6;силикон;черный, Тип корпуса: "шелл", Вид гарантии: по чеку, Цвет: черный, Материал корпуса: силикон, Кейс для смартфона: iPhone 6, Отверстие для подзарядки: Да, Страна: КНР, Количество отделений: 1, Гарантия: 1 год</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041703b.jpg/uPwQoTg4v9lYpp4Vn2lV1vfg8NBpdk5pIpVztFA735k-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041703b.jpg/uPwQoTg4v9lYpp4Vn2lV1vfg8NBpdk5pIpVztFA735k-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186306&amp;.sig=MPT1WxoSf6jqJhJZwJePATRNvZE-&amp;offerId=3d435fe3ef469b1d45cbad3a88b96daa&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2590</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2880</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2890500e07071c80daf3b4bb7724a0a7" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Отверстие для подзарядки: Да, Цвет: черный, Гарантия: 1 год, Страна: КНР, Отв. для встр. камеры: Да, Вид гарантии: по чеку, Материал корпуса: силикон, Краткое описание: iPhone 6 Plus;силикон;черный, Кейс для смартфона: iPhone 6 Plus, Тип корпуса: "шелл", Количество отделений: 1</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041715b.jpg/hBW0u8oqGmmLfiXRMX7TqbdjUeaJthocRTwrjCfrzRQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041715b.jpg/hBW0u8oqGmmLfiXRMX7TqbdjUeaJthocRTwrjCfrzRQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=RAX8mbbV2g5YaxkzZhZsa8m9WbE-&amp;offerId=2890500e07071c80daf3b4bb7724a0a7&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2590</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2880</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="685ed9e51d7b5435874eb7ae2ff07cba" type="MANUFACTURER_PRODUCTS">
+				<Title>Гарнитура для iPhone Apple</Title>
+				<Description>Цвет: белый, Количество наушников: 2, Управление воспроизведением: Да, Встроенный микрофон: 1, Частотный диапазон: 20 Гц - 20 кГц, Количество полос: 1, Регулировка громкости: Да, Гарантия: 1 год, Акустический тип: открытый, Вес: 10 г, Материал корпуса: пластик, Страна: КНР, Вид гарантии: по чеку, Длина</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/120901/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041289b.jpg/6MBJToFica4_xlGFBdgYu.jYxs3p2jibGm.eHtePPbw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/120901/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041289b.jpg/6MBJToFica4_xlGFBdgYu.jYxs3p2jibGm.eHtePPbw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=T_ruDhk6UVImE64FoQLW.8GtSDo-&amp;offerId=685ed9e51d7b5435874eb7ae2ff07cba&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=120901&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="120901">
+					<Name>Наушники и гарнитуры</Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2190</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2480</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Гарнитуры к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d8b40a9939b02abcc2b851a25806a3c0" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Краткое описание: iPhone 6 Plus;силикон;белый, Тип корпуса: "шелл", Кейс для смартфона: iPhone 6 Plus, Материал корпуса: силикон, Страна: КНР, Количество отделений: 1, Гарантия: 1 год, Отв. для встр. камеры: Да, Вид гарантии: по чеку, Цвет: белый, Отверстие для подзарядки: Да</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041720b.jpg/jI3q8tdABRaqOeFD36cJn2WQDgbnuf6ejGIL4D9mhfw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041720b.jpg/jI3q8tdABRaqOeFD36cJn2WQDgbnuf6ejGIL4D9mhfw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=xNksujGDWClotpqkdydbcC1rCa8-&amp;offerId=d8b40a9939b02abcc2b851a25806a3c0&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2590</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2880</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8e9682416769ebdaea7513e51f311649" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Материал корпуса: кожа, Кейс для смартфона: iPhone 6, Количество отделений: 1, Отв. для встр. камеры: Да, Тип корпуса: "шелл", Гарантия: 1 год, Страна: КНР, Вид гарантии: по чеку, Краткое описание: iPhone 6;кожа;коричневый, Отверстие для подзарядки: Да, Цвет: коричневый</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041701b.jpg/dZ0YDe7fmMpfIUzs_WJfA.SG4Lc_v7NnNxXPd0vOVto-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041701b.jpg/dZ0YDe7fmMpfIUzs_WJfA.SG4Lc_v7NnNxXPd0vOVto-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=LKDpaL31V1_qN2BbEc5XkGcNR6o-&amp;offerId=8e9682416769ebdaea7513e51f311649&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>3290</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>3580</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a0fde012f2e269b9c4979d14d760bcc3" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Количество отделений: 1, Краткое описание: iPhone 6;кожа;розовый, Цвет: розовый, Гарантия: 1 год, Вид гарантии: по чеку, Отв. для встр. камеры: Да, Страна: КНР, Материал корпуса: кожа, Кейс для смартфона: iPhone 6, Отверстие для подзарядки: Да, Тип корпуса: "шелл"</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041702b.jpg/NS1dBxYcMEaDXOKjgw2fhmSB_3PWZTxz6giMIA4eRws-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041702b.jpg/NS1dBxYcMEaDXOKjgw2fhmSB_3PWZTxz6giMIA4eRws-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=_9g7paiEhBbC0PuRdhE81x6sFn8-&amp;offerId=a0fde012f2e269b9c4979d14d760bcc3&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1990</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2280</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="cca04b0eb2e45dea75875817c2016c2c" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Цвет: белый, Материал корпуса: силикон, Отв. для встр. камеры: Да, Кейс для смартфона: iPhone 6, Отверстие для подзарядки: Да, Страна: КНР, Гарантия: 1 год, Вид гарантии: по чеку, Количество отделений: 1, Тип корпуса: "шелл", Краткое описание: iPhone 6;силикон;белый</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041708b.jpg/cMzZbQxeSD4D0GvKJrPrFAKlyc8hNGvOFOaLWzAePmk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041708b.jpg/cMzZbQxeSD4D0GvKJrPrFAKlyc8hNGvOFOaLWzAePmk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=pOng4b0yEwFWj1f5WAyKleLJz_g-&amp;offerId=cca04b0eb2e45dea75875817c2016c2c&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2590</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2590</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9278f6961a1f7bf89f6bb74006505f8e" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Отверстие для подзарядки: Да, Вид гарантии: по чеку, Цвет: красный, Материал корпуса: кожа, Отв. для встр. камеры: Да, Тип корпуса: "шелл", Гарантия: 1 год, Страна: КНР, Количество отделений: 1, Кейс для смартфона: iPhone 6 Plus, Краткое описание: iPhone 6 Plus;кожа;красный</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041710b.jpg/WuQ8K2D0CVxB1uMHMZNPWnJVW99IHb6UYRLGkLQh7I0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041710b.jpg/WuQ8K2D0CVxB1uMHMZNPWnJVW99IHb6UYRLGkLQh7I0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=DFuUvdCi7pAX4qJNU2fqxvWteHk-&amp;offerId=9278f6961a1f7bf89f6bb74006505f8e&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>3290</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>3580</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2647d4b0fb4871a4de8dc8705f403723" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Отв. для встр. камеры: Да, Страна: КНР, Гарантия: 1 год, Цвет: черный, Краткое описание: iPhone 6;кожа;черный, Материал корпуса: кожа, Тип корпуса: "шелл", Отверстие для подзарядки: Да, Количество отделений: 1, Вид гарантии: по чеку, Кейс для смартфона: iPhone 6</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041697b.jpg/u2Gd4yd0ns588nLl_YEK4PkO6EZDRP7nFiHMSSfBpZk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041697b.jpg/u2Gd4yd0ns588nLl_YEK4PkO6EZDRP7nFiHMSSfBpZk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=giE5jxeFsUprYiY3TbAbkvd4fkc-&amp;offerId=2647d4b0fb4871a4de8dc8705f403723&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>3290</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>3580</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1c6e90c13a528a9edb823a6fc0fbcccd" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Вид гарантии: по чеку, Тип корпуса: "шелл", Гарантия: 1 год, Количество отделений: 1, Цвет: черный, Кейс для смартфона: iPhone 6 Plus, Отв. для встр. камеры: Да, Краткое описание: iPhone 6 Plus;кожа;черный, Страна: КНР, Материал корпуса: кожа, Отверстие для подзарядки: Да</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041709b.jpg/F0RBvihRYC6NSxEKpWkdchEvaEMk25XZYmtV3zlNSK4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041709b.jpg/F0RBvihRYC6NSxEKpWkdchEvaEMk25XZYmtV3zlNSK4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=syYhQkDh2X9Ivn1qn1eakzeBQPg-&amp;offerId=1c6e90c13a528a9edb823a6fc0fbcccd&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>3290</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>3580</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="04d1988a115709d93b506d4eb8f85978" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Отверстие для подзарядки: Да, Тип корпуса: "шелл", Кейс для смартфона: iPhone 6 Plus, Краткое описание: iPhone 6 Plus;силикон;зеленый, Вид гарантии: по чеку, Гарантия: 1 год, Количество отделений: 1, Страна: КНР, Материал корпуса: силикон, Отв. для встр. камеры: Да, Цвет: зеленый</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041717b.jpg/JLire0YOgjP15op8WgU4CPnDcN_e.Y5klWJyYrVaVGw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041717b.jpg/JLire0YOgjP15op8WgU4CPnDcN_e.Y5klWJyYrVaVGw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=.kYtyabxF1IyJMmDndHckdd6QCw-&amp;offerId=04d1988a115709d93b506d4eb8f85978&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1990</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2280</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="384255c2a4905366e4f7a7f9ef1acd99" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Количество отделений: 1, Тип корпуса: "шелл", Кейс для смартфона: iPhone 6 Plus, Краткое описание: iPhone 6 Plus;кожа;розовый, Отверстие для подзарядки: Да, Вид гарантии: по чеку, Материал корпуса: кожа, Отв. для встр. камеры: Да, Страна: КНР, Гарантия: 1 год, Цвет: розовый</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041714b.jpg/nJ.E_i78mOQBREenwzXv2gdhnoLuznKiFLLot2hrhJM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041714b.jpg/nJ.E_i78mOQBREenwzXv2gdhnoLuznKiFLLot2hrhJM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186307&amp;.sig=HwqEYh0RwTiJAaX7eNBejCjjO1E-&amp;offerId=384255c2a4905366e4f7a7f9ef1acd99&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2190</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2480</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a502b3994de27c3501162a79db91fd1d" type="MANUFACTURER_PRODUCTS">
+				<Title>Кейс для iPhone Apple</Title>
+				<Description>Количество отделений: 1, Гарантия: 1 год, Материал корпуса: силикон, Вид гарантии: по чеку, Краткое описание: iPhone 6 Plus;силикон;красный, Кейс для смартфона: iPhone 6 Plus, Цвет: красный, Страна: КНР, Отверстие для подзарядки: Да, Отв. для встр. камеры: Да, Тип корпуса: "шелл"</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/90/90/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041719b.jpg/mb4_1RXXb755p9em8znNuh6SM5i.mC1_BWMt8p.jpJA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13713013/125801/auto/auto/http%3A%2F%2Fstatic.mvideo.ru%2FPdb%2F50041719b.jpg/mb4_1RXXb755p9em8znNuh6SM5i.mC1_BWMt8p.jpJA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=02AZkk91QXcVVHmR.Pnzf6.QOtE-&amp;offerId=a502b3994de27c3501162a79db91fd1d&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13713013&amp;comId=13713013&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13713013">
+					<Name>M.Video</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13713013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1990</Price>
+					<DeliveryCost>290</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>290</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2280</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для iPhone - Кейсы к iPhone</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0d25f76eb1a3b52b71ecf0c88588029b" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Leather Case Bright Red</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Leather Case Bright Red</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F5fc%2F5fc2a4e66a60f1161b8c63dd3ddfc5b5.jpeg/wevIHQibD8t8CbXwvWEDQkXjWqZ78wcRTI0EqsoD_UA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F5fc%2F5fc2a4e66a60f1161b8c63dd3ddfc5b5.jpeg/wevIHQibD8t8CbXwvWEDQkXjWqZ78wcRTI0EqsoD_UA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=x2f3feiNSsL9ixuoxSLJPuixErs-&amp;offerId=0d25f76eb1a3b52b71ecf0c88588029b&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="15a9bca371c01889570ae1c46d6b9698" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Leather Case Black</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Leather Case Black</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fbb4%2Fbb42b2a2340eef28d514c681dfe00d1b.jpeg/MdM2.vlvEs.B36bmOIhbCziiTyZtg4Po_5VzHUbiHOA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fbb4%2Fbb42b2a2340eef28d514c681dfe00d1b.jpeg/MdM2.vlvEs.B36bmOIhbCziiTyZtg4Po_5VzHUbiHOA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=7BVuPXs7B.YS8adCx_fyebYI4J8-&amp;offerId=15a9bca371c01889570ae1c46d6b9698&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4474c858c2da75f073285764d9671fa2" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Silicone Case Red</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Silicone Case Red</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fc34%2Fc3402c96dbc4e5ce9c10c93a9c3b6feb.jpeg/31OW4MbkD4Feyq2lwxsKfrpVs6QWvhR1uvUBhM9neek-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fc34%2Fc3402c96dbc4e5ce9c10c93a9c3b6feb.jpeg/31OW4MbkD4Feyq2lwxsKfrpVs6QWvhR1uvUBhM9neek-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=qprdAU.WEeDSYG62gmdQdQbsyJ0-&amp;offerId=4474c858c2da75f073285764d9671fa2&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2790</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2790</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="57a98db12de9a3a4a1be89e42a4f5e70" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Silicone Case White</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Silicone Case White</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F811%2F811c9d2803c1a6ee66af38410e5afab6.jpeg/m_.uyZ8NkBLFFDUNOsjZ8ssnVPLygumbSM9urKuuvaU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F811%2F811c9d2803c1a6ee66af38410e5afab6.jpeg/m_.uyZ8NkBLFFDUNOsjZ8ssnVPLygumbSM9urKuuvaU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=pohmqaPuXRybTaJkVG.vqTnYkQw-&amp;offerId=57a98db12de9a3a4a1be89e42a4f5e70&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2340</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2340</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="62518d20e3320cf61d0aea81e1af6c85" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5c Apple Case MF035ZM/A Blue</Title>
+				<Description>Чехол Чехол для iPhone 5c Apple Case MF035ZM/A Blue</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa40%2Fa40ac4d912ac522dd8eaae644890223f.jpeg/of1QEPOE9Mdz4OS5kcoNGpZJH93D8C_bmaNEmKph8GQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa40%2Fa40ac4d912ac522dd8eaae644890223f.jpeg/of1QEPOE9Mdz4OS5kcoNGpZJH93D8C_bmaNEmKph8GQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=AKkJVw9JIrkbAQqkzjSUR2suV4I-&amp;offerId=62518d20e3320cf61d0aea81e1af6c85&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1430</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1430</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5C</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="cb1b039d304655f1ceb508eb467600e0" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5s Apple Case MF043ZM/A Yellow</Title>
+				<Description>Чехол Чехол для iPhone 5s Apple Case MF043ZM/A Yellow</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F18b%2F18be9c3f3b5a830481254034c8400891.jpeg/D7jSTuo3B1PIoiBUOtCdh0V9x58GNMzWDf8xvBOwmnA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F18b%2F18be9c3f3b5a830481254034c8400891.jpeg/D7jSTuo3B1PIoiBUOtCdh0V9x58GNMzWDf8xvBOwmnA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=e7zhbIBnY9pE4ztdlJcB93vSBJk-&amp;offerId=cb1b039d304655f1ceb508eb467600e0&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1650</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1650</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5/5S</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="09ca65032e5da38bbe0e0ef116efba33" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Silicone Case Green</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Silicone Case Green</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F12a%2F12af72503a62f1e3cecf21a33f4c8eb6.jpeg/wClTuHOUe8duZXUNpGou4ev_E00z5bnOTGUWYC3u4Gw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F12a%2F12af72503a62f1e3cecf21a33f4c8eb6.jpeg/wClTuHOUe8duZXUNpGou4ev_E00z5bnOTGUWYC3u4Gw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=geVZ24IqEJ..KoRgAAeAP6wEt8I-&amp;offerId=09ca65032e5da38bbe0e0ef116efba33&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2790</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2790</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="dbfa24daeeb059146d773384b6423fe6" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5c Apple Case MF037ZM/A Green</Title>
+				<Description>Чехол Чехол для iPhone 5c Apple Case MF037ZM/A Green</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F556%2F556920467fd0a472b197796e913809e5.jpeg/E4Yh3wWIfuzQ3IxaCfylQTFRz75uEAhYWWZiVYp2j_Q-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F556%2F556920467fd0a472b197796e913809e5.jpeg/E4Yh3wWIfuzQ3IxaCfylQTFRz75uEAhYWWZiVYp2j_Q-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=.1sHzyfPRHO4QnTA_jpGYPzowAs-&amp;offerId=dbfa24daeeb059146d773384b6423fe6&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1430</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1430</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5C</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f3f1c5c4d3c8c370d69258c637c51717" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Leather Case Olive Brown</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Leather Case Olive Brown</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F191%2F191f3087ef5f5c5dfd8b63bb6182142c.jpeg/B7YO39m17rck3YrhmNBabJ1uxNzA7mkaQwP7d0VZuRo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F191%2F191f3087ef5f5c5dfd8b63bb6182142c.jpeg/B7YO39m17rck3YrhmNBabJ1uxNzA7mkaQwP7d0VZuRo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=1h7QeZ8HNXQYFJN0PPQu7LGREEs-&amp;offerId=f3f1c5c4d3c8c370d69258c637c51717&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="57428f41121caa40155337d877d26f53" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Leather Case Bright Red</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Leather Case Bright Red</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa9b%2Fa9bdf74ac4e29cc036d5f490dda5ba4c.jpeg/mRwShB6xbG9kr6dFfXBDcqwnVMbc1ai2vYfT4LeqcIo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa9b%2Fa9bdf74ac4e29cc036d5f490dda5ba4c.jpeg/mRwShB6xbG9kr6dFfXBDcqwnVMbc1ai2vYfT4LeqcIo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=70mGNC208mQf_JATKefL1jDUuEc-&amp;offerId=57428f41121caa40155337d877d26f53&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1489bbcc498d9b01d085a4a89fc9e25b" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Leather Case Midnight Blue</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Leather Case Midnight Blue</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa50%2Fa509dd458e667aec178a2837f9f593af.jpeg/SSzK7xtTMtl8xg28G7eXsoVFUo8lu9V3V9aOfNcXheA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa50%2Fa509dd458e667aec178a2837f9f593af.jpeg/SSzK7xtTMtl8xg28G7eXsoVFUo8lu9V3V9aOfNcXheA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186308&amp;.sig=mKeuMsUxLhxOhjR46sFrXmKQ81I-&amp;offerId=1489bbcc498d9b01d085a4a89fc9e25b&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="82f449bf56ed91d20cd5301494550bf0" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Leather Case Soft Pink</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Leather Case Soft Pink</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F979%2F97944317222917447058e9a44c051f2c.jpeg/1u4JPXln1CdF.FPli6wIjDg0rwWR1uWxdHfLIULKPQs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F979%2F97944317222917447058e9a44c051f2c.jpeg/1u4JPXln1CdF.FPli6wIjDg0rwWR1uWxdHfLIULKPQs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=2rFbbfESUPV8jyztCTxnBWgTUkk-&amp;offerId=82f449bf56ed91d20cd5301494550bf0&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7db0de5b3a633de5e2a9f8d9e695e39f" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Leather Case Olive Brown</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Leather Case Olive Brown</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fcc1%2Fcc197c89a9ed9f6f37f2bc859af50a9c.jpeg/PDp9j7H262jFNhbjxQTcuMoXMiuVjS5af.w_hlsH_z4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fcc1%2Fcc197c89a9ed9f6f37f2bc859af50a9c.jpeg/PDp9j7H262jFNhbjxQTcuMoXMiuVjS5af.w_hlsH_z4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=n47joiGPYH_pd.LMEHnkGRioFlo-&amp;offerId=7db0de5b3a633de5e2a9f8d9e695e39f&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="87e54c2ddad7b6e0616cdf8191f40480" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5c Apple Case MF039ZM/A White</Title>
+				<Description>Чехол Чехол для iPhone 5c Apple Case MF039ZM/A White</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F53f%2F53f6f4316a5581dcfe0b22847841d469.jpeg/DMWNLok3LeFHYiAWg0aT_yB9dx1q.IsEbtmSD6u4E_0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F53f%2F53f6f4316a5581dcfe0b22847841d469.jpeg/DMWNLok3LeFHYiAWg0aT_yB9dx1q.IsEbtmSD6u4E_0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=2hOEBIN5LEoSEZPYD6Wj0fhktjI-&amp;offerId=87e54c2ddad7b6e0616cdf8191f40480&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1430</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1430</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5C</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a71165af8b6b749ad951b40295b99adf" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5s Apple Case MF042ZM/A Beige</Title>
+				<Description>Чехол Чехол для iPhone 5s Apple Case MF042ZM/A Beige</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa42%2Fa427ee9e1c082efd9e85a6483f2a8141.jpeg/ApYs_fJrpk_Fsr9ZgsV98uZsDV1ht2ING0Viy6Y0C40-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa42%2Fa427ee9e1c082efd9e85a6483f2a8141.jpeg/ApYs_fJrpk_Fsr9ZgsV98uZsDV1ht2ING0Viy6Y0C40-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=AFFidwZkpffNYKtPOjJuyxQ4eG0-&amp;offerId=a71165af8b6b749ad951b40295b99adf&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2630</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2630</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5/5S</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="97432098739997cd1f05bf595df933a3" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Silicone Case Black</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Silicone Case Black</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F5bd%2F5bd804cfe59539dc407e567cd7b4cb6d.jpeg/J0jsVcMMJ_sDVe3BDRG8Qj_7AR9wWsMy4A1JiBDT3yc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F5bd%2F5bd804cfe59539dc407e567cd7b4cb6d.jpeg/J0jsVcMMJ_sDVe3BDRG8Qj_7AR9wWsMy4A1JiBDT3yc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=0i9.xx6XanrxIBmtHql_xqUS2A8-&amp;offerId=97432098739997cd1f05bf595df933a3&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2340</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2340</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ec7287e89ad1ae7348e64bb7636ce007" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Silicone Case Black</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Silicone Case Black</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F505%2F505fb1e8559941e5a2c313c241aacb00.jpeg/djRrUY99lFzdXBAeSbBh5qvJV3y_qPRbgWKwPRH98y4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F505%2F505fb1e8559941e5a2c313c241aacb00.jpeg/djRrUY99lFzdXBAeSbBh5qvJV3y_qPRbgWKwPRH98y4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=ZFVGz6Z8kZap5WHGzF35BAzrFWM-&amp;offerId=ec7287e89ad1ae7348e64bb7636ce007&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2790</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2790</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7fd1cd1a5756ed2ac3e1aa0f8b4ea797" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Leather Case Midnight Blue</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Leather Case Midnight Blue</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F3c0%2F3c03add170e06b6bb06d35db16c02767.jpeg/bHpByz8EmtYKwkP10686A3a9UxB7_uOatbPORWQi2pg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F3c0%2F3c03add170e06b6bb06d35db16c02767.jpeg/bHpByz8EmtYKwkP10686A3a9UxB7_uOatbPORWQi2pg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=X1MBDDyfa7whWVSVGMoprL3_JV4-&amp;offerId=7fd1cd1a5756ed2ac3e1aa0f8b4ea797&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9d5890e0e7ef4bbdd3c4572004f42451" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5c Apple Case MF036ZM/A Pink</Title>
+				<Description>Чехол Чехол для iPhone 5c Apple Case MF036ZM/A Pink</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F737%2F73790d0de13e273861926db27795b836.jpeg/9XO7zJ.6WGTzt4cUEEohbuAfjt8A5xlWVe2FeyIiwc0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F737%2F73790d0de13e273861926db27795b836.jpeg/9XO7zJ.6WGTzt4cUEEohbuAfjt8A5xlWVe2FeyIiwc0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=awElpALNRGaDeNCJ.zmjOoBHjMs-&amp;offerId=9d5890e0e7ef4bbdd3c4572004f42451&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>1070</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1070</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5C</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="03c7cf82d662f530f291817f7812d923" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Silicone Case Red</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Silicone Case Red</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F991%2F991efc7ffc9cece9b975026eeedd32e3.jpeg/D19YFErZTAdnuxad4KsotlxQtmLbzyRKhcPee_YLyVY-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F991%2F991efc7ffc9cece9b975026eeedd32e3.jpeg/D19YFErZTAdnuxad4KsotlxQtmLbzyRKhcPee_YLyVY-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186309&amp;.sig=4DLoAAZbR7WN8jjDAejZwXsCcU8-&amp;offerId=03c7cf82d662f530f291817f7812d923&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2340</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2340</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="10bcb369a90465c1203c2196a5ed10cb" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Silicone Case Blue</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Silicone Case Blue</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F06f%2F06f5b9d68e44e207ce2f3d134b3c4a7e.jpeg/h7mVXkoaL580WN1LHuIDSBLfjBVT8CKfRuT_s8xBQw0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F06f%2F06f5b9d68e44e207ce2f3d134b3c4a7e.jpeg/h7mVXkoaL580WN1LHuIDSBLfjBVT8CKfRuT_s8xBQw0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186310&amp;.sig=uY2zr.6vKLMd9xuyltba8b24M94-&amp;offerId=10bcb369a90465c1203c2196a5ed10cb&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2340</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2340</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7dde53048e73669d73eb47aa486c66a3" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для iPhone 5s Apple Case MF041ZM/A Brown</Title>
+				<Description>Чехол Чехол для iPhone 5s Apple Case MF041ZM/A Brown</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa51%2Fa51519ab229d3c59c4858969d29b9a7e.jpeg/Uu9_HaavMAEJ6jD5tx.69xpXT8zy83rdTMy9moZF5_Y-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fa51%2Fa51519ab229d3c59c4858969d29b9a7e.jpeg/Uu9_HaavMAEJ6jD5tx.69xpXT8zy83rdTMy9moZF5_Y-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186310&amp;.sig=IGiZn3G0vqXAPdamKqAFL6MpGis-&amp;offerId=7dde53048e73669d73eb47aa486c66a3&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2630</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2630</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 5/5S</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d86e8b34057b98c412ae5b01cea9f2e6" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Plus Silicone Case White</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Plus Silicone Case White</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F70d%2F70d2ae4b6e61e5e843ef6e372ad0470d.jpeg/HMgX5PDOAG7atfIjBOrzOoXgj7G2mPPz3Q0z2p3yS6o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F70d%2F70d2ae4b6e61e5e843ef6e372ad0470d.jpeg/HMgX5PDOAG7atfIjBOrzOoXgj7G2mPPz3Q0z2p3yS6o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186310&amp;.sig=ROe5.V0ZFN5pz1Agh55wZ19N8lM-&amp;offerId=d86e8b34057b98c412ae5b01cea9f2e6&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2790</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2790</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="66ce782475a25fee8de52db7921043b7" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Silicone Case Pink</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Silicone Case Pink</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fc29%2Fc29de21744d09cfeff826bd2d8256c3d.jpeg/zw0zZ7Jhc02yQdzGWgDh5qeED.8W1aZYxHe3Eg.825w-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fc29%2Fc29de21744d09cfeff826bd2d8256c3d.jpeg/zw0zZ7Jhc02yQdzGWgDh5qeED.8W1aZYxHe3Eg.825w-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186310&amp;.sig=YUH1y2uvOIdhfY68CbQaYH_3xvA-&amp;offerId=66ce782475a25fee8de52db7921043b7&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2340</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2340</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="533f5a9da30a51766a6aa345e5bec911" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Leather Case Black</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Leather Case Black</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fc64%2Fc64b8ddd14375f674095a7be0bca27eb.jpeg/p3x1yrtYxsEh8gj9JJbBUSVJfKfFv0IHS0k0E3FtGaU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2Fc64%2Fc64b8ddd14375f674095a7be0bca27eb.jpeg/p3x1yrtYxsEh8gj9JJbBUSVJfKfFv0IHS0k0E3FtGaU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186310&amp;.sig=fnU4FMqDlYjbsPG_OrtOmPpWk4I-&amp;offerId=533f5a9da30a51766a6aa345e5bec911&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5336c225e68234a8e94c38ef12305802" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Чехол для Apple iPhone 6 Silicone Case Green</Title>
+				<Description>Чехол Чехол для Apple iPhone 6 Silicone Case Green</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/90/90/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F596%2F596c491f092872deec1ae8a286e5497f.jpeg/UH7wyFV3wAOvMh0VkktWMYL1fwyR8LHoyWk4I.SfA.8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/ru/13601313/125801/auto/auto/http%3A%2F%2Fogo1.ru%2Fupload%2Fiblock%2F596%2F596c491f092872deec1ae8a286e5497f.jpeg/UH7wyFV3wAOvMh0VkktWMYL1fwyR8LHoyWk4I.SfA.8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-ru.kelkoo.ru/ctl/go/sitesearchGo?.ts=1425565186310&amp;.sig=SHZTuSgEf6pSAioAqfPS3E4rw0w-&amp;offerId=5336c225e68234a8e94c38ef12305802&amp;searchId=10769820429991_1425565186274_55652&amp;affiliationId=96947096&amp;country=ru&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13601313&amp;comId=13601313&amp;catId=125801&amp;searchQuery=aXBob25lIGFwcGxl&amp;useSearch6=true&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13601313">
+					<Name>OGO!</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13601313/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Аксессуары для мобильных телефонов </Name>
+				</Category>
+				<Price currency="RUB">
+					<Price>2340</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2340</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>в зависимости от региона</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Аксессуары для мобильных устройств - Аксессуары для Apple - Чехлы для Apple - Чехлы для iPhone - Чехлы для iPhone 6</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

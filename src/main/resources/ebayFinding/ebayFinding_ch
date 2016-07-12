@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:06:33.981Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>111184472006</itemId>
+			<title>iPhone 5s 16gb Rahmen Folien Set,Monster Grün leuchtend,,Schutzfolie,oder Gold</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>20373</categoryId>
+				<categoryName>Oberschalen &amp; Designfolien</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mx0PHOiyP4hepzr_vZNuxGA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=111184472006</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>40789</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">0.78</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">6.2</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT21H8M22S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-08T12:09:55.000Z</startTime>
+				<endTime>2015-05-31T12:14:55.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>111184471088</itemId>
+			<title>iPhone 5s NEON ORANGE Design Folienset,auch Gold Chrom,Chrom,Rand,16gb,32gb,64gb</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>20373</categoryId>
+				<categoryName>Oberschalen &amp; Designfolien</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mPGVyKRBlKlLQkDQLpCPMfw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=111184471088</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>40789</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">3.57</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">6.2</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT21H6M31S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-08T12:08:04.000Z</startTime>
+				<endTime>2015-05-31T12:13:04.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>121190562072</itemId>
+			<title>iPhone 5s 16gb Folien Set,leuchtend,Monster Grün,Cover,Schutzfolie,oder Gold</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>20373</categoryId>
+				<categoryName>Oberschalen &amp; Designfolien</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m9BBGFT2sDvkKdyjr97qpAg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=121190562072</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>40789</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">0.78</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">9.99</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">10.35</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT18H29M8S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-08T09:30:41.000Z</startTime>
+				<endTime>2015-05-31T09:35:41.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171173987425</itemId>
+			<title>Original Apple iPhone 5s 16GB 32GB 64GB Lightning Datenkabel Ladekabel MD818ZM/A</title>
+			<globalId>EBAY-DE</globalId>
+			<subtitle>Funktioniert mit iOS6 iOS7 iOS8 und iPhone 6 / 6 Plus</subtitle>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>176974</categoryId>
+				<categoryName>Ladegeräte &amp; Datenkabel</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mD4yKlkDVkSF3Ue6DxgjUcA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171173987425</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>41236</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">7.15</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>AT</shipToLocations>
+				<shipToLocations>DE</shipToLocations>
+				<shipToLocations>CH</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">9.99</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">10.35</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT2H17M19S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-11-14T17:18:52.000Z</startTime>
+				<endTime>2015-05-08T17:23:52.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236408</itemId>
+			<title>HANDY Premium USB LADEKABEL SCHWARZ 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171695236408</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.98</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.05</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M28S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:01.000Z</startTime>
+				<endTime>2015-05-25T14:10:01.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870688241</itemId>
+			<title>HANDY Premium USB LADEKABEL WEIß 30cm für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=400870688241</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.07</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M47S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:20.000Z</startTime>
+				<endTime>2015-05-25T14:10:20.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400896064353</itemId>
+			<title>USB-KABEL für aktuelle ios- Software in weiß für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=400896064353</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.07</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT20H34M11S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-01T11:35:44.000Z</startTime>
+				<endTime>2015-05-31T11:40:44.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171740087136</itemId>
+			<title>USB DATENKABEL für neueste ios Software Version für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171740087136</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.07</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P24DT20H34M29S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-01T11:36:02.000Z</startTime>
+				<endTime>2015-05-31T11:41:02.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236289</itemId>
+			<title>HANDY Premium USB LADEKABEL GELB 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mBc6CfGihxeY99ATfb0hO4g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171695236289</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.27</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.35</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:04:54.000Z</startTime>
+				<endTime>2015-05-25T14:09:54.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236720</itemId>
+			<title>HANDY Premium USB LADEKABEL SCHWARZ 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mnf_lBhUWo6VZ9jyE3OLfwg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171695236720</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.28</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.36</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M48S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:21.000Z</startTime>
+				<endTime>2015-05-25T14:10:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870688247</itemId>
+			<title>HANDY Premium USB LADEKABEL ROT 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mRFn6GiJYcy1NRxdfHAf-iw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=400870688247</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.28</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.36</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M48S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:21.000Z</startTime>
+				<endTime>2015-05-25T14:10:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870688382</itemId>
+			<title>HANDY Premium USB LADEKABEL WEIß 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mjnEMU4PObWGfNEe2xTPQrA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=400870688382</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.28</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.36</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H4M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:39.000Z</startTime>
+				<endTime>2015-05-25T14:10:39.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236604</itemId>
+			<title>HANDY Premium USB LADEKABEL GRÜN 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/metmfj7JxMr1PiNydh-se2w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171695236604</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.29</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.37</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M41S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:14.000Z</startTime>
+				<endTime>2015-05-25T14:10:14.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695235835</itemId>
+			<title>HANDY Premium USB LADEKABEL BLAU 1m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m4HkfEo5bGfxPH8Sq5-hBAA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171695235835</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.3</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.38</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H2M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:04:29.000Z</startTime>
+				<endTime>2015-05-25T14:09:29.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171695236442</itemId>
+			<title>HANDY Premium USB LADEKABEL WEIß 1.8m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mVWMbgyGglCs8_Ai0zTHgpg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171695236442</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.69</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">2.79</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M31S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:05:04.000Z</startTime>
+				<endTime>2015-05-25T14:10:04.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400870687794</itemId>
+			<title>HANDY Premium USB LADEKABEL SCHWARZ 1.8m für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Kabel &amp; Adapter</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mMUAcHwvTBi_MN4LcCk5B-w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=400870687794</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.98</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">3.09</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H3M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T14:04:39.000Z</startTime>
+				<endTime>2015-05-25T14:09:39.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400888550295</itemId>
+			<title>HANDY TOP KFZ-LADEKABEL WEIß für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mDVavPG3w0-ZBjReC_cjpdA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=400888550295</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.89</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">4.03</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT22H3M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-20T13:04:49.000Z</startTime>
+				<endTime>2015-05-19T13:09:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400888550701</itemId>
+			<title>HANDY TOP KFZ-LADEKABEL SCHWARZ für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mUE-R9jWCRM616VAWeTNZgQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=400888550701</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.89</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">4.03</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT22H4M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-20T13:05:36.000Z</startTime>
+				<endTime>2015-05-19T13:10:36.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171729931684</itemId>
+			<title>HANDY TOP AUTO LADEKABEL SCHWARZ für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mUE-R9jWCRM616VAWeTNZgQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171729931684</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.89</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">4.03</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT22H11M1S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-23T13:12:34.000Z</startTime>
+				<endTime>2015-05-22T13:17:34.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>171729931941</itemId>
+			<title>HANDY TOP AUTO LADEKABEL WEIß für APPLE iPhone 5S 16GB, 32GB</title>
+			<globalId>EBAY-DE</globalId>
+			<primaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Ladegeräte &amp; Dockingstationen</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mDVavPG3w0-ZBjReC_cjpdA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229536&amp;item=171729931941</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01877</postalCode>
+			<location>Deutschland</location>
+			<country>DE</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="CHF">20.61</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>CH</shipToLocations>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.89</currentPrice>
+				<convertedCurrentPrice currencyId="CHF">4.03</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT22H11M10S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-23T13:12:43.000Z</startTime>
+				<endTime>2015-05-22T13:17:43.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neu</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>4</totalPages>
+		<totalEntries>80</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/5222-53480-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.ch%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

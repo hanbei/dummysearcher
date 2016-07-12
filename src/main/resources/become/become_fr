@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dynamic-data version="3.1" serial-number="201504151" name="query" xmlns="http://services.become.eu/livexml">
+	<params>
+		<param name="qry">xbox</param>
+	</params>
+	<top-level-categories-module>
+		<params/>
+		<top-level-categories nr-of-products="15305" nr-of-offers="750633" n="12">
+			<category nr-of-products="934" nr-of-offers="203" cid="54040">
+				<label>Photographie &amp; Vidéo</label>
+			</category>
+			<category nr-of-products="4667" nr-of-offers="22799" cid="54365">
+				<label>Ordinateur &amp; Logiciel</label>
+			</category>
+			<category nr-of-products="1323" nr-of-offers="14736" cid="54608">
+				<label>Audio, Vidéo &amp; TV</label>
+			</category>
+			<category nr-of-products="11" nr-of-offers="140" cid="626438">
+				<label>Livres, Calendriers et Cie.</label>
+			</category>
+			<category nr-of-products="1488" nr-of-offers="28769" cid="67752">
+				<label>Beauté &amp; Bien-être</label>
+			</category>
+			<category nr-of-products="514" nr-of-offers="321" cid="53955">
+				<label>Télécommunication</label>
+			</category>
+			<category nr-of-products="552" nr-of-offers="181" cid="53929">
+				<label>Jeux vidéo &amp; Console</label>
+			</category>
+			<category nr-of-products="5326" nr-of-offers="132658" cid="53244">
+				<label>Ménage et Habitation</label>
+			</category>
+			<category nr-of-products="82" nr-of-offers="22521" cid="67956">
+				<label>Jeux &amp; Loisirs</label>
+			</category>
+			<category nr-of-products="26" nr-of-offers="16524" cid="626253">
+				<label>Sport &amp; Loisirs</label>
+			</category>
+			<category nr-of-products="146" nr-of-offers="199019" cid="66284">
+				<label>Mode &amp; Accessoires</label>
+			</category>
+			<category nr-of-products="236" nr-of-offers="312762" cid="625863">
+				<label>Autres produits</label>
+			</category>
+		</top-level-categories>
+	</top-level-categories-module>
+	<current-category-module>
+		<params/>
+		<module-attributes/>
+	</current-category-module>
+	<navigation-trail-module>
+		<params/>
+		<navigation-trail n="2">
+			<element type="index">
+				<label>Index</label>
+			</element>
+			<element id="xbox" type="query">
+				<label>Xbox</label>
+			</element>
+		</navigation-trail>
+	</navigation-trail-module>
+	<suggestions-module>
+		<params/>
+		<suggestions>
+			<queries n="0"/>
+			<outstanding-category parent-cid="53929" cid="598988">
+				<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				<category-attributes n="0"/>
+			</outstanding-category>
+		</suggestions>
+	</suggestions-module>
+	<category-results-module>
+		<params/>
+		<category-results n="3" total="3">
+			<category nr-of-products="39" parent-cid="53929" cid="598988">
+				<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="598963" cid="626162">
+				<label>Logiciel Bureautique</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="2" parent-cid="54365" cid="598924">
+				<label>Câbles &amp; Connecteurs</label>
+				<category-attributes n="0"/>
+			</category>
+		</category-results>
+	</category-results-module>
+	<result-filter-module>
+		<params/>
+		<result-filter n="3">
+			<filter-dimension n="3" selected="false" display-position="1">
+				<label>Catégorie</label>
+				<dimension-class nr-of-products="39" selected="false" display-position="1" fdid="cat598988">
+					<label>Accessoires pour jeux vidéo &amp; console</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="2" fdid="cat626162">
+					<label>Logiciel bureautique</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="3" fdid="cat598924">
+					<label>Câbles &amp; Connecteurs</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="5" selected="false" display-position="2">
+				<label>Marque</label>
+				<dimension-class nr-of-products="4" selected="false" display-position="1" fdid="mnQXV0cmU.">
+					<label>Autre</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="2" fdid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="3" fdid="mnU29ueQ..">
+					<label>Sony</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="4" fdid="mnQXBwbGU.">
+					<label>Apple</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="5" fdid="mnTmludGVuZG8.">
+					<label>Nintendo</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="3" selected="false" display-position="4">
+				<label>Marchand</label>
+				<dimension-class nr-of-products="29" selected="false" display-position="1" fdid="me105628">
+					<label>MiniInTheBox</label>
+				</dimension-class>
+				<dimension-class nr-of-products="12" selected="false" display-position="2" fdid="me103738">
+					<label>Lightinthebox</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="3" fdid="me107112">
+					<label>TresBizz</label>
+				</dimension-class>
+			</filter-dimension>
+		</result-filter>
+	</result-filter-module>
+	<product-results-module>
+		<params/>
+		<product-results n="10" total="43" nr="1" srt="RELEVANCE">
+			<product nr-of-offers="1" nr-of-merchants="1" oid="294173813" type="offer">
+				<label>4pcs / lot bouchon de silicone pouce bâton manette grip pour sony ps3 xbox 360 PS4 xbox un
+					contrôle
+				</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/294/173/D_000294173813_FR_420.jpg"/>
+				<description>Pour:PS4 Xbox One Xbox 360 Sony PS3; Type d'accessoire:Kits d'accessoires;
+					Caractéristiques:Nouveauté; Couleur:Multicolore; Matériel:Silicone; Dimensions (cm):5.0 x 3.0 x 2.0;
+					Poids (kg):0.005; Contenus du colis:1 Kit d'accessoires
+				</description>
+				<offer oid="294173813">
+					<label>4pcs / lot bouchon de silicone pouce bâton manette grip pour sony ps3 xbox 360 PS4 xbox un
+						contrôle
+					</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=294173813&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M2700120&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSGGRUDsBdW4Lg..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=0.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=0&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqglv1vjnnO8bPlJ_c4zWf3k.</url>
+					<price cur="EUR">0.99</price>
+					<price-info cur="EUR" type="old">1.77</price-info>
+					<price-info cur="EUR" type="total">0.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="239900206" type="offer">
+				<label>Manette Sans Fil pour Xbox 360 (Noire)</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/239/900/D_000239900206_FR_420.jpg"/>
+				<description>Pour:Xbox 360; Type d'accessoire:Manettes; Interface:Sans fil; Couleur:Noir; Matériel:PVC;
+					Dimensions (cm):14.5 x 10.5 x 5; Poids (kg):0.229; Contenus du colis:1 Manette
+				</description>
+				<offer oid="239900206">
+					<label>Manette Sans Fil pour Xbox 360 (Noire)</label>
+					<merchant mid="103738">
+						<label>Lightinthebox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/103738/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=239900206&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=103738&amp;rid=L359798&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSEpeBd2uDE_NQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=24.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=1&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqrXVcVxJJ7mshKICGEG4Gko.</url>
+					<price cur="EUR">24.99</price>
+					<price-info cur="EUR" type="old">60.19</price-info>
+					<price-info cur="EUR" type="total">40.30</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="15.32">15,32 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="268340941" type="offer">
+				<label>Filaire USB Game Pad Controller pour Microsoft Xbox 360 Slim &amp; PC sous Windows</label>
+				<product-codes n="0"/>
+				<image type="UNAVAILABLE" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/268/340/D_000268340941_FR_420.jpg"/>
+				<description>Pour:PC Xbox 360; Type d'accessoire:Manettes; Interface:Cablé; Connexion:USB;
+					Caractéristiques:Port USB; Couleur:Blanc; Matériel:Plastique; Dimensions (cm):17.0 x 13.0 x 4.0;
+					Poids (kg):0.258; Contenus du colis:1 Câble 1 Manette
+				</description>
+				<offer oid="268340941">
+					<label>Filaire USB Game Pad Controller pour Microsoft Xbox 360 Slim &amp; PC sous Windows</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33232811&amp;c=656838&amp;o=268340941&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M852670&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=33232811&amp;pcat=0&amp;abob=cGFuZ29yYSEpeBd2uDE_NQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=14.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=2&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqpCIjOcG5WNOeCS21hiQqcQ.</url>
+					<price cur="EUR">14.99</price>
+					<price-info cur="EUR" type="old">19.66</price-info>
+					<price-info cur="EUR" type="total">14.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="239876790" type="offer">
+				<label>10pcs Anti-Slip Cap analogique Silicone Couvre pour PS4/PS3/XBOX ONE/XBOX360 contrôleur</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/239/876/D_000239876790_FR_420.jpg"/>
+				<description>Pour:PS4 Xbox One Xbox 360 Sony PS3; Type d'accessoire:Kits d'accessoires;
+					Caractéristiques:Nouveauté; Couleur:Gris Noir; Matériel:Silicone; Dimensions (cm):3.0 x 2.0 x 2.0;
+					Poids (kg):0.008; Contenus du colis:1 Kit d'accessoires
+				</description>
+				<offer oid="239876790">
+					<label>10pcs Anti-Slip Cap analogique Silicone Couvre pour PS4/PS3/XBOX ONE/XBOX360 contrôleur
+					</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=239876790&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M1535872&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSGGRUDsBdW4Lg..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=2.37&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=3&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqjbkaHHbi-iAIgQRsorjX1Y.</url>
+					<price cur="EUR">2.36</price>
+					<price-info cur="EUR" type="old">3.43</price-info>
+					<price-info cur="EUR" type="total">2.36</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="275691239" type="offer">
+				<label>Batterie Rechargeable pour Xbox 360 (Noire)</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/275/691/D_000275691239_FR_420.jpg"/>
+				<description>Pour:Xbox 360; Type d'accessoire:Batteries et chargeurs; Interface:Cablé; Connexion:USB;
+					Caractéristiques:Rechargeable; Couleur:Noir; Longueur de câble (cm):112; Dimensions (cm):18 x 14 x
+					6.5; Poids (kg):0.17; Contenus du colis:1 Chargeur 1 Batterie
+				</description>
+				<offer oid="275691239">
+					<label>Batterie Rechargeable pour Xbox 360 (Noire)</label>
+					<merchant mid="103738">
+						<label>Lightinthebox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/103738/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=275691239&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=103738&amp;rid=L168204&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSEpeBd2uDE_NQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=5.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=4&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqrXVcVxJJ7msgKphPV5eMYU.</url>
+					<price cur="EUR">5.99</price>
+					<price-info cur="EUR" type="old">6.95</price-info>
+					<price-info cur="EUR" type="total">21.31</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="15.32">15,32 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="239883331" type="offer">
+				<label>Manette Sans Fil pour Xbox 360 (Noire)</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/239/883/D_000239883331_FR_420.jpg"/>
+				<description>Pour:Xbox 360; Type d'accessoire:Manettes; Interface:Sans fil; Couleur:Noir; Matériel:PVC;
+					Dimensions (cm):14.5 x 10.5 x 5; Poids (kg):0.229; Contenus du colis:1 Manette
+				</description>
+				<offer oid="239883331">
+					<label>Manette Sans Fil pour Xbox 360 (Noire)</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=239883331&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M359798&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSGGRUDsBdW4Lg..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=24.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=5&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqop1zZMcfrpnm6hNDl2s4jo.</url>
+					<price cur="EUR">24.99</price>
+					<price-info cur="EUR" type="old">33.64</price-info>
+					<price-info cur="EUR" type="total">24.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="271676875" type="offer">
+				<label>contrôleur double choc filaire pour Xbox 360</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/271/676/D_000271676875_FR_420.jpg"/>
+				<description>Pour:Xbox 360; Type d'accessoire:Manettes; Interface:Cablé; Connexion:USB;
+					Caractéristiques:Nouveauté; Couleur:Noir; Matériel:Plastique; Dimensions (cm):15.0 x 10.0 x 5.0;
+					Poids (kg):0.25; Contenus du colis:1 Manette
+				</description>
+				<offer oid="271676875">
+					<label>contrôleur double choc filaire pour Xbox 360</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=271676875&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M1818863&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSGGRUDsBdW4Lg..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=13.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=6&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqkpIL4sWAhFBSfwK60gg_XY.</url>
+					<price cur="EUR">13.99</price>
+					<price-info cur="EUR" type="old">22.01</price-info>
+					<price-info cur="EUR" type="total">13.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="239883329" type="offer">
+				<label>Coque pour Manette Xbox 360 (Autres Coloris Disponibles)</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/239/883/D_000239883329_FR_420.jpg"/>
+				<description>Pour:Xbox 360; Type d'accessoire:Sacs étuis et coques; Couleur:Jaune Blanc Rouge Violet
+					Incarnadin Orange Vert Gris Bleu Noir Bleu foncé; Matériel:Silicone; Dimensions (cm):16 x 10.5 x
+					2.5; Poids (kg):0.031; Contenus du colis:1 Etui
+				</description>
+				<offer oid="239883329">
+					<label>Coque pour Manette Xbox 360 (Autres Coloris Disponibles)</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=239883329&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M359791&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSGGRUDsBdW4Lg..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=2.46&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=7&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqop1zZMcfrpnU8Mn1n2RC4k.</url>
+					<price cur="EUR">2.46</price>
+					<price-info cur="EUR" type="old">3.24</price-info>
+					<price-info cur="EUR" type="total">2.46</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="271676045" type="offer">
+				<label>t6 t8 tournevis outils pied de biche pour xbox un</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/271/676/D_000271676045_FR_420.jpg"/>
+				<description>Pour:Xbox One; Matériel:Métal; Dimensions (cm):8.0 x 5.0 x 2.0; Poids (kg):0.1; Contenus du
+					colis:1 Kit d'accessoires
+				</description>
+				<offer oid="271676045">
+					<label>t6 t8 tournevis outils pied de biche pour xbox un</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=271676045&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M1810313&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSGGRUDsBdW4Lg..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=1.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=8&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqmojuvJzxcXqWZFeY2x9Zug.</url>
+					<price cur="EUR">1.99</price>
+					<price-info cur="EUR" type="total">1.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="295995572" type="offer">
+				<label>4pcs / lot bouchon de silicone pouce bâton manette grip pour sony ps3 xbox 360 PS4 xbox un
+					contrôle
+				</label>
+				<category cid="598988">
+					<label>Accessoires Pour Jeux Vidéo &amp; Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/295/995/D_000295995572_FR_420.jpg"/>
+				<description>Pour:Xbox 360 Sony PS3 PS4 Xbox One; Type d'accessoire:Kits d'accessoires;
+					Caractéristiques:Nouveauté; Couleur:Multicolore; Matériel:Silicone; Dimensions (cm):5.0 x 3.0 x 2.0;
+					Poids (kg):0.005; Contenus du colis:1 Kit d'accessoires
+				</description>
+				<offer oid="295995572">
+					<label>4pcs / lot bouchon de silicone pouce bâton manette grip pour sony ps3 xbox 360 PS4 xbox un
+						contrôle
+					</label>
+					<merchant mid="103738">
+						<label>Lightinthebox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/103738/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=598988&amp;o=295995572&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=103738&amp;rid=L2700120&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=20001326&amp;pcat=66189&amp;abob=cGFuZ29yYSEpeBd2uDE_NQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=1.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=9&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqtD5VdSDEypHNjH5nSi-ejk.</url>
+					<price cur="EUR">1.99</price>
+					<price-info cur="EUR" type="total">17.31</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="15.32">15,32 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<paging n="7" total="5" pge="10">
+				<page rel="FIRST" pgn="1" name="query" type="query"/>
+				<page rel="CURRENT" pgn="1" name="query" type="query"/>
+				<page rel="NEXT" pgn="2" name="query" type="query"/>
+				<page pgn="3" name="query" type="query"/>
+				<page pgn="4" name="query" type="query"/>
+				<page pgn="5" name="query" type="query"/>
+				<page rel="LAST" pgn="5" name="query" type="query"/>
+			</paging>
+		</product-results>
+	</product-results-module>
+	<popular-products-module>
+		<params/>
+		<popular-products n="2">
+			<product nr-of-offers="1" nr-of-merchants="1" oid="264952293" type="offer">
+				<label>Étui en silicone pour Manette PS3 (couleurs assorties)</label>
+				<product-codes n="0"/>
+				<image type="UNAVAILABLE" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/264/952/B_000264952293_FR_420.jpg"/>
+				<description>Pour:Sony PS3; Type d'accessoire:Sacs étuis et coques; Couleur:Violet Incarnadin Orange
+					Vert Bleu Noir Bleu marine Jaune Rouge; Matériel:Silicone; Dimensions (cm):16 x 9 x 4; Poids
+					(kg):0.02900 ; Contenus du colis:1 Etui
+				</description>
+				<offer oid="264952293">
+					<label>Étui en silicone pour Manette PS3 (couleurs assorties)</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33232811&amp;c=656838&amp;o=264952293&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M512473&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=33232811&amp;pcat=0&amp;abob=cGFuZ29yYSEpeBd2uDE_NQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=2.17&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqrGoMTEhPLA7VexsaM_UZrc.</url>
+					<price cur="EUR">2.17</price>
+					<price-info cur="EUR" type="old">2.89</price-info>
+					<price-info cur="EUR" type="total">2.17</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="264952293" type="offer">
+				<label>Étui en silicone pour Manette PS3 (couleurs assorties)</label>
+				<product-codes n="0"/>
+				<image type="UNAVAILABLE" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_fr/images/offers/FR/420/000/264/952/B_000264952293_FR_420.jpg"/>
+				<description>Pour:Sony PS3; Type d'accessoire:Sacs étuis et coques; Couleur:Violet Incarnadin Orange
+					Vert Bleu Noir Bleu marine Jaune Rouge; Matériel:Silicone; Dimensions (cm):16 x 9 x 4; Poids
+					(kg):0.02900 ; Contenus du colis:1 Etui
+				</description>
+				<offer oid="264952293">
+					<label>Étui en silicone pour Manette PS3 (couleurs assorties)</label>
+					<merchant mid="105628">
+						<label>MiniInTheBox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_fr/images/merchants/p/105628/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33232811&amp;c=656838&amp;o=264952293&amp;che=cGFuZ29yYSFn2KNSuS1VS3qhiE4b5T22&amp;m=105628&amp;rid=M512473&amp;ver=2.0&amp;market=fr&amp;man=&amp;ser=2705&amp;pc=33232811&amp;pcat=0&amp;abob=cGFuZ29yYSEpeBd2uDE_NQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MTE2&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=2.17&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_MAIN&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqrGoMTEhPLA7VexsaM_UZrc.</url>
+					<price cur="EUR">2.17</price>
+					<price-info cur="EUR" type="old">2.89</price-info>
+					<price-info cur="EUR" type="total">2.17</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">0,00 €</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+		</popular-products>
+	</popular-products-module>
+	<document-info service-id="2705" channel-id="foxydeal_fr" host="foxydeal-fr" msecs="45">
+		<tracking>
+			<tracking-data totalNumber="43">xbox</tracking-data>
+			<tracking-image height="1" width="1" source="http://fr.channel.become.eu/livexml/3.1/tr/lxtrimg.gif"/>
+			<tracking-script type="text/javascript">&lt;script type="text/javascript"
+				src="http://fr.channel.become.eu/livexml/3.1/tr/lxtrscript.js"&gt;&lt;/script&gt;
+				&lt;noscript&gt;&lt;div&gt;&lt;img src="http://fr.channel.become.eu/livexml/3.1/tr/lxtrimg.gif" alt=""
+				style="height: 1px; width: 1px;"/&gt;&lt;/div&gt;&lt;/noscript&gt;</tracking-script>
+		</tracking>
+		<cache-control expires="2015-04-15T10:46:16.893+02:00" max-age="300">
+			<last-modified>2015-04-15T10:41:16.893+02:00</last-modified>
+			<etag>MjAxNTA0MTUxfHwxNDI5MDg3Mjc2ODkz</etag>
+		</cache-control>
+	</document-info>
+</dynamic-data>

@@ -1,0 +1,2613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="2889" firstResultPosition="1" totalResultsReturned="50" currency="DKK" totalMerchantsAvailable="63" searchOperator="and">
+		<Product>
+			<Offer id="6bf98e83f2abb68ec6980838231ff6e9" type="MANUFACTURER_PRODUCTS">
+				<Title>Picard PHONE Punge nougat</Title>
+				<Description>Picard PHONE Punge nougat Accessories på Zalando.dk   Accessories nu gratis levering</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%4012.jpg/jvrUDv5t4F13gBduv0xHLuqTBfjCvKIqiFbYJBvmAuE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%4012.jpg/jvrUDv5t4F13gBduv0xHLuqTBfjCvKIqiFbYJBvmAuE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988183&amp;.sig=UGfdsgVOWEcQoOGUfKhyJDRxrOY-&amp;offerId=6bf98e83f2abb68ec6980838231ff6e9&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12078913&amp;comId=12078913&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12078913">
+					<Name>Zalando.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12078913/zalando_logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Tasker </Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>799</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>799</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>i løbet af 2-6 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4000794774930</Ean>
+				<MerchantCategory>Damer / Accessories / Punge &amp; etuier / Punge</MerchantCategory>
+				<Brand>Picard</Brand>
+				<BrandId>16460</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%4011.jpg/4l_8LhOv1eMTMJa4rKfQVLq7d1Ju6uVHSNO7ensfOgs-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%4011.jpg/4l_8LhOv1eMTMJa4rKfQVLq7d1Ju6uVHSNO7ensfOgs-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%4010.jpg/q92mGXtnu1XaCa.PMD5Ziq6yUCvxhZh90XHGacXtPDw-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%4010.jpg/q92mGXtnu1XaCa.PMD5Ziq6yUCvxhZh90XHGacXtPDw-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%409.jpg/5Aquz8wMi0VpTi0feTNYL9nvt0OH73ITZ3c1kngPIUA-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJO%2F11%2FPI351F00J-O11%409.jpg/5Aquz8wMi0VpTi0feTNYL9nvt0OH73ITZ3c1kngPIUA-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c8a0497fd77a399375bf9e550bcfdbc1" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Phone 5/5s - Hard cover m. pæon mønster - Sort</Title>
+				<Description>Hard cover m. pæon mønster til iPh one 5/5s - Sort Gør din iPhone helt personligt med dette flotte cover som samtidig giver en super beskyttelse mod stød. Og med nøjagtige udskæringer til alle porte og</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13660913/125801/90/90/http%3A%2F%2Fwww.prispresseren.dk%2Fcomponents%2Fcom_redshop%2Fassets%2Fimages%2Fproduct%2F1350652254_48700.jpg/vAz0oP5lb5KdBXOQGy.rR8YNGCgl1db5UMffISqoBj8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13660913/125801/auto/auto/http%3A%2F%2Fwww.prispresseren.dk%2Fcomponents%2Fcom_redshop%2Fassets%2Fimages%2Fproduct%2F1350652254_48700.jpg/vAz0oP5lb5KdBXOQGy.rR8YNGCgl1db5UMffISqoBj8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988183&amp;.sig=V_EUS_vJpGcqCfftTNfXcdVsrGI-&amp;offerId=c8a0497fd77a399375bf9e550bcfdbc1&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13660913&amp;comId=13660913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13660913">
+					<Name>Prispresseren.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13660913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Ekstraudstyr</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>69.3</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>69.3</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>iPhone 5 + 5S tilbehør - Covers - Hård/hard cover iPhone 5 + 5S tilbehør</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9bbfe13d7a1c47f4c90d27560e9747a5" type="MANUFACTURER_PRODUCTS">
+				<Title>BUDDY PHONE Blå</Title>
+				<Description>Hovedtelefon med ekstra stik Den perfekte måde at lytte til musik på! Disse hovedtelefoner har en begrænsning på lydstyrken, så små ører beskyttes, og ekstra stik, så der kan tilsluttes op til fire hovedtelefoner. God, når musikken skal deles. Maks. 85 dB.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12420313/168001/90/90/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F6%252FBUDDY-PHONE-052287-1150776.ashx%253Fbc%253DTransparent%2526amp%253Bas%253D1%2526amp%253Bh%253D512%2526amp%253Bw%253D1024/E86ED5qgpHmGB6EyDGoZRWENB2Ux54gd6K7_3vx0iTc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12420313/168001/auto/auto/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F6%252FBUDDY-PHONE-052287-1150776.ashx%253Fbc%253DTransparent%2526amp%253Bas%253D1%2526amp%253Bh%253D512%2526amp%253Bw%253D1024/E86ED5qgpHmGB6EyDGoZRWENB2Ux54gd6K7_3vx0iTc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988184&amp;.sig=cYDiDEU_dxKYAt8qDiBKFjE7t1Y-&amp;offerId=9bbfe13d7a1c47f4c90d27560e9747a5&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12420313&amp;comId=12420313&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12420313">
+					<Name>Toysrus.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12420313/toysrus.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Legetøj</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>179.95</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>208.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5766187150802</Ean>
+				<MerchantCategory>Musik og film</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a5a32e9dfdbda828a373b3130f9c7bdd" type="MANUFACTURER_PRODUCTS">
+				<Title>Rock phone gadgets. Bluetooth retro telefonrør</Title>
+				<Description>Retro telefonrør til din mobiltelefon eller pc, er nu kommet i trådløs version. Dette Rock phone telefonrør har nemlig indbygget bluetooth. Dette bluetooth telefonrør er fremstillet i de bedste soft materialer og har kvalitets mikrofon og højtaler. Rock phone røret ser måske ikke ud af så meget, men der</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11942813/100499123/90/90/http%3A%2F%2Fwww.skoop.dk%2Fimages%2Fbluetoothhandset1.gif/qxEn2Ji8ujDSFAf1nJepH5c6UaHou469NJgkrFBjsTA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11942813/100499123/auto/auto/http%3A%2F%2Fwww.skoop.dk%2Fimages%2Fbluetoothhandset1.gif/qxEn2Ji8ujDSFAf1nJepH5c6UaHou469NJgkrFBjsTA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988184&amp;.sig=DBZkhxM1KNhMv.5vYi86T80oK3M-&amp;offerId=a5a32e9dfdbda828a373b3130f9c7bdd&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11942813&amp;comId=11942813&amp;catId=100499123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11942813">
+					<Name>Skoop</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11942813/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100499123">
+					<Name>Tilbehør til telefoner</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>149</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>178</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Retro gadgets og ting</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b5b86c65815161da72ca197182fedbfc" type="MANUFACTURER_PRODUCTS">
+				<Title>miniintheBox Tablet phones generic MHL to HDMI cable HD cable</Title>
+				<Description>HDMI Ports:HDMI V1.3; Number of HDMI In:1; Number of HDMI Out:1; Support:1080P; DTV/HDTV:720P,1080P,1080i; VGA:1920x1080; Video Input Signal:MHL; farve:Sort; Dimensioner / VxLxH (mm):17.52.51; Vægt (g):0.02; Type:HDMI Switch</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682313/100565213/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Foqhhaz1416248290640.jpg/PVe_6R4oK8GaW1Vii6Zcf0evd_Yk4xa0js8N3E0Vsm4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682313/100565213/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Foqhhaz1416248290640.jpg/PVe_6R4oK8GaW1Vii6Zcf0evd_Yk4xa0js8N3E0Vsm4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988184&amp;.sig=auCu0xHB_EtosDLJYEhhPevvUL8-&amp;offerId=b5b86c65815161da72ca197182fedbfc&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13682313&amp;comId=13682313&amp;catId=100565213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13682313">
+					<Name>Miniinthebox.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13682313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100565213">
+					<Name>Elartikler </Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>80</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>80</TotalPrice>
+					<PriceWithoutRebate>92</PriceWithoutRebate>
+					<Rebate>14</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-4 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniktilbehør  Audio &amp; Video Tilbehør  TV-boks</MerchantCategory>
+				<Brand>miniintheBox</Brand>
+				<BrandId>44373</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="41d6b4269fb4df2ab8ff70f15e9e3f7c" type="MANUFACTURER_PRODUCTS">
+				<Title>Sandberg Mobile Phone Multi Charger</Title>
+				<Description>Strømadapter, AC / bil / USB</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/3730323/100342223/90/90/http%3A%2F%2Fwww.proshop.dk%2Fmediacontent%2F22%2F21%2F2221523o.jpg/vaYwN4AlGkGFhyOguO54wC4SROfvi.oohYvCnUsEowE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/3730323/100342223/auto/auto/http%3A%2F%2Fwww.proshop.dk%2Fmediacontent%2F22%2F21%2F2221523o.jpg/vaYwN4AlGkGFhyOguO54wC4SROfvi.oohYvCnUsEowE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988184&amp;.sig=vsIVO_7Ho2FL7zMIwrsy3rctluU-&amp;offerId=41d6b4269fb4df2ab8ff70f15e9e3f7c&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3730323&amp;comId=3730323&amp;catId=100342223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="3730323">
+					<Name>Proshop</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3730323/Proshop-logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342223">
+					<Name>Opladere</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>174</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>174</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>2</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5705730135804</Ean>
+				<MerchantCategory>Oplader &amp; adapter</MerchantCategory>
+				<Brand>Sandberg</Brand>
+				<BrandId>2764</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e05449176954ab3ae8ee545755d4238e" type="MANUFACTURER_PRODUCTS">
+				<Title>Golla Phone Wallet Dalton</Title>
+				<Description>Golla Phone Wallet Dalton - G1399  Wallet til mobiltelefon / Smartphone  Dalton Phone Wallet kombinerer beskyttelsen af ??en smartphone dæksel med flere rum til kort samt en lomme til andre fornødenheder. Din smartphone er let tilgængelig og godt dækket, når den ikke er i brug. Bær den i bæltestrop eller</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11480423/100342523/90/90/http%3A%2F%2Fwww.24hshop.dk%2Fpub_images%2Flarge%2F35332_32443.jpg/TSHzkyLwiNAC0Fevh0O9XMTFAfYsWZNb9X7iUIUrRI8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11480423/100342523/auto/auto/http%3A%2F%2Fwww.24hshop.dk%2Fpub_images%2Flarge%2F35332_32443.jpg/TSHzkyLwiNAC0Fevh0O9XMTFAfYsWZNb9X7iUIUrRI8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988185&amp;.sig=Tn8t8ZaeVssWUH3Gk6Kc9m6mbsQ-&amp;offerId=e05449176954ab3ae8ee545755d4238e&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11480423&amp;comId=11480423&amp;catId=100342523&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11480423">
+					<Name>24hshop Danmark</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11480423/24hshop_dkkelkoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342523">
+					<Name>Holdere &amp; Tasker</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>99</Price>
+					<DeliveryCost>39</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>138</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobiltilbehør - Sony Tilbehør - Sony Tasker - Sony Øvrige Tasker</MerchantCategory>
+				<Brand>Golla</Brand>
+				<BrandId>13926</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="14aadd27ef23f3c24d862c924b08905b" type="MANUFACTURER_PRODUCTS">
+				<Title>KlickFix Phone Bag S sort 2014 sort Outlet Tilbehør Cykelcomputer</Title>
+				<Description>Vægt: 80; Monteringsart: styrmontering; Kompatibel: til smartphones; Mål (L x B x H): 9 x 14,5</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12613213/100544223/90/90/http%3A%2F%2Fimages.internetstores.de%2Fproducts%2FKlickFIx_Phone_Bag_S_Main.jpg%3Fsize%3D1470x849/PDx9HezyR2GRUoF.uxPE.emL6ZvqZevsG6_iPS0OWbE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12613213/100544223/auto/auto/http%3A%2F%2Fimages.internetstores.de%2Fproducts%2FKlickFIx_Phone_Bag_S_Main.jpg%3Fsize%3D1470x849/PDx9HezyR2GRUoF.uxPE.emL6ZvqZevsG6_iPS0OWbE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988185&amp;.sig=qk_Qw2gYDyxYngWYiqoInuber24-&amp;offerId=14aadd27ef23f3c24d862c924b08905b&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12613213&amp;comId=12613213&amp;catId=100544223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12613213">
+					<Name>Bikester.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12613213/bikester.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100544223">
+					<Name>Cykeldele &amp; Cykeltilbehør</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>319</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>368</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-3 dage</DeliveryTime>
+				<Promo>
+					<Promo>Bestil man-fre inden kl 16 og vi sender samme dag!</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4030572102587</Ean>
+				<MerchantCategory>Outlet  Tilbehør  Cykelcomputer</MerchantCategory>
+				<Brand>KlickFix</Brand>
+				<BrandId>7311</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12613213/100544223/90/90/http%3A%2F%2Fimages.internetstores.de%2Fproducts%2FKlickFIx_Phone_Bag_S_Main.jpg%3Fsize%3D800x600/Ea336UcyeN08nEDZKo1qaSd6wawHVk.rZo.XzXqIoXw-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12613213/100544223/auto/auto/http%3A%2F%2Fimages.internetstores.de%2Fproducts%2FKlickFIx_Phone_Bag_S_Main.jpg%3Fsize%3D800x600/Ea336UcyeN08nEDZKo1qaSd6wawHVk.rZo.XzXqIoXw-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12613213/100544223/90/90/http%3A%2F%2Fimages.internetstores.de%2Fproducts%2FKlickFIx_Phone_Bag_S_Main.jpg%3Fsize%3D400x300/g.SQpgfqMHTpOMsxelMhVnoMLBWLWkAOur0WkVk9zO4-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12613213/100544223/auto/auto/http%3A%2F%2Fimages.internetstores.de%2Fproducts%2FKlickFIx_Phone_Bag_S_Main.jpg%3Fsize%3D400x300/g.SQpgfqMHTpOMsxelMhVnoMLBWLWkAOur0WkVk9zO4-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="783091e434286da5985cd8a0d8bf4062" type="MANUFACTURER_PRODUCTS">
+				<Title>BUDDY PHONE Blå</Title>
+				<Description>Hovedtelefon med ekstra stik Den perfekte måde at lytte til musik på! Disse hovedtelefoner har en begrænsning på lydstyrken, så små ører beskyttes, og ekstra stik, så der kan tilsluttes op til fire hovedtelefoner. God, når musikken skal deles. Maks. 85 dB.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11590813/168001/90/90/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F6%252FBUDDY-PHONE-052287-1150776.ashx%253Fbc%253DTransparent%2526as%253D1%2526h%253D512%2526w%253D1024/JbKbHMIZYah2SeomkEzsOaw9eMO7z8DxkZmfJEmf4wA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11590813/168001/auto/auto/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F6%252FBUDDY-PHONE-052287-1150776.ashx%253Fbc%253DTransparent%2526as%253D1%2526h%253D512%2526w%253D1024/JbKbHMIZYah2SeomkEzsOaw9eMO7z8DxkZmfJEmf4wA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988185&amp;.sig=rtOHoH3TdseLsb3H5jPxEfoz5Fw-&amp;offerId=783091e434286da5985cd8a0d8bf4062&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11590813&amp;comId=11590813&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11590813">
+					<Name>br.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11590813/br.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Legetøj</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>179.95</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>208.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-3 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5766187150802</Ean>
+				<MerchantCategory>Musikintrumenter til børn</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="fecf655aeeae8ffa9dc72977edc39136" type="MANUFACTURER_PRODUCTS">
+				<Title>HTC Windows Phone 8S Bund Cover - Orange</Title>
+				<Description>Original HTC Windows Phone 8S Bund Cover - Orange.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11764313/125801/90/90/http%3A%2F%2Fitasker.dk%2F%2Fimages%2FHTC-Windows-Phone-8S-Bottom-Cover-Orange-20092013-1.jpg/VCTJVFB6Cu8EFnu.n2C6VbsXhIPFoNow9ija6KTDRiU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11764313/125801/auto/auto/http%3A%2F%2Fitasker.dk%2F%2Fimages%2FHTC-Windows-Phone-8S-Bottom-Cover-Orange-20092013-1.jpg/VCTJVFB6Cu8EFnu.n2C6VbsXhIPFoNow9ija6KTDRiU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988186&amp;.sig=EAge.7PmcLVF_KBLJoTzbS5CNIk-&amp;offerId=fecf655aeeae8ffa9dc72977edc39136&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11764313&amp;comId=11764313&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11764313">
+					<Name>iTasker</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11764313/itasker.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Ekstraudstyr</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>149</Price>
+					<DeliveryCost>35</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>35</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>184</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobil tilbehør</MerchantCategory>
+				<Brand>HTC</Brand>
+				<BrandId>29633</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3b640183f89e6947161cdf0cc35b908a" type="MANUFACTURER_PRODUCTS">
+				<Title>lightinthebox Mobile Cell Phone Signal Booster DCS/3G 1800/2100MHz</Title>
+				<Description>Mål (cm):28.0 x 20.5 x 8.0; Vægt (kg):1.5</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682113/143101/90/90/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201403%2Fjoqhfi1396256351030.jpg/LjzhUf62CysRe2q7yyMGk5zfQQrE6wwlLLPR2XME.28-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682113/143101/auto/auto/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201403%2Fjoqhfi1396256351030.jpg/LjzhUf62CysRe2q7yyMGk5zfQQrE6wwlLLPR2XME.28-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988186&amp;.sig=DekaiTA3Hl76v9874eEAMYGQ6nQ-&amp;offerId=3b640183f89e6947161cdf0cc35b908a&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13682113&amp;comId=13682113&amp;catId=143101&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13682113">
+					<Name>Lightinthebox.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13682113/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="143101">
+					<Name>Alarm &amp; automatisering</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>2207</Price>
+					<DeliveryCost>127</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>127</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2334</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-4 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefoner &amp; elektronik  Hjemmesikkerhed  Mobilsignalforstærkere</MerchantCategory>
+				<Brand>lightinthebox</Brand>
+				<BrandId>42787</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8b80562870f561bf5da457daf17191db" type="MANUFACTURER_PRODUCTS">
+				<Title>Nike Men Nike Swoosh Hard Phone Case Samsung</Title>
+				<Description>Nike Swoosh Hard Phone Case - Holdbar og ridsesikker mobilskal fra Nike, der er designet til at passe til din Samsung S4!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13628413/165101/90/90/http%3A%2F%2Fbodystore.dk%2Fbilder%2Fprodukter%2F700x700%2FNIAA4023NS_1.png/2VQ89apQMn_KSkaC9Sw_mexFLuTTqQbBMP8jfMfxBQs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13628413/165101/auto/auto/http%3A%2F%2Fbodystore.dk%2Fbilder%2Fprodukter%2F700x700%2FNIAA4023NS_1.png/2VQ89apQMn_KSkaC9Sw_mexFLuTTqQbBMP8jfMfxBQs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988186&amp;.sig=zvjjWQtdHA5y58kKcYb.NszGLTQ-&amp;offerId=8b80562870f561bf5da457daf17191db&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13628413&amp;comId=13628413&amp;catId=165101&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13628413">
+					<Name>Bodystore.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13628413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="165101">
+					<Name>Fitness</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>169</Price>
+					<DeliveryCost>45</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>45</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>214</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>3-4 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0887791022707</Ean>
+				<MerchantCategory>Træningstilbehør &amp;gt; Musiktilbehør</MerchantCategory>
+				<Brand>Nike Men</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2c2485867a1ec8e58be0c65c960e08c3" type="MANUFACTURER_PRODUCTS">
+				<Title>Smart Card Phone - Sort</Title>
+				<Description>Lille og "sund" mobiltelefon med lav stråling og miljøvenlig!Godt for dig og dine omgivelser!- Dual band, GSM Network: (2G) 900/1800MHz- SIM kort (Micro SIM)- Skærmstørrelse: 1,0 tommer OLED skærm- Ultra-lav stråling- GPRS Mobile Positioning funktion- Telefonbog: 500 poster- Understøtter Håndfri- Beskeder:</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11206223/100138013/90/90/http%253A%252F%252Fcoolpriser.dk%252F%252Fimages%252Fcoolpriser-4%252Fsmart-card-phone-tynd-lille-telefon%252520%25282%2529.jpg/T1xkgbkYBe8nRyNCXTjAFqiYJy5nnQusjUaROLNK7gE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11206223/100138013/auto/auto/http%253A%252F%252Fcoolpriser.dk%252F%252Fimages%252Fcoolpriser-4%252Fsmart-card-phone-tynd-lille-telefon%252520%25282%2529.jpg/T1xkgbkYBe8nRyNCXTjAFqiYJy5nnQusjUaROLNK7gE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988186&amp;.sig=.o5qlDC3INx2o8A6YgiiOhzApsU-&amp;offerId=2c2485867a1ec8e58be0c65c960e08c3&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11206223&amp;comId=11206223&amp;catId=100138013&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11206223">
+					<Name>Coolpriser.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11206223/coolpriser.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100138013">
+					<Name>Gadgets</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>249</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>249</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Sjove Gadgets/Huset</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c1ae02fd2c6510574c84872f3d93cc25" type="MANUFACTURER_PRODUCTS">
+				<Title>Skype Phone WPS1 batteri (1000 mAh)</Title>
+				<Description>1000 mAh batteri passer til Skype Phone WPS1 (WP-S1). 12 måneder Garanti. 14 dages 'Money Back' garanti</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/10780623/122801/90/90/http%3A%2F%2Fwww.batteryupgrade.dk%2Fimages%2Fproducts%2Flib%2FCS-SKP512SL.jpg/lyGjjL_O74HG2WPeCqWqNoPEMmy1u11vsj8P.vvaBzw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/10780623/122801/auto/auto/http%3A%2F%2Fwww.batteryupgrade.dk%2Fimages%2Fproducts%2Flib%2FCS-SKP512SL.jpg/lyGjjL_O74HG2WPeCqWqNoPEMmy1u11vsj8P.vvaBzw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988187&amp;.sig=s12dXQPlIHykObjyRywHQT2qo9E-&amp;offerId=c1ae02fd2c6510574c84872f3d93cc25&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10780623&amp;comId=10780623&amp;catId=122801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="10780623">
+					<Name>Batteryupgrade</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10780623/BatteryUpgrade_Kelkoo_banner_small_dk.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="122801">
+					<Name>Tilbehør til bærbar lyd</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>189.8</Price>
+					<PriceDetail>NB! Toldafgift kan blive lagt til</PriceDetail>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>189.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 uge</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Electronics  MP3 Accessories</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ac5bc41e4ab4bcc6669f2c44a522a3fd" type="MANUFACTURER_PRODUCTS">
+				<Title>HTC Windows Phone 8S Bag Cover - Sort</Title>
+				<Description>Original HTC Windows Phone 8S bag cover - sort.   Emballage: Bulk</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/3764623/100342523/90/90/http%3A%2F%2Fmytrendyphone.dk%2F%2Fimages%2F105107_HTC_Windows_Phone_8S_Battery_Cover-Black_01_17042013.jpg/2BkAesxceYgcmi5YIHIGex84yGBq8_YRUi1NQ910DS8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/3764623/100342523/auto/auto/http%3A%2F%2Fmytrendyphone.dk%2F%2Fimages%2F105107_HTC_Windows_Phone_8S_Battery_Cover-Black_01_17042013.jpg/2BkAesxceYgcmi5YIHIGex84yGBq8_YRUi1NQ910DS8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988187&amp;.sig=dkg3ZbEy_ovhAnUPfXlCPgEwHwg-&amp;offerId=ac5bc41e4ab4bcc6669f2c44a522a3fd&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3764623&amp;comId=3764623&amp;catId=100342523&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="3764623">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3764623/mtp.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342523">
+					<Name>Holdere &amp; Tasker</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>279</Price>
+					<DeliveryCost>35</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>35</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>314</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 dag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobil tilbehï¿½r</MerchantCategory>
+				<Brand>HTC</Brand>
+				<BrandId>29633</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="956c2a78d8aa8d5a162e4ca98b0d8390" type="MANUFACTURER_PRODUCTS">
+				<Title>Kickers  Sneakers PHONE  Kickers</Title>
+				<Description>Kickers  Sneakers PHONE  Grå Fås i herrestørrelse. 40,41,42,43,46.  Køb PHONE  fra Kickers  hos Spartoo.dk fri fragt ved køb på minimum 450 kr.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11558813/109301/90/90/http%3A%2F%2Fphotos6.spartoo.dk%2Fphotos%2F907%2F907137%2F907137_350_A.jpg/wiGn4RFybTmC7Io2XzZ5JHfomX9EAdP2.cXc0C8nzdE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11558813/109301/auto/auto/http%3A%2F%2Fphotos6.spartoo.dk%2Fphotos%2F907%2F907137%2F907137_350_A.jpg/wiGn4RFybTmC7Io2XzZ5JHfomX9EAdP2.cXc0C8nzdE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988187&amp;.sig=9Cq1TF2gp_Jzvsu.TD8F.xi_qSM-&amp;offerId=956c2a78d8aa8d5a162e4ca98b0d8390&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11558813&amp;comId=11558813&amp;catId=109301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11558813">
+					<Name>Spartoo.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11558813/spartoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="109301">
+					<Name>Herresko</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>694</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>694</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>herrer|Shopping  Mode &amp; Skønhed  Sko  Sneakers</MerchantCategory>
+				<Brand>Kickers</Brand>
+				<BrandId>1738</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="52e32352a2660cb2d20f6c3f46e06f57" type="MANUFACTURER_PRODUCTS">
+				<Title>YSL YvesSaintLaurent  Mobile Phone Holder</Title>
+				<Description>Mobile Phone Holder</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11856913/110201/90/90/http%3A%2F%2Fenbeautyshop.dk%2F%2Fimages%2F53226.jpg/GaLe77SNE9vBcTET5aSV3J_x5y5RGFZ_NZvSYwiF.0s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11856913/110201/auto/auto/http%3A%2F%2Fenbeautyshop.dk%2F%2Fimages%2F53226.jpg/GaLe77SNE9vBcTET5aSV3J_x5y5RGFZ_NZvSYwiF.0s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988187&amp;.sig=K301EkMb8QQoDu.GDnlzqwCdiQo-&amp;offerId=52e32352a2660cb2d20f6c3f46e06f57&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11856913&amp;comId=11856913&amp;catId=110201&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11856913">
+					<Name>enbeautyshop.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11856913/beauty.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="110201">
+					<Name>Diverse</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>99</Price>
+					<DeliveryCost>10</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>10</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>109</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Tasker/YSL YvesSaintLaurent</MerchantCategory>
+				<Brand>YSL YvesSaintLaurent</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a9eb9e67ef50cdda6be0bb8e8c324b9e" type="MANUFACTURER_PRODUCTS">
+				<Title>Targus Universal Tablet/Phone Car Charger</Title>
+				<Description>Billader / Hvid Universal</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/7484723/100384223/90/90/http%253A%252F%252Fimages.wupti.com%252Fretrievefile.axd%253Ffile%253D187030%2526ps%253DFullSizeNoBackground%2526q%253D95%2526hash%253D00A612698224BF1541E04A0C35F6602B10FC89AD/PJpDSSwGvUj5vXwnttYW03qSrO9gnn1Ou8H2Xgy_vSQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/7484723/100384223/auto/auto/http%253A%252F%252Fimages.wupti.com%252Fretrievefile.axd%253Ffile%253D187030%2526ps%253DFullSizeNoBackground%2526q%253D95%2526hash%253D00A612698224BF1541E04A0C35F6602B10FC89AD/PJpDSSwGvUj5vXwnttYW03qSrO9gnn1Ou8H2Xgy_vSQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988188&amp;.sig=Usy4ZJ4hORdKZme4MOL.RK0224o-&amp;offerId=a9eb9e67ef50cdda6be0bb8e8c324b9e&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=7484723&amp;comId=7484723&amp;catId=100384223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="7484723">
+					<Name>wupti.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/7484723/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100384223">
+					<Name>Netværksprodukter</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>219</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>219</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-4 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Computer &amp; IT - iPad og tablet tilbehør - Ladere og adaptere</MerchantCategory>
+				<Brand>Targus</Brand>
+				<BrandId>3123</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="75a123c8677edca3c917ce605d328dca" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Uc Phone 7942 Spare</Title>
+				<Description>Cisco Uc Phone 7942 Spare</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13003013/126001/90/90/https%3A%2F%2Fwww.senetic.dk%2Fi%2Fnorm%2Fg%2F1242512-4472.jpg/MMiowVxV67mW7ufs.1gvAaDsI1l2zU8uEmJJA2B.mLI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13003013/126001/auto/auto/https%3A%2F%2Fwww.senetic.dk%2Fi%2Fnorm%2Fg%2F1242512-4472.jpg/MMiowVxV67mW7ufs.1gvAaDsI1l2zU8uEmJJA2B.mLI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988188&amp;.sig=Xw9fCaTraYrq_wvCPNzDqAB1Nmo-&amp;offerId=75a123c8677edca3c917ce605d328dca&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13003013&amp;comId=13003013&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.dk/p-fastnet-iptelefoner-126001/cisco-7942g-19622192?partnerId=96947092</CompareUrl>
+				<Merchant id="13003013">
+					<Name>Senetic</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13003013/senetic_logo_80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>126001-19622192</CatalogID>
+				<Catalog productId="19622192" categoryId="126001">
+					<Name>Cisco 7942G</Name>
+				</Catalog>
+				<Category id="126001">
+					<Name>Fastnet- &amp; IP-telefoner</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>1581.69</Price>
+					<DeliveryCost>112</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>112</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1693.69</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>5</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658140389</Ean>
+				<MerchantCategory>Cisco  IP telefoni</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="44e7d36de48f351baaa8b2025af3565c" type="MANUFACTURER_PRODUCTS">
+				<Title>Firtal Waterproof Phone Bag - Vandtæt Etui til SmartPhone 1 stk.</Title>
+				<Description>Hvis du skal på overlevelsestur eller andet, hvor din telefon kan komme ud for at falde i vandet, er det bedre at være på den sikre side! Dette etui kan sikre dig mod, at din telefon går i stykker pga. vand! Egenskaber - Vandafvisende og vandtæt  - Holder din telefon sikker og tør på strande</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11142323/110201/90/90/http%3A%2F%2Fwww.nimen.dk%2Fmedia%2Fcatalog%2Fproduct%2Fw%2Fa%2Fwaterproof-phonebag-1-435x435.jpg/L63BFJHVtdnVpyWZSusqMA4uRHLqLiVpvDSZrR3W5ls-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11142323/110201/auto/auto/http%3A%2F%2Fwww.nimen.dk%2Fmedia%2Fcatalog%2Fproduct%2Fw%2Fa%2Fwaterproof-phonebag-1-435x435.jpg/L63BFJHVtdnVpyWZSusqMA4uRHLqLiVpvDSZrR3W5ls-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988188&amp;.sig=Skwx_5H_Xs.DQJ9c9mNHn2XotPg-&amp;offerId=44e7d36de48f351baaa8b2025af3565c&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11142323&amp;comId=11142323&amp;catId=110201&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11142323">
+					<Name>Made4men.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11142323/made4men.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="110201">
+					<Name>Diverse</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>99</Price>
+					<DeliveryCost>39</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>138</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7071900304027</Ean>
+				<MerchantCategory>Tilbehør</MerchantCategory>
+				<Brand>Firtal</Brand>
+				<BrandId>-1</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/11142323/110201/90/90/http%3A%2F%2Fwww.nimen.dk%2Fmedia%2Fcatalog%2Fproduct%2Fw%2Fa%2Fwaterproof-phonebag-2.jpg/WmztGMcql51_bKU3P21Jnt4EAX.VdTbZPYaK6ALbBzA-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/11142323/110201/auto/auto/http%3A%2F%2Fwww.nimen.dk%2Fmedia%2Fcatalog%2Fproduct%2Fw%2Fa%2Fwaterproof-phonebag-2.jpg/WmztGMcql51_bKU3P21Jnt4EAX.VdTbZPYaK6ALbBzA-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8a07a0cf0de64277aceafa5a3cee5ede" type="MANUFACTURER_PRODUCTS">
+				<Title>Windows Phone 8X Puro Silicon Case</Title>
+				<Description>Puro Silicon Case</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12999813/125801/90/90/http%3A%2F%2Fwww.gearspot.dk%2Fuploads%2Fproducts%2F1362304175-1947396-BAF2AZ-NPIDPV-766RUS.jpg/vyMqvJ3dC.sQIIz0QDoRaz_685hmj_lnmfO1kbpa8vk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12999813/125801/auto/auto/http%3A%2F%2Fwww.gearspot.dk%2Fuploads%2Fproducts%2F1362304175-1947396-BAF2AZ-NPIDPV-766RUS.jpg/vyMqvJ3dC.sQIIz0QDoRaz_685hmj_lnmfO1kbpa8vk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988189&amp;.sig=ldV9zdI1me8FTGQZKzzDcF1Joes-&amp;offerId=8a07a0cf0de64277aceafa5a3cee5ede&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12999813&amp;comId=12999813&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12999813">
+					<Name>Gearspot</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12999813/Gearspot-logo-80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Ekstraudstyr</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>169</Price>
+					<DeliveryCost>25</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>25</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>194</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Computertilbehør</MerchantCategory>
+				<Brand>Windows Phone 8X</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="19f3c1d11f98c3a15780e17ed0a61a61" type="MANUFACTURER_PRODUCTS">
+				<Title>Sofie Schnoor Phone Sleeve</Title>
+				<Description>Sofie Schnoor Phone Sleeve</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13058513/107401/90/90/http%3A%2F%2Fimages.booztx.com%2Fsofie-schnoor%2F1300x1700%2Fsscm151505_black.jpg/Su0zJrV8zXE4Dkcq_5s23xrCRL_k4YYPqf1ukknAQEw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13058513/107401/auto/auto/http%3A%2F%2Fimages.booztx.com%2Fsofie-schnoor%2F1300x1700%2Fsscm151505_black.jpg/Su0zJrV8zXE4Dkcq_5s23xrCRL_k4YYPqf1ukknAQEw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988189&amp;.sig=2h2GfXP_7Pw3klzV9Yih.KWIcYk-&amp;offerId=19f3c1d11f98c3a15780e17ed0a61a61&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13058513&amp;comId=13058513&amp;catId=107401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13058513">
+					<Name>Boozt.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13058513/Boozt.com-logo-80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="107401">
+					<Name>Øvrige accessories</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>199</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>248</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-5 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Women  Accessories</MerchantCategory>
+				<Brand>Sofie Schnoor</Brand>
+				<BrandId>17404</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="cb8889fb146e6fcc224c32e00e98ca63" type="MANUFACTURER_PRODUCTS">
+				<Title>Fisher Price - Chatter Phone Classic</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/3493823/168001/90/90/https%3A%2F%2Fimg-cache.coolshop.com%2F1a9be01d-2aaf-485e-b584-d989a9810dd0%2Ffisher-price-chatter-phone-classic.jpg/IUr3gkomjqyXJTBP2pupHzJXwFwkmJNIM.aDZlNpvVY-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/3493823/168001/auto/auto/https%3A%2F%2Fimg-cache.coolshop.com%2F1a9be01d-2aaf-485e-b584-d989a9810dd0%2Ffisher-price-chatter-phone-classic.jpg/IUr3gkomjqyXJTBP2pupHzJXwFwkmJNIM.aDZlNpvVY-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988189&amp;.sig=647X51vyMQL3RzsxK3c7ch.dOhc-&amp;offerId=cb8889fb146e6fcc224c32e00e98ca63&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3493823&amp;comId=3493823&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="3493823">
+					<Name>Coolshop.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3493823/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Legetøj</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>149</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>149</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>0</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Toys</MerchantCategory>
+				<Brand>Fisher Price</Brand>
+				<BrandId>1217</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e74d186adf18612442ba92799495f5ae" type="MANUFACTURER_PRODUCTS">
+				<Title>Doro Phone Easy 715 sort</Title>
+				<Description>Doro PhoneEasy® 715 er en brugervenlig, flot og praktisk mobiltelefon med slide tastatur. Den store og tydelige farveskærm er den samme som på vore populære klaptelefoner, og den er altid så du kan se hvem der ringer. Også perfekt til at tage, vise og dele fotos. Hurtigvalgstast og SMS-knap på tastaturet gør</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12765613/100020213/90/90/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Flarge%2F71-74%2F71-7416.jpg/VO5E7s_1ek_9xzwdkBIycsH6mAqxom_Xjt8txv74jd4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12765613/100020213/auto/auto/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Flarge%2F71-74%2F71-7416.jpg/VO5E7s_1ek_9xzwdkBIycsH6mAqxom_Xjt8txv74jd4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988189&amp;.sig=BOw3XiCGk9RLeOl.eI9shCQpyxQ-&amp;offerId=e74d186adf18612442ba92799495f5ae&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12765613&amp;comId=12765613&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.dk/p-mobiltelefoner-uden-abonnement-100020213/doro-phoneeasy-715-19823998?partnerId=96947092</CompareUrl>
+				<Merchant id="12765613">
+					<Name>Ellos</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12765613/ellos-logo-80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19823998</CatalogID>
+				<Catalog productId="19823998" categoryId="100020213">
+					<Name>Doro PhoneEasy 715</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner uden abonnement</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>799</Price>
+					<DeliveryCost>49.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>848.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>|Mobiltelefoner</MerchantCategory>
+				<Brand>Doro</Brand>
+				<BrandId>969</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9e20dc805cc3db57bfae5c2adcdaeaa4" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama ‘Chic case’ mobile phone sleeve, size L in grey</Title>
+				<Description>Mobiltaske Tekniske data: Farve: Grå · Indvendigt mål bredde: 67 mm · Indvendigt mål dybde: 14 mm · Indvendigt mål højde: 123 mm</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12461913/100342523/90/90/http%3A%2F%2Fmedia.conrad.com%2Fmedias%2Fglobal%2Fce%2F3000_3999%2F3100%2F3180%2F3183%2F318324_BB_00_FB.EPS_250.jpg/jcb9lUD0X6Y2CINRQHjkfJwoZnmUp6MdxBKpDHrBwLs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12461913/100342523/auto/auto/http%3A%2F%2Fmedia.conrad.com%2Fmedias%2Fglobal%2Fce%2F3000_3999%2F3100%2F3180%2F3183%2F318324_BB_00_FB.EPS_250.jpg/jcb9lUD0X6Y2CINRQHjkfJwoZnmUp6MdxBKpDHrBwLs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988189&amp;.sig=sFl_5c4V8OKUBgupQgXrGJ6ShzE-&amp;offerId=9e20dc805cc3db57bfae5c2adcdaeaa4&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12461913&amp;comId=12461913&amp;catId=100342523&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12461913">
+					<Name>Conradelektronik.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12461913/conrad.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342523">
+					<Name>Holdere &amp; Tasker</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>129</Price>
+					<DeliveryCost>69</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>69</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>198</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443127266</Ean>
+				<MerchantCategory>/Multimedie &amp; HiFi/Mobiltelefoner/Tilbehør til mobiltelefoner/Tasker og beskyttelse til mobiltelefoner/Universelle mobiltelefontasker</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8c500028ceb6893e22f8fdeacdd6bbc1" type="MANUFACTURER_PRODUCTS">
+				<Title>Blå blomst (Størrelse: I-phone (13x7cm))</Title>
+				<Description>Invendigt, mørkeblåt strålebeskyttende stof med 12% metal. Vaskes i hånden. Det beskyttende stof tåler op til 40 vaske uden at den beskyttende effekt forringes. Tåler ikke tørretumbling eller maskinvask.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/10886023/110201/90/90/http%3A%2F%2Fe-safewear.dk%2Fimages%2FDSC02525.JPG/SIIIU0mBJ7D2Bcw4TabrdPfRDn6BMrCsdQ9PGxRGxB8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/10886023/110201/auto/auto/http%3A%2F%2Fe-safewear.dk%2Fimages%2FDSC02525.JPG/SIIIU0mBJ7D2Bcw4TabrdPfRDn6BMrCsdQ9PGxRGxB8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988190&amp;.sig=bmlhjZqzPR3_MhRjPIkCMr9j3j4-&amp;offerId=8c500028ceb6893e22f8fdeacdd6bbc1&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10886023&amp;comId=10886023&amp;catId=110201&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="10886023">
+					<Name>e-safewear</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10886023/esafewear.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="110201">
+					<Name>Diverse</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>179</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>179</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobilposer</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="47fdcc347cab6c3d5f296c708bca44e6" type="MANUFACTURER_PRODUCTS">
+				<Title>Snom 760 IP phone</Title>
+				<Description>Produktbeskrivelse Snom 760 - VoIP-telefon Produkttype VoIP-telefon Hovedfunktioner Underst&amp;oslash;ttet multi-VoIP-protokol, integreret Ethernet-switch VoIP-protokoller SIP, RTCP, SRTP Voice Codecs G.722, G.729ab, G.711u, G.711a, G.726, GSM 6.10 H&amp;oslash;jttalertelefon Ja Id for kaldende nummer Ja Med</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/6013623/126001/90/90/http%253A%252F%252Fwww.skiftselv.dk%252FProductImage.ashx%253Fid%253Df13fa8a3-743e-4e82-a7f1-e94952b8aff6%2526w%253D135/AHv1v8W.pIiul3JmsvPeyEK68uOIZsWBXd3iG6NfPM4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/6013623/126001/auto/auto/http%253A%252F%252Fwww.skiftselv.dk%252FProductImage.ashx%253Fid%253Df13fa8a3-743e-4e82-a7f1-e94952b8aff6%2526w%253D135/AHv1v8W.pIiul3JmsvPeyEK68uOIZsWBXd3iG6NfPM4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988190&amp;.sig=8SpyBkYg9c0L0KosrpCVyI6kSfo-&amp;offerId=47fdcc347cab6c3d5f296c708bca44e6&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=6013623&amp;comId=6013623&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.dk/p-fastnet-iptelefoner-126001/snom-760-19786191?partnerId=96947092</CompareUrl>
+				<Merchant id="6013623">
+					<Name>skiftselv</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/6013623/skiftselv80x24_modtaget_d_13_05_2008.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>126001-19786191</CatalogID>
+				<Catalog productId="19786191" categoryId="126001">
+					<Name>Snom 760</Name>
+				</Catalog>
+				<Category id="126001">
+					<Name>Fastnet- &amp; IP-telefoner</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>2600</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2600</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>IP/Skype/DECT telefoner</MerchantCategory>
+				<Brand>Snom</Brand>
+				<BrandId>2934</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9f46bd350c26355232aff72481abb983" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Phone Gateway/analog 24xVOIP (VG224)</Title>
+				<Images>
+					<Image available="false">
+						<Url>http://r.kelkoo.com/r/dk/7648523/100384223/90/90/d</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="false">
+						<Url>http://r.kelkoo.com/r/dk/7648523/100384223/auto/auto/d</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988190&amp;.sig=BZoTPxPpjMr4IvIq9oc7PUFBpwY-&amp;offerId=9f46bd350c26355232aff72481abb983&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=7648523&amp;comId=7648523&amp;catId=100384223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="7648523">
+					<Name>happii.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/7648523/happii_logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100384223">
+					<Name>Netværksprodukter</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>28115</Price>
+					<DeliveryCost>25</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>25</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>28140</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Netvaerksudstyr|</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b140d489f3c378895843e33cbdb51d56" type="MANUFACTURER_PRODUCTS">
+				<Title>Jablotron Raven Android Desktop Phone (GDP-08)</Title>
+				<Description>Jablotron Raven Android Desktop Phone (GDP-08)</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/8386923/126001/90/90/http%3A%2F%2Fmedia.dustin.eu%2Fimage%2F127713%2F500%2F400%2Fraven-android-desktop-phone.jpg/Nkx0cP0yAmCBMTonrMEA8L.vQ7UV2elB_3c2r_CYxMk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/8386923/126001/auto/auto/http%3A%2F%2Fmedia.dustin.eu%2Fimage%2F127713%2F500%2F400%2Fraven-android-desktop-phone.jpg/Nkx0cP0yAmCBMTonrMEA8L.vQ7UV2elB_3c2r_CYxMk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988190&amp;.sig=Ds8yBvZOiK5aNHDbK3qmD7jFdHM-&amp;offerId=b140d489f3c378895843e33cbdb51d56&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=8386923&amp;comId=8386923&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="8386923">
+					<Name>Dustin Home</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/8386923/dustin_logo_kelko_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Fastnet- &amp; IP-telefoner</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>4195</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>4195</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>5</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Hardware/Telefoner &amp; GPS&amp;#39;er/Fast telefoni/Trådløse telefoner/</MerchantCategory>
+				<Brand>Jablotron</Brand>
+				<BrandId>38166</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="83107e2272e3d77190924e865e7075f6" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Ericsson Clingo Universal car phone mount</Title>
+				<Description>Clingo Universal car phone mount</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/8419123/125801/90/90/http%3A%2F%2Fsparepart.dk%2Fimages%2F10042122.jpg/Osat6UXD0M0rykARWRvRHuh02OzaRF8lPTyyFvTPCK4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/8419123/125801/auto/auto/http%3A%2F%2Fsparepart.dk%2Fimages%2F10042122.jpg/Osat6UXD0M0rykARWRvRHuh02OzaRF8lPTyyFvTPCK4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988190&amp;.sig=Mdt1D1USc1EPh13nYgD2NIMQMhM-&amp;offerId=83107e2272e3d77190924e865e7075f6&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=8419123&amp;comId=8419123&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="8419123">
+					<Name>SparePart.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/8419123/sparepart.GIF</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Ekstraudstyr</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>499</Price>
+					<DeliveryCost>19</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>19</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>518</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-3 dager</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Sony / Sony Ericsson |Sony Ericsson Tilbehør</MerchantCategory>
+				<Brand>Sony Ericsson</Brand>
+				<BrandId>2960</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e46a83b04197db1f47993d9a3a34fdbd" type="MANUFACTURER_PRODUCTS">
+				<Title>2 Wire door phone system - TILBUD NU</Title>
+				<Description>2 WIRE DOOR PHONE SYSTEM This door phone system allows you to talk to visitors before opening the door. There is also an additional function to all... - TILBUD NU, pris kun 249,00 (før 299,00)</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/4593623/110201/90/90/http%3A%2F%2Fcdn.discoworld.dk%2Fimages_cache%2F1683640.jpg/zix4Ji.79MO8mEymQ.opjAbB5D7mIx7iSLYOvfqV6I4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/4593623/110201/auto/auto/http%3A%2F%2Fcdn.discoworld.dk%2Fimages_cache%2F1683640.jpg/zix4Ji.79MO8mEymQ.opjAbB5D7mIx7iSLYOvfqV6I4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988191&amp;.sig=UzjPlZ.7942MhydxPYHSJDoEv.A-&amp;offerId=e46a83b04197db1f47993d9a3a34fdbd&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=4593623&amp;comId=4593623&amp;catId=110201&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="4593623">
+					<Name>DiscoWorld</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/4593623/diskoworld.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="110201">
+					<Name>Diverse</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>249</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>298</TotalPrice>
+					<PriceWithoutRebate>299</PriceWithoutRebate>
+					<Rebate>17</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>2</Availability>
+				<DeliveryTime>4-8 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6fc3ab3f854048a53834a3e0d80aeb10" type="MANUFACTURER_PRODUCTS">
+				<Title>EXPED ZIP SEAL PHONE</Title>
+				<Description>Vandtæt og transparent etui til eksempelvis kort og mobiltelefoner. Mål: 26 x 15 cm. Vægt: 21 g.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/9749423/164401/90/90/http%3A%2F%2Fwww.stadium.dk%2Fis-bin%2Fintershop.static%2FBOS%2FStadium-DenmarkB2C-Site%2FStadium%2Fda_DK%2FProducts%2FMedium%2F203849_101.jpg/DdEWG68TNkMhVv45.3BsaNQ9j29J9tzQv8CsCdObwjU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/9749423/164401/auto/auto/http%3A%2F%2Fwww.stadium.dk%2Fis-bin%2Fintershop.static%2FBOS%2FStadium-DenmarkB2C-Site%2FStadium%2Fda_DK%2FProducts%2FMedium%2F203849_101.jpg/DdEWG68TNkMhVv45.3BsaNQ9j29J9tzQv8CsCdObwjU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988191&amp;.sig=o_IzA3fqsyZ3RB2SYWPt3PR2Wiw-&amp;offerId=6fc3ab3f854048a53834a3e0d80aeb10&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9749423&amp;comId=9749423&amp;catId=164401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9749423">
+					<Name>Stadium</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9749423/stadium_logo2.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="164401">
+					<Name>Camping &amp; Hiking</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>149</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>198</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5-8 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>SPORT/FRILUFTSLIV &amp;amp; REJSER/Tilbehør</MerchantCategory>
+				<Brand>EXPED</Brand>
+				<BrandId>20940</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="21a2ce7867808b2e223d8e664e07d17a" type="MANUFACTURER_PRODUCTS">
+				<Title>Voi Jeans iPhone 5 Matte Polo Phone Case Aqua</Title>
+				<Description>Voi Jeans durable plastic iPhone 5 case.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/10184423/108101/90/90/http%3A%2F%2Fresources.mandmdirect.com%2FProductImages%2F_Default%2FV%2FO%2F1%2FVO1369_1_Large.jpg/Wnu9NBjwAd521k4o.XP2wxwIWMecnMqEuVx61wfjgBc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/10184423/108101/auto/auto/http%3A%2F%2Fresources.mandmdirect.com%2FProductImages%2F_Default%2FV%2FO%2F1%2FVO1369_1_Large.jpg/Wnu9NBjwAd521k4o.XP2wxwIWMecnMqEuVx61wfjgBc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988191&amp;.sig=He4JrVv2QgQ5GpI6cA3ELbCtui0-&amp;offerId=21a2ce7867808b2e223d8e664e07d17a&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10184423&amp;comId=10184423&amp;catId=108101&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="10184423">
+					<Name>mandmdirect.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10184423/mandm-logo-80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108101">
+					<Name>Herretøj</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>18</Price>
+					<DeliveryCost>79</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>79</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>97</TotalPrice>
+					<PriceWithoutRebate>94</PriceWithoutRebate>
+					<Rebate>81</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mens|Accessories|Phone And Tablet Cases</MerchantCategory>
+				<Brand>Voi Jeans</Brand>
+				<BrandId>40473</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f0f6bcf88b29aca3baea13107e9a2b34" type="MANUFACTURER_PRODUCTS">
+				<Title>Skype Batteri (1000 mAh) passer til Skype Phone WPS1</Title>
+				<Description>batteri (1000 mAh) passer til Skype Phone WPS1 (WP-S1). 12 mÃ¥neder Garanti. 30 dages 'Money Back' garanti</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11585913/122801/90/90/http%3A%2F%2Fwww.batterychampion.dk%2Fimages%2Fproducts%2Flib%2FCS-SKP512SL.jpg/vBP4cyUnwrTqhSdJ9CJ0otOyA00we7XY9bFpPT5SaqM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11585913/122801/auto/auto/http%3A%2F%2Fwww.batterychampion.dk%2Fimages%2Fproducts%2Flib%2FCS-SKP512SL.jpg/vBP4cyUnwrTqhSdJ9CJ0otOyA00we7XY9bFpPT5SaqM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988191&amp;.sig=lt7Fyo1H51_Qi7xUBX6CTqfgCk8-&amp;offerId=f0f6bcf88b29aca3baea13107e9a2b34&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11585913&amp;comId=11585913&amp;catId=122801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11585913">
+					<Name>Batterychampion</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11585913/bc_kelkoo_small_dk.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="122801">
+					<Name>Tilbehør til bærbar lyd</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>188.76</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>188.76</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 dag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Electronics  MP3 Accessories</MerchantCategory>
+				<Brand>Skype</Brand>
+				<BrandId>2897</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="955032f494dcf07057889c4c4a1467dd" type="MANUFACTURER_PRODUCTS">
+				<Title>Sennheiser CX 150 ear-canal phones</Title>
+				<Description>SENNHEISER SENNHEISER CX 150 ear-canal phones (504253) - Type: Hodetelefoner</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/9651323/120901/90/90/http%3A%2F%2Fimg.webmercs.com%2Fdi.ashx%2F7848120%2F249%2F247/cyX6Jm4yYvDF6lndfjVw391VIEPXS3oKUd.r5GezXvM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/9651323/120901/auto/auto/http%3A%2F%2Fimg.webmercs.com%2Fdi.ashx%2F7848120%2F249%2F247/cyX6Jm4yYvDF6lndfjVw391VIEPXS3oKUd.r5GezXvM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988191&amp;.sig=0f.dUIGTU600V7CIcgzBqOE0MII-&amp;offerId=955032f494dcf07057889c4c4a1467dd&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9651323&amp;comId=9651323&amp;catId=120901&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.dk/p-horetelefoner-120901/sennheiser-cx-150-19673277?partnerId=96947092</CompareUrl>
+				<Merchant id="9651323">
+					<Name>Techhaus</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9651323/logokelkoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>120901-19673277</CatalogID>
+				<Catalog productId="19673277" categoryId="120901">
+					<Name>Sennheiser CX 150</Name>
+				</Catalog>
+				<Category id="120901">
+					<Name>Høretelefoner</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>216</Price>
+					<DeliveryCost>65</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>65</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>281</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4044155053753</Ean>
+				<MerchantCategory>Hi-Fi - Bærbar Lyd/Billede</MerchantCategory>
+				<Brand>Sennheiser</Brand>
+				<BrandId>2830</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="82796b228856a90d0774cdba2c81c86b" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone cover fra Bone collection - Phone Strato i hvid - kun 2 stk. tilbage</Title>
+				<Description>Smart cover til din iPhone fra Bone Collection.Smudsafvisende og miljøvenlig design.Materiale: Microfiber indvendigMål: 6,7 cm x 12,3 cm og 0,7 cm</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/9652223/100409923/90/90/http%3A%2F%2Fwww.trendyliving.dk%2F%2Fimages%2FStrato-hvid.jpg/DLEYSoNKiURiQwoGxXU3ju9EIMzDGTEQch.2Nbyk_.M-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/9652223/100409923/auto/auto/http%3A%2F%2Fwww.trendyliving.dk%2F%2Fimages%2FStrato-hvid.jpg/DLEYSoNKiURiQwoGxXU3ju9EIMzDGTEQch.2Nbyk_.M-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988191&amp;.sig=GHuS9ZGKMLws9nyekWfvEqk78RU-&amp;offerId=82796b228856a90d0774cdba2c81c86b&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9652223&amp;comId=9652223&amp;catId=100409923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9652223">
+					<Name>Trendyliving</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9652223/trendyliving.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100409923">
+					<Name>Brugskunst &amp; Boligtilbehør</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>99</TotalPrice>
+					<PriceWithoutRebate>199</PriceWithoutRebate>
+					<Rebate>51</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Udsalg</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1ddafda17242c05d795465bb2aae1a47" type="MANUFACTURER_PRODUCTS">
+				<Title>Nike Sport Phone Band</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13000513/100014313/90/90/http%3A%2F%2Fmedia.sportamore.se%2Fuploads%2Fproducts%2F845840093597_001_list_jpg_170x170_crop-smart_upscale_q85.jpg/vOu4nrWehDrFcWd8bNJaITOeRC7khI3dW3rIYjtsRO4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13000513/100014313/auto/auto/http%3A%2F%2Fmedia.sportamore.se%2Fuploads%2Fproducts%2F845840093597_001_list_jpg_170x170_crop-smart_upscale_q85.jpg/vOu4nrWehDrFcWd8bNJaITOeRC7khI3dW3rIYjtsRO4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988192&amp;.sig=Y41TyaS.xnM2FwLj1mRhLpvoD1A-&amp;offerId=1ddafda17242c05d795465bb2aae1a47&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13000513&amp;comId=13000513&amp;catId=100014313&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13000513">
+					<Name>Sportamore</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13000513/Sportamore-logo-80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100014313">
+					<Name>Diverse sportsartikler</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>139</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>139</TotalPrice>
+					<PriceWithoutRebate>239</PriceWithoutRebate>
+					<Rebate>42</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1-7 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Udstyr|Tasker|Arm Wallets</MerchantCategory>
+				<Brand>Nike</Brand>
+				<BrandId>2235</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8bda72a426f16a7bbe12f991490cc8fb" type="MANUFACTURER_PRODUCTS">
+				<Title>Marc By Marc Jacobs Phone Zip Cutout Case</Title>
+				<Description>Lille mønstret taske i scuba fra MARC BY MARC JACOBS. Kan også anvendes som mobiltaske. Lynlås oppe samt lille applikation i farvet metal med logo foran. Bredde 16,5 cm. Højde 9 cm. Dybde 2 cm.  Fremstillet af 100% Polyester.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/9220223/100334223/90/90/http%3A%2F%2Fnlyscandinavia.scene7.com%2Fis%2Fimage%2Fnlyscandinavia%2FproductOverview2%2F119260-0067.jpg/naNmeJqdMKbaE9o4cdRQMs4DaViC0n7218hBaBxVSBo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/9220223/100334223/auto/auto/http%3A%2F%2Fnlyscandinavia.scene7.com%2Fis%2Fimage%2Fnlyscandinavia%2FproductOverview2%2F119260-0067.jpg/naNmeJqdMKbaE9o4cdRQMs4DaViC0n7218hBaBxVSBo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988192&amp;.sig=62C.l0jLgXNMP3_qlgkg5OUrHT8-&amp;offerId=8bda72a426f16a7bbe12f991490cc8fb&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9220223&amp;comId=9220223&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9220223">
+					<Name>Nelly.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9220223/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Tasker </Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>399</Price>
+					<DeliveryCost>39</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>438</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-5 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Kvinde  ACCESSORIES  Tasker  PC/mobiltasker</MerchantCategory>
+				<Brand>Marc By Marc Jacobs</Brand>
+				<BrandId>15404</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a3f5e5b6d93852cfa4dde49f0536b570" type="MANUFACTURER_PRODUCTS">
+				<Title>Fisher-Price Flip Phone</Title>
+				<Description>Peek-a-Boo Friends Flip telefonen reagerer på alt det barnet gør! Hver gang barnet åbner telefonen, afspilles sjove lyde, og en af tre glade figurer dukker op. Figurerne veksler for hver gang telefonen lukkes, hvilket aktiverer en anden lydeffekt, som vil få barnet til at åbne klappen igen. Tryk på en knap</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/11016323/168301/90/90/http%3A%2F%2Fa-lekmer.r.worldssl.net%2F1106597%2Ffisher-price-phone.jpg/g1ndm0RN8f_zZD5o_QPna1JtU62LUbj7bmgT4.ECVL8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/11016323/168301/auto/auto/http%3A%2F%2Fa-lekmer.r.worldssl.net%2F1106597%2Ffisher-price-phone.jpg/g1ndm0RN8f_zZD5o_QPna1JtU62LUbj7bmgT4.ECVL8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988192&amp;.sig=KW_HdkQTDgfK.rARpi7I7mtvMUo-&amp;offerId=a3f5e5b6d93852cfa4dde49f0536b570&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11016323&amp;comId=11016323&amp;catId=168301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11016323">
+					<Name>lekmer.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11016323/lekmerdk.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168301">
+					<Name>Babylegetøj</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>99</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>148</TotalPrice>
+					<PriceWithoutRebate>129</PriceWithoutRebate>
+					<Rebate>24</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>3-5 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0746775237974</Ean>
+				<MerchantCategory>Babyleg - Aktivitetslegetøj</MerchantCategory>
+				<Brand>Fisher-Price</Brand>
+				<BrandId>1217</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a1dfab2a8758bf8479b7f6d022c7bb73" type="MANUFACTURER_PRODUCTS">
+				<Title>Fisher Price - Chatter Phone Classic</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/5264223/168001/90/90/http%3A%2F%2Fcontent.gucca.dk%2Fcovers%2F180%2Ff%2Fi%2Ffisher-price-chatter-phone-classic_129504.jpg/GHUKm_e6.Q8VPCP9llE84RiAnK15vuDUvRFGeQLTT00-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/5264223/168001/auto/auto/http%3A%2F%2Fcontent.gucca.dk%2Fcovers%2F180%2Ff%2Fi%2Ffisher-price-chatter-phone-classic_129504.jpg/GHUKm_e6.Q8VPCP9llE84RiAnK15vuDUvRFGeQLTT00-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988192&amp;.sig=CGBPt85gP_h1n0v3eXWbquJ8QKM-&amp;offerId=a1dfab2a8758bf8479b7f6d022c7bb73&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=5264223&amp;comId=5264223&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="5264223">
+					<Name>gucca.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/5264223/logo_gucca_kelkoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Legetøj</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>167.95</Price>
+					<DeliveryCost>39.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>207.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 working days</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ec46edaacf56dba8488f5490ebe32cd0" type="MANUFACTURER_PRODUCTS">
+				<Title>Daniel Riegels Godt i gang med Windows 8 Phone</Title>
+				<Description>Windows 8 Phone er hæftet for dig der har købt en af de nye flotte Windows 8 telefoner, og gerne vil have en god og klar introduktion til denne populære telefontype. Hæftet her tager udgangspunkt i Nokia Lumia telefonen, men kan bruges til alle Windows 8 telefoner.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/6183823/100801/90/90/http%3A%2F%2Fimages.williamdam.dk%2Fbibi_images%2F158%2F1588946.jpg/gBe4LyLB_GXB8k8_XFq8ObszzxWArThtdnrwqfTBiNQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/6183823/100801/auto/auto/http%3A%2F%2Fimages.williamdam.dk%2Fbibi_images%2F158%2F1588946.jpg/gBe4LyLB_GXB8k8_XFq8ObszzxWArThtdnrwqfTBiNQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988193&amp;.sig=w5G5J3auyAF6IxeZeRnuBBldjBY-&amp;offerId=ec46edaacf56dba8488f5490ebe32cd0&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=6183823&amp;comId=6183823&amp;catId=100801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="6183823">
+					<Name>Williamdam.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/6183823/williamdam_logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100801">
+					<Name>Bøger &amp; blade</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>99</Price>
+					<DeliveryCost>25</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>25</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>124</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>9788778532510</Ean>
+				<MerchantCategory>Erhverv - EDB-bøger</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5bb50bb9bfe06f3641ce15d11f2fd1dd" type="MANUFACTURER_PRODUCTS">
+				<Title>Mobile Phone  Battery for Dopod ATOM</Title>
+				<Description>Passer til følgende modeller:</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13985113/100342323/90/90/http%253A%252F%252Fwww.valueline.dk%252F%252Fimages%252FMobile%252520Phone%252520%252520Battery%252520for%252520Dopod%252520ATOM.jpg/IyoEe1DDDdh.jrEs7wIg4EwNq0fwd38ilnXDkFhwEcw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13985113/100342323/auto/auto/http%253A%252F%252Fwww.valueline.dk%252F%252Fimages%252FMobile%252520Phone%252520%252520Battery%252520for%252520Dopod%252520ATOM.jpg/IyoEe1DDDdh.jrEs7wIg4EwNq0fwd38ilnXDkFhwEcw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988193&amp;.sig=WIQEYqfMXGSTfVAXAvxajKpGef8-&amp;offerId=5bb50bb9bfe06f3641ce15d11f2fd1dd&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13985113&amp;comId=13985113&amp;catId=100342323&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13985113">
+					<Name>Valueline</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13985113/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342323">
+					<Name>Batterier til mobiltelefoner</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>99</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>128</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>MOBIL &amp; TABLETS TILBEHØR/MOBIL TILBEHØR/MOBIL BATTERIER</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c5f1e9ad999def0afc5096d0e5a43a0f" type="MANUFACTURER_PRODUCTS">
+				<Title>Profigold Component 3phone til 3phone, 1m</Title>
+				<Description>Ultra Performance Component Video 3Phono-3Phono 1m</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13964413/126901/90/90/http%3A%2F%2Fkabelx.dk%2Fcache%2F44985%2Ffit-1024x768x70.jpg/Y0A1hCEVS1Ae6xduuq0rc6W_riiqYAMaS9p3gUEPTYE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13964413/126901/auto/auto/http%3A%2F%2Fkabelx.dk%2Fcache%2F44985%2Ffit-1024x768x70.jpg/Y0A1hCEVS1Ae6xduuq0rc6W_riiqYAMaS9p3gUEPTYE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988193&amp;.sig=NyDRahQtHELPYD617O8NkyRCJEk-&amp;offerId=c5f1e9ad999def0afc5096d0e5a43a0f&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13964413&amp;comId=13964413&amp;catId=126901&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="13964413">
+					<Name>KabelX.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13964413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126901">
+					<Name>TV tilbehør</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>749</Price>
+					<DeliveryCost>30</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>30</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>779</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Profigold - Component kabel</MerchantCategory>
+				<Brand>Profigold</Brand>
+				<BrandId>22341</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="84186408f54e747fb28137003d039e60" type="MANUFACTURER_PRODUCTS">
+				<Title>JAPCELL Batteri til Simonsen Phone 303 - AA1600mAh</Title>
+				<Description>JAPCELL Batteri til Simonsen Phone 303 - AA1600mAh</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/4048423/126901/90/90/http%3A%2F%2Fwww.batteribyen.dk%2Fmedia%2Fcatalog%2Fproduct%2Fi%2Fm%2Fimg_8155.jpg/fgkKlpvbhxYoc7SFMpGY_DOD4f9fG3BYXSqzuXj1VQ0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/4048423/126901/auto/auto/http%3A%2F%2Fwww.batteribyen.dk%2Fmedia%2Fcatalog%2Fproduct%2Fi%2Fm%2Fimg_8155.jpg/fgkKlpvbhxYoc7SFMpGY_DOD4f9fG3BYXSqzuXj1VQ0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988193&amp;.sig=PR0jJQhxYD8.16u7LGZn2Q1S1vs-&amp;offerId=84186408f54e747fb28137003d039e60&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=4048423&amp;comId=4048423&amp;catId=126901&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="4048423">
+					<Name>Batteribyen.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/4048423/batteribyen.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126901">
+					<Name>TV tilbehør</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>149</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>149</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elartikler</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="58f1b60620731c4d0e1db8969fb8dacd" type="MANUFACTURER_PRODUCTS">
+				<Title>Picard PHONE Punge rot</Title>
+				<Description>Picard PHONE Punge rot Accessories på Zalando.dk   Accessories nu gratis levering</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%408.jpg/WPsMk2fQokEfIH57jdEeuGcXx0cIXFhkz1L.qWDlqfQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%408.jpg/WPsMk2fQokEfIH57jdEeuGcXx0cIXFhkz1L.qWDlqfQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988193&amp;.sig=6Hi77fpHip8XVXMkZNMxefRwtyY-&amp;offerId=58f1b60620731c4d0e1db8969fb8dacd&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12078913&amp;comId=12078913&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12078913">
+					<Name>Zalando.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12078913/zalando_logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Tasker </Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>799</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>799</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>i løbet af 2-6 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4000794774923</Ean>
+				<MerchantCategory>Damer / Accessories / Punge &amp; etuier / Punge</MerchantCategory>
+				<Brand>Picard</Brand>
+				<BrandId>16460</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%407.jpg/LKhfT1GkGSTxjhKNE789bQWe.4xwF1rD4qHulMxjKXw-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%407.jpg/LKhfT1GkGSTxjhKNE789bQWe.4xwF1rD4qHulMxjKXw-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%406.jpg/7UhC2YONicUxxgzoJhifzGKEdWUOAIKjlfLTDxX_RzQ-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%406.jpg/7UhC2YONicUxxgzoJhifzGKEdWUOAIKjlfLTDxX_RzQ-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%405.jpg/eqg8dyL5VImYohLVv1xcJwhu_U_ksapJrqz6gwfJAtI-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJG%2F11%2FPI351F00J-G11%405.jpg/eqg8dyL5VImYohLVv1xcJwhu_U_ksapJrqz6gwfJAtI-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e4ea9483e0ea875a7dcddd68d87eb38c" type="MANUFACTURER_PRODUCTS">
+				<Title>Picard PHONE Punge schwarz</Title>
+				<Description>Picard PHONE Punge schwarz Accessories på Zalando.dk   Accessories nu gratis levering</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%408.jpg/qtYInw0.xZ1LptUBFrtP0NZ_mdXyzqdJEvKBKe0BRvk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%408.jpg/qtYInw0.xZ1LptUBFrtP0NZ_mdXyzqdJEvKBKe0BRvk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988194&amp;.sig=3g0EoJKiibwh8yNo1xLVhZdXekw-&amp;offerId=e4ea9483e0ea875a7dcddd68d87eb38c&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12078913&amp;comId=12078913&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12078913">
+					<Name>Zalando.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12078913/zalando_logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Tasker </Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>799</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>799</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>i løbet af 2-6 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4000794774848</Ean>
+				<MerchantCategory>Damer / Accessories / Punge &amp; etuier / Punge</MerchantCategory>
+				<Brand>Picard</Brand>
+				<BrandId>16460</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%407.jpg/0kaogSWiNAdRjTB9vZ7yZfmhCKSDGS_9jIhDnXMqs3o-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%407.jpg/0kaogSWiNAdRjTB9vZ7yZfmhCKSDGS_9jIhDnXMqs3o-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%406.jpg/jLF0xsCEludjU3M9KgDnIiHi7z1faw4bhy_aaWc9YZQ-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%406.jpg/jLF0xsCEludjU3M9KgDnIiHi7z1faw4bhy_aaWc9YZQ-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%405.jpg/2z_xKtQ2Jn3CXdPr79feX_HPxW0RMrQ2Sz4M4aKt7UY-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%405.jpg/2z_xKtQ2Jn3CXdPr79feX_HPxW0RMrQ2Sz4M4aKt7UY-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a6300e0e63ee53c4cd1edd8f6ba4369d" type="MANUFACTURER_PRODUCTS">
+				<Title>Picard PHONE Punge altsilber</Title>
+				<Description>Picard PHONE Punge altsilber Accessories på Zalando.dk   Accessories nu gratis levering</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%404.jpg/5A5P05Drj7XXJ8X3ulRz2amSM.krwE3sTxLLQ6geC0M-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%404.jpg/5A5P05Drj7XXJ8X3ulRz2amSM.krwE3sTxLLQ6geC0M-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988194&amp;.sig=NjMHRsY4hRnkCW5u1TS0EJM.WbU-&amp;offerId=a6300e0e63ee53c4cd1edd8f6ba4369d&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12078913&amp;comId=12078913&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12078913">
+					<Name>Zalando.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12078913/zalando_logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Tasker </Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>799</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>799</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>i løbet af 2-6 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4000794774879</Ean>
+				<MerchantCategory>Damer / Accessories / Punge &amp; etuier / Punge</MerchantCategory>
+				<Brand>Picard</Brand>
+				<BrandId>16460</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%403.jpg/Uxmg.LFmmdgc.v1R4GmupALcB6YHWHFcWn40jMQcOkU-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%403.jpg/Uxmg.LFmmdgc.v1R4GmupALcB6YHWHFcWn40jMQcOkU-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%406.jpg/FRZuHdm5rUAcvlHLS.LWO12YewW0NvTdEQbST64n0V0-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%406.jpg/FRZuHdm5rUAcvlHLS.LWO12YewW0NvTdEQbST64n0V0-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%405.jpg/oTZnUBZFTmZoXTNKoKUkcGa6UQ42yeaVQvT5ukyVsTY-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/dk/12078913/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJD%2F11%2FPI351F00J-D11%405.jpg/oTZnUBZFTmZoXTNKoKUkcGa6UQ42yeaVQvT5ukyVsTY-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="69f981708dcaa7907aad4d8a2594c9b9" type="MANUFACTURER_PRODUCTS">
+				<Title>BUDDY PHONE Pink</Title>
+				<Description>Hovedtelefon med ekstra stik Den perfekte måde at lytte til musik på! Disse hovedtelefoner har en begrænsning på lydstyrken, så små ører beskyttes, og ekstra stik, så der kan tilsluttes op til fire hovedtelefoner. God, når musikken skal deles. Maks. 85 dB.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/12420313/168001/90/90/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F7%252FBUDDY-PHONE-052287-1150777.ashx%253Fbc%253DTransparent%2526amp%253Bas%253D1%2526amp%253Bh%253D512%2526amp%253Bw%253D1024/MtCLfUKumzDcnh7nvol.dg4vYOqeWmn6xvlQTuB3nro-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/12420313/168001/auto/auto/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F7%252FBUDDY-PHONE-052287-1150777.ashx%253Fbc%253DTransparent%2526amp%253Bas%253D1%2526amp%253Bh%253D512%2526amp%253Bw%253D1024/MtCLfUKumzDcnh7nvol.dg4vYOqeWmn6xvlQTuB3nro-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988194&amp;.sig=D_B6np_f416VQjeQ_j_r6gC20cc-&amp;offerId=69f981708dcaa7907aad4d8a2594c9b9&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12420313&amp;comId=12420313&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12420313">
+					<Name>Toysrus.dk</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12420313/toysrus.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Legetøj</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>179.95</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>208.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Tjek sitet</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5766187150819</Ean>
+				<MerchantCategory>Musik og film</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4dd4335c6f99181b442c69be41156aea" type="MANUFACTURER_PRODUCTS">
+				<Title>miniintheBox Painted Phone Holster Full Body Case for iPhone 6</Title>
+				<Description>Kombatibilitet:iPhone 6; Egenskaber:Smart Case; Materiale:TPU; Stil:Kontor / Bedrift,Læder; Farve:Multi-Farve; Mål (cm):14x7x1; Vægt (kg):0.056</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682313/125801/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201501%2Fvafeut1420608652854.jpg/ZiYoxEFx8NY_xoGdUkkAcOntu2ZwGjZ6ERB62_yjMzk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682313/125801/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201501%2Fvafeut1420608652854.jpg/ZiYoxEFx8NY_xoGdUkkAcOntu2ZwGjZ6ERB62_yjMzk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988194&amp;.sig=m4CRaDlOJ59E.GrbQz7zcffMVZ8-&amp;offerId=4dd4335c6f99181b442c69be41156aea&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13682313&amp;comId=13682313&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13682313">
+					<Name>Miniinthebox.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13682313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Ekstraudstyr</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>102</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>102</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-4 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Apple-tilbehør  Tilbehør Til iPhone  Cover Til iPhone</MerchantCategory>
+				<Brand>miniintheBox</Brand>
+				<BrandId>44373</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="01dc3344650636507e969718f8598edd" type="MANUFACTURER_PRODUCTS">
+				<Title>miniintheBox Cell Phone Reparation og DIY Platform med Kit</Title>
+				<Description>Material:Metal,Aluminium,Plastic; Dimensions (cm):15122.5; Weight (kg):0.259; Egenskaber:Sæt,Alt i en</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682313/100138013/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201404%2Fgeflkj1398750776454.jpg/nBgw6aBPMsUrJXy_hdmFGmYn9a6_ghK9hiRetqa9jvg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/dk/13682313/100138013/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201404%2Fgeflkj1398750776454.jpg/nBgw6aBPMsUrJXy_hdmFGmYn9a6_ghK9hiRetqa9jvg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-dk.kelkoo.dk/ctl/go/sitesearchGo?.ts=1425564988195&amp;.sig=nuYFKX9CMBFK.UMcJynUROuZ2U4-&amp;offerId=01dc3344650636507e969718f8598edd&amp;searchId=1076981219812_1425564988161_167760&amp;affiliationId=96947092&amp;country=dk&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13682313&amp;comId=13682313&amp;catId=100138013&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13682313">
+					<Name>Miniinthebox.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13682313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100138013">
+					<Name>Gadgets</Name>
+				</Category>
+				<Price currency="DKK">
+					<Price>209</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>209</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-4 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniktilbehør  Professionelt Værktøj</MerchantCategory>
+				<Brand>miniintheBox</Brand>
+				<BrandId>44373</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

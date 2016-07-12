@@ -1,0 +1,1107 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>0da3a7b9-c1e5-4b4c-ad9f-824ef5580ac1</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="TODO"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:10:02Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="m/oE5jD+FZbQDcIjv44GaRbBXU5XDTGpvtqPH1WZ2U4="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.3101760000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>878187</TotalResults>
+		<TotalPages>87819</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.in/gp/redirect.html?camp=2025&amp;creative=165953&amp;location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=TODO&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00KHRD922</ASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-GT-I9500-Deep-Black/dp/B00KHRD922%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KHRD922
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Deep Black</Color>
+				<EAN>8806085556621</EAN>
+				<EANList>
+					<EANListElement>8806085556621</EANListElement>
+					<EANListElement>8806085614550</EANListElement>
+					<EANListElement>0899794010384</EANListElement>
+					<EANListElement>5021932010061</EANListElement>
+					<EANListElement>8806085585393</EANListElement>
+					<EANListElement>0519808920941</EANListElement>
+					<EANListElement>8806086101882</EANListElement>
+				</EANList>
+				<Feature>13MP primary camera with auto focus, flash, zero shutter lag, full HD recording at 30fps, BIS
+					and 2MP front facing camera
+				</Feature>
+				<Feature>5-inch (12.7 centimeters) multi-touch FHD super AMOLED capacitive touchscreen with 1920 x 1080
+					pixels resolution
+				</Feature>
+				<Feature>Android v4.2.2 Jelly Bean operating system with 1.6GHz quad and 1.2GHz quad core processors,
+					2GB RAM, 16GB internal memory expandable up to 64GB
+				</Feature>
+				<Feature>2600mAH battery providing talk-time of 17 hours and standby time of 370 hours on 2G networks
+				</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<IsAutographed>0</IsAutographed>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">276</Height>
+					<Length Units="hundredths-inches">539</Length>
+					<Weight Units="hundredths-pounds">29</Weight>
+					<Width Units="hundredths-inches">31</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Warranty as Per Manufacturer Terms &amp; COnditions</LegalDisclaimer>
+				<ListPrice>
+					<Amount>2350000</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 23,500.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-I9500</Model>
+				<MPN>SMG_GT-I9500_BLKMIT</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">230</Height>
+					<Length Units="hundredths-inches">580</Length>
+					<Weight Units="hundredths-pounds">80</Weight>
+					<Width Units="hundredths-inches">320</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SMG_GT-I9500_BLKMIT</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S4 GT-I9500 (Deep Black)</Title>
+				<UPC>899794010384</UPC>
+				<UPCList>
+					<UPCListElement>899794010384</UPCListElement>
+					<UPCListElement>519808920941</UPCListElement>
+				</UPCList>
+				<Warranty>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>1649900</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 16,499.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00KHRD922%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KHRD922
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							s%2BZYASEWyZrlAjxSy%2BuIq%2BVNb6EcU1yO8WyPt2POUEOYcWrCxpqaCJ6tJ5Vlj1l%2FkDTJjSL56v6j6f2cZKoLLVbPcxJbM7nxsSZ2MsXHtHoH%2B94tnF1bJuXgL9NRna3zhA9NBk5sFVlJsO4qX1BeHA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>1799900</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 17,999.00</FormattedPrice>
+						</Price>
+						<SalePrice>
+							<Amount>1649900</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 16,499.00</FormattedPrice>
+						</SalePrice>
+						<AmountSaved>
+							<Amount>150000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 1,500.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>8</PercentageSaved>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00CL4HXQC</ASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-S4-GT-I9500-White/dp/B00CL4HXQC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CL4HXQC
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>White Frost</Color>
+				<EAN>8806085555693</EAN>
+				<EANList>
+					<EANListElement>8806085555693</EANListElement>
+					<EANListElement>8806085359260</EANListElement>
+					<EANListElement>8806085566651</EANListElement>
+					<EANListElement>5055614491732</EANListElement>
+					<EANListElement>0899794010933</EANListElement>
+					<EANListElement>8806085555099</EANListElement>
+					<EANListElement>8902525102950</EANListElement>
+					<EANListElement>8806085614567</EANListElement>
+					<EANListElement>0885909525911</EANListElement>
+				</EANList>
+				<Feature>13MP primary camera with auto focus, flash, zero shutter lag, full HD recording at 30fps, BIS
+					and 2MP front facing camera
+				</Feature>
+				<Feature>5-inch (12.7 centimeters) multi-touch FHD super AMOLED capacitive touchscreen with 1920 x 1080
+					pixels resolution
+				</Feature>
+				<Feature>Android v4.2.2 Jelly Bean operating system with 1.6GHz quad and 1.2GHz quad core processors,
+					2GB RAM, 16GB internal memory expandable up to 64GB
+				</Feature>
+				<Feature>2600mAH battery providing talk-time of 17 hours and standby time of 370 hours on 2G networks
+				</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<IsAutographed>0</IsAutographed>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">31</Height>
+					<Length Units="hundredths-inches">538</Length>
+					<Weight Units="hundredths-pounds">29</Weight>
+					<Width Units="hundredths-inches">275</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>WARRANTY BY MANUFACTURING ONLY</LegalDisclaimer>
+				<ListPrice>
+					<Amount>2350000</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 23,500.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<ManufacturerPartsWarrantyDescription>1 Year Limited</ManufacturerPartsWarrantyDescription>
+				<Model>Galaxy S4 I9500</Model>
+				<MPN>8806085555099</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">240</Height>
+					<Length Units="hundredths-inches">580</Length>
+					<Weight Units="hundredths-pounds">79</Weight>
+					<Width Units="hundredths-inches">320</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806085555099</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2013-03-01</ReleaseDate>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S4 GT-I9500 (White Frost)</Title>
+				<UPC>899794010933</UPC>
+				<UPCList>
+					<UPCListElement>899794010933</UPCListElement>
+					<UPCListElement>885909525911</UPCListElement>
+				</UPCList>
+				<Warranty>1 year manufacturer warranty for device and 6 month manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>1649900</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 16,499.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00CL4HXQC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CL4HXQC
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							cKsEEAf5Mgf9bxXPT571Kfb1Lhl8Wbj4fV4m7XRaOmVl93%2BgftMwv%2F33hviJRRlVtoVFJCiaub%2BBzg6tIRXVmDL7fqN78iMXmf5Ud4z%2FRkWgCqku1UGMGZL4MmQmTgXIbquP2Ly3LIl4PEwOJ8AJhA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>1799900</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 17,999.00</FormattedPrice>
+						</Price>
+						<SalePrice>
+							<Amount>1649900</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 16,499.00</FormattedPrice>
+						</SalePrice>
+						<AmountSaved>
+							<Amount>150000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 1,500.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>8</PercentageSaved>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00LSPH89C</ASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-Core-2-Black/dp/B00LSPH89C%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LSPH89C
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Black</Color>
+				<EAN>8806086261579</EAN>
+				<EANList>
+					<EANListElement>8806086261579</EANListElement>
+				</EANList>
+				<Feature>5MP primary camera with auto focus, LED flash, geotagging, touch focus and 0.3MP front facing
+					camera
+				</Feature>
+				<Feature>4.5-inch TFT multi-touch capacitive touchscreen with 480 x 800 pixels resolution and 16M color
+					support
+				</Feature>
+				<Feature>Android v4.4.2 KitKat operating system with 1.2GHz quad core processor, 768MB RAM, 4GB internal
+					memory expandable up to 64GB and dual SIM (GSM+GSM)
+				</Feature>
+				<Feature>2000mAH battery</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">272</Height>
+					<Length Units="hundredths-inches">512</Length>
+					<Weight Units="hundredths-pounds">30</Weight>
+					<Width Units="hundredths-inches">39</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Warranty Valid At Authorized Service Center Only</LegalDisclaimer>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>MP4</MediaType>
+				<Model>Galaxy Core 2</Model>
+				<MPN>SMG_GalaxyCore2_BLK</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">197</Height>
+					<Length Units="hundredths-inches">535</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SMG_GalaxyCore2_BLK</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Core 2 (Black)</Title>
+				<Warranty>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>664300</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 6,643.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>39</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00LSPH89C%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LSPH89C
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							to0eo0eV3EOFptrIlzNLsY%2FxspVfsQwSeH5xsas%2Fwo5G5eweAFCxcb9NhdRQZr48MrSNyb58NkE0cxCiVpDICF0%2BwEiandaV7jLAidghxshJL9b4cr%2BMtL%2BOFiecJ4Varn1iyaMlODwJc2ex9sYIXg%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>664300</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 6,643.00</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>12</MinimumHours>
+							<MaximumHours>12</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00LSPHFCC</ASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-Core-2-White/dp/B00LSPHFCC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LSPHFCC
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>White</Color>
+				<EAN>8806086216845</EAN>
+				<EANList>
+					<EANListElement>8806086216845</EANListElement>
+				</EANList>
+				<Feature>5MP primary camera with auto focus, LED flash, geotagging, touch focus and 0.3MP front facing
+					camera
+				</Feature>
+				<Feature>4.5-inch TFT multi-touch capacitive touchscreen with 480 x 800 pixels resolution and 16M color
+					support
+				</Feature>
+				<Feature>Android v4.4.2 KitKat operating system with 1.2GHz quad core processor, 768MB RAM, 4GB internal
+					memory expandable up to 64GB and dual SIM (GSM+GSM)
+				</Feature>
+				<Feature>2000mAH battery</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">272</Height>
+					<Length Units="hundredths-inches">512</Length>
+					<Weight Units="hundredths-pounds">75</Weight>
+					<Width Units="hundredths-inches">39</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Buy A Brand New Galaxy Core 2 (White)</LegalDisclaimer>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>Galaxy Core 2</Model>
+				<MPN>SMG_GalaxyCore2_WHE</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">528</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SMG_GalaxyCore2_WHE</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Core 2 (White)</Title>
+				<Warranty>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>717000</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 7,170.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>32</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00LSPHFCC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LSPHFCC
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							to0eo0eV3EOFptrIlzNLsXG2Y7g9QDcP5BE3IzsrYPT8EFviIs7uuLoKD3%2FvF%2BFJ7obwCEXIdxzQwJjDRV9gny%2B8UwS7Wfly0%2BzXp%2BzyekUh%2BCH4eEe6uwP%2FlLMVT%2B7mngDh0xiWETAmR%2FkuJAo3YQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>735000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 7,350.00</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>12</MinimumHours>
+							<MaximumHours>12</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00L4WRG82</ASIN>
+			<ParentASIN>B00W1N1REW</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-class-micro-Memory-adapter/dp/B00L4WRG82%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00L4WRG82
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>orange</Color>
+				<EAN>8806086077873</EAN>
+				<EANList>
+					<EANListElement>8806086077873</EANListElement>
+					<EANListElement>7706740080052</EANListElement>
+					<EANListElement>8806086081290</EANListElement>
+					<EANListElement>0809289715014</EANListElement>
+				</EANList>
+				<Feature>Reading Speed upto 48MB/s</Feature>
+				<Feature>Writing Speed upto upto 10MB/s</Feature>
+				<Feature>Heat proof,X-Ray proof,Magnet proof &amp; Water Proof</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">43</Height>
+					<Length Units="hundredths-inches">4</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">59</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>89900</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 899.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>MB-MP16DA/IN</Model>
+				<MPN>MB-MP16DA/IN-w/adaptor</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">24</Height>
+					<Length Units="hundredths-inches">543</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">402</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-MP16DA/IN-w/adaptor</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>COMPUTER_DRIVE_OR_STORAGE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Size>16 GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung EVO 16gb class 10 micro sdhc Memory Card with adapter</Title>
+				<UPC>809289715014</UPC>
+				<UPCList>
+					<UPCListElement>809289715014</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>46100</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 461.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>16</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00L4WRG82%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00L4WRG82
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							5qBqsgkVP5uIICDLMeL9kWM1l%2Fa%2BMEnFBgYbm0Pz0Yy4GuD1gfVZjFsBqxsMz3%2F%2FSbAYmnbPBDFY0cHEFfKraTCDuJnR1F8Ir6b3XrcL35E1VLPXndVuEDjLWxVoHeX5EVOH6UeZIWRvgU8IBEQOZw%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>46100</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 461.00</FormattedPrice>
+						</Price>
+						<SalePrice>
+							<Amount>46100</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 461.00</FormattedPrice>
+						</SalePrice>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00QISH3E4</ASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-Prime-SM-G360-White/dp/B00QISH3E4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00QISH3E4
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>White</Color>
+				<EAN>8806086476652</EAN>
+				<EANList>
+					<EANListElement>8806086476652</EANListElement>
+				</EANList>
+				<Feature>5MP primary camera with auto focus, LED flash and 2MP front facing camera</Feature>
+				<Feature>4.5-inch (11.43 centimeters) capacitive touchscreen with 480 x 800 pixels resolution, 207 ppi
+					pixel density and 16M color support
+				</Feature>
+				<Feature>Android v4.4.4 KitKat operating system with 1.2GHz Cortex-A53 MSM8916 Qualcomm Snapdragon 410
+					quad core processor, Adreno 306 GPU, 1GB RAM, 8GB internal memory expandable up to 64GB and dual SIM
+					(GSM+GSM)
+				</Feature>
+				<Feature>2000mAH lithium-ion battery</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">268</Height>
+					<Length Units="hundredths-inches">516</Length>
+					<Weight Units="hundredths-pounds">29</Weight>
+					<Width Units="hundredths-inches">35</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Warranty &amp; Support
+					Warranty Details: 1 year manufacturer warranty for device and 6 months manufacturer warranty for
+					in-box accessories including batteries from the date of purchase
+				</LegalDisclaimer>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>MP3</MediaType>
+				<Model>SM-G360</Model>
+				<MPN>SMG_SM-G360_WHE</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">210</Height>
+					<Length Units="hundredths-inches">530</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">310</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SMG_SM-G360_WHE</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Core Prime SM-G360 (White)</Title>
+				<Warranty>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>881000</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 8,810.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>30</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00QISH3E4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00QISH3E4
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							cbOrOBRmaeWwDWv%2BJP%2FLj0ZvTQW55a%2BJfUk8s6trz2wthq1kCLJxv1JSe2zIf%2F0TcHomiw3%2FCalF5T57mYjIh7xELZTFCE%2BsKMd2va1mqpqK8TIWOPoFQtTVG3gpSII35OgSi9%2FOJsNSWQDEL2s%2B5A%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>881000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 8,810.00</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00CE3CU86</ASIN>
+			<ParentASIN>B00KBOYZBK</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-MB-MS16D-MicroSDHC-Class-Memory/dp/B00CE3CU86%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CE3CU86
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>8806086078184</EAN>
+				<EANList>
+					<EANListElement>8806086078184</EANListElement>
+					<EANListElement>8806071624952</EANListElement>
+					<EANListElement>0407201200183</EANListElement>
+					<EANListElement>8806086078443</EANListElement>
+				</EANList>
+				<Feature>16GB memory card</Feature>
+				<Feature>24MBps read speed and 13MBps write speed</Feature>
+				<Feature>Interoperable with SD slot via SD adapter</Feature>
+				<Feature>3 proof technology</Feature>
+				<Feature>Class 6 memory card</Feature>
+				<Feature>5 years warranty</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">4</Height>
+					<Length Units="hundredths-inches">59</Length>
+					<Weight Units="hundredths-pounds">1</Weight>
+					<Width Units="hundredths-inches">43</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>a brand new product</LegalDisclaimer>
+				<ListPrice>
+					<Amount>69900</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 699.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>MB-MS16D/IN</Model>
+				<MPN>MB-MS16D/IN</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">16</Height>
+					<Length Units="hundredths-inches">512</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">370</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MB-MS16D/IN</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>COMPUTER_DRIVE_OR_STORAGE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Size>16 GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung MB-MS16D MicroSDHC 16GB Class 6 Memory Card</Title>
+				<UPC>407201200183</UPC>
+				<UPCList>
+					<UPCListElement>407201200183</UPCListElement>
+				</UPCList>
+				<Warranty>5 years warranty</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>36500</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 365.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>39</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00CE3CU86%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CE3CU86
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							usT2pXXUV%2B5u2Wk54XzttNk6xZ09HlhsWWGB2jNaifL0yeP8aZoz8UzH%2B5etxIPkpYGMzCGoE8CTzY4RvM3XidXSV7NXajBPo%2FhYkabOhVFWvkkEBQXWg%2BKcCwwdtkZ1ws9%2Bh6mff469Y83V8v8oGw%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>59900</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 599.00</FormattedPrice>
+						</Price>
+						<SalePrice>
+							<Amount>36500</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 365.00</FormattedPrice>
+						</SalePrice>
+						<AmountSaved>
+							<Amount>23400</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 234.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>39</PercentageSaved>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00H4WM0IM</ASIN>
+			<ParentASIN>B00SKWSCXW</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-Grand-2-Black/dp/B00H4WM0IM%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00H4WM0IM
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Black</Color>
+				<EAN>8806086290975</EAN>
+				<EANList>
+					<EANListElement>8806086290975</EANListElement>
+					<EANListElement>8806086009515</EANListElement>
+				</EANList>
+				<Feature>8MP primary camera with LED flash, auto focus, touch focus, geotagging and 1.9MP front facing
+					camera
+				</Feature>
+				<Feature>5.25-inch TFT multi-touch capacitive touchscreen with 720 x 1280 pixels resolution and 16M
+					color support
+				</Feature>
+				<Feature>Android v4.3 Jelly Bean operating system with 1.2GHz quad core processor, 1.5GB RAM, 8GB
+					internal memory expandable up to 64GB and dual SIM (GSM+GSM)
+				</Feature>
+				<Feature>2600mAH battery providing talk-time of 17 hours</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">295</Height>
+					<Length Units="hundredths-inches">579</Length>
+					<Weight Units="hundredths-pounds">36</Weight>
+					<Width Units="hundredths-inches">35</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>16GB memory card free</LegalDisclaimer>
+				<ListPrice>
+					<Amount>1970000</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 19,700.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>Galaxy Grand 2</Model>
+				<MPN>SMG_GalaxyGrand2_BLK</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">622</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">362</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SMG_GalaxyGrand2_BLK</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Grand 2 (Black)</Title>
+				<Warranty>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>1450000</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 14,500.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>16</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00H4WM0IM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00H4WM0IM
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							oKO%2FRa%2FqiKmP%2BIXLd1aB%2BDpknqXBOra79bWUHzj7RpfBzrLklWPid5Um5LFsZzmU995rrCqLMpaZsFaCH1uNA22cCVXWcRGk6lBjLt%2B8FiVxp3BN0ahgi0NJ%2BHfAQFSC6%2BBWbjXFrQiCMaYGwLsGBQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>1450000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 14,500.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>520000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 5,200.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>26</PercentageSaved>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00O30T5VI</ASIN>
+			<ParentASIN>B00SKWSR1Y</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-Grand-Prime-SM-G530H/dp/B00O30T5VI%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00O30T5VI
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Grey</Color>
+				<EAN>8806086468909</EAN>
+				<EANList>
+					<EANListElement>8806086468909</EANListElement>
+				</EANList>
+				<Feature>8MP primary camera with auto focus, LED flash and 5MP front facing camera</Feature>
+				<Feature>5-inch (12.7 centimeters) qHD PLS TFT capacitive touchscreen with 960 x 540 pixels resolution
+				</Feature>
+				<Feature>Android v4.4 KitKat operating system with 1.2GHz quad core processor,1GB RAM and 8GB internal
+					memory expandable up to 64GB
+				</Feature>
+				<Feature>2600mAH lithium-ion battery</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">283</Height>
+					<Length Units="hundredths-inches">571</Length>
+					<Weight Units="hundredths-pounds">34</Weight>
+					<Width Units="hundredths-inches">35</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>WARRANTY BY MANUFACTURING ONLY</LegalDisclaimer>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-G530H</Model>
+				<MPN>SM-G530HZAD</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">583</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">315</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G530HZAD</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Grand Prime SM-G530H (Grey)</Title>
+				<Warranty>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>1249900</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 12,499.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>18</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00O30T5VI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00O30T5VI
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							oKO%2FRa%2FqiKmP%2BIXLd1aB%2BG2693QXocn5YBGBSv7e%2B1TkrHkbFX9Du5Cgbb7khL4P%2BzehGXjqYhNHGFINdlahqm9fEPbqBIB5OV1zbKaWFl1sB2z1alcRWV9WT1UCTrYWpX7a%2Bwwhj0qIlwfXeG5K0RgHhvfsRMf5
+						</OfferListingId>
+						<Price>
+							<Amount>1345000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 13,450.00</FormattedPrice>
+						</Price>
+						<Availability>Usually dispatched within 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00G8UGSGG</ASIN>
+			<ParentASIN>B00SKWYEYI</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.in/Samsung-Galaxy-GT-S7262-Midnight-Black/dp/B00G8UGSGG%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00G8UGSGG
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Midnight Black</Color>
+				<EAN>8806085871267</EAN>
+				<EANList>
+					<EANListElement>8806085871267</EANListElement>
+				</EANList>
+				<Feature>2MP primary camera with video recording, shooting mode, multi-scene mode, panoramic photos,
+					white balance, zooming in and out
+				</Feature>
+				<Feature>4-inch WVGA TFT touchscreen with 480 x 800 pixels resolution and 16M color support</Feature>
+				<Feature>Android Jelly Bean operating system with 1GHz Cortex-A5 processor, 512MB RAM, 4GB internal
+					memory expandable up to 32GB and dual SIM (GSM+GSM)
+				</Feature>
+				<Feature>1500mAH battery providing talk-time of 15 hours and standby time of 370 hours on 2G networks
+				</Feature>
+				<Feature>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">248</Height>
+					<Length Units="hundredths-inches">476</Length>
+					<Weight Units="hundredths-pounds">27</Weight>
+					<Width Units="hundredths-inches">43</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Covered under the manufacturer's warranty.</LegalDisclaimer>
+				<ListPrice>
+					<Amount>755000</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 7,550.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-S7262</Model>
+				<MPN>SMG_GT-S7262_BLK</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">551</Length>
+					<Weight Units="hundredths-pounds">57</Weight>
+					<Width Units="hundredths-inches">331</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SMG_GT-S7262_BLK</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Star Pro GT-S7262 (Midnight Black)</Title>
+				<Warranty>1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box
+					accessories including batteries from the date of purchase
+				</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>504900</Amount>
+					<CurrencyCode>INR</CurrencyCode>
+					<FormattedPrice>INR 5,049.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>18</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.in/gp/offer-listing/B00G8UGSGG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3DTODO%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00G8UGSGG
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							oKO%2FRa%2FqiKmP%2BIXLd1aB%2BK6WbxGtzOT0c7BhWMx3TSHTsaPnInp6zyr5J0wpv4Y8GmmLSCMq7VLju1JS6NgHvxGcAu0jp8eq01GpJMNrMB%2F1LL3k4dtsW3iPMZC1ePf0rrFJtO52GaXvXdr9wjCXCQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>712000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 7,120.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>43000</Amount>
+							<CurrencyCode>INR</CurrencyCode>
+							<FormattedPrice>INR 430.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>6</PercentageSaved>
+						<Availability>Usually dispatched within 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

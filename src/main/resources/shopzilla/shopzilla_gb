@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductResponse
+	xmlns="http://www.shopzilla.com/services/catalog">
+	<Classification>
+		<searchUrl>
+			http://www.shopzilla.co.uk/7Y_-_cat_id--null__keyword--samsung__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+		</searchUrl>
+	</Classification>
+	<Offers includedResults="10" totalResults="250">
+		<PriceSet>
+			<minPrice integral="180">£1.80</minPrice>
+			<maxPrice integral="82361">£823.61</maxPrice>
+		</PriceSet>
+		<Offer merchantId="132667" categoryId="13877" id="5797383577">
+			<title>Samsung Toner- Samsung CLP-M600A Original Magenta Toner Cartridge</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>This printer ink cartridge works with: Samsung CLP-600, Samsung CLP-600N, Samsung CLP-650,
+				Samsung CLP-650N
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D423238254&amp;mid=132667&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=5797383577&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=adcdf4a5974f61c8&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2.connexity-cdn.com/resize?sq=60&amp;uid=5797383577&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2.connexity-cdn.com/resize?sq=100&amp;uid=5797383577&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2.connexity-cdn.com/resize?sq=160&amp;uid=5797383577&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2.connexity-cdn.com/resize?sq=400&amp;uid=5797383577&amp;mid=132667&amp;af_sid=22</Image>
+			</Images>
+			<sku>CLPM600A</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--5797383577?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="14620">£146.20</price>
+			<originalPrice integral="14620">£146.20</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>CLP-M600A</merchantProductId>
+			<merchantName>Printerinks.com</merchantName>
+			<MerchantRating value="8.70">
+				<Image xsize="34" ysize="34">http://img10.shopzilla-images.co.uk/site/smiley_good_34x34.gif</Image>
+			</MerchantRating>
+			<MerchantCertification certified="true" level="CUSTOMER_CERTIFIED">
+				<Image xsize="18" ysize="30">http://img11.shopzilla-images.co.uk/site/cc_ribbon_30x18_on.gif</Image>
+			</MerchantCertification>
+			<merchantLogoUrl>http://img13.shopzilla-images.co.uk/merchant/little/132667.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">£0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1687.367432</relevancy>
+		</Offer>
+		<Offer merchantId="132667" categoryId="13877" id="6207203918">
+			<title>Samsung Toner- Samsung CLT-M505L Magenta Original Toner Cartridge</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>This printer ink cartridge works with: Samsung SL-C2620DW, Samsung SL-C2670FW</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D120015910000250378&amp;mid=132667&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=6207203918&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=be597a1ff1dbedf9&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d3.connexity-cdn.com/resize?sq=60&amp;uid=6207203918&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d3.connexity-cdn.com/resize?sq=100&amp;uid=6207203918&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d3.connexity-cdn.com/resize?sq=160&amp;uid=6207203918&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d3.connexity-cdn.com/resize?sq=400&amp;uid=6207203918&amp;mid=132667&amp;af_sid=22</Image>
+			</Images>
+			<sku>CLTM505L</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--6207203918?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="5975">£59.75</price>
+			<originalPrice integral="5975">£59.75</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>CLT-M505L</merchantProductId>
+			<merchantName>Printerinks.com</merchantName>
+			<MerchantRating value="8.70">
+				<Image xsize="34" ysize="34">http://img10.shopzilla-images.co.uk/site/smiley_good_34x34.gif</Image>
+			</MerchantRating>
+			<MerchantCertification certified="true" level="CUSTOMER_CERTIFIED">
+				<Image xsize="18" ysize="30">http://img11.shopzilla-images.co.uk/site/cc_ribbon_30x18_on.gif</Image>
+			</MerchantCertification>
+			<merchantLogoUrl>http://img13.shopzilla-images.co.uk/merchant/little/132667.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">£0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1422.616821</relevancy>
+		</Offer>
+		<Offer merchantId="88756" categoryId="13877" id="6139722747">
+			<title>Samsung CLT659SBUN Toner Bundle</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung CLT659SBUN Toner Bundle CMYK: 20,000 Pages @ 5% Coverage</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Fwww.printware.co.uk%2FProducts%2F754a0c5e-e899-11e2-946c-000f206c8075%2FSamsung-CLT659SBUN-Toner-Bundle%2FItem.html%3Futm_source%3Dshopzilla%26utm_medium%3Dfeedmanager&amp;mid=88756&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=6139722747&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=3f51d776c33a6d38&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4.connexity-cdn.com/resize?sq=60&amp;uid=6139722747&amp;mid=88756&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4.connexity-cdn.com/resize?sq=100&amp;uid=6139722747&amp;mid=88756&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4.connexity-cdn.com/resize?sq=160&amp;uid=6139722747&amp;mid=88756&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4.connexity-cdn.com/resize?sq=400&amp;uid=6139722747&amp;mid=88756&amp;af_sid=22</Image>
+			</Images>
+			<sku>CLT659SBUN</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--6139722747?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="50173">£501.73</price>
+			<originalPrice integral="50173">£501.73</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>CLT659SBUN</merchantProductId>
+			<merchantName>Printware</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.shopzilla-images.co.uk/merchant/little/88756.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="479">£4.79</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1098.403320</relevancy>
+		</Offer>
+		<Offer merchantId="88756" categoryId="13877" id="4549974492">
+			<title>Samsung CLX-Y8380A Yellow Toner Cartridge</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung CLX-Y8380A Yellow Toner Cartridge 15,000 Pages @ 5% Coverage</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Fwww.printware.co.uk%2FProducts%2F0957ae29-1d39-11de-b4f7-000f206c8075%2FSamsung-CLX-Y8380A-Yellow-Toner-Cartridge%2FItem.html%3Futm_source%3Dshopzilla%26utm_medium%3Dfeedmanager&amp;mid=88756&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=4549974492&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=efb40b5f3bd78489&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d1.connexity-cdn.com/resize?sq=60&amp;uid=4549974492&amp;mid=88756&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d1.connexity-cdn.com/resize?sq=100&amp;uid=4549974492&amp;mid=88756&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d1.connexity-cdn.com/resize?sq=160&amp;uid=4549974492&amp;mid=88756&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d1.connexity-cdn.com/resize?sq=400&amp;uid=4549974492&amp;mid=88756&amp;af_sid=22</Image>
+			</Images>
+			<sku>CLXY8380AELS</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--4549974492?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="15731">£157.31</price>
+			<originalPrice integral="15731">£157.31</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>CLX-Y8380A/ELS</merchantProductId>
+			<merchantName>Printware</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.shopzilla-images.co.uk/merchant/little/88756.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="479">£4.79</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1098.144897</relevancy>
+		</Offer>
+		<Offer merchantId="271332" categoryId="13877" id="4813580747">
+			<title>Compatible 593-10094 Samsung Laser Toner Cartridge</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>High Quality replacement cartridge from DinkyCartridges.co.uk, All out ink and toner is backed
+				by our 100% Money Back Guarantee
+			</description>
+			<manufacturer>DinkyCartridges</manufacturer>
+			<url>
+				http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Fwww.dinkycartridges.co.uk%2Fremanufactured-593-10094-laser-toner-cartridge&amp;mid=271332&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=4813580747&amp;pos=1&amp;bId=18&amp;bidType=1&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=7104951f29cc6148&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4.connexity-cdn.com/resize?sq=60&amp;uid=4813580747&amp;mid=271332&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4.connexity-cdn.com/resize?sq=100&amp;uid=4813580747&amp;mid=271332&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4.connexity-cdn.com/resize?sq=160&amp;uid=4813580747&amp;mid=271332&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4.connexity-cdn.com/resize?sq=400&amp;uid=4813580747&amp;mid=271332&amp;af_sid=22</Image>
+			</Images>
+			<sku>UBT59310094</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--4813580747?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="2995">£29.95</price>
+			<originalPrice integral="2995">£29.95</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>UB-T-593-10094</merchantProductId>
+			<merchantName>Dinky Cartridges</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.shopzilla-images.co.uk/merchant/little/271332.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">£0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>0.000</shipWeight>
+			<relevancy>857.301880</relevancy>
+		</Offer>
+		<Offer merchantId="271332" categoryId="13877" id="4813580801">
+			<title>Compatible CLP-C350A Samsung Cyan Laser Toner Cartridge</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>High Quality replacement cartridge from DinkyCartridges.co.uk, All out ink and toner is backed
+				by our 100% Money Back Guarantee
+			</description>
+			<manufacturer>DinkyCartridges</manufacturer>
+			<url>
+				http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Fwww.dinkycartridges.co.uk%2Fremanufactured-clp-c350a-laser-toner-cartridge&amp;mid=271332&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=4813580801&amp;pos=1&amp;bId=18&amp;bidType=1&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=b636c2bb678293e5&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2.connexity-cdn.com/resize?sq=60&amp;uid=4813580801&amp;mid=271332&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2.connexity-cdn.com/resize?sq=100&amp;uid=4813580801&amp;mid=271332&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2.connexity-cdn.com/resize?sq=160&amp;uid=4813580801&amp;mid=271332&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2.connexity-cdn.com/resize?sq=400&amp;uid=4813580801&amp;mid=271332&amp;af_sid=22</Image>
+			</Images>
+			<sku>UBTCLPC350A</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--4813580801?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="1495">£14.95</price>
+			<originalPrice integral="1495">£14.95</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>UB-T-CLP-C350A</merchantProductId>
+			<merchantName>Dinky Cartridges</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img10.shopzilla-images.co.uk/merchant/little/271332.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">£0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>0.000</shipWeight>
+			<relevancy>857.301880</relevancy>
+		</Offer>
+		<Offer merchantId="239799" categoryId="13855" id="6034466706">
+			<title>Samsung Galaxy S3 I9300/I9305, Galaxy Grand I9080/I9082 Battery EB-L1G6LLU</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Genuine Samsung Galaxy S 3 I9300, Galaxy S 3 LTE I9305, I9082 / i9080 Galaxy Grand, I9060
+				Galaxy Grand Neo, I9301 Galaxy S 3 Neo battery EB-L1G6LLU - 2100mAh - Li-Ion - 3.8V. Package: Bulk
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Fmytrendyphone.co.uk%2Fshop%2Fsamsung-galaxy-s3-80258p.html%3Futm_source%3Dfeed%26utm_medium%3Drss%26utm_campaign%3Dshopzilla&amp;mid=239799&amp;catId=13855&amp;atom=11110&amp;prodId=&amp;oid=6034466706&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=490c73f10dc1f407&amp;cobrand=2&amp;ppr=30c95986ec5328be&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d3.connexity-cdn.com/resize?sq=60&amp;uid=6034466706&amp;mid=239799&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d3.connexity-cdn.com/resize?sq=100&amp;uid=6034466706&amp;mid=239799&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d3.connexity-cdn.com/resize?sq=160&amp;uid=6034466706&amp;mid=239799&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d3.connexity-cdn.com/resize?sq=400&amp;uid=6034466706&amp;mid=239799&amp;af_sid=22</Image>
+			</Images>
+			<sku>67616</sku>
+			<upc>2500008318088</upc>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13855__oid--6034466706?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="890">£8.90</price>
+			<originalPrice integral="890">£8.90</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>67616</merchantProductId>
+			<merchantName>MyTrendyPhone</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img13.shopzilla-images.co.uk/merchant/little/239799.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="190">£1.90</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>644.789978</relevancy>
+		</Offer>
+		<Offer merchantId="239799" categoryId="13855" id="6099225397">
+			<title>Samsung Galaxy S3 mini I8190 Battery EB-F1M7FLUC</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Genuine Samsung Galaxy S 3 mini I8190 battery EB-F1M7FLUC- 1500 mA- Li-Ion. Package:
+				Euroblister
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Fmytrendyphone.co.uk%2Fshop%2Fsamsung-galaxy-s3-95319p.html%3Futm_source%3Dfeed%26utm_medium%3Drss%26utm_campaign%3Dshopzilla&amp;mid=239799&amp;catId=13855&amp;atom=11110&amp;prodId=&amp;oid=6099225397&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=490c73f10dc1f407&amp;cobrand=2&amp;ppr=856cc84373acc7b9&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2.connexity-cdn.com/resize?sq=60&amp;uid=6099225397&amp;mid=239799&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2.connexity-cdn.com/resize?sq=100&amp;uid=6099225397&amp;mid=239799&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2.connexity-cdn.com/resize?sq=160&amp;uid=6099225397&amp;mid=239799&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2.connexity-cdn.com/resize?sq=400&amp;uid=6099225397&amp;mid=239799&amp;af_sid=22</Image>
+			</Images>
+			<sku>77721</sku>
+			<upc>8591680044405</upc>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13855__oid--6099225397?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="1470">£14.70</price>
+			<originalPrice integral="1470">£14.70</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>77721</merchantProductId>
+			<merchantName>MyTrendyPhone</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img13.shopzilla-images.co.uk/merchant/little/239799.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="190">£1.90</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>578.014832</relevancy>
+		</Offer>
+		<Offer merchantId="132667" categoryId="13877" id="2242622693">
+			<title>Samsung Toner- Samsung CLT-M4092S Remanufactured Magenta Toner cartridge</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>This printer ink cartridge works with: Samsung CLP-310, Samsung CLP-310N, Samsung CLP-315,
+				Samsung CLP-315W, Samsung CLX-3170FN, Samsung CLX-3175, Samsung CLX-3175FN, Samsung CLX-3175FW, Samsung
+				CLX-3175N
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D657323384&amp;mid=132667&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=2242622693&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=9fb42bee8f1d1bde&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2.connexity-cdn.com/resize?sq=60&amp;uid=2242622693&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2.connexity-cdn.com/resize?sq=100&amp;uid=2242622693&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2.connexity-cdn.com/resize?sq=160&amp;uid=2242622693&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2.connexity-cdn.com/resize?sq=400&amp;uid=2242622693&amp;mid=132667&amp;af_sid=22</Image>
+			</Images>
+			<sku>RTCLTM4092S</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--2242622693?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="4396">£43.96</price>
+			<originalPrice integral="4396">£43.96</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>RT-CLT-M4092S</merchantProductId>
+			<merchantName>Printerinks.com</merchantName>
+			<MerchantRating value="8.70">
+				<Image xsize="34" ysize="34">http://img10.shopzilla-images.co.uk/site/smiley_good_34x34.gif</Image>
+			</MerchantRating>
+			<MerchantCertification certified="true" level="CUSTOMER_CERTIFIED">
+				<Image xsize="18" ysize="30">http://img11.shopzilla-images.co.uk/site/cc_ribbon_30x18_on.gif</Image>
+			</MerchantCertification>
+			<merchantLogoUrl>http://img13.shopzilla-images.co.uk/merchant/little/132667.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">£0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1284.985229</relevancy>
+		</Offer>
+		<Offer merchantId="132667" categoryId="13877" id="2309021747">
+			<title>Samsung Toner- Samsung ML-3560DB Original Black Toner Cartridge</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>This printer ink cartridge works with: Samsung ML-3560, Samsung ML-3561N, Samsung ML-3561ND,
+				Samsung ML-3560N
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>http://rd.shopzilla.co.uk/rd2?t=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D423238276&amp;mid=132667&amp;catId=13877&amp;atom=10767&amp;prodId=&amp;oid=2309021747&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=e72c0408b9b6cae1&amp;cobrand=2&amp;ppr=db9052b84e6d050a&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605266&amp;af_placement_id=1</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4.connexity-cdn.com/resize?sq=60&amp;uid=2309021747&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4.connexity-cdn.com/resize?sq=100&amp;uid=2309021747&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4.connexity-cdn.com/resize?sq=160&amp;uid=2309021747&amp;mid=132667&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4.connexity-cdn.com/resize?sq=400&amp;uid=2309021747&amp;mid=132667&amp;af_sid=22</Image>
+			</Images>
+			<sku>ML3560DB</sku>
+			<detailUrl>
+				http://www.shopzilla.co.uk/8N_-_cat_id--13877__oid--2309021747?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605266__af_placement_id--1
+			</detailUrl>
+			<price integral="15012">£150.12</price>
+			<originalPrice integral="15012">£150.12</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>ML-3560DB</merchantProductId>
+			<merchantName>Printerinks.com</merchantName>
+			<MerchantRating value="8.70">
+				<Image xsize="34" ysize="34">http://img10.shopzilla-images.co.uk/site/smiley_good_34x34.gif</Image>
+			</MerchantRating>
+			<MerchantCertification certified="true" level="CUSTOMER_CERTIFIED">
+				<Image xsize="18" ysize="30">http://img11.shopzilla-images.co.uk/site/cc_ribbon_30x18_on.gif</Image>
+			</MerchantCertification>
+			<merchantLogoUrl>http://img13.shopzilla-images.co.uk/merchant/little/132667.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">£0.00</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1284.985229</relevancy>
+		</Offer>
+	</Offers>
+</ProductResponse>

@@ -1,0 +1,954 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:00:40.993Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>291007772452</itemId>
+			<title>iPhone 5 5S 5C (16 GB,32 GB,64 GB) Clear Screen Protector Guard Cover Front Lot</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/291007772452404000000001_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=291007772452</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>92120</postalCode>
+			<location>San Diego,CA,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>FlatDomesticCalculatedInternational</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>GB</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>AT</shipToLocations>
+				<shipToLocations>BE</shipToLocations>
+				<shipToLocations>FR</shipToLocations>
+				<shipToLocations>DE</shipToLocations>
+				<shipToLocations>IT</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>ES</shipToLocations>
+				<shipToLocations>TW</shipToLocations>
+				<shipToLocations>NL</shipToLocations>
+				<shipToLocations>CN</shipToLocations>
+				<shipToLocations>HK</shipToLocations>
+				<shipToLocations>MX</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">0.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT8H24M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-31T23:19:46.000Z</startTime>
+				<endTime>2015-05-24T23:24:46.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>291007772452</itemId>
+			<title>iPhone 5 5S 5C (16 GB,32 GB,64 GB) Clear Screen Protector Guard Cover Front Lot</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/291007772452404000000002_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=291007772452</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>92120</postalCode>
+			<location>San Diego,CA,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>FlatDomesticCalculatedInternational</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>GB</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>AT</shipToLocations>
+				<shipToLocations>BE</shipToLocations>
+				<shipToLocations>FR</shipToLocations>
+				<shipToLocations>DE</shipToLocations>
+				<shipToLocations>IT</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>ES</shipToLocations>
+				<shipToLocations>TW</shipToLocations>
+				<shipToLocations>NL</shipToLocations>
+				<shipToLocations>CN</shipToLocations>
+				<shipToLocations>HK</shipToLocations>
+				<shipToLocations>MX</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">1.19</currentPrice>
+				<convertedCurrentPrice currencyId="USD">1.19</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT8H24M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-31T23:19:46.000Z</startTime>
+				<endTime>2015-05-24T23:24:46.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>251425762190</itemId>
+			<title>Replacement Gold Aluminum Nano Sim tray for Iphone 5/5S 16GB/32GB/64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>43304</categoryId>
+				<categoryName>Cell Phone &amp; Smartphone Parts</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mPTuROcDO3_9E6Yg8Hhpu0Q/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=251425762190</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>25880</postalCode>
+			<location>Mount Hope,WV,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">2.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">1.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">1.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P3DT10H59M35S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-01-15T01:55:15.000Z</startTime>
+				<endTime>2015-05-10T02:00:15.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>251427766496</itemId>
+			<title>Replacement Silver Aluminum Nano Sim tray for White Iphone 5/5S 16GB/32GB/64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>43304</categoryId>
+				<categoryName>Cell Phone &amp; Smartphone Parts</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mmWdDHh6bbeAXapenDL9KqQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=251427766496</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>25880</postalCode>
+			<location>Mount Hope,WV,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">2.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">1.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">1.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P6DT9H43M35S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-01-18T00:39:15.000Z</startTime>
+				<endTime>2015-05-13T00:44:15.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>251490062297</itemId>
+			<title>Replacement Black/Slate Gray Aluminum Nano Sim tray for Iphone 5S 16GB/32GB/64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>43304</categoryId>
+				<categoryName>Cell Phone &amp; Smartphone Parts</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mD2Ht09wRqCP17SlJHHf9ng/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=251490062297</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>25880</postalCode>
+			<location>Mount Hope,WV,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">2.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">1.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">1.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P17DT0H28M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-03-29T15:24:00.000Z</startTime>
+				<endTime>2015-05-23T15:29:00.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>291007772452</itemId>
+			<title>iPhone 5 5S 5C (16 GB,32 GB,64 GB) Clear Screen Protector Guard Cover Front Lot</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/291007772452404000000004_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=291007772452</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>92120</postalCode>
+			<location>San Diego,CA,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>FlatDomesticCalculatedInternational</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>GB</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>AT</shipToLocations>
+				<shipToLocations>BE</shipToLocations>
+				<shipToLocations>FR</shipToLocations>
+				<shipToLocations>DE</shipToLocations>
+				<shipToLocations>IT</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>ES</shipToLocations>
+				<shipToLocations>TW</shipToLocations>
+				<shipToLocations>NL</shipToLocations>
+				<shipToLocations>CN</shipToLocations>
+				<shipToLocations>HK</shipToLocations>
+				<shipToLocations>MX</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">4.49</currentPrice>
+				<convertedCurrentPrice currencyId="USD">4.49</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT8H24M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-31T23:19:46.000Z</startTime>
+				<endTime>2015-05-24T23:24:46.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>381223588056</itemId>
+			<title>AT&amp;T Clear LCD Screen Protector for Apple iPhone 5/5c/5s 8GB 16GB 32GB 64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mZtpEy7aznbOQFJorKVlngg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=381223588056</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>48126</postalCode>
+			<location>Dearborn,MI,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">4.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">4.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P5DT13H20M51S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-12T04:21:31.000Z</startTime>
+				<endTime>2015-05-12T04:21:31.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>381138240923</itemId>
+			<title>Boost Mobile LCD Screen Protector Apple iPhone 5/5c/5s 8GB 16GB 32GB 64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mZtpEy7aznbOQFJorKVlngg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=381138240923</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>48126</postalCode>
+			<location>Dearborn,MI,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">4.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">4.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P20DT16H3M0S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-27T06:58:40.000Z</startTime>
+				<endTime>2015-05-27T07:03:40.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>381242726657</itemId>
+			<title>Metro PCS Apple iPhone 5 5c 5s LCD Screen Protector 8GB 16GB 32GB 64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mZtpEy7aznbOQFJorKVlngg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=381242726657</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>48126</postalCode>
+			<location>Dearborn,MI,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">4.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">4.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT3H53M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-28T18:54:00.000Z</startTime>
+				<endTime>2015-05-28T18:54:00.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>381246731167</itemId>
+			<title>Clear LCD Screen Protector for Apple iPhone 5/5c/5s 16GB 32GB 64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mZtpEy7aznbOQFJorKVlngg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=381246731167</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>48126</postalCode>
+			<location>Dearborn,MI,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">4.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">4.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT14H24M46S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-02T05:25:26.000Z</startTime>
+				<endTime>2015-06-01T05:25:26.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>381248826917</itemId>
+			<title>Verizon LCD Screen Protector for Apple iPhone 5/5c/5s 8GB 16GB 32GB 64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mZtpEy7aznbOQFJorKVlngg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=381248826917</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>48126</postalCode>
+			<location>Dearborn,MI,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">4.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">4.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT14H0M36S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-04T05:01:16.000Z</startTime>
+				<endTime>2015-06-03T05:01:16.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>251500639883</itemId>
+			<title>Earpiece/Ear/Top Speaker For Iphone 5S 16GB/32GB/64GB Verizon/ATT</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>43304</categoryId>
+				<categoryName>Cell Phone &amp; Smartphone Parts</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/myxC8AcijHOz3ueFYVm-tIA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=251500639883</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>25880</postalCode>
+			<location>Mount Hope,WV,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">2.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">2.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">2.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P27DT11H29M42S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-04-09T02:25:22.000Z</startTime>
+				<endTime>2015-06-03T02:30:22.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>400620634356</itemId>
+			<title>Screen LCD Protector Guard Shield for Apple iPhone 5 / 5s / 5c 16GB 32GB 64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>58540</categoryId>
+				<categoryName>Screen Protectors</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mOvR37kuGapuH8sfJ9_KUIw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=400620634356</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>08031</postalCode>
+			<location>Bellmawr,NJ,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.55</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.55</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P23DT5H38M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-12-05T20:34:01.000Z</startTime>
+				<endTime>2015-05-29T20:39:01.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>251441485382</itemId>
+			<title>Full Complete internal Screw Set/Kit For Iphone 5S 16GB/32GB/64GB All Screws</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>43304</categoryId>
+				<categoryName>Cell Phone &amp; Smartphone Parts</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mbgHsdbTmyUbk4VGGOHr6rA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=251441485382</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>25880</postalCode>
+			<location>Mount Hope,WV,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">2.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">3.49</currentPrice>
+				<convertedCurrentPrice currencyId="USD">3.49</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT5H13M34S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-02-02T20:09:14.000Z</startTime>
+				<endTime>2015-05-28T20:14:14.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>371193809845</itemId>
+			<title>Pink Bling Case Gem Diamond Diamonite Cover for iPhone 5/5S 16GB/32GB/64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Covers &amp; Skins</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m5-P1rqc5K_nKPJk4KkAvuA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=371193809845</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">4.68</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">1.28</currentPrice>
+				<convertedCurrentPrice currencyId="USD">1.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT5H58M1S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-19T20:53:41.000Z</startTime>
+				<endTime>2015-05-18T20:58:41.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371193815600</itemId>
+			<title>Pink Gel TPU Case Cover Protector for Apple iPhone 5/5S 16GB/32GB/64GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Covers &amp; Skins</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mfhNibHUwf2xebROpWkxN7w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=371193815600</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">4.68</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">1.28</currentPrice>
+				<convertedCurrentPrice currencyId="USD">1.28</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT6H8M12S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-19T21:03:52.000Z</startTime>
+				<endTime>2015-05-18T21:08:52.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>271572671015</itemId>
+			<title>WHITE ADJUSTABLE NEOPRENE GYM Jogging STRAP ARM BAND FOR iPhone 5S 5C 16GB 32GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>166030</categoryId>
+				<categoryName>Armbands</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mRiHzAWiH1EKIhNvZHeu0VA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=271572671015</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">1.99</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">3.98</currentPrice>
+				<convertedCurrentPrice currencyId="USD">3.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT17H8M41S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-08-10T08:04:21.000Z</startTime>
+				<endTime>2015-05-07T08:09:21.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281407818460</itemId>
+			<title>BLACK ADJUSTABLE NEOPRENE GYM Jogging STRAP ARM BAND FOR iPhone 5S 5C 16GB 32GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>166030</categoryId>
+				<categoryName>Armbands</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mjkB9vtCF2k9I3BxkjY17YA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=281407818460</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">1.99</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">3.98</currentPrice>
+				<convertedCurrentPrice currencyId="USD">3.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT10H39M19S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-08-09T01:34:59.000Z</startTime>
+				<endTime>2015-06-05T01:39:59.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221553021504</itemId>
+			<title>Black Gym Outdoor Sport Running Arm band Case For Apple iPhone 5C 5S 16GB 32GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>42425</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mInKEpETTtbjAZihFcQ_k9w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=221553021504</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.98</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P10DT12H20M4S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-09-19T03:15:44.000Z</startTime>
+				<endTime>2015-05-17T03:20:44.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>271571680136</itemId>
+			<title>Black Gym Outdoor Sport Running Arm band Case For Apple iPhone 5C 5S 16GB 32GB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>166030</categoryId>
+				<categoryName>Armbands</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mQlZ1N9OULyTTLUhzkqxFHQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229466&amp;item=271571680136</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.98</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT10H39M19S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-08-09T01:34:59.000Z</startTime>
+				<endTime>2015-06-05T01:39:59.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>32</totalPages>
+		<totalEntries>639</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

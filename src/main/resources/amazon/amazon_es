@@ -1,0 +1,1029 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>31ba87d1-61b6-43f7-a7ca-5c946e32d429</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="foxydeal07-21"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:06:55Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="yeSPtWq+/azdpAhXxBi0037xN+3YlbePOLpdAzIzgq8="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.7930260000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>3489744</TotalResults>
+		<TotalPages>348975</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.es/gp/redirect.html?camp=2025&amp;creative=165953&amp;location=http%3A%2F%2Fwww.amazon.es%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=foxydeal07-21&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00RJML006</ASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-Grand-Prime-Smartphone/dp/B00RJML006%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00RJML006
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanco</Color>
+				<Creator Role="Diseñador">SAMSUNG</Creator>
+				<EAN>8806086556323</EAN>
+				<EANList>
+					<EANListElement>8806086556323</EANListElement>
+				</EANList>
+				<Feature>Pantalla de 5 pulgadas 540x960</Feature>
+				<Feature>Procesador Quad-Core a 1.2 GHz, con 1 GB de RAM</Feature>
+				<Feature>Cámara trasera de 8 megapixels, con grabación de vídeo</Feature>
+				<Feature>Sistema operativo Android; Conectividad GPRS, EDGE, HSDPA</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">570</Height>
+					<Length Units="Centésimas de pulgada">284</Length>
+					<Weight Units="Centésimas de libra">34</Weight>
+					<Width Units="Centésimas de pulgada">34</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>3G2, 3GP, M4V, MKV, MP4, WEBM</MediaType>
+				<Model>Galaxy Grand Prime Blanc</Model>
+				<MPN>SM-G530FZWAXEF</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">213</Height>
+					<Length Units="Centésimas de pulgada">583</Length>
+					<Weight Units="Centésimas de libra">40</Weight>
+					<Width Units="Centésimas de pulgada">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G530FZWAXEF</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Grand Prime - Smartphone libre Android (pantalla 5", cámara 8 Mp, 8 GB, Quad-Core
+					1.2 GHz, 1 GB RAM), blanco (importado)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>18600</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 186,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>8</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00RJML006%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00RJML006
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							k4Gm0z0yI9b3xCafpHn9EGrUGebLk3AIxY0%2F2mJxmOH2D1I5zAKkcK7BwreTGZYXem3x3ZTqn3yeIXiq%2BUsPvuvkKJCf8jX15lmzckE1y%2Fl%2F37ut7Hg86A%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>18600</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 186,00</FormattedPrice>
+						</Price>
+						<Availability>Normalmente se despacha en 24 horas</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00H8XJ4WW</ASIN>
+			<ParentASIN>B00J4NSBI2</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-Trend-Plus-S7580/dp/B00H8XJ4WW%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00H8XJ4WW
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanco</Color>
+				<Creator Role="Diseñador">SAMSUNG ELECTRONICS IBERIA S.A</Creator>
+				<EAN>8436551450193</EAN>
+				<EANList>
+					<EANListElement>8436551450193</EANListElement>
+					<EANListElement>8806085983861</EANListElement>
+					<EANListElement>8806085957497</EANListElement>
+					<EANListElement>8806085957541</EANListElement>
+					<EANListElement>8806085955523</EANListElement>
+				</EANList>
+				<Feature>Procesador doble núcleo 1.2 GHz</Feature>
+				<Feature>4 GB de almacenamiento y 768 MB de memoria RAM</Feature>
+				<Feature>Conexión 3G, WiFi, USB</Feature>
+				<Feature>Pantalla táctil 4" multitouch</Feature>
+				<Feature>Despertador, calculadora, calendario, recordatorio de eventos, notas, lista de tareas</Feature>
+				<Feature>Galaxy Trend Plus para navegar por intenet gracias a su pantalla WVGA de 4"</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">478</Height>
+					<Length Units="Centésimas de pulgada">248</Length>
+					<Weight Units="Centésimas de libra">26</Weight>
+					<Width Units="Centésimas de pulgada">42</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>11900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 119,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>MP3</MediaType>
+				<Model>S7580</Model>
+				<MPN>S7580 white</MPN>
+				<NumberOfItems>55</NumberOfItems>
+				<OperatingSystem>Android 4.2</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">213</Height>
+					<Length Units="Centésimas de pulgada">528</Length>
+					<Weight Units="Centésimas de libra">62</Weight>
+					<Width Units="Centésimas de pulgada">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>S7580 white</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Trend Plus S7580 - Smartphone libre (pantalla 4", 480 x 800 Pixeles, cámara 5 Mp,
+					4 GB, 1.2 GHz, 768 MB de RAM, Android 4.2), Blanco [versión europea]
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>9198</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 91,98</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>8200</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 82,00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>21</TotalNew>
+				<TotalUsed>7</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00H8XJ4WW%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00H8XJ4WW
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mKCFdeOzQoBBj4%2FT9bUMS43wOEpO%2FSxMtUhkB9m02P32SPOqYWmq40S4oGCr6LaJXbPDWwpGE6vIOtPLtfFZ60eERMQAdN1tQ4Jag4TkyJRb2rGAGIMFwSqihkNpumHHI54egJAKE1pqhBXlw18nyuQFBQZ6USnr
+						</OfferListingId>
+						<Price>
+							<Amount>9198</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 91,98</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>2702</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 27,02</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>23</PercentageSaved>
+						<Availability>Normalmente se envía en el plazo de 1-2 días laborable</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KR8F910</ASIN>
+			<ParentASIN>B00M9DGX2K</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-Tab-10-1-WiFi/dp/B00KR8F910%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KR8F910
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Ordenadores personales</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanco</Color>
+				<EAN>8432471106370</EAN>
+				<EANList>
+					<EANListElement>8432471106370</EANListElement>
+					<EANListElement>8806086140768</EANListElement>
+				</EANList>
+				<Feature>Pantalla de 10.1 " 800x1280 con tecnología TFT WXGA</Feature>
+				<Feature>Capacidad de almacenamiento de 16 GB</Feature>
+				<Feature>Memoria RAM de 1.5 GB</Feature>
+				<Feature>Procesador ARM a 1.2 GHz</Feature>
+				<Feature>Sistema operativo: Android 4.4 KitKat</Feature>
+				<Feature>Conexión inalámbrica WiFi Bluetooh 4.0 A2DP</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">957</Height>
+					<Length Units="Centésimas de pulgada">693</Length>
+					<Weight Units="Centésimas de libra">109</Weight>
+					<Width Units="Centésimas de pulgada">31</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>T530NZWAXEH</Model>
+				<MPN>8806086140768</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android 4.4 KitKat</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">189</Height>
+					<Length Units="Centésimas de pulgada">1008</Length>
+					<Weight Units="Centésimas de libra">168</Weight>
+					<Width Units="Centésimas de pulgada">732</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806086140768</PartNumber>
+				<ProductGroup>Ordenador personal</ProductGroup>
+				<ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab 4 10.1 WiFi - Tablet de 10.1" (WiFi + Bluetooh 4.0 A2DP, 16 GB, 1.5 GB RAM,
+					Android 4.4 KitKat), blanco (importado)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>21490</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 214,90</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>20254</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 202,54</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>15</TotalNew>
+				<TotalUsed>8</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00KR8F910%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KR8F910
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							zq0C95zcdQwFLe65BkW7D2E8%2FCRLIkcPZeeUdipCxRQ0c0uZVxdYmSIMwTllA8z5e7PGsQLvFJE%2BAXrdMh%2Fglu55ANN5e0KfhIlIxI2qdruhvgdSE46ju0MwCiuPGwRednxj3KP30%2B4TtQ9Gm8%2FIPw%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>21490</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 214,90</FormattedPrice>
+						</Price>
+						<Availability>Normalmente se despacha en 24 horas</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S68TZBS</ASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-Grand-Neo-Plus/dp/B00S68TZBS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TZBS
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanco</Color>
+				<Creator Role="Diseñador">Samsung</Creator>
+				<EAN>8806086569590</EAN>
+				<EANList>
+					<EANListElement>8806086569590</EANListElement>
+				</EANList>
+				<Feature>Pantalla táctil de 5 pulgadas</Feature>
+				<Feature>Procesador Quad-Core a 1.2 GHz, con 1 GB de RAM</Feature>
+				<Feature>Cámara trasera de 5 Mp</Feature>
+				<Feature>Sistema operativo Android; Conectividad WiFi, Bluetooth</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">566</Height>
+					<Length Units="Centésimas de pulgada">304</Length>
+					<Weight Units="Centésimas de libra">36</Weight>
+					<Width Units="Centésimas de pulgada">38</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>3G2</MediaType>
+				<Model>SAI9060ZWIITV</Model>
+				<MPN>SAI9060ZWIITV</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">220</Height>
+					<Length Units="Centésimas de pulgada">606</Length>
+					<Weight Units="Centésimas de libra">71</Weight>
+					<Width Units="Centésimas de pulgada">378</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SAI9060ZWIITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Grand Neo Plus - Smartphone libre Android (pantalla 5", cámara 5 Mp, 8 GB,
+					Quad-Core 1.2 GHz, 1 GB RAM), blanco (importado)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>14530</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 145,30</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>13663</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 136,63</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>14</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00S68TZBS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TZBS
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							FQQ%2B6MUjLvrNMUa8PlMeMKhP1HMOdUSLoUuoBy23pBNgTxoEru0PLKveSStcpLjxSEpktrdIPJGGMqHzHM%2FEKmnDlPszIKcUul5bbFxaOSGFUcCSamGluH%2F30cL%2FZ1NbE6nHGTiI0f5nbaF9ObTDV%2FnYcg97nJJm
+						</OfferListingId>
+						<Price>
+							<Amount>14530</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 145,30</FormattedPrice>
+						</Price>
+						<Availability>Normalmente se envía en el plazo de 3-4 días laborable</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>72</MinimumHours>
+							<MaximumHours>96</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KGX4K02</ASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-Neo-Smartphone-Quad-Core/dp/B00KGX4K02%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KGX4K02
+			</DetailPageURL>
+			<ItemAttributes>
+				<AspectRatio>16:9</AspectRatio>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanco</Color>
+				<Creator Role="Diseñador">Samsung</Creator>
+				<EAN>8806086553797</EAN>
+				<EANList>
+					<EANListElement>8806086553797</EANListElement>
+					<EANListElement>8806086186001</EANListElement>
+				</EANList>
+				<Feature>Pantalla táctil de 4.8 pulgadas 720 x 1280 con tecnología SAMOLED</Feature>
+				<Feature>Procesador Quad-Core a 1.4 GHz, con 1.5 GB de RAM</Feature>
+				<Feature>Cámara trasera de 8 megapixels, con grabación de vídeo Full HD</Feature>
+				<Feature>Sistema operativo Android; Conectividad 3G, WiFi</Feature>
+				<Feature>Teléfono libre</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">538</Height>
+					<Length Units="Centésimas de pulgada">278</Length>
+					<Weight Units="Centésimas de libra">29</Weight>
+					<Width Units="Centésimas de pulgada">34</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>20306</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 203,06</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>3GP, AVI, FLV, MKV, MP4, WEBM, WMV</MediaType>
+				<Model>GT-I9301RWZITV</Model>
+				<MPN>GT-I9301RWIITV</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">213</Height>
+					<Length Units="Centésimas de pulgada">583</Length>
+					<Weight Units="Centésimas de libra">71</Weight>
+					<Width Units="Centésimas de pulgada">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-I9301RWIITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S3 Neo - Smartphone libre Android (pantalla 4.8", cámara 8 Mp, 16 GB, Quad-Core
+					1.4 GHz, 1.5 GB RAM), blanco
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>18900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 189,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>15257</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 152,57</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>16</TotalNew>
+				<TotalUsed>12</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00KGX4K02%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KGX4K02
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							OMt4YRIGm3SVPDqA9lHJVFbSmJXZE400KPTD4DUFdpsrRv3%2BY%2FcfVMZEt8KntZVujbPs%2BBFxzs66HApovD74Fe%2Bh7%2BJ8dsB9rnzR9xAHSH8z4GuJrmiWly1PGsrCE3DVZlo3Rcas%2BtLNx6Kh2ICjQu5t%2BJEBNNMM
+						</OfferListingId>
+						<Price>
+							<Amount>19000</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 190,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1306</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 13,06</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>6</PercentageSaved>
+						<Availability>Normalmente se envía en el plazo de 1-2 días laborable</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00U63H7K2</ASIN>
+			<ParentASIN>B00U63UHIQ</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-S6-Edge-Smartphone/dp/B00U63H7K2%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00U63H7K2
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Verde</Color>
+				<Feature>Pantalla táctil de 5.1 pulgadas 1440x2560 con tecnología Super AMOLED 16M de colores</Feature>
+				<Feature>Procesador Exynos_7420 Quad-Core a 2.1 GHz, con 3 GB de RAM</Feature>
+				<Feature>Cámara trasera de 16 megapixels, con grabación de vídeo Full HD</Feature>
+				<Feature>Sistema operativo Android 5.0 Lollipop</Feature>
+				<Label>Samsung Spain</Label>
+				<ListPrice>
+					<Amount>84900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 849,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung Spain</Manufacturer>
+				<Model>Galaxy S6 Edge</Model>
+				<OperatingSystem>Android 5.0 Lollipop</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">591</Height>
+					<Length Units="Centésimas de pulgada">984</Length>
+					<Weight Units="Centésimas de libra">77</Weight>
+					<Width Units="Centésimas de pulgada">787</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>ABIS_ELECTRONICS</ProductTypeName>
+				<Publisher>Samsung Spain</Publisher>
+				<Size>32 GB</Size>
+				<Studio>Samsung Spain</Studio>
+				<Title>Samsung Galaxy S6 Edge - Smartphone libre Android (pantalla 5.1", cámara 16 Mp, 32 GB, Quad-Core
+					2.1 GHz, 3 GB RAM), verde
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>84900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 849,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00U63H7K2%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00U63H7K2
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							pm6tr4KR1Qb5ZlmuQFMLJt%2FjINnbZSdSmZvcA0nQb%2Fi9Bxp4VpndujORW4I2Kc7JLfFCqGNgf2PXYFiqOaZ1viLikX7EdjOmvMxxMZXrbLyarNnXkHk1dA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>84900</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 849,00</FormattedPrice>
+						</Price>
+						<Availability>Aún no ha salido a la venta</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<IsPreorder>1</IsPreorder>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00HMN9GM6</ASIN>
+			<ParentASIN>B00J4NSBI2</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-Trend-Plus-S7580/dp/B00HMN9GM6%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HMN9GM6
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Negro</Color>
+				<Creator Role="Diseñador">SAMSUNG</Creator>
+				<EAN>8806085979000</EAN>
+				<EANList>
+					<EANListElement>8806085979000</EANListElement>
+					<EANListElement>8806086052740</EANListElement>
+					<EANListElement>8806085957657</EANListElement>
+					<EANListElement>8436551450186</EANListElement>
+					<EANListElement>8806085955646</EANListElement>
+				</EANList>
+				<Feature>Procesador doble núcleo 1.2 GHz</Feature>
+				<Feature>4 GB de almacenamiento y 768 MB de memoria RAM</Feature>
+				<Feature>Conexión 3G, WiFi, USB</Feature>
+				<Feature>Pantalla táctil 4" multitouch</Feature>
+				<Feature>Despertador, calculadora, calendario, recordatorio de eventos, notas, lista de tareas</Feature>
+				<Feature>Galaxy Trend Plus para navegar por intenet gracias a su pantalla WVGA de 4"</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">248</Height>
+					<Length Units="Centésimas de pulgada">43</Length>
+					<Weight Units="Centésimas de libra">26</Weight>
+					<Width Units="Centésimas de pulgada">476</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>3G2, 3GP, ASF, AVI, FLV, M4V, MKV, MP4, WEBM, WMV</MediaType>
+				<Model>S7580</Model>
+				<MPN>S7580 black</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">220</Height>
+					<Length Units="Centésimas de pulgada">512</Length>
+					<Weight Units="hundredths-pounds">49</Weight>
+					<Width Units="Centésimas de pulgada">307</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>S7580 black</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Trend Plus S7580 - Smartphone libre (pantalla 4", 480 x 800 Pixeles, cámara 5 Mp,
+					4 GB, 1.2 GHz, 768 MB de RAM, Android 4.2), Negro [versión europea]
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 79,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>10</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00HMN9GM6%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HMN9GM6
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							pm6tr4KR1Qb5ZlmuQFMLJiqY9BbYH4y8Pn2r%2FrXbow1T8uLicoprtsXa4DpxzZ7LpAPUSfWUVyWOhxRYRQubwk4JNLBSQ8mQMxp2zWY0utIi5kYNCqGrhw%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>7900</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 79,00</FormattedPrice>
+						</Price>
+						<Availability>Temporalmente agotado. Haz tu pedido ahora y te lo enviaremos en cuanto esté
+							disponible. Te enviaremos un e-mail con la fecha estimada de entrega tan pronto como
+							tengamos información. No te haremos el cargo en la tarjeta de crédito hasta que se haya
+							realizado el envío.
+						</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>unknown</AvailabilityType>
+							<MinimumHours>672</MinimumHours>
+							<MaximumHours>1008</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KYQM16G</ASIN>
+			<ParentASIN>B00N4UR3C6</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-I9505-Smartphone-Quad-Core/dp/B00KYQM16G%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KYQM16G
+			</DetailPageURL>
+			<ItemAttributes>
+				<AspectRatio>16:9</AspectRatio>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>##-LG-Acc-GSM-WCD-100-AGEUWH</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Blanco</Color>
+				<EAN>8806085594241</EAN>
+				<EANList>
+					<EANListElement>8806085594241</EANListElement>
+					<EANListElement>8806085583368</EANListElement>
+					<EANListElement>8806085609013</EANListElement>
+					<EANListElement>4250698799878</EANListElement>
+					<EANListElement>8806085558564</EANListElement>
+					<EANListElement>8432471104055</EANListElement>
+					<EANListElement>8806085585423</EANListElement>
+				</EANList>
+				<Feature>Pantalla de 4.99" (1080x1920 píxeles) Full HD con tecnología Super AMOLED. 16M colores. 441
+					ppi.
+				</Feature>
+				<Feature>Procesador Qualcomm APQ8064T Snapdragon 600 Quad-Core a 1.9 GHz, con 2 GB de RAM</Feature>
+				<Feature>Cámara trasera de 13 megapixels, con grabación de vídeo</Feature>
+				<Feature>Sistema operativo Android 4.2.2 con Touchwiz</Feature>
+				<Feature>Conectividad 3G, 3G+, 4G, GPRS, Bluetooth 4.0, , WiFi, LED Infrarojo (mando a distancia), LTE,
+					USB
+				</Feature>
+				<Feature>Batería 2600 mAH</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">31</Height>
+					<Length Units="Centésimas de pulgada">539</Length>
+					<Weight Units="Centésimas de libra">29</Weight>
+					<Width Units="Centésimas de pulgada">276</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>69900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 699,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>MP4</MediaType>
+				<Model>I9505W</Model>
+				<MPN>I9505W</MPN>
+				<OperatingSystem>Android 4.2.2 con Touchwiz</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">205</Height>
+					<Length Units="Centésimas de pulgada">583</Length>
+					<Weight Units="hundredths-pounds">88</Weight>
+					<Width Units="Centésimas de pulgada">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>I9505W</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S4 (I9505) - Smartphone libre Android (pantalla táctil de 4.99", cámara 13 Mp, 16
+					GB, Quad-Core 1.9 GHz, 2 GB RAM, LTE), blanco (versión europea)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>31995</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 319,95</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>23900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 239,00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>21</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00KYQM16G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KYQM16G
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							pm6tr4KR1Qb5ZlmuQFMLJsHlnp9U19%2FqfF2koetRjNTKV578Gk2dZfHCn7IvL5V0z169PUYw0Ii1les1ydeQb2jUGwRAf8Bk%2FTXV1AMzk%2FDLp2Honq8D%2Bx4EjWH2hv0XWtfoGMonjDcfDSZcQjRBvHlWPUWy0LE%2F
+						</OfferListingId>
+						<Price>
+							<Amount>31995</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 319,95</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>37905</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 379,05</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>54</PercentageSaved>
+						<Availability>Normalmente se envía en el plazo de 1-2 días laborable</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00MXR67V4</ASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-SM-G355H-Color-blanco/dp/B00MXR67V4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MXR67V4
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Color blanco</Color>
+				<EAN>8806086309080</EAN>
+				<EANList>
+					<EANListElement>8806086309080</EANListElement>
+				</EANList>
+				<Feature>Pantalla táctil de 4.5"</Feature>
+				<Feature>Procesador Quad-Core a 1.2 GHz, con 768 MB de RAM</Feature>
+				<Feature>Cámara trasera de 5 Mp</Feature>
+				<Feature>Conectividad WiFi, Bluetooth</Feature>
+				<Feature>Sistema operativo: Android</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">39</Height>
+					<Length Units="Centésimas de pulgada">513</Length>
+					<Weight Units="Centésimas de libra">31</Weight>
+					<Width Units="Centésimas de pulgada">268</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>3GP, MKV, MP4</MediaType>
+				<Model>SM-G355HZWNITV</Model>
+				<MPN>SM-G355HZWNITV</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">213</Height>
+					<Length Units="Centésimas de pulgada">528</Length>
+					<Weight Units="Centésimas de libra">57</Weight>
+					<Width Units="Centésimas de pulgada">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G355HZWNITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Core 2 SM-G355H 4GB Color blanco - Smartphone (11,43 cm (4.5"), 800 x 4.8 Pixeles,
+					TFT, 1,2 GHz, 768 MB, 4 GB)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>10900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 109,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>9860</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 98,60</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>15</TotalNew>
+				<TotalUsed>3</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00MXR67V4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MXR67V4
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							pm6tr4KR1Qb5ZlmuQFMLJhFrtAIpLNCR58mw%2FOii7WGlfvfuU%2FJH5LXxMOKxv3KO0Yz8%2FDeRQWZhkoXA7Uf5M3MqYNphBywbBPMSy3%2BZaalVaPJLZHN7zQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>10900</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 109,00</FormattedPrice>
+						</Price>
+						<Availability>Temporalmente agotado. Haz tu pedido ahora y te lo enviaremos en cuanto esté
+							disponible. Te enviaremos un e-mail con la fecha estimada de entrega tan pronto como
+							tengamos información. No te haremos el cargo en la tarjeta de crédito hasta que se haya
+							realizado el envío.
+						</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>unknown</AvailabilityType>
+							<MinimumHours>672</MinimumHours>
+							<MaximumHours>1008</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00IIHDE4G</ASIN>
+			<DetailPageURL>
+				http://www.amazon.es/Samsung-Galaxy-Trend-Lite-Smartphone/dp/B00IIHDE4G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IIHDE4G
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Electrónica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanco</Color>
+				<Creator Role="Diseñador">SAMSUNG</Creator>
+				<EAN>8806086074438</EAN>
+				<EANList>
+					<EANListElement>8806086074438</EANListElement>
+				</EANList>
+				<Feature>Pantalla de 4 pulgadas con tecnología TFT</Feature>
+				<Feature>Procesador a 1 GHz, con 512 MB de RAM</Feature>
+				<Feature>Cámara trasera de 3 megapixels, con grabación de vídeo</Feature>
+				<Feature>Sistema operativo Android; Conectividad 3G, Si</Feature>
+				<ItemDimensions>
+					<Height Units="Centésimas de pulgada">480</Height>
+					<Length Units="Centésimas de pulgada">248</Length>
+					<Weight Units="Centésimas de libra">28</Weight>
+					<Width Units="Centésimas de pulgada">39</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>8599</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 85,99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>3G2, 3GP, AVI, FLV, M4V, MKV, MP4, WEBM, WMV</MediaType>
+				<Model>GT-S7390RWAITV</Model>
+				<MPN>GT-S7390RWAITV</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centésimas de pulgada">213</Height>
+					<Length Units="Centésimas de pulgada">528</Length>
+					<Weight Units="Centésimas de libra">66</Weight>
+					<Width Units="Centésimas de pulgada">291</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-S7390RWAITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Trend Lite - Smartphone de 4" (Android, cámara 3 MP, 4 GB, 1 GHz, 512 MB RAM)
+					blanco
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7200</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 72,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>6000</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 60,00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>23</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.es/gp/offer-listing/B00IIHDE4G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal07-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IIHDE4G
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							pm6tr4KR1Qb5ZlmuQFMLJgDvoJlDiRkWcuAjkCYC03tMdUelAdoJYA90%2BZeK6LWltYk%2BcRerzH2QDJWEicE5iEvzrL86p5v4EiFKcl8z4pdi9Scv0NrBQB%2Fn0dVYhvWw5OE%2BFAgYp0fsPJjWrImto8QDOQPZfFG1
+						</OfferListingId>
+						<Price>
+							<Amount>7200</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 72,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1399</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 13,99</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>16</PercentageSaved>
+						<Availability>Normalmente se envía en el plazo de 1-2 días laborable</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

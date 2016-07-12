@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dynamic-data version="3.1" serial-number="201504151" name="query" xmlns="http://services.become.eu/livexml">
+	<params>
+		<param name="qry">xbox</param>
+	</params>
+	<top-level-categories-module>
+		<params/>
+		<top-level-categories nr-of-products="10806" nr-of-offers="1439705" n="24">
+			<category nr-of-products="332" nr-of-offers="371488" cid="2">
+				<label>clothing &amp; accessories</label>
+			</category>
+			<category nr-of-products="33" nr-of-offers="100634" cid="3">
+				<label>automotive</label>
+			</category>
+			<category nr-of-products="68" nr-of-offers="26447" cid="4">
+				<label>baby</label>
+			</category>
+			<category nr-of-products="4" nr-of-offers="177" cid="5">
+				<label>books</label>
+			</category>
+			<category nr-of-products="2037" nr-of-offers="85071" cid="6">
+				<label>business &amp; office products</label>
+			</category>
+			<category nr-of-products="623" nr-of-offers="1526" cid="7">
+				<label>camera &amp; photo</label>
+			</category>
+			<category nr-of-products="2558" nr-of-offers="25470" cid="8">
+				<label>computers</label>
+			</category>
+			<category nr-of-products="1702" nr-of-offers="10704" cid="9">
+				<label>electronics</label>
+			</category>
+			<category nr-of-products="8" nr-of-offers="23316" cid="10">
+				<label>flowers &amp; gifts</label>
+			</category>
+			<category nr-of-products="6" nr-of-offers="7663" cid="11">
+				<label>food &amp; drink</label>
+			</category>
+			<category nr-of-products="170" nr-of-offers="89926" cid="12">
+				<label>health &amp; beauty</label>
+			</category>
+			<category nr-of-products="2802" nr-of-offers="525259" cid="13">
+				<label>home &amp; garden</label>
+			</category>
+			<category nr-of-products="41" nr-of-offers="12944" cid="14">
+				<label>jewelry &amp; watches</label>
+			</category>
+			<category nr-of-products="1" nr-of-offers="2" cid="637492">
+				<label>magazines</label>
+			</category>
+			<category nr-of-products="1" nr-of-offers="171" cid="637493">
+				<label>movies</label>
+			</category>
+			<category nr-of-products="1" nr-of-offers="96" cid="637494">
+				<label>music</label>
+			</category>
+			<category nr-of-products="19" nr-of-offers="340" cid="18">
+				<label>musical instruments &amp; equipment</label>
+			</category>
+			<category nr-of-products="156" nr-of-offers="476" cid="19">
+				<label>software</label>
+			</category>
+			<category nr-of-products="54" nr-of-offers="89829" cid="20">
+				<label>sports &amp; outdoors</label>
+			</category>
+			<category nr-of-products="22" nr-of-offers="9951" cid="21">
+				<label>toys &amp; hobbies</label>
+			</category>
+			<category nr-of-products="113" nr-of-offers="675" cid="23">
+				<label>video games</label>
+			</category>
+			<category nr-of-products="18" nr-of-offers="8697" cid="84">
+				<label>pets</label>
+			</category>
+			<category nr-of-products="9" nr-of-offers="4149" cid="106">
+				<label>collectibles &amp; art</label>
+			</category>
+			<category nr-of-products="28" nr-of-offers="44694" cid="636830">
+				<label>uncategorized</label>
+			</category>
+		</top-level-categories>
+	</top-level-categories-module>
+	<current-category-module>
+		<params/>
+		<module-attributes/>
+	</current-category-module>
+	<navigation-trail-module>
+		<params/>
+		<navigation-trail n="2">
+			<element type="index">
+				<label>Index</label>
+			</element>
+			<element id="xbox" type="query">
+				<label>Xbox</label>
+			</element>
+		</navigation-trail>
+	</navigation-trail-module>
+	<suggestions-module>
+		<params/>
+		<suggestions>
+			<queries n="0"/>
+			<outstanding-category parent-cid="23" cid="637559">
+				<label>Game Consoles &amp; Portable Systems</label>
+				<category-attributes n="0"/>
+			</outstanding-category>
+		</suggestions>
+	</suggestions-module>
+	<category-results-module>
+		<params/>
+		<category-results n="13" total="13">
+			<category nr-of-products="2" parent-cid="23" cid="637559">
+				<label>Game Consoles &amp; Portable Systems</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="222" parent-cid="23" cid="637560">
+				<label>Game Titles</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="16" parent-cid="0" cid="636830">
+				<label>Uncategorized</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="4" parent-cid="57" cid="637105">
+				<label>Computer Gaming &amp; Computer Headsets</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="28" parent-cid="19" cid="637507">
+				<label>Other Software</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="57" cid="637115">
+				<label>Remote Controls</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="19" parent-cid="23" cid="637562">
+				<label>Video Game Accessories</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="398" cid="637118">
+				<label>Cables &amp; Adapters</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="406" cid="637134">
+				<label>Adapters &amp; Interfaces</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="635" cid="637389">
+				<label>Chairs</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="5" parent-cid="21" cid="637555">
+				<label>Other Toys &amp; Hobbies</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="469" cid="637272">
+				<label>Smartphone Accessories</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="462" cid="637267">
+				<label>Other Phone Accessories</label>
+				<category-attributes n="0"/>
+			</category>
+		</category-results>
+	</category-results-module>
+	<result-filter-module>
+		<params/>
+		<result-filter n="3">
+			<filter-dimension n="13" selected="false" display-position="1">
+				<label>Category</label>
+				<dimension-class nr-of-products="2" selected="false" display-position="1" fdid="cat637559">
+					<label>game consoles &amp; portable systems</label>
+				</dimension-class>
+				<dimension-class nr-of-products="222" selected="false" display-position="2" fdid="cat637560">
+					<label>game titles</label>
+				</dimension-class>
+				<dimension-class nr-of-products="16" selected="false" display-position="3" fdid="cat636830">
+					<label>uncategorized</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="4" fdid="cat637105">
+					<label>computer gaming &amp; computer headsets</label>
+				</dimension-class>
+				<dimension-class nr-of-products="28" selected="false" display-position="5" fdid="cat637507">
+					<label>other software</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="6" fdid="cat637115">
+					<label>remote controls</label>
+				</dimension-class>
+				<dimension-class nr-of-products="19" selected="false" display-position="7" fdid="cat637562">
+					<label>video game accessories</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="8" fdid="cat637118">
+					<label>cables &amp; adapters</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="9" fdid="cat637134">
+					<label>adapters &amp; interfaces</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="10" fdid="cat637389">
+					<label>chairs</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="11" fdid="cat637555">
+					<label>other toys &amp; hobbies</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="12" fdid="cat637272">
+					<label>smartphone accessories</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="13" fdid="cat637267">
+					<label>other phone accessories</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="30" selected="false" display-position="2">
+				<label>Brands</label>
+				<dimension-class nr-of-products="45" selected="false" display-position="1" fdid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</dimension-class>
+				<dimension-class nr-of-products="27" selected="false" display-position="2" fdid="mnQWN0aXZpc2lvbg..">
+					<label>Activision</label>
+				</dimension-class>
+				<dimension-class nr-of-products="20" selected="false" display-position="3" fdid="mnRUE.">
+					<label>EA</label>
+				</dimension-class>
+				<dimension-class nr-of-products="9" selected="false" display-position="4" fdid="mnVWJpc29mdA..">
+					<label>Ubisoft</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="5" fdid="mnVGFrZS1Ud28.">
+					<label>Take-Two</label>
+				</dimension-class>
+				<dimension-class nr-of-products="10" selected="false" display-position="6" fdid="mnTmFtY28.">
+					<label>Namco</label>
+				</dimension-class>
+				<dimension-class nr-of-products="10" selected="false" display-position="7" fdid="mnU3F1YXJlIEVuaXg.">
+					<label>Square Enix</label>
+				</dimension-class>
+				<dimension-class nr-of-products="9" selected="false" display-position="8" fdid="mnS29uYW1p">
+					<label>Konami</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="9" fdid="mnTWFqZXNjbw..">
+					<label>Majesco</label>
+				</dimension-class>
+				<dimension-class nr-of-products="9" selected="false" display-position="10" fdid="mnQmV0aGVzZGE.">
+					<label>Bethesda</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="11" fdid="mnQ2FwY29t">
+					<label>Capcom</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="12" fdid="mnZHJlYW1HRUFS">
+					<label>dreamGEAR</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="13" fdid="mnVEhR">
+					<label>THQ</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="14" fdid="mnVHVydGxlIEJlYWNo">
+					<label>Turtle Beach</label>
+				</dimension-class>
+				<dimension-class nr-of-products="14" selected="false" display-position="15"
+				                 fdid="mnRWxlY3Ryb25pYyBBcnRz">
+					<label>Electronic Arts</label>
+				</dimension-class>
+				<dimension-class nr-of-products="14" selected="false" display-position="16" fdid="mnVGFrZTI.">
+					<label>Take2</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="17" fdid="mnU2VnYQ..">
+					<label>Sega</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="18" fdid="mnNTA1IEdhbWVz">
+					<label>505 Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="2" selected="false" display-position="19" fdid="mnR3VpbGxlbW90">
+					<label>Guillemot</label>
+				</dimension-class>
+				<dimension-class nr-of-products="11" selected="false" display-position="20" fdid="mnVWJpIFNvZnQ.">
+					<label>Ubi Soft</label>
+				</dimension-class>
+				<dimension-class nr-of-products="10" selected="false" display-position="21" fdid="mnV2FybmVyIEJyb3M.">
+					<label>Warner Bros</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="22" fdid="mnQXRsdXM.">
+					<label>Atlus</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="23" fdid="mnRDNQdWJsaXNoZXI.">
+					<label>D3Publisher</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="24"
+				                 fdid="mnRGlzbmV5IEludGVyYWN0aXZl">
+					<label>Disney Interactive</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="25" fdid="mnTWlkd2F5">
+					<label>Midway</label>
+				</dimension-class>
+				<dimension-class nr-of-products="7" selected="false" display-position="26" fdid="mnWGJveCAzNjA.">
+					<label>Xbox 360</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="27" fdid="mnRGlzbmV5">
+					<label>Disney</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="28" fdid="mnTGVnbw..">
+					<label>Lego</label>
+				</dimension-class>
+				<dimension-class nr-of-products="5" selected="false" display-position="29"
+				                 fdid="mnTWF4aW11bSBHYW1lcw..">
+					<label>Maximum Games</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="30" fdid="mnQmFuZGFp">
+					<label>Bandai</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="3" selected="false" display-position="4">
+				<label>Shop</label>
+				<dimension-class nr-of-products="203" selected="false" display-position="1" fdid="me60106">
+					<label>Target</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="2" fdid="me60116">
+					<label>Kohls</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="3" fdid="me60581">
+					<label>PBteen</label>
+				</dimension-class>
+			</filter-dimension>
+		</result-filter>
+	</result-filter-module>
+	<product-results-module>
+		<params/>
+		<product-results n="10" total="302" nr="1" srt="RELEVANCE">
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1471517707" type="offer">
+				<label>Xbox 360 250GB Console (Xbox 360)</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="637559">
+					<label>Game Consoles &amp; Portable Systems</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370593006</code>
+					<code type="UPC">885370593006</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/471/517/D_001471517707_US_440.jpg"/>
+				<description>Find video game consoles at Target.com! The best value in games and entertainment. with the
+					largest library of games, xbox 360 has something for everyone. Play blockbuster titles like halo,
+					forza motorsport, and madden/fifa. Enjoy unrivaled
+				</description>
+				<offer oid="1471517707">
+					<label>Microsoft Xbox 360 250GB Console (Xbox 360)</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27655870&amp;c=637559&amp;o=1471517707&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=8262cea9daaae16ab15f8ed1a84ef30b&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27655870&amp;pcat=78129&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=259.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=0&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5adHFLnkKfl4jYdNA5NgFBDnuz8IJgZTvtLrzKtWPE5vlT9vIgzonV7G9EDI-5GE51u7VWe0kdyjP6rBlLnZ2CaNgH5YSH6dt16FRZHszMwLiUQQbx0MEoV16STgVk-JfGWUq39RBhsEhXqeTy21xGAQnQDHy6iYJlf7rRiVovrMvwO9bNyshV6E4jjWOXgiiGIc9rddjMhjCh7fTHFgRXY9BODJnEqMipriZ35sEs6KlzOgtDArQEohNfBNtyAiL-H2_pyFOLlW_QVl1DOYRdgTaxOncjpE9I5ViYl1Jkch_n8S5IAyb6Iprnkq1S33Q19l-QS5d4KEKQdq4UKEdfBBw5Wo3ipVUxaqkPMeVhxyBsNqCp2QolRD720kCXbfc0UXnpltIsGs.</url>
+					<price cur="USD">259.99</price>
+					<price-info cur="USD" type="total">259.99</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" pid="33038559" oid="1444808711" type="product">
+				<label>Microsoft Xbox One Gaming Console</label>
+				<price-range nr-of-offers="1" cur="USD" max="499.99" min="499.99"/>
+				<sub-label>Gaming Console - Color: Black - Ethernet Technology: Gigabit Ethernet - Processor Speed: 1.60
+					GHz - Processor Type: Jaguar - Graphics Controller Model: Radeon - Wi-Fi: Wi-Fi - Optical Drive
+					Type: Blu-ray Disc Player
+				</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="637559">
+					<label>Game Consoles &amp; Portable Systems</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370808278</code>
+					<code type="UPC">885370808278</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/085/469/D_000085469649_EN_1100.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/085/469/I_000085469649_EN_1100.jpg"/>
+				<description></description>
+				<offer oid="1444808711">
+					<label>Microsoft Xbox One 500GB Console</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33038559&amp;c=637559&amp;o=1444808711&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=404771350af15661d1ce27e860b78ced&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27655870&amp;pcat=78129&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=499.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=1&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5bYh04IRNa7g_qHXP9Co438mydGZQ-QM0PD4Zt_cUpKYJLNoHAbrCgZ0nRsynrO32oZBoBCAXMxZ2BkNF1mKar_wguQ1LCoG4pOviG4ow18hh5eCzmMpuqy8cBbzuv0TP-zCH8mlfo3_mdwC0V1gQFucqtkG_iLzoX7SM2nkjeiWwRXTss7e7i3gcVfoqYUIv_6iLZAYsFSLRl_HsXF7rbUFpL42gdb7H5GdO4UTGseIjVv_7w1PyoGPMN9J-640XMeryuO6YLyvccSV1tqM_UihwTXls8yX_AuCEgQx0ac2KAW_t_rN3prg74JBROXyB3kvzAdOd1VY2iVu-8cwjGvl8KYV4Q_L4IZc2rgdfTdxej0kBLaCBww..</url>
+					<price cur="USD">499.99</price>
+					<price-info cur="USD" type="total">499.99</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>save $20 on Xbox Live</pitch>
+					<offer-attributes/>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1261305030" type="offer">
+				<label>The Force Unleashed - Platinum Hits Edition for Xbox 360</label>
+				<brand bid="mnU3RhciBXYXJz">
+					<label>Star Wars</label>
+				</brand>
+				<category cid="637560">
+					<label>Game Titles</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0712725024703</code>
+					<code type="UPC">712725024703</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/261/305/D_001261305030_US_440.jpg"/>
+				<description>"Turn to the Dark Side and help Darth Vader rid the universe of Jedi knights in Star Wars:
+					The Force Unleashed for Xbox 360. Product Features: Casts players as Darth Vader's ""Secret
+					Apprentice"". Set between Episode III: Revenge of the Sith and
+				</description>
+				<offer oid="1261305030">
+					<label>Star Wars: The Force Unleashed - Platinum Hits Edition for Xbox 360</label>
+					<merchant mid="60116">
+						<label>Kohls</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60116/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27655871&amp;c=637560&amp;o=1261305030&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60116&amp;rid=712725024703&amp;ver=2.0&amp;market=us&amp;man=Star+Wars&amp;ser=2975&amp;pc=27655871&amp;pcat=78130&amp;abob=cGFuZ29yYSFXjE2JWloJFA..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=12.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=2&amp;dle=cGFuZ29yYSGVJj1HA_4lb2CszvK6dt41CtSDISeLAH7d9JpFB9tXJCwmc5fWOjQYqjXW6nDzRDAibHtS-VyyvoqSDFwRtVWVnGkjki9l207gyYXXFXrC_Icnu3wZPc_BneurIIHwlt-qyRO1OpS4pWm9yanZ-A7SYrOCDDQ_pchrlQM73kqQ-MxsImWVw3VR27yRmMxMxF0OFwjawGpXOqc6dyaeBY6rRmHLl5znOo_OL2MM5K2dkqYpbEAjKlFMXbrEKxL1nb5JuTk6f50O9c7TVY05MAIfDm7W7psUFWFJAB-cjtXVPAravKv_YmD-DfTToVqRjMJuPrc41wcXtm4MJXOWaTFy7tOMtOe2HyIA_1CoIba2MRISpOYTbJmYyTcsRN10U_Bu1ProeMI0EwzYNXAcByfxhOh3-iO2nRgw1jEiZLLprVp-rLdp_In_jbhKejo1D9e_J1FbkjnXQk6WLK0SK2z-b_tI-IgTMmB0O7_OdGiOmuKIXGbBWCLiSmpJLhD9TPOHewmlNgpx8IaqXDcMuBzXqcZoZlcC5n2BTOLkO4rR1OOUdxlFhVrh</url>
+					<price cur="USD">12.99</price>
+					<price-info cur="USD" type="old">19.99</price-info>
+					<price-info cur="USD" type="total">18.93</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">35</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="5.95">$5.95</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1421274067" type="offer">
+				<label>Xbox 360 Gears of War 3 12 Month Membership - $59.99</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="636830">
+					<label>Uncategorized</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0799366796657</code>
+					<code type="UPC">799366796657</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/421/274/D_001421274067_US_440.jpg"/>
+				<description>Find pre-paid cards at Target.com! Enjoy a full year of online play for games like gears of
+					war with this microsoft xbox 360 gears of war 3 12 month membership. This xbox live gold membership
+					allows you to connect to other players online and enjoy
+				</description>
+				<offer oid="1421274067">
+					<label>Microsoft Xbox 360 Gears of War 3 12 Month Membership - $59.99</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27654998&amp;c=636830&amp;o=1421274067&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=0bfefdb00232b9e51c38aab2f0fd606d&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27654998&amp;pcat=77544&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=53.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=3&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5l8uvbRzD42rvEm_LlMshL8Fj3S-sknri2ViW8In2UFu96EqDnI_RLCSAztWZrpe84xT3SZC4jtrgOerKcfM06UDbuCEv2t6TYMfmLMwR6Li9oj391LR0kzSVBXWu9wsPhPLfJT1AkBGgRllU0ma40lFmc7kXmJmQ-0RJ3pCeCxBvmydMb5oo47IxtdKkc_yVMCN_QX9Otda-hcL0zAW3oOvSeNKRBDJoBy3yXfqT5tM3q5ZCt_gpyS1ABT2sojPllU6knC32_p-p5D6X2RODQLM9a6_eIAM9Qmw4KPDdQk_3pivAdQzdOPHM8M7EQcgcFieaQnLQIrRoQcDNHvHIam-YBWIzbmIyncShT-gI7aKm9qgIl8jZ2HAx5BckWtIEag2xXMRPUb_FXyhmrlV8yecFvtqKxy1rQvsKDLiDlo-EgE-enHjEltgh0Ew5sBlV</url>
+					<price cur="USD">53.99</price>
+					<price-info cur="USD" type="total">53.99</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1462694489" type="offer">
+				<label>500GB Xbox 360 Console with Plants Vs. Zombies &amp; Fable Anniversary</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="636830">
+					<label>Uncategorized</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370887747</code>
+					<code type="UPC">885370887747</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/462/694/D_001462694489_US_440.jpg"/>
+				<description>Find video game consoles at Target.com! With the largest library of games, and apps like
+					netflix and hbo go, xbox 360 has something for everyone. Play blockbusters like halo, forza
+					motorsport, and explore a massive catalog of games with broad
+				</description>
+				<offer oid="1462694489">
+					<label>Microsoft 500GB Xbox 360 Console with Plants Vs. Zombies &amp; Fable Anniversary</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27654998&amp;c=636830&amp;o=1462694489&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=38f4cd9a481c6cf9c1e59cd24df8f1d2&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27654998&amp;pcat=77544&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=249.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=4&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5Zb0yWgnr44_cMFx5QSPMVKoI3LrMunosTfIE39i0YoxNo3MWYmQ9n0MXxfso2b1AZyf5d8C2tnDVsnAjSX7Y3h_UWjP7gYVSP_FbrbXx32RY2Wj707qBUArYaMCHiyI3v1sgrIuwfdpbmqCMracZBjHKxZHzpM6MLRTUhTFc6hXdTr5yP8yLuKVVvOwhD9xCr-O34sg3YbY9qJ66w1ZNHx8XAOWFN0Ix_NWmjkZZoPPFP0UL-vEiFy7eKat3wwW-E4hFGSSZAtQk29PNrSiiA8RDc3ioEZ923boVqF0kHGPN-NRqYzgDVMRwBevnBFffkqpP0TkAZL02w6JjJFh6QlwSn3Dwx5IDSWGut3oSNm2siHCDeWilcGyAk1uLMZqRzZI7k3Sksl6bPB_IQV-u89NvTA3fzWW_7Y514AKVZRT3wI7-7tMVUCsoSpLNsZ4E</url>
+					<price cur="USD">249.99</price>
+					<price-info cur="USD" type="total">249.99</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1421468328" type="offer">
+				<label>Fallout: New Vegas Ultimate Edition (Xbox 360)</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="636830">
+					<label>Uncategorized</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0093155125919</code>
+					<code type="UPC">093155125919</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/421/468/D_001421468328_US_440.jpg"/>
+				<description>Find video games at Target.com! Fallout: new vegas ultimate edition (xbox 360)
+				</description>
+				<offer oid="1421468328">
+					<label>Microsoft Fallout: New Vegas Ultimate Edition (Xbox 360)</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27654998&amp;c=636830&amp;o=1421468328&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=d657248a5181866ada92c92e2bf3c3df&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27654998&amp;pcat=77544&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=13.79&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=5&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d52_sUbL67anfCq1pTjnTitQkcG0adgFy_OGSwInBlltFsnxIc-_L0GRGlMIxxC0VPuCk7Jgz6FFUgQYXPKRgFms_R6WCKuzHLRlco5r0SUoMLL9XT2rolG1ywwu9wozCQEXnTmfa5yU61P1YmTZ0uo564mnZgv-NZomzgIjTfw13-n1iSawa4vLY0YfTTBQNGjP7y3Uzcd125kd7RZZyEnK39qRzeNBq5My2IIPOPbkZfaPQ4_RoCBnfc4YtZu9XCIBBW4V_yg9Ac18M_UqHuy4u7O4DescNBCs_VZ_7Fd3wP1Q5fsRCvzxfUigXXm3EuZ9IZ4hmwWqGDb_sDTD8l13VAjPhR82szNcsEukpn3INTw_A_cLRnXM-J5dK-luyjjtWvL_ZU1hkRCWg9yRs62qM3XgNO1Bnq</url>
+					<price cur="USD">13.79</price>
+					<price-info cur="USD" type="total">16.77</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="2.98">$2.98</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1421346529" type="offer">
+				<label>UFC PRE-OWNED (Xbox One)</label>
+				<brand bid="mnRWxlY3Ryb25pYyBBcnRz">
+					<label>Electronic Arts</label>
+				</brand>
+				<category cid="637560">
+					<label>Game Titles</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0886162531053</code>
+					<code type="UPC">886162531053</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/421/346/D_001421346529_US_440.jpg"/>
+				<description>Find video games at Target.com! With its first new major sports league partnership in over
+					a decade, ea sports presents ea sports ufc. The next-generation of fighting has been built
+					exclusively for the playstation 4 and xbox one by the team behind
+				</description>
+				<offer oid="1421346529">
+					<label>Electronic Arts UFC PRE-OWNED (Xbox One)</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27655871&amp;c=637560&amp;o=1421346529&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=548bc1e0c6d32e48fa5506b35cb210ac&amp;ver=2.0&amp;market=us&amp;man=Electronic+Arts&amp;ser=2975&amp;pc=27655871&amp;pcat=78130&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=22.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=6&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5BSFfVm3LBSztkgKFP_AP1Z5IVovdWvUoYlGEK9rRMs-eB7wh8ARCyLd_iYKBV0C7Jc8Nt2QaRKJBsDT8FyB2bgXo2xx51xnHQT7ESSobVoNRA5YoK6e07us5l2bbbSSq6dc3wG8QB0-pTKqwKKP7UI_ErMjqvdBii7js8eLJRHYedu4f4Ry58jduSWGL-gViOobTSt_X7kCMwt1O_HlfImnoGFkHacDtR7Kk2pvW7PdB4VOD2g2xdSAMH5K_HMOHvgx9DQq6dk8u1DXgRzMjpnedBtu_IdPXfW-JESj3PWDqiTnQvOh2U4gZvpIKH9lt0FjCD4IYMdGwq2s5rpH14mIZBW5FR-3iCT5ceCd7QeKEgNsrN0GJYg..</url>
+					<price cur="USD">22.99</price>
+					<price-info cur="USD" type="total">28.41</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="5.42">$5.42</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1421304230" type="offer">
+				<label>Disneyland Adventures (Xbox 360)</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="637560">
+					<label>Game Titles</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370314687</code>
+					<code type="UPC">885370314687</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/421/304/D_001421304230_US_440.jpg"/>
+				<description>Find video games at Target.com! Fly, dance and dive into iconic attractions, share special
+					moments with beloved disney characters and take on challenging quests with the controller-free magic
+					of kinect for xbox 360 and a touch of pixie dust. Kinect:
+				</description>
+				<offer oid="1421304230">
+					<label>Microsoft Disneyland Adventures (Xbox 360)</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27655871&amp;c=637560&amp;o=1421304230&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=2d9ff494e88d0d387987f61271f9e8e8&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27655871&amp;pcat=78130&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=9.49&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=7&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5YuDRVqZWDhceNy_jfqO6UUhK2EvxqnGe0xMtvRJ4XMA0xSzMxBAkdfyLvbJwlPJ_J9-99oVUcZnXCgFWmzGn-T90f9ZsfkMCYMFV0zPZOxxlMZ49vvx1P8OSIusUUu4Im-7Dk6KZBidi3bs6JCD5f1vhqmUPpTQDtfbl5ll8eVQz4Ojkz2mFBqYLkX2t8N7lREuvJ5rnu4efs7vU8KvTTvrRhUYi4wlC-etyWJ4lmCn7vJ0-06KjTPSprl_hXoO626nOhDV-U-gEPUEago0vK2VuiZy3PmFRJ0zL-oQb1QTNm6rBeWSrJ3BC_H-aZcoThCskYrTfA9k0c2My2mFEqWBCaP5EnIf3RiwwfTpl5zPy_1N_wlyKNhX6xtyeq4iWi-QC4yrHwPI.</url>
+					<price cur="USD">9.49</price>
+					<price-info cur="USD" type="total">12.46</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="2.98">$2.98</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1433646357" type="offer">
+				<label>Farming Simulator 15 (Xbox One)</label>
+				<brand bid="mnTWF4aW11bSBHYW1lcw..">
+					<label>Maximum Games</label>
+				</brand>
+				<category cid="637560">
+					<label>Game Titles</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0854952003158</code>
+					<code type="UPC">854952003158</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/433/646/D_001433646357_US_440.jpg"/>
+				<description>Find video games at Target.com! Farming simulator 15 (xbox one)</description>
+				<offer oid="1433646357">
+					<label>Maximum Games Farming Simulator 15 (Xbox One)</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27655871&amp;c=637560&amp;o=1433646357&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=58c448ec01ec2b9ed80aceb11521625d&amp;ver=2.0&amp;market=us&amp;man=Maximum+Games&amp;ser=2975&amp;pc=27655871&amp;pcat=78130&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=49.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=8&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5lkWlaPcCzp0V_h7ccRxiTdLCUEAVIqv455ym5oDSVAc0M6CrMg1h7y4AI4WI0Ltcts_v_716prBzp27ykl_0P_NXmbCeIjfo6E2C2rAwVNtl2kiNSAvt4dXmC4ORTyD8u7RFhBQayMmr_KVf4w9t2yo9_oT_NkCazBwEW7lwPvk7NdwU2NUh4J93fAm3skoetIG0I33SyT28K9wgQ9FEZXLRMigLflP04uCzF5lsB_lV_joE-JCM0obcDu1hDTc92Otw9k2epWg4lcXyAuh137rp4Py6qgoJD5Hqd8yKwgcviN-vC35R7zNf8cljKUgcQxQJcAw6u_hBaaJo-wZ7rAKwNybWmC8uPohtWQe66FiMcX1D3bNucrYPyeGBsK2kiNLxLonW9yM.</url>
+					<price cur="USD">49.99</price>
+					<price-info cur="USD" type="total">49.99</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="1421448767" type="offer">
+				<label>Xbox Live Gift Card $50</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="637560">
+					<label>Game Titles</label>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370611250</code>
+					<code type="UPC">885370611250</code>
+				</product-codes>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.channel.become.com/foxydeal_us/images/offers/US/440/001/421/448/D_001421448767_US_440.jpg"/>
+				<description>Find pre-paid cards at Target.com! Look no further, the xbox live gift card $50 is the
+					perfect gift. Get access to everything on xbox live with a $50 gift card; games, music, movies and
+					tv shows. Any xbox user that gets way more out of their machine
+				</description>
+				<offer oid="1421448767">
+					<label>Microsoft Xbox Live Gift Card $50</label>
+					<merchant mid="60106">
+						<label>Target</label>
+						<image height="31" width="88"
+						       source="http://images.channel.become.com/foxydeal_us/images/merchants/p/60106/88x31.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=27655871&amp;c=637560&amp;o=1421448767&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=bf59019b3f9fccb83b49266e75ba534d&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27655871&amp;pcat=78130&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=50.0&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=9&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5q5irV-LG06RjxRUmJmkItHDSyzL9CUly4_CAyhKvHpGTNlJ9JQzx_edPDwG8nomNXRwJtS4-Z-FqfhGq-SS2nmPtnpuqZmc09X9qwCBj4Q6dFpn08f6p3LQr9T4dqEfqFARyCyUIgSxa1guF8KVZWeDvFu3GKrDXNUbOfwtdBnUiWhXSGz-YevlIuaKK4ijDgXyNNqS29squ3Sulf9kzZAyjatPAB8vzhdt5If5Fsn60bbUA2dimNBljhV7s2jpqVj7JAP-Z8MKmGtJCW95URGF22JokT-PwOrWpd71-D8U9e7V_SvmhCS5HtV0lEETpU1Euu5iKa8Oh-33ReOfgp8fQjmyGIZ6-yq1jbU5K-4CWBSbnVtMohw..</url>
+					<price cur="USD">50.00</price>
+					<price-info cur="USD" type="total">50.00</price-info>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<paging n="7" total="31" pge="10">
+				<page rel="FIRST" pgn="1" name="query" type="query"/>
+				<page rel="CURRENT" pgn="1" name="query" type="query"/>
+				<page rel="NEXT" pgn="2" name="query" type="query"/>
+				<page pgn="3" name="query" type="query"/>
+				<page pgn="4" name="query" type="query"/>
+				<page pgn="5" name="query" type="query"/>
+				<page rel="LAST" pgn="31" name="query" type="query"/>
+			</paging>
+		</product-results>
+	</product-results-module>
+	<popular-products-module>
+		<params/>
+		<popular-products n="4">
+			<product nr-of-offers="1" nr-of-merchants="1" pid="31546006" oid="1422671999" type="product">
+				<label>Nintendo 3DS XL System</label>
+				<price-range nr-of-offers="1" cur="USD" max="174.99" min="174.99"/>
+				<sub-label>Handheld Game Console - Width: 6.1" - Height: 0.9" - Depth: 3.7" - Color: Black - Memory
+					Technology: FCRAM - Standard Memory: 128 MB - Screen Size: 4.9"
+				</sub-label>
+				<brand bid="mnTmludGVuZG8.">
+					<label>Nintendo</label>
+				</brand>
+				<category nr-of-products="5" nr-of-offers="8" parent-cid="23" cid="637559">
+					<label>Game Consoles &amp; Portable Systems</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0045496780814</code>
+					<code type="UPC">045496780814</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/055/925/B_000055925519_EN_1100.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/055/925/I_000055925519_EN_1100.jpg"/>
+				<offer oid="1422671999">
+					<label>Nintendo 3DS XL - Black (Nintendo 3DS XL)</label>
+					<merchant mid="60106">
+						<label>Target</label>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=31546006&amp;c=637559&amp;o=1422671999&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=1f89093a84d2f3d9da3cfbc1cd7af7c7&amp;ver=2.0&amp;market=us&amp;man=Nintendo&amp;ser=2975&amp;pc=27655870&amp;pcat=78129&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=174.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d576qUACck0jDlLVbvej0pkLoV8oxEvubvhskiChrehnemwN-HxFLAQEPnXI7W5uoKuUTeONeFaDU257WnKRaV-mx1NFJhvr6WCw_jPAFjDDP7rPY9MFA1sr3jA-uazy_NNGr3sYvy4AeP2EDJoKTR_Dvu3gRidFSyROSsWtTU4FOzdZXMSj1JbZZzqO_4Z2xhnApk3B-AhJiPvCFt9W8Vq5YOpU0H5QbBwGzMXv_oovKm9ZQYhZyKzUPshxs7Utki2zh_rFDl4KYYO8SNNWEhtGz52sYP1Xj9wOGs7oh2AI2ieFTIaSHeMIpX4vH48IpywXRtmPb3Hq6gEyLwIbjt7Hgt9y1_DtZ4rJucuaDZWPb5Lhk56G88t1MfvbbxISyMQdpAJZk8rTAmodQgBJ8kqg..</url>
+					<price cur="USD">174.99</price>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes>
+					<product-attribute name="POPULAR"/>
+				</product-attributes>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="3" nr-of-merchants="1" pid="31608634" oid="1422671995" type="product">
+				<label>Nintendo 2DS Handheld Game Console</label>
+				<price-range nr-of-offers="3" cur="USD" max="129.99" min="129.99"/>
+				<sub-label>Handheld Game Console - Width: 5.7" - Height: 5" - Depth: 0.8" - Color: Red - Memory
+					Technology: FCRAM - Standard Memory: 128 MB - Screen Size: 3.5"
+				</sub-label>
+				<brand bid="mnTmludGVuZG8.">
+					<label>Nintendo</label>
+				</brand>
+				<category nr-of-products="5" nr-of-offers="8" parent-cid="23" cid="637559">
+					<label>Game Consoles &amp; Portable Systems</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0045496781439</code>
+					<code type="UPC">045496781439</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/057/406/B_000057406809_EN_1100.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/057/406/I_000057406809_EN_1100.jpg"/>
+				<offer oid="1422671995">
+					<label>Nintendo 2DS Crystal Red Console</label>
+					<merchant mid="60106">
+						<label>Target</label>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=31608634&amp;c=637559&amp;o=1422671995&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=1e4567f7962326fb068b674f3f5a55c0&amp;ver=2.0&amp;market=us&amp;man=Nintendo&amp;ser=2975&amp;pc=27655870&amp;pcat=78129&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=129.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5bP0vgJBrqJn2wgg1o4NOyiVrHuFFYnjd9Qv2zB-Oy3l9jiV3G4cOZF8XZCpgMJ7Gc3CgbpjoZBc2wv9czlItIexD6MBCb2a6EW6DR2PijmTIJUeBdz_UUWJSNq1bk53ZNWjubhpVJMbY6WM6XrTOA0Pm_G1rNOGXwipIH0AC1DjXL6qfoHmN61pimN2YHDT4h8sURGAVgDcoDYpn18SUrmjPwE-2BOx343-oNsgplGwCdIoyCuVjGRTt3faU6H8jkhgpECjcE0QuQOWUb9tZGePQPpfM9Q_oydtCZPqNpwlIcPK2TXalOHmmQi9zBoCm6DIGFMD07ojtdq-0KQH-0gw0PD5ykqtohAdn9e1pfp5Jl0_-EbB3iOx6uOIPT5XIl4VxFDblF3U.</url>
+					<price cur="USD">129.99</price>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" pid="33038559" oid="1444808711" type="product">
+				<label>Microsoft Xbox One Gaming Console</label>
+				<price-range nr-of-offers="1" cur="USD" max="499.99" min="499.99"/>
+				<sub-label>Gaming Console - Color: Black - Ethernet Technology: Gigabit Ethernet - Processor Speed: 1.60
+					GHz - Processor Type: Jaguar - Graphics Controller Model: Radeon - Wi-Fi: Wi-Fi - Optical Drive
+					Type: Blu-ray Disc Player
+				</sub-label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category nr-of-products="5" nr-of-offers="8" parent-cid="23" cid="637559">
+					<label>Game Consoles &amp; Portable Systems</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0885370808278</code>
+					<code type="UPC">885370808278</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/085/469/B_000085469649_EN_1100.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/085/469/I_000085469649_EN_1100.jpg"/>
+				<offer oid="1444808711">
+					<label>Microsoft Xbox One 500GB Console</label>
+					<merchant mid="60106">
+						<label>Target</label>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=33038559&amp;c=637559&amp;o=1444808711&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=404771350af15661d1ce27e860b78ced&amp;ver=2.0&amp;market=us&amp;man=Microsoft&amp;ser=2975&amp;pc=27655870&amp;pcat=78129&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=499.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5bYh04IRNa7g_qHXP9Co438mydGZQ-QM0PD4Zt_cUpKYJLNoHAbrCgZ0nRsynrO32oZBoBCAXMxZ2BkNF1mKar_wguQ1LCoG4pOviG4ow18hh5eCzmMpuqy8cBbzuv0TP-zCH8mlfo3_mdwC0V1gQFucqtkG_iLzoX7SM2nkjeiWwRXTss7e7i3gcVfoqYUIv_6iLZAYsFSLRl_HsXF7rbUFpL42gdb7H5GdO4UTGseIjVv_7w1PyoGPMN9J-640XMeryuO6YLyvccSV1tqM_UihwTXls8yX_AuCEgQx0ac2KAW_t_rN3prg74JBROXyB3kvzAdOd1VY2iVu-8cwjGvl8KYV4Q_L4IZc2rgdfTdxej0kBLaCBww..</url>
+					<price cur="USD">499.99</price>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>save $20 on Xbox Live</pitch>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+			<product nr-of-offers="2" nr-of-merchants="1" pid="31556430" oid="1471519803" type="product">
+				<label>Sony Playstation 4 Gaming Console</label>
+				<price-range nr-of-offers="2" cur="USD" max="449.99" min="399.99"/>
+				<sub-label>Gaming Console - Width: 10.8" - Height: 2.1" - Depth: 12" - Color: Black - Ethernet
+					Technology: Gigabit Ethernet - Processor Speed: 1.60 GHz - Processor Type: Jaguar
+				</sub-label>
+				<brand bid="mnU29ueQ..">
+					<label>Sony</label>
+				</brand>
+				<category nr-of-products="5" nr-of-offers="8" parent-cid="23" cid="637559">
+					<label>Game Consoles &amp; Portable Systems</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="2">
+					<code type="EAN">0711719100348</code>
+					<code type="UPC">711719100348</code>
+				</product-codes>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/056/125/B_000056125598_EN_1100.jpg"/>
+				<image type="NORMAL" name="I" height="300" width="300"
+				       source="http://images.channel.become.com/foxydeal_us/images/products/EN/1100/000/056/125/I_000056125598_EN_1100.jpg"/>
+				<offer oid="1471519803">
+					<label>Sony Batman: Arkham Knight PlayStation 4 Bundle - Limited Edition</label>
+					<merchant mid="60106">
+						<label>Target</label>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=31556430&amp;c=637559&amp;o=1471519803&amp;che=cGFuZ29yYSFn2KNSuS1VS-MyvySX3GIU&amp;m=60106&amp;rid=e8795f287251b5e507a3d0fd907a220f&amp;ver=2.0&amp;market=us&amp;man=Sony&amp;ser=2975&amp;pc=27655870&amp;pcat=78129&amp;abob=cGFuZ29yYSGJbEUxubigIg..&amp;abobcur=USD&amp;ts=MjAxNTA0MTUtMTA0MDIw&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=449.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_9&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKk4Cq6bS3nbVQteL3XmLK2a2ctQZCXH3zqocqlY3d1KM5CtCcFVWR65jt-VBJ_-NkxkpPBB8s2d5pat7njZm6Od4TtKvcyl8LEV6BqEXXJcyyyRbRBoq7so4tLnrNtF7GwCM6GxxR5SFl7iq405vZyNhz1skrYmtvVS_kk99RBYIUJCTvVixQ5Hyl1HzyfAP9VgE_jfoa6JhUyOx8q-MICZWuRC22UOXrQZ-QAHEB05VvRFhLilDuPDdB_THF4qf6nuebEtHSym1IdFEQCv-xxlbY9kUnr9bFqqHNIVu5Hp71udby4W5sl2U7UAXk6vCezKsJkTWSQPBIxJ9YRAyn4rHpHmEyJoN1E-jBfr-NhBmdHtKXnS25lHq1Jn95Stm4RFyNZK3GmeB7AH3KnCC45gdRPBCzSzIAlIX149hzbOITnPZlpBtM35ZSxb_f7NeT6xST2Vz9-Y6_KGTHyZxvkEvA8PUv0fIXg0FGwAuHNXjlvab2qDKY7q7qwrpsgCgoA..</url>
+					<price cur="USD">449.99</price>
+					<click-info>
+						<rev-forecast-gross scale="0.01" type="cpc" cur="USD">33</rev-forecast-gross>
+					</click-info>
+					<delivery>
+						<period unit="DAY" time="3" flag="SHORT">In Stock</period>
+						<charge cur="USD" price="0.00">$0.00</charge>
+					</delivery>
+					<pitch>spend $25, get free shipping</pitch>
+				</offer>
+				<product-ratings n="0"/>
+				<product-attributes/>
+				<status>ACTIVE</status>
+			</product>
+		</popular-products>
+	</popular-products-module>
+	<document-info service-id="2975" channel-id="foxydeal_us" host="foxydeal-us" msecs="21">
+		<tracking>
+			<tracking-data totalNumber="302">xbox</tracking-data>
+			<tracking-image height="1" width="1" source="http://us.channel.become.com/livexml/3.1/tr/lxtrimg.gif"/>
+			<tracking-script type="text/javascript">&lt;script type="text/javascript"
+				src="http://us.channel.become.com/livexml/3.1/tr/lxtrscript.js"&gt;&lt;/script&gt;
+				&lt;noscript&gt;&lt;div&gt;&lt;img src="http://us.channel.become.com/livexml/3.1/tr/lxtrimg.gif" alt=""
+				style="height: 1px; width: 1px;"/&gt;&lt;/div&gt;&lt;/noscript&gt;</tracking-script>
+		</tracking>
+		<cache-control expires="2015-04-15T10:45:20.115+02:00" max-age="300">
+			<last-modified>2015-04-15T10:40:20.115+02:00</last-modified>
+			<etag>MjAxNTA0MTUxfHwxNDI5MDg3MjIwMTE1</etag>
+		</cache-control>
+	</document-info>
+</dynamic-data>

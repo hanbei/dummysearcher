@@ -1,0 +1,1269 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>b330bbcf-f5e1-485f-a603-b0bb07b9db04</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="foxydeal0f-21"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:08:18Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="FMsZO3vCnTdREDiXvE2p86Dwyg0MA1LIBBINI+e7Cn4="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.7304540000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>5585559</TotalResults>
+		<TotalPages>558556</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.fr/gp/redirect.html?camp=2025&amp;creative=12742&amp;location=http%3A%2F%2Fwww.amazon.fr%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=foxydeal0f-21&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00RJMKQUG</ASIN>
+			<ParentASIN>B00RTFWMZA</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-Galaxy-Core-Prime-Smartphone/dp/B00RJMKQUG%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00RJMKQUG
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00RJMKQUG%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQUG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00RJMKQUG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQUG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00RJMKQUG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQUG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00RJMKQUG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQUG
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanc</Color>
+				<EAN>8806086574761</EAN>
+				<EANList>
+					<EANListElement>8806086574761</EANListElement>
+				</EANList>
+				<Feature>Processeur : Samsung</Feature>
+				<Feature>Système d'exploitation : Android 4.4 KitKat</Feature>
+				<Feature>Capacité : 8 Go</Feature>
+				<Feature>Ecran : 4.5 pouces</Feature>
+				<Feature>Simple SIM</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">35</Height>
+					<Length Units="hundredths-inches">517</Length>
+					<Weight Units="hundredths-pounds">29</Weight>
+					<Width Units="hundredths-inches">269</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>14900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 149,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>Galaxy Core Prime White</Model>
+				<MPN>SM-G360FZWAXEF</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">528</Length>
+					<Weight Units="hundredths-pounds">57</Weight>
+					<Width Units="hundredths-inches">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G360FZWAXEF</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Core Prime Smartphone débloqué 4G (Ecran : 4.5 pouces - 8 Go - Simple SIM -
+					Android 4.4 KitKat) Blanc
+				</Title>
+				<Warranty>Garantie Fabricant: 2 an(s)</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>13873</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 138,73</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>12</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00RJMKQUG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQUG
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							fUX4kGwIuVl0VcyUiy43PsLTDiRigVPGJKxsoa0GBOmN%2F0%2FocihXu90H8O0scem9ZagBHpsLi8xH%2Bh8Z5W8%2B1PvHEh1I2oXtjtyiEydIdiw%3D
+						</OfferListingId>
+						<Price>
+							<Amount>13873</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 138,73</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1027</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 10,27</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>7</PercentageSaved>
+						<Availability>Habituellement expédié sous 24 h</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00RJMKZKM</ASIN>
+			<ParentASIN>B00RTFPBU8</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-Galaxy-Grand-Prime-Smartphone/dp/B00RJMKZKM%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00RJMKZKM
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00RJMKZKM%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKZKM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00RJMKZKM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKZKM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00RJMKZKM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKZKM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00RJMKZKM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKZKM
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Gris</Color>
+				<EAN>8806086556262</EAN>
+				<EANList>
+					<EANListElement>8806086556262</EANListElement>
+				</EANList>
+				<Feature>Processeur : Samsung</Feature>
+				<Feature>Système d'exploitation : Android 4.4 KitKat</Feature>
+				<Feature>Capacité : 8 Go</Feature>
+				<Feature>Ecran : 5 pouces</Feature>
+				<Feature>Simple SIM</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">570</Height>
+					<Length Units="hundredths-inches">284</Length>
+					<Weight Units="hundredths-pounds">34</Weight>
+					<Width Units="hundredths-inches">34</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>19900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 199,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>Galaxy Grand Prime Gris</Model>
+				<MPN>SM-G530FZAAXEF</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">197</Height>
+					<Length Units="hundredths-inches">591</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G530FZAAXEF</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Grand Prime Smartphone débloqué 4G (Ecran : 5 pouces - 8 Go - Simple SIM - Android
+					4.4 KitKat) Gris
+				</Title>
+				<Warranty>Garantie Fabricant: 2 an(s)</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>18300</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 183,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>16800</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 168,00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>10</TotalNew>
+				<TotalUsed>3</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00RJMKZKM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKZKM
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							fUX4kGwIuVl0VcyUiy43Phea9K72qDmf9xY9z%2BtPpHVKTWJuuX94x5hDZmJWHUv70WTdl0bntuHXNWX94I4xBFdfNbWK7WBrM0HTKmrh7JyV%2FC1P7drlrp58VpZ%2F4dxO%2BMoBHyG6IhAd4P8zMxcdZw%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>18300</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 183,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1600</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 16,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>8</PercentageSaved>
+						<Availability>Expédition sous 2 à 3 jours ouvrés</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00J2TIUAM</ASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Doogee-VOYAGER-Smartphone-d%C3%A9bloqu%C3%A9-Bluetooth/dp/B00J2TIUAM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J2TIUAM
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00J2TIUAM%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00J2TIUAM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00J2TIUAM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00J2TIUAM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00J2TIUAM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00J2TIUAM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00J2TIUAM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00J2TIUAM
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Doogee</Brand>
+				<EAN>0799418625706</EAN>
+				<EANList>
+					<EANListElement>0799418625706</EANListElement>
+				</EANList>
+				<Feature>MTK6572W, Cortex A7 dual core, 1.3GHz Android 4.2 Smart Mobile Phone</Feature>
+				<Feature>5,0 pouces QHD LCD, écran tactile capacitif, résolution de 960 * 540, vue claire et vivante
+				</Feature>
+				<Feature>512MB RAM 4G ROM, Band: 2G (GSM 850/900/1800/1900MH); 3G (WCDMA 850/2100MHz)</Feature>
+				<Feature>Carte SIM: Double Cartes SIM Débloqué Double Réserves</Feature>
+				<Feature>Caméra: Double Caméra, celle d'avant: 2.0MP; celle d'arrière: 5.0MP, avec lampe de poche,
+					jusqu'à 2560 x 1920 pixels de résolution
+				</Feature>
+				<Label>Doogee</Label>
+				<Manufacturer>Doogee</Manufacturer>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">228</Height>
+					<Length Units="hundredths-inches">724</Length>
+					<Weight Units="hundredths-pounds">97</Weight>
+					<Width Units="hundredths-inches">441</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Doogee</Publisher>
+				<Studio>Doogee</Studio>
+				<Title>Doogee VOYAGER DG300 Grand écran Smartphone débloqué 5.0" Google Android 4.2 Dual Core 1.3GHz
+					512MB RAM + 4GB ROM support 3G GPS Wi-Fi Bluetooth - Blanc - pour Orange, SFR, Bouygues
+				</Title>
+				<UPC>799418625706</UPC>
+				<UPCList>
+					<UPCListElement>799418625706</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7799</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 77,99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00J2TIUAM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00J2TIUAM
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							z5cATI8m4G5TXmwH%2FKIGH6yL9RpHtuNUVM%2BltW1iGVAfq5sufBF7ikUywzJRY3i5v3nKtampkTcZCMG8%2Bhir6Nzo1te4oAlRXsGwEQ%2BHx8jUMu02VlrVbm4ceX5E53X%2FBCk7G1hG954eHWkhZfPm4w%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>7799</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 77,99</FormattedPrice>
+						</Price>
+						<Availability>Habituellement expédié sous 24 h</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00RJMKQJC</ASIN>
+			<ParentASIN>B00RTFWMZA</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-Galaxy-Core-Prime-Smartphone/dp/B00RJMKQJC%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00RJMKQJC
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00RJMKQJC%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQJC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00RJMKQJC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQJC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00RJMKQJC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQJC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00RJMKQJC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQJC
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Noir (Gris Charcoal)</Color>
+				<EAN>8806086574631</EAN>
+				<EANList>
+					<EANListElement>8806086574631</EANListElement>
+				</EANList>
+				<Feature>Processeur : Samsung</Feature>
+				<Feature>Système d'exploitation : Android 4.4 KitKat</Feature>
+				<Feature>Capacité : 8 Go</Feature>
+				<Feature>Ecran : 4.5 pouces</Feature>
+				<Feature>Simple SIM</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">35</Height>
+					<Length Units="hundredths-inches">517</Length>
+					<Weight Units="hundredths-pounds">29</Weight>
+					<Width Units="hundredths-inches">269</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>14900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 149,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>Galaxy Core Prime Charcoal Gray</Model>
+				<MPN>SM-G360FHAAXEF</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">528</Length>
+					<Weight Units="hundredths-pounds">57</Weight>
+					<Width Units="hundredths-inches">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G360FHAAXEF</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Core Prime Smartphone débloqué 4G (Ecran : 4.5 pouces - 8 Go - Simple SIM -
+					Android 4.4 KitKat) Noir (Gris Charcoal)
+				</Title>
+				<Warranty>Garantie Fabricant: 2 an(s)</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>13700</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 137,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>12567</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 125,67</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>17</TotalNew>
+				<TotalUsed>3</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00RJMKQJC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJMKQJC
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							fUX4kGwIuVl0VcyUiy43Pj7F09tc90lvz0Uvtue1okvBwZDa455VbGdwHc7x2lvgeQrqQyIyMMykh6LqyM5WIokpHfQ5vhjiJEd67X%2BkCmUp12AThf6V91NXFwknkHzqk3n5rsh97rt7nz7TlyGGdA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>13700</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 137,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1200</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 12,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>8</PercentageSaved>
+						<Availability>Expédition sous 2 à 3 jours ouvrés</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KG3I4RC</ASIN>
+			<ParentASIN>B00MON6U4G</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-Galaxy-Trend-Smartphone-d%C3%A9bloqu%C3%A9/dp/B00KG3I4RC%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KG3I4RC
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00KG3I4RC%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00KG3I4RC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00KG3I4RC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00KG3I4RC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00KG3I4RC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00KG3I4RC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00KG3I4RC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00KG3I4RC
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanc</Color>
+				<EAN>8806086188104</EAN>
+				<EANList>
+					<EANListElement>8806086188104</EANListElement>
+				</EANList>
+				<Feature>Synchroniser le calendrier à partir de votre compte Gmail ou autre compte mail</Feature>
+				<Feature>Vous pouvez choisir soit de l'enregistrer dans votre téléphone (sans synchronisation), soit de
+					le rattacher et le synchroniser avec votre compte mail (Gmail ou autre)
+				</Feature>
+				<ItemDimensions>
+					<Weight Units="hundredths-pounds">28</Weight>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>9999</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 99,99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>S7390W</Model>
+				<MPN>S7390W</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>S7390W</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Trend Lite Smartphone débloqué 3G+ (Ecran : 4 pouces - 4 Go - Android 4.1
+					JellyBean) Blanc
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7500</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 75,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>6000</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 60,00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>12</TotalNew>
+				<TotalUsed>6</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00KG3I4RC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00KG3I4RC
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							fUX4kGwIuVl0VcyUiy43PgLIbhriFu2gcWQYC5GRreOwDovcoXnO7Oh51zsx9grILTKnnnyPwAK3jeF3Tc%2BGDVq4RyPJ7IhCFrkvfnzVyXDWsITIjBP0WI%2F0xa5igKVetOQCr7rlsa7FYVcdx%2BJiCQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>7500</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 75,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>2499</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 24,99</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>25</PercentageSaved>
+						<Availability>Expédition sous 2 à 3 jours ouvrés</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00HG511EG</ASIN>
+			<ParentASIN>B00MQGIY2M</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Cubot-Smartphone-Android-MTK6572W-support/dp/B00HG511EG%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HG511EG
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00HG511EG%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00HG511EG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00HG511EG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00HG511EG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00HG511EG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00HG511EG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00HG511EG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00HG511EG
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Cubot</Brand>
+				<Color>Blanc</Color>
+				<EAN>0799418581934</EAN>
+				<EANList>
+					<EANListElement>0799418581934</EANListElement>
+				</EANList>
+				<Feature>MTK6572W, Cortex A7 dual core, 1.3GHz Android 4.2 Smart Mobile Phone</Feature>
+				<Feature>4,0 pouces écran IPS, résolution de 800 * 480, vue claire et vivante</Feature>
+				<Feature>512MB RAM 4G ROM, Band: 2G (GSM 850/900/1800/1900MH); 3G (WCDMA 850/2100MHz)</Feature>
+				<Feature>Carte SIM: Double Cartes SIM Débloqué Double Réserves</Feature>
+				<Feature>Caméra: Double Caméra, celle d'avant: 2.0MP; celle d'arrière: 5.0MP, avec lampe de poche,
+					jusqu'à 2560 x 1920 pixels de résolution
+				</Feature>
+				<Label>Cubot</Label>
+				<Manufacturer>Cubot</Manufacturer>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">283</Height>
+					<Length Units="hundredths-inches">748</Length>
+					<Weight Units="hundredths-pounds">110</Weight>
+					<Width Units="hundredths-inches">496</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Cubot</Publisher>
+				<Studio>Cubot</Studio>
+				<Title>Cubot P9 Grand écran Smartphone 3G 5.0 pouces écran QHD Android 4.2 MTK6572W Dual Core, Dual SIM,
+					Dual Caméra 8.0M &amp; 2.0M support GPS WiFi Blanc
+				</Title>
+				<UPC>799418581934</UPC>
+				<UPCList>
+					<UPCListElement>799418581934</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>8699</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 86,99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>4</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00HG511EG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00HG511EG
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							7bE9VOZ7kiJCjMUELGh9fwZ4LTAmWCvApGbbBxXRPtFw%2FOw56GJiYqBX9RD5rrz0Jt8c9R%2BE1IAID0rUr23DKL%2B3mhIO1C72QrkHvesovJRoNvuRbynb5OmrI%2BVOXWeQR48Xx8Rk1EKxkJrKD7RU1Q%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>8699</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 86,99</FormattedPrice>
+						</Price>
+						<Availability>Habituellement expédié sous 24 h</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00NC5TEVG</ASIN>
+			<ParentASIN>B00NLCTP00</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-Galaxy-Alpha-Smartphone-d%C3%A9bloqu%C3%A9/dp/B00NC5TEVG%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NC5TEVG
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00NC5TEVG%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00NC5TEVG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00NC5TEVG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00NC5TEVG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00NC5TEVG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00NC5TEVG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00NC5TEVG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00NC5TEVG
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Argent</Color>
+				<EAN>8806086432337</EAN>
+				<EANList>
+					<EANListElement>8806086432337</EANListElement>
+				</EANList>
+				<Feature>Processeur : Samsung</Feature>
+				<Feature>1.8 GHz Samsung Exynos 5 Octa</Feature>
+				<Feature>Système d'exploitation : Android 4.4 KitKat</Feature>
+				<Feature>Capacité : 32 Go</Feature>
+				<Feature>Ecran : 4.7 pouces</Feature>
+				<Feature>Simple SIM</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">28</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">25</Weight>
+					<Width Units="hundredths-inches">256</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-G850F</Model>
+				<MPN>SM-G850FHSEXEF</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">567</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G850FHSEXEF</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Alpha Smartphone débloqué 4G (Ecran : 4.7 pouces - 32 Go - Android 4.4 KitKat)
+					Argent
+				</Title>
+				<Warranty>Garantie Fabricant: 2 an(s)</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>36900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 369,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>31900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 319,00</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>31900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 319,00</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>15</TotalNew>
+				<TotalUsed>6</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>2</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00NC5TEVG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00NC5TEVG
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							ZbH%2BJ3t%2BzlCjLU9H88G16eO4WNHaIZ7k%2BI1dmiZwsgAjCU%2FmJxBdWATNmhAMmyMXrHHP4x6LrPIgGNDHX68FLJ4yvFi6DniN%2FobhyEaWQQOJUIg8RLQInPjs%2FRkCFrtvi7AIAPIzaAmXovZuRzWHSBopRTUjUyjG
+						</OfferListingId>
+						<Price>
+							<Amount>36900</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 369,00</FormattedPrice>
+						</Price>
+						<Availability>Expédition sous 3 à 4 jours ouvrés</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>72</MinimumHours>
+							<MaximumHours>96</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00JQB3OJS</ASIN>
+			<ParentASIN>B00MON6U4G</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-Galaxy-Trend-Smartphone-d%C3%A9bloqu%C3%A9/dp/B00JQB3OJS%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JQB3OJS
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00JQB3OJS%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00JQB3OJS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00JQB3OJS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00JQB3OJS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00JQB3OJS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00JQB3OJS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00JQB3OJS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00JQB3OJS
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Noir</Color>
+				<EAN>8806086188173</EAN>
+				<EANList>
+					<EANListElement>8806086188173</EANListElement>
+				</EANList>
+				<Feature>Garantie Fabricant: 2 an(s)</Feature>
+				<Feature>Ecran :4 pouces</Feature>
+				<Feature>Capacité :4 GB</Feature>
+				<Feature>3G Wifi, Ecran 4 pouces, Appareil Photo 3 MP</Feature>
+				<ItemDimensions>
+					<Weight Units="hundredths-pounds">28</Weight>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Languages>
+					<Language>
+						<Name>Italien</Name>
+						<Type>Manual</Type>
+					</Language>
+					<Language>
+						<Name>Allemand</Name>
+						<Type>Manual</Type>
+					</Language>
+					<Language>
+						<Name>Français</Name>
+						<Type>Manual</Type>
+					</Language>
+					<Language>
+						<Name>Anglais</Name>
+						<Type>Manual</Type>
+					</Language>
+					<Language>
+						<Name>Espagnol</Name>
+						<Type>Manual</Type>
+					</Language>
+				</Languages>
+				<LegalDisclaimer>Freech</LegalDisclaimer>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>8806086188173</Model>
+				<MPN>8806086188173</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">57</Weight>
+					<Width Units="hundredths-inches">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806086188173</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Trend Lite Smartphone débloqué 3G+ (Ecran : 4 pouces - 4 Go - Android 4.1
+					JellyBean) Noir
+				</Title>
+				<Warranty>Garantie Fabricant: 2 an(s)</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7500</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 75,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>6173</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 61,73</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>18</TotalNew>
+				<TotalUsed>9</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00JQB3OJS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00JQB3OJS
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							fUX4kGwIuVl0VcyUiy43PtAGTV7tgpjh%2FRK7Yfw6MxEKZFfKas3oxqreb%2BbHejGw6Ka3TKyTp9tEGc1eerQJeAo05oS3mtcWGdyK7c83XPY6FPlOOZ%2FqVk3XhQsd%2BZYIf98DORaBbyujWmvnoFM0bw%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>7500</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 75,00</FormattedPrice>
+						</Price>
+						<Availability>Expédition sous 2 à 3 jours ouvrés</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00RJML006</ASIN>
+			<ParentASIN>B00RTFPBU8</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-Galaxy-Grand-Prime-Smartphone/dp/B00RJML006%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00RJML006
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00RJML006%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJML006
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B00RJML006%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJML006
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B00RJML006%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJML006
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B00RJML006%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJML006
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Appareils électroniques</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Blanc</Color>
+				<EAN>8806086556323</EAN>
+				<EANList>
+					<EANListElement>8806086556323</EANListElement>
+				</EANList>
+				<Feature>Processeur : Samsung</Feature>
+				<Feature>Système d'exploitation : Android 4.4 KitKat</Feature>
+				<Feature>Capacité : 8 Go</Feature>
+				<Feature>Ecran : 5 pouces</Feature>
+				<Feature>Simple SIM</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">570</Height>
+					<Length Units="hundredths-inches">284</Length>
+					<Weight Units="hundredths-pounds">34</Weight>
+					<Width Units="hundredths-inches">34</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>19900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 199,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>Galaxy Grand Prime Blanc</Model>
+				<MPN>SM-G530FZWAXEF</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">213</Height>
+					<Length Units="hundredths-inches">583</Length>
+					<Weight Units="hundredths-pounds">40</Weight>
+					<Width Units="hundredths-inches">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G530FZWAXEF</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Grand Prime Smartphone débloqué 4G (Ecran : 5 pouces - 8 Go - Simple SIM - Android
+					4.4 KitKat) Blanc
+				</Title>
+				<Warranty>Garantie Fabricant: 2 an(s)</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>18200</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 182,00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>15</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B00RJML006%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB00RJML006
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							yPwrHg%2FKEwCdyp60xcQeaEtRpMP5v3Gfy8ISdkcNQxBwZwunHTAZVb1Bphs1o4Hb31ZYBQsPI9Ffrp%2FCZFc1VShtxGXLtIbF%2BhxQKfXZKhFLtCzX7CRznZ0HAT56N4bFMvhURYIZflmQqoU%2BGUiZbQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>18200</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 182,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1700</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 17,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>9</PercentageSaved>
+						<Availability>Expédition sous 2 à 3 jours ouvrés</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B009OZWQRM</ASIN>
+			<DetailPageURL>
+				http://www.amazon.fr/Samsung-GT-i9300-Assembly-Together-ReplacementS/dp/B009OZWQRM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009OZWQRM
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.fr/gp/registry/wishlist/add-item.html%3Fasin.0%3DB009OZWQRM%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB009OZWQRM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.fr/gp/pdp/taf/B009OZWQRM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB009OZWQRM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.fr/review/product/B009OZWQRM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB009OZWQRM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.fr/gp/offer-listing/B009OZWQRM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB009OZWQRM
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Accessoires pour téléphone sans fil</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>SP-SAM-S3-WH-(11D)</CatalogNumberListElement>
+				</CatalogNumberList>
+				<EAN>4895161916682</EAN>
+				<EANList>
+					<EANListElement>4895161916682</EANListElement>
+				</EANList>
+				<Feature>Samsung Galaxy S3 SIII GT-i9300</Feature>
+				<Feature>White Full LCD + Touch Screen Tactil Ecran Assembly Together</Feature>
+				<Feature>The same as picture shown.</Feature>
+				<Feature>No tools included</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">157</Height>
+					<Length Units="hundredths-inches">787</Length>
+					<Weight Units="hundredths-pounds">0</Weight>
+					<Width Units="hundredths-inches">394</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>i9300</Model>
+				<MPN>i9300</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">160</Height>
+					<Length Units="hundredths-inches">790</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">540</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>i9300</PartNumber>
+				<ProductGroup>Wireless Phone Accessory</ProductGroup>
+				<ProductTypeName>WIRELESS_PARTS</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S3 SIII GT-i9300 ~ White Full LCD + Touch Screen Tactil Ecran Assembly Together ~
+					Mobile Phone Repair Part ReplacementS
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>9998</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 99,98</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>6</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.fr/gp/offer-listing/B009OZWQRM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0f-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D12742%26creativeASIN%3DB009OZWQRM
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							fUX4kGwIuVl0VcyUiy43PjaHJl0ZAyc7tcncdr3ImSAk5fbfgX7pQ6xD3B62D8e3RX1k94BJBFfbMk8cGagy8DsNKFvakr0RIxv4MyTU4dXDAZbt52OZdO2aJD8qXB6tWv0jADl4AiGZOujJYQgQXt54VzGbdHCw
+						</OfferListingId>
+						<Price>
+							<Amount>10285</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 102,85</FormattedPrice>
+						</Price>
+						<Availability>Expédition sous 1 à 2 jours ouvrés</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

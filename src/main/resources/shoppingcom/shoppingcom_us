@@ -1,0 +1,2513 @@
+<GeneralSearchResponse
+	xmlns="urn:types.partner.api.shopping.com">
+	<serverDetail>
+		<apiEnv>prod</apiEnv>
+		<apiVersion>r91.2015.sprint08</apiVersion>
+		<buildNumber>27169</buildNumber>
+		<buildTimestamp>2015.04.29 15:40:16 PST</buildTimestamp>
+		<requestId>p27.2ef324cf9356da8222d3</requestId>
+		<timestamp>2015-05-05T09:35:40.582-04:00</timestamp>
+		<responseTime>P0DT0H0M0.077S</responseTime>
+	</serverDetail>
+	<exceptions exceptionCount="2">
+		<exception type="warning">
+			<code>1148</code>
+			<message>WARNING: Missing the "visitorUserAgent" parameter. Discover how you can easily add it to your
+				queries: http://developer.shopping.com/docs/read/Adding_Useragent_to_your_Queries
+			</message>
+		</exception>
+		<exception type="warning">
+			<code>1149</code>
+			<message>WARNING: We detected that you are missing the parameter "visitorIPAddress".</message>
+		</exception>
+	</exceptions>
+	<clientTracking height="1" type="pixel" width="1">
+		<sourceURL>http://www999.shopping.com/pixel/noscript?PV_EvnTyp=APPV&amp;APPV_APITSP=05%2F05%2F15_09%3A35%3A40_AM&amp;APPV_DSPRQSID=p27.2ef324cf9356da8222d3&amp;APPV_IMGURL=&amp;APPV_LI_LNKINID=8054241&amp;APPV_LI_SBMKYW=samsung&amp;APPV_MTCTYP=1000&amp;APPV_PRTID=148657&amp;APPV_BrnID=14783</sourceURL>
+		<hrefURL>http://www.shopping.com/televisions/products</hrefURL>
+		<titleText>Televisions</titleText>
+		<altText>Televisions</altText>
+	</clientTracking>
+	<searchHistory>
+		<categorySelection id="3">
+			<name>Electronics</name>
+			<categoryURL>http://www.shopping.com/xCH-electronics-samsung~linkin_id-8054241?oq=samsung</categoryURL>
+		</categorySelection>
+		<categorySelection id="85747">
+			<name>TV and Video</name>
+			<categoryURL>http://www.shopping.com/xCH-tv_and_video-samsung~linkin_id-8054241?oq=samsung</categoryURL>
+		</categorySelection>
+		<categorySelection id="96252">
+			<name>Televisions</name>
+			<categoryURL>http://www.shopping.com/televisions/samsung/products?oq=samsung&amp;linkin_id=8054241
+			</categoryURL>
+		</categorySelection>
+		<dynamicNavigationHistory>
+			<keywordSearch dropped="false" modified="false">
+				<originalKeyword>samsung</originalKeyword>
+				<resultKeyword>samsung</resultKeyword>
+			</keywordSearch>
+		</dynamicNavigationHistory>
+	</searchHistory>
+	<categories matchedCategoryCount="1" returnedCategoryCount="1">
+		<category id="96252">
+			<name>Televisions</name>
+			<categoryURL>http://www.shopping.com/televisions/samsung/products?oq=samsung&amp;linkin_id=8054241
+			</categoryURL>
+			<items matchedItemCount="178" pageNumber="1" returnedItemCount="10">
+				<product id="124301911">
+					<name>Samsung 8000 Series UN60ES8000 60" Full 3D 1080p HD Slim LED Internet TV</name>
+					<fullDescription>Whether you're enjoying 2D or 3D content, you'll be amazed by the vivid colors and
+						clear images on full HD 1080p resolution of the Samsung UN60ES8000 Internet TV. The 30,000,000:1
+						dynamic contrast ratio of this Samsung LCD TV perfectly produces the brightest whites and
+						darkest blacks, delivering deeper and sharper images. Thanks to the built-in camera placed on
+						the top of the Samsung UN60ES8000, you can easily navigate through its options via hand
+						gestures. Advanced Internet capabilities featured in this Internet TV let you stay connected,
+						upload photos, download applications, update music collections, or even shop online. This
+						Samsung LCD TV features applications that let you enjoy movies and video directly from websites
+						such as Netflix, YouTube, Pandora, etc. With AllShare Play, the Samsung UN60ES8000 LCD TV allows
+						wireless streaming of videos from your PC or smartphone.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<upcs>
+						<upc>036725237315</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqR,!ioE9eOwfmnUBP,lgC,KKQ~~_32-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;pid=124301911&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqR,!ioE9eOwfmnUBP,lgC,KKQ~~_32-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;pid=124301911&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqR,!ioE9eOwfmnUBP,lgC,KKQ~~_32-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;pid=124301911&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqR,!ioE9eOwfmnUBP,lgC,KKQ~~_32-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;pid=124301911&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="480" width="640">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqR,!ioE9eOwfmnUBP,lgC,KKQ~~_32-640x480-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;pid=124301911&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>5</reviewCount>
+						<rating>3.20</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_3.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>http://www.shopping.com/samsung-un60es8000f/reviews~linkin_id-8054241</reviewURL>
+					</rating>
+					<minPrice>1100.00</minPrice>
+					<maxPrice>1100.00</maxPrice>
+					<productOffersURL>http://www.shopping.com/samsung-un60es8000f/prices~linkin_id-8054241
+					</productOffersURL>
+					<productSpecsURL>http://www.shopping.com/samsung-un60es8000f/info~linkin_id-8054241
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="BhlJhlRttC5SKd9L2Z1IbA==" smartBuy="false" used="false">
+							<name>Samsung Un60es8000 60-Inch 1080P 240Hz 3D Slim Led Hdtv</name>
+							<description>What's IncludedSamsung 60 Class - LED - 1080p - Smart - 3D - HDTVStandSmart
+								Touch remote2 pairs of 3D active glasses (SSG-5150GB)Owner's manual
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/42/68/6c/4a686c5274744335534b64394c325a31496241-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=124301911&amp;fks=0&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/42/68/6c/4a686c5274744335534b64394c325a31496241-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=124301911&amp;fks=0&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/42/68/6c/4a686c5274744335534b64394c325a31496241-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=124301911&amp;fks=0&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/42/68/6c/4a686c5274744335534b64394c325a31496241-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=124301911&amp;fks=0&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="377" width="450">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/42/68/6c/4a686c5274744335534b64394c325a31496241-450x377-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=1&amp;pr=1&amp;dipr=1&amp;pid=124301911&amp;fks=0&amp;pdid=BhlJhlRttC5SKd9L2Z1IbA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">1100.00</basePrice>
+							<shippingCost currency="USD">20.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1100.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=15&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=523024&amp;crawler_id=523024&amp;dealId=BhlJhlRttC5SKd9L2Z1IbA%3D%3D&amp;url=http%3A%2F%2Fwww.grobbasdelight.com%2Fsamsung-un60es8000-60-inch-1080p-240hz-3d-slim-led-hdtv-336-p.asp&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un60es8000+60-Inch+1080P+240Hz+3D+Slim+Led+Hdtv&amp;dlprc=1100.0&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=124301911&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=82&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=floshgadgets336</offerURL>
+							<store authorizedReseller="false" id="523024" trusted="false">
+								<name>Grobba's Delight</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/523024.gif</sourceURL>
+								</logo>
+								<phoneNumber>3152771000</phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.74</cpc>
+							<sku>floshgadgets336</sku>
+							<quantity>0</quantity>
+							<mpn>UN60ES8000</mpn>
+							<upc>00013803145410</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<offer featured="false" id="l9WSh17cofV-8K3pvwPdfg==" smartBuy="false" used="false">
+					<name>Samsung 65 Inch LED Smart TV UN65H7150 3D HDTV with 3D glasses</name>
+					<description>Witness stunning picture quality with the Samsung LED H7150. Your favorite shows and
+						movies come to life as Micro Dimming Pro enhances color, contrast and detail. You can also
+						multi-task like a master as you watch your favorite TV show and browse the web with Dual
+						Screen.Note: Television returns are subject to restocking fees in accordance with Dells return
+						policy. See dell.com/returnspolicy. Width: 57.1 in Depth: 1.4 in Height: 32.9 in Weight: 49.4
+						lbs Enclosure Color: Black Product Type: LED-backlit LCD TV - Smart TV Diagonal Size: 65
+						Viewable Size: 64.5 in Series: 7150 Series Dimensions: Without stand TV Tuner: 1x analog, 1x
+						digital HDCP Compatible: Yes Video Interface: Component, composite, HDMI HDMI Ports Qty: 4
+						port(s) 3D Technology: Active 3D: Yes ( 3D glasses (2pcs) included ) Cables Included: Remote
+						control cable Power Device: Power supply Nominal Voltage: AC 120 V ( 60 Hz ) Display Format:
+						1080p (FullHD) Resolution: 1920 x 1080 Additional Features: Integrated web browser, Anynet Plus,
+						ultra clear panel, ConnectShare Movie, InstaPort, Samsung Apps, Wide Color Enhancer Plus, Eco
+						Sensor, Wi-Fi Direct, Micro Dimming Pro, BD Wise Plus, S-Recommendation, Screen Mirroring,
+						DirecTV support, Quad-Core processor, E-Manual, Samsung Smart View 2.0 Display Menu Language:
+						English, French, Spanish V-Chip Control: Yes LCD Backlight Technology: LED backlight Motion
+						Enhancement Technology: 960 Clear Motion Rate Connector Type: 4 x HDMI ( 19 pin HDMI Type A )3 x
+						USB 2.0 ( 4 pin USB Type A )1 x composite video / component video input ( RCA phono x 3 )1 x
+						network ( RJ-45 )1 x digital audio output (optical) ( TOSLINK )1 x audio line-out ( mini-phone
+						stereo 3.5 mm )1 x audio line-in ( RCA phono x 2 )1 x serial Parental Channel Lock: Yes
+						Electronic Program Guide: Digital EPG Closed Caption Capability: Yes Type: Remote control
+						Features: Samsung Smart Touch Control Speaker(s): 2 x main channel speaker - built-in - 10 Watt2
+						x subwoofer - 10 Watt Output Power / Total: 40 Watt Additional Features: Down-firing Speaker,
+						Voice Interaction Sound Effects: 3D Sound, DTS Studio Sound, DTS Premium Sound 5.1 Digital Audio
+						Format: Dolby Digital output Surround Mode: Yes Speaker System: 2 speakers, 2 woofers Weight
+						(Shipping): 70.5 lbs Width (Shipping): 61.9 in Depth (Shipping): 7.2 in Height (Shipping): 37.2
+						in Functionality: Digital audio playback, digital photo playback, digital video playback, WEB
+						browsing, Internet video playback Connectivity: Wi-Fi, LAN Internet Streaming Services: Smart
+						Hub LAN Protocol: Ethernet Dimensions &amp; Weight Details: Panel without stand - 57.1 in x 1.4
+						in x 32.9 in x 49.4 lbsPanel with stand - 57.1 in x 11.9 in x 34.9 in x 55.1 lbs Digital TV
+						Tuner: ATSC, QAM Flat Panel Mount Interface: 400 x 400 mm Stand Design: Tabletop Stand Color:
+						Silver Stand: Included ENERGY STAR Qualified: Yes USB Port: Yes , 3 port(s) Dimensions (WxDxH):
+						57.1 in x 1.4 in x 32.9 in - without stand Weight: 49.4 lbs Power: AC 120 V ( 60 Hz ) Product
+						Type: LED-backlit LCD TV - Smart TV Diagonal Size: 65 Viewable Size: 64.5 in Color: Black Remote
+						Control: Remote control Additional Features: Integrated web browser, Anynet Plus, ultra clear
+						panel, ConnectShare Movie, InstaPort, Samsung Apps, Wide Color Enhancer Plus, Eco Sensor, Wi-Fi
+						Direct, Micro Dimming Pro, BD Wise Plus, S-Recommendation, Screen Mirroring, DirecTV support,
+						Quad-Core processor, E-Manual, Samsung Smart View 2.0 Sound Effects: 3D Sound, DTS Studio Sound,
+						DTS Premium Sound 5.1 TV Tuner: 1x analog, 1x digital Resolution: 1920 x 1080 Digital TV Tuner:
+						ATSC, QAM Speaker System: 2 speakers, 2 woofers HDCP Compatible: Yes LCD Backlight Technology:
+						LED backlight Display Format: 1080p (FullHD) USB Port: Yes , 3 port(s) Connectivity: Wi-Fi, LAN
+						Video Interface: Component, c
+					</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di68.shoppingshadow.com/images/di/6c/39/57/53683137636f66562d384b3370767750646667-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di68.shoppingshadow.com/images/di/6c/39/57/53683137636f66562d384b3370767750646667-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di68.shoppingshadow.com/images/di/6c/39/57/53683137636f66562d384b3370767750646667-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di68.shoppingshadow.com/images/di/6c/39/57/53683137636f66562d384b3370767750646667-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="500" width="500">
+							<sourceURL>
+								http://di68.shoppingshadow.com/images/di/6c/39/57/53683137636f66562d384b3370767750646667-500x500-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=2&amp;pr=2&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<storeNotes>Free Shipping on all Orders!</storeNotes>
+					<basePrice currency="USD">2824.98</basePrice>
+					<tax checkSite="true"></tax>
+					<shippingCost currency="USD">0.00</shippingCost>
+					<totalPrice checkSite="true"></totalPrice>
+					<originalPrice currency="USD">2824.98</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=45&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=448058&amp;crawler_id=448058&amp;dealId=l9WSh17cofV-8K3pvwPdfg%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D600004400000012709%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+65+Inch+LED+Smart+TV+UN65H7150+3D+HDTV+with+3D+glasses&amp;dlprc=2824.98&amp;AR=2&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=88&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=A7613410</offerURL>
+					<store authorizedReseller="false" id="448058" trusted="true">
+						<name>Dell</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/448058.gif</sourceURL>
+						</logo>
+						<ratingInfo>
+							<reviewCount>2070</reviewCount>
+							<rating>3.66</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>http://www.shopping.com/xMR-store_dell_4135922~MRD-448058~S-1~linkin_id-8054241
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+							<countryCode>US</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.98</cpc>
+					<sku>A7613410</sku>
+					<quantity>0</quantity>
+					<mpn>UN65H7150AFXZA</mpn>
+					<upc>00887276680774</upc>
+				</offer>
+				<product id="175135546">
+					<name>Samsung 6400 Series UN55H6400 55" Full 3D 1080p HD LED LCD Internet TV</name>
+					<fullDescription>55 Class 1080p 120Hz 3D LED Smart Full HDTV is Smart and Beautiful.The Samsung 55
+						Class 1080p 120Hz 3D LED Smart Full HDTV features an upgraded Smart Hub that makes finding what
+						you re looking for is easier and more intuitive than ever. You can even ask for suggestions
+						using S Recommendation and share content to and from your smartphone or tablet.What you see on
+						the 55 Class 1080p 120Hz 3D LED Smart Full HDTV is even better. Discover whiter whites and
+						deeper blacks with Micro Dimming. This precise contrast makes movies, shows and sports crystal
+						clear. With the Samsung H6400, you ll discover more of what you love and enjoy it all in
+						stunning picture quality.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-2.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16VHJGIFFopzeT3QBReh4WDBNQ~~_32-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;pid=175135546&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>2</reviewCount>
+						<rating>4.50</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_4.5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>
+							http://www.shopping.com/samsung_un55h6400_55_full_3d_1080p_hd_led_lcd_internet_tv/reviews~linkin_id-8054241
+						</reviewURL>
+					</rating>
+					<minPrice>1197.99</minPrice>
+					<maxPrice>1599.99</maxPrice>
+					<productOffersURL>
+						http://www.shopping.com/samsung_un55h6400_55_full_3d_1080p_hd_led_lcd_internet_tv/prices~linkin_id-8054241
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.shopping.com/samsung_un55h6400_55_full_3d_1080p_hd_led_lcd_internet_tv/info~linkin_id-8054241
+					</productSpecsURL>
+					<offers matchedOfferCount="5" pageNumber="1" returnedOfferCount="5">
+						<offer featured="false" id="fSffXrXslZEk1OcTzpUZ5g==" smartBuy="false" used="false">
+							<name>Samsung 55-Inch LED Smart TV - UN55H6400 3D HDTV with 2 pair of 3D glasses</name>
+							<description>Experience vivid color and dramatic contrast with Samsung LED TVs. Your
+								favorite movies, sports and shows will be more vibrant, dynamic and detailed with Micro
+								Dimming technology, which makes your whites whiter, your blacks deeper.Note: Television
+								returns are subject to restocking fees in accordance with Dell’s return policy. See
+								dell.com/returnspolicy. Width: 48.8 in Depth: 2.5 in Height: 28.2 in Weight: 36.6 lbs
+								Product Type: LED-backlit LCD TV - Smart TV Diagonal Size: 55 Viewable Size: 54.6 in
+								Series: 6400 Series Dimensions: Without stand TV Tuner: 1x analog, 1x digital HDCP
+								Compatible: Yes Video Interface: Component, composite, HDMI HDMI Ports Qty: 4 port(s) 3D
+								Technology: Active 3D: Yes ( 3D glasses (2pcs) included ) Cables Included: Remote
+								control cable Power Device: Power supply Nominal Voltage: AC 120 V ( 60 Hz ) Display
+								Format: 1080p (FullHD) Resolution: 1920 x 1080 Additional Features: Integrated web
+								browser, Anynet Plus, game mode, AllShare, ConnectShare Movie, Samsung Apps, Wide Color
+								Enhancer Plus, Eco Sensor, Wi-Fi Direct, BD Wise Plus, S-Recommendation, Screen
+								Mirroring, DirecTV support, Quad-Core processor, E-Manual, Samsung Smart View 2.0
+								Display Menu Language: English, French, Spanish V-Chip Control: Yes LCD Backlight
+								Technology: LED backlight Motion Enhancement Technology: 480 Clear Motion Rate Motion
+								Enhancement Technology: 480 Clear Motion Rate Connector Type: 4 x HDMI ( 19 pin HDMI
+								Type A )3 x USB 2.0 ( 4 pin USB Type A )1 x composite video / component video input (
+								RCA phono x 3 )1 x network ( RJ-45 )1 x digital audio output (optical) ( TOSLINK )1 x
+								audio line-out ( mini-phone stereo 3.5 mm )1 x audio line-in ( RCA phono x 2 ) Parental
+								Channel Lock: Yes Electronic Program Guide: Digital EPG Closed Caption Capability: Yes
+								Type: Remote control Features: Samsung Smart Touch Control Speaker(s): 2 x main channel
+								speaker - built-in - 10 Watt Output Power / Total: 20 Watt Additional Features:
+								Down-firing Speaker, Voice Interaction Driver Details: Main channel speaker : full-range
+								driver Sound Effects: DTS Studio Sound Digital Audio Format: Dolby Digital output
+								Surround Mode: Yes Speaker System: 2 speakers Width (Shipping): 60.4 in Depth
+								(Shipping): 5.7 in Height (Shipping): 31.9 in Functionality: Digital audio playback,
+								digital photo playback, digital video playback, WEB browsing, Internet video playback
+								Connectivity: Wi-Fi, LAN Internet Streaming Services: Smart Hub LAN Protocol: Ethernet
+								Dimensions &amp; Weight Details: Panel without stand - 48.8 in x 2.5 in x 28.2 in x 36.6
+								lbsPanel with stand - 48.8 in x 12.1 in x 31.2 in x 39.9 lbs Flat Panel Mount Interface:
+								Yes Stand Design: Tabletop Stand Features: Swivel Stand Color: Matte silver Stand:
+								Included ENERGY STAR Qualified: Yes USB Port: Yes , 3 port(s) Dimensions (WxDxH): 48.8
+								in x 2.5 in x 28.2 in - without stand Weight: 36.6 lbs Power: AC 120 V ( 60 Hz ) Product
+								Type: LED-backlit LCD TV - Smart TV Diagonal Size: 55 Viewable Size: 54.6 in Remote
+								Control: Remote control Additional Features: Integrated web browser, Anynet Plus, game
+								mode, AllShare, ConnectShare Movie, Samsung Apps, Wide Color Enhancer Plus, Eco Sensor,
+								Wi-Fi Direct, BD Wise Plus, S-Recommendation, Screen Mirroring, DirecTV support,
+								Quad-Core processor, E-Manual, Samsung Smart View 2.0 Sound Effects: DTS Studio Sound TV
+								Tuner: 1x analog, 1x digital Resolution: 1920 x 1080 Speaker System: 2 speakers HDCP
+								Compatible: Yes LCD Backlight Technology: LED backlight Display Format: 1080p (FullHD)
+								USB Port: Yes , 3 port(s) Connectivity: Wi-Fi, LAN Video Interface: Component,
+								composite, HDMI Environmental Standards: ENERGY STAR Qualified HDMI Ports Qty: 4 port(s)
+								Internet Streaming Services: Smart Hub Motion Enhancement Technology: 480 Clear Motion
+								Rate Motion Enhanceme
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/66/53/66/66587258736c5a456b314f63547a70555a3567-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/66/53/66/66587258736c5a456b314f63547a70555a3567-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=1&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Free Shipping On All Orders</storeNotes>
+							<basePrice currency="USD">1599.99</basePrice>
+							<tax checkSite="true"></tax>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1599.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=44&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=448059&amp;crawler_id=448059&amp;dealId=fSffXrXslZEk1OcTzpUZ5g%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D600004390000036426%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+55-Inch+LED+Smart+TV+-+UN55H6400+3D+HDTV+with+2+pair+of+3D+glasses&amp;dlprc=1599.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135546&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=90&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=A7602802</offerURL>
+							<store authorizedReseller="false" id="448059" trusted="true">
+								<name>Dell Small Office</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/448059.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>2070</reviewCount>
+									<rating>3.66</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_dell_smb~MRD-448059~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.97</cpc>
+							<sku>A7602802</sku>
+							<quantity>0</quantity>
+							<upc>00887276685984</upc>
+						</offer>
+						<offer featured="false" id="zg-MCTTIOi5M32wp7Calgw==" smartBuy="false" used="false">
+							<name>Samsung Un55h6400 55 Class Full 1080p Hd 3d Led Tv Bundle. Kit With A Soundbar</name>
+							<description>1.888.209.5772 About me Contact Us Shipping Payments FAQ Samsung UN55H6400 55
+								Class Full 1080p HD Smart 3D LED TV, - Bundle With Samsung HW-F355 2.1 Channel Soundbar
+								System with Subwoofer, Tilting TV Wall Mount for 32-65 Displays, HDMI Mini Cable 6'SKU:
+								SSGUN55H640C Mfr. Part: UN55H6400 Item Includes Samsung UN55H6400 55 Class Full 1080p HD
+								Smart 3D LED TV - 2 x SSG-5150 3D Active Glasses - Smart Touch Remote Control - Samsung
+								Warranty - Samsung HW-F355 2.1 Channel Soundbar System with Subwoo
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/7a/67/2d/4d435454494f69354d333277703743616c6777-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/7a/67/2d/4d435454494f69354d333277703743616c6777-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/7a/67/2d/4d435454494f69354d333277703743616c6777-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/7a/67/2d/4d435454494f69354d333277703743616c6777-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=2&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">1350.00</basePrice>
+							<shippingCost currency="USD">101.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1599.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1930865&amp;dealId=zg-MCTTIOi5M32wp7Calgw%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D371263854509%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F371263854509%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un55h6400+55+Class+Full+1080p+Hd+3d+Led+Tv+Bundle.+Kit+With+A+Soundbar&amp;dlprc=1350.0&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135546&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=371263854509</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>371263854509</sku>
+							<quantity>0</quantity>
+							<mpn>UN55H6400AFXZA</mpn>
+							<upc>00887276685984</upc>
+						</offer>
+						<offer featured="false" id="xEb0qyFiVQDT-1Rq9H4lAA==" smartBuy="false" used="false">
+							<name>Samsung Un55h6400 55 Class Full 1080p Hd Smart 3d Led Tv</name>
+							<description>1.888.209.5772 About me Contact Us Shipping Payments FAQ Samsung UN55H6400 55
+								Class Full 1080p HD Smart 3D LED TV, 16:9 Aspect Ratio, Quad-Core Processor, 4x HDMI/3x
+								USB, Built-In Wi-Fi, Full Web Browser SKU: SSGUN55H6400 Mfr. Part: UN55H6400 Item
+								Includes Samsung UN55H6400 55 Class Full 1080p HD Smart 3D LED TV - 2 x SSG-5150 3D
+								Active Glasses - Smart Touch Remote Control - Samsung Warranty Description Enjoy full HD
+								picture quality or stream multimedia content with the Samsung UN55H6400 55 Cl
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/78/45/62/3071794669565144542d3152713948346c4141-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/78/45/62/3071794669565144542d3152713948346c4141-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/78/45/62/3071794669565144542d3152713948346c4141-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/78/45/62/3071794669565144542d3152713948346c4141-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=3&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">1197.99</basePrice>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1197.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1930865&amp;dealId=xEb0qyFiVQDT-1Rq9H4lAA%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D331441310229%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F331441310229%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un55h6400+55+Class+Full+1080p+Hd+Smart+3d+Led+Tv&amp;dlprc=1197.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135546&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=331441310229</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>331441310229</sku>
+							<quantity>0</quantity>
+							<mpn>UN55H6400AFXZA</mpn>
+							<upc>00887276685984</upc>
+						</offer>
+						<offer featured="false" id="J02FUS1m5HOsLkh9LuHObw==" smartBuy="false" used="false">
+							<name>Samsung 6400 Series 55 Full 3d 1080p Hd Led Lcd Internet Tv 2014 Series</name>
+							<description>Samsung UN55H6400 55-inch LED H6400 Series Smart TV Home About Us Shipping Info
+								Feedback Return Policy FAQ Contact Us Add our store to your favorites and receive
+								exclusive emails about new items and special promotions! General Interest Samsung
+								UN55H6400 55-inch LED H6400 Series Smart TV Item Description Samsung UN55H6400's Smart
+								TV has been designed not only for rich, vibrant depth of color for your collection of
+								physical media and streaming options, but also to help you FIND content you might
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/4a/30/32/465553316d35484f734c6b68394c75484f6277-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=4&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/4a/30/32/465553316d35484f734c6b68394c75484f6277-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=4&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/4a/30/32/465553316d35484f734c6b68394c75484f6277-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=4&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di70.shoppingshadow.com/images/di/4a/30/32/465553316d35484f734c6b68394c75484f6277-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=4&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">1327.88</basePrice>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1327.88</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1929721&amp;dealId=J02FUS1m5HOsLkh9LuHObw%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D191211263157%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F191211263157%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+6400+Series+55+Full+3d+1080p+Hd+Led+Lcd+Internet+Tv+2014+Series&amp;dlprc=1327.88&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135546&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=191211263157</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>191211263157</sku>
+							<quantity>0</quantity>
+							<mpn>UN55H6400AFXZA</mpn>
+						</offer>
+						<offer featured="false" id="wy1QDbEAAQ9Ecrsg75LW5g==" smartBuy="false" used="false">
+							<name>Samsung Electronics UN55H6400AFXZA UN55H6400 - 55 Class ( 54.6 viewable ) 3D LED TV
+							</name>
+							<description>Samsung UN55H6400 - 55 Class ( 54.6 viewable ) - 6400 Series 3D LED TV - Smart
+								TV - 1080p (FullHD)
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di66.shoppingshadow.com/images/di/77/79/31/5144624541415139456372736737354c573567-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=5&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di66.shoppingshadow.com/images/di/77/79/31/5144624541415139456372736737354c573567-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=5&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di66.shoppingshadow.com/images/di/77/79/31/5144624541415139456372736737354c573567-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=5&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di66.shoppingshadow.com/images/di/77/79/31/5144624541415139456372736737354c573567-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=3&amp;pr=3&amp;dipr=5&amp;pid=175135546&amp;fks=0&amp;pdid=fSffXrXslZEk1OcTzpUZ5g%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">1199.99</basePrice>
+							<tax checkSite="true"></tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1599.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=390&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=454401&amp;crawler_id=454401&amp;dealId=wy1QDbEAAQ9Ecrsg75LW5g%3D%3D&amp;url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-1319015-10273684%3Furl%3Dhttp%253A%252F%252Fwww.macmall.com%252Fp%252F8596933%253Fdpno%253D9984113%2526source%253Dzwb12166%26SID%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Electronics+UN55H6400AFXZA+UN55H6400+-+55+Class+%28+54.6+viewable+%29+3D+LED+TV&amp;dlprc=1199.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135546&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=5&amp;IsLps=0&amp;code=&amp;acode=405&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=9984113</offerURL>
+							<store authorizedReseller="false" id="454401" trusted="true">
+								<name>MacMall</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/454401.gif</sourceURL>
+								</logo>
+								<phoneNumber>(800) 622-6255</phoneNumber>
+								<ratingInfo>
+									<reviewCount>376</reviewCount>
+									<rating>3.47</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_macmall~MRD-454401~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.04</cpc>
+							<sku>9984113</sku>
+							<quantity>0</quantity>
+						</offer>
+					</offers>
+					<numStores>3</numStores>
+				</product>
+				<product id="175135563">
+					<name>Samsung 6350 Series UN65H6350 65" 1080p HD LED LCD Internet TV</name>
+					<fullDescription>The 65 Class 1080p 120Hz LED Smart Full HDTV Features Superior Picture Quality and
+						Smart Connectivity.An upgraded Smart Hub within the Samsung 65 Class 1080p 120Hz LED Smart Full
+						HDTV organizes your content to make finding what you re looking for easier and more intuitive
+						than ever. This TV is backed by a lightning-fast quad core processor, which reduces lag and
+						accelerates load and playback times.The 65 Class 1080p 120Hz LED Smart Full HDTV also connects
+						to other smart devices. Quickly share your favorite content from your smartphone or tablet to
+						the TV using AllShare, and turn those devices into a second TV with Smart View. With the Samsung
+						H6350 Smart LED TV, you get more than a TV; you get a complete entertainment experience.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/s/MzU0WDUwMA==/z/ldEAAOxyBvZTSp~4/$_32-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;pid=175135563&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>1397.99</minPrice>
+					<maxPrice>2289.98</maxPrice>
+					<productOffersURL>
+						http://www.shopping.com/samsung_un65h6350_65_1080p_hd_led_lcd_internet_tv/prices~linkin_id-8054241
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.shopping.com/samsung_un65h6350_65_1080p_hd_led_lcd_internet_tv/info~linkin_id-8054241
+					</productSpecsURL>
+					<offers matchedOfferCount="5" pageNumber="1" returnedOfferCount="5">
+						<offer featured="false" id="E1X7tfpdI3cijxr9-bOOLw==" smartBuy="false" used="false">
+							<name>Samsung 65 Inch LED Smart TV UN65H6350 HDTV</name>
+							<description>The faster and smarter Samsung H6350 Smart LED TV. An upgraded smart hub
+								organizes your content to make finding what you're looking for easier and more intuitive
+								than ever. This TV is backed by a lightning-fast quad core processor, which reduces lag
+								and accelerates load and smoother navigation.Note: Television returns are subject to
+								restocking fees in accordance with Dell’s return policy. See dell.com/returnspolicy.
+								Width: 57.5 in Depth: 2.8 in Height: 33.3 in Weight: 56.2 lbs Product Type: LED-backlit
+								LCD TV - Smart TV Diagonal Size: 65 Viewable Size: 64.5 in Series: 6350 Series
+								Dimensions: Without stand TV Tuner: 1x analog, 1x digital HDCP Compatible: Yes Video
+								Interface: Component, composite, HDMI HDMI Ports Qty: 4 port(s) Cables Included: Remote
+								control cable Power Device: Power supply Nominal Voltage: AC 120 V ( 60 Hz ) Display
+								Format: 1080p (FullHD) Resolution: 1920 x 1080 Additional Features: Integrated web
+								browser, Anynet Plus, game mode, AllShare, ConnectShare Movie, Samsung Apps, Wide Color
+								Enhancer Plus, Eco Sensor, Wi-Fi Direct, BD Wise Plus, S-Recommendation, Screen
+								Mirroring, DirecTV support, Quad-Core processor, E-Manual, Samsung Smart View 2.0
+								Display Menu Language: English, French, Spanish V-Chip Control: Yes LCD Backlight
+								Technology: LED backlight Motion Enhancement Technology: 240 Clear Motion Rate Connector
+								Type: 4 x HDMI ( 19 pin HDMI Type A )3 x USB 2.0 ( 4 pin USB Type A )1 x composite video
+								/ component video input ( RCA phono x 3 )1 x network ( RJ-45 )1 x digital audio output
+								(optical) ( TOSLINK )1 x audio line-out ( mini-phone stereo 3.5 mm )1 x audio line-in (
+								RCA phono x 2 )1 x serial Parental Channel Lock: Yes Electronic Program Guide: Digital
+								EPG Closed Caption Capability: Yes Type: Universal remote control Remote Control Model:
+								Samsung TM1260C Speaker(s): 2 x main channel speaker - built-in - 10 Watt Output Power /
+								Total: 20 Watt Additional Features: Down-firing Speaker, Voice Interaction Driver
+								Details: Main channel speaker : full-range driver Sound Effects: DTS Studio Sound, DTS
+								Premium Sound 5.1 Digital Audio Format: Dolby Digital output Surround Mode: Yes Speaker
+								System: 2 speakers Functionality: Digital audio playback, digital photo playback,
+								digital video playback, WEB browsing, Internet video playback Connectivity: Wi-Fi, LAN
+								Internet Streaming Services: Smart Hub LAN Protocol: Ethernet Dimensions &amp; Weight
+								Details: Panel without stand - 57.5 in x 2.8 in x 33.3 in x 56.2 lbsPanel with stand -
+								57.5 in x 14.8 in x 36.7 in x 61.9 lbs Digital TV Tuner: ATSC, QAM Flat Panel Mount
+								Interface: Yes Stand Design: Tabletop Stand Features: Swivel Stand Color: Matte silver
+								Stand: Included ENERGY STAR Qualified: Yes USB Port: Yes , 3 port(s) Dimensions (WxDxH):
+								57.5 in x 2.8 in x 33.3 in - without stand Weight: 56.2 lbs Power: AC 120 V ( 60 Hz )
+								Product Type: LED-backlit LCD TV - Smart TV Diagonal Size: 65 Viewable Size: 64.5 in
+								Remote Control: Universal remote control Additional Features: Integrated web browser,
+								Anynet Plus, game mode, AllShare, ConnectShare Movie, Samsung Apps, Wide Color Enhancer
+								Plus, Eco Sensor, Wi-Fi Direct, BD Wise Plus, S-Recommendation, Screen Mirroring,
+								DirecTV support, Quad-Core processor, E-Manual, Samsung Smart View 2.0 Sound Effects:
+								DTS Studio Sound, DTS Premium Sound 5.1 TV Tuner: 1x analog, 1x digital Resolution: 1920
+								x 1080 Digital TV Tuner: ATSC, QAM Speaker System: 2 speakers HDCP Compatible: Yes LCD
+								Backlight Technology: LED backlight Display Format: 1080p (FullHD) USB Port: Yes , 3
+								port(s) Connectivity: Wi-Fi, LAN Video Interface: Component, composite, HDMI
+								Environmental Standards: ENERGY STAR Qualified HDMI Ports Qty: 4 port(s) Internet
+								Streaming Services: Smart Hub Motion Enhancement Technology: 240 Clear Motion Rate
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/45/31/58/3774667064493363696a7872392d624f4f4c77-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/45/31/58/3774667064493363696a7872392d624f4f4c77-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=1&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Free Shipping On All Orders</storeNotes>
+							<basePrice currency="USD">2289.98</basePrice>
+							<tax checkSite="true"></tax>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">2289.98</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=44&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=448059&amp;crawler_id=448059&amp;dealId=E1X7tfpdI3cijxr9-bOOLw%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D600004390000036432%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+65+Inch+LED+Smart+TV+UN65H6350+HDTV&amp;dlprc=2289.98&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135563&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=90&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=A7612667</offerURL>
+							<store authorizedReseller="false" id="448059" trusted="true">
+								<name>Dell Small Office</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/448059.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>2070</reviewCount>
+									<rating>3.66</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_dell_smb~MRD-448059~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.97</cpc>
+							<sku>A7612667</sku>
+							<quantity>0</quantity>
+							<upc>00887276674391</upc>
+						</offer>
+						<offer featured="false" id="BtS5UWduD-NHBO-9qce8aQ==" smartBuy="false" used="false">
+							<name>Samsung Un65h6350 65 Class Full 1080p Hd Smart Led Tv</name>
+							<description>1.888.209.5772 About me Contact Us Shipping Payments FAQ Samsung UN65H6350 65
+								Class Full 1080p HD Smart LED TV, 16:9 Aspect Ratio, 120Hz Refresh Rate, Quad-Core
+								Processor, 4x HDMI/3x USB, Built-In Wi-Fi SKU: SSGUN65H6350 Mfr. Part: UN65H6350 Item
+								Includes Samsung UN65H6350 65 Class Full 1080p HD Smart LED TV - Universal Remote
+								Control - IR Extender Cable - Remote Control Battery - Slim Gender Cable - Power Cable -
+								User Manual - E-Manual - Samsung 1 Year Warranty Description Enjoy Full HD 1080p
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/42/74/53/3555576475442d4e48424f2d39716365386151-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/42/74/53/3555576475442d4e48424f2d39716365386151-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/42/74/53/3555576475442d4e48424f2d39716365386151-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/42/74/53/3555576475442d4e48424f2d39716365386151-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=2&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">1497.99</basePrice>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1699.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1930865&amp;dealId=BtS5UWduD-NHBO-9qce8aQ%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D371265294576%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F371265294576%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un65h6350+65+Class+Full+1080p+Hd+Smart+Led+Tv&amp;dlprc=1497.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135563&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=371265294576</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>371265294576</sku>
+							<quantity>0</quantity>
+							<mpn>UN65H6350AFXZA</mpn>
+							<upc>00887276674391</upc>
+						</offer>
+						<offer featured="false" id="JZ6nX7tL8w10puPBNEpZXA==" smartBuy="false" used="false">
+							<name>Samsung Un65h6350 65-inch Led Tv</name>
+							<description>Samsung UN65H6350 65-inch LED TV Faster Smarter LED TV with Quad Core Processor
+								Smart Hub Organizes your media easier intuitively Seamlessly Connect to your Network w
+								Built in Wi Fi What's in the box...UN65H6350 Remote Control Battery Slim Gender Cable
+								E–Manual IR Extender Cable Power Cable User Manual PRODUCT DESCRIPTION Full HD 1080p
+								Experience a great picture with no compromises with Samsung 1080p full HD. With a
+								resolution twice as high as standard HD TVs, you can catch all the details of
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/4a/5a/36/6e5837744c38773130707550424e45705a5841-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=3&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/4a/5a/36/6e5837744c38773130707550424e45705a5841-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=3&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/4a/5a/36/6e5837744c38773130707550424e45705a5841-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=3&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/4a/5a/36/6e5837744c38773130707550424e45705a5841-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=3&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="472" width="500">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/4a/5a/36/6e5837744c38773130707550424e45705a5841-500x472-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=3&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">1397.99</basePrice>
+							<shippingCost currency="USD">196.92</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1397.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1929721&amp;dealId=JZ6nX7tL8w10puPBNEpZXA%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D171567794610%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F171567794610%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un65h6350+65-inch+Led+Tv&amp;dlprc=1397.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135563&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=171567794610</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>171567794610</sku>
+							<quantity>0</quantity>
+							<mpn>UN65H6350AFXZA</mpn>
+						</offer>
+						<offer featured="false" id="hLhCYqmom9SbUKRalRbDOw==" smartBuy="false" used="false">
+							<name>Samsung Un65h6350 65-inch 1080p 120hz Smart Led Tv (2014 Model)</name>
+							<description>Refresh Rate: 120Hz (Native); Clear Motion Rate 240 (Effective)Backlight: LED
+								(Edge-Lit)Smart Functionality: Yes Dimensions (W x H x D): TV without stand: 57.3'' x
+								33.3'' x 2.8'', TV with stand: 57.3'' x 36.7'' x 14.8''Inputs: 4 HDMI, 3 USB, 1
+								Component, 1 Composite Accessories Included: Univeral Remote Control
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/68/4c/68/4359716d6f6d395362554b52616c5262444f77-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=4&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/68/4c/68/4359716d6f6d395362554b52616c5262444f77-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=4&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/68/4c/68/4359716d6f6d395362554b52616c5262444f77-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=4&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/68/4c/68/4359716d6f6d395362554b52616c5262444f77-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=4&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="282" width="400">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/68/4c/68/4359716d6f6d395362554b52616c5262444f77-400x282-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=4&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">1536.99</basePrice>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1536.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1932190&amp;dealId=hLhCYqmom9SbUKRalRbDOw%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D371303352406%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F371303352406%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un65h6350+65-inch+1080p+120hz+Smart+Led+Tv+%282014+Model%29&amp;dlprc=1536.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135563&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=371303352406</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>371303352406</sku>
+							<quantity>0</quantity>
+							<mpn>UN65H6350AFXZA</mpn>
+						</offer>
+						<offer featured="false" id="G21jSRdjtYP-NFMdgLWgCw==" smartBuy="false" used="false">
+							<name>Samsung Electronics UN65H6350AFXZA 65 Black LED 1080P Smart HDTV</name>
+							<description>Samsung 65 Black LED 1080P Smart HDTV - UN65H6350AFXZA</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/47/32/31/6a5352646a7459502d4e464d64674c57674377-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=5&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/47/32/31/6a5352646a7459502d4e464d64674c57674377-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=5&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/47/32/31/6a5352646a7459502d4e464d64674c57674377-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=5&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di67.shoppingshadow.com/images/di/47/32/31/6a5352646a7459502d4e464d64674c57674377-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=4&amp;pr=4&amp;dipr=5&amp;pid=175135563&amp;fks=0&amp;pdid=E1X7tfpdI3cijxr9-bOOLw%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">1399.99</basePrice>
+							<tax checkSite="true"></tax>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1399.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=390&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=454401&amp;crawler_id=454401&amp;dealId=G21jSRdjtYP-NFMdgLWgCw%3D%3D&amp;url=http%3A%2F%2Fwww.tkqlhce.com%2Fclick-1319015-10273684%3Furl%3Dhttp%253A%252F%252Fwww.macmall.com%252Fp%252F8582981%253Fdpno%253D9970162%2526source%253Dzwb12166%26SID%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Electronics+UN65H6350AFXZA+65+Black+LED+1080P+Smart+HDTV&amp;dlprc=1399.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=175135563&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=5&amp;IsLps=0&amp;code=&amp;acode=405&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=9970162</offerURL>
+							<store authorizedReseller="false" id="454401" trusted="true">
+								<name>MacMall</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/454401.gif</sourceURL>
+								</logo>
+								<phoneNumber>(800) 622-6255</phoneNumber>
+								<ratingInfo>
+									<reviewCount>376</reviewCount>
+									<rating>3.47</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_macmall~MRD-454401~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.04</cpc>
+							<sku>9970162</sku>
+							<quantity>0</quantity>
+						</offer>
+					</offers>
+					<numStores>3</numStores>
+				</product>
+				<offer featured="false" id="1oq7J3zMPB2rAEQ2FyI2fg==" smartBuy="false" used="false">
+					<name>Samsung 65 Inch LED Smart TV UN65H6203AF HDTV</name>
+					<description>Experience a great picture with no compromises with Samsung 1080p Full HD. With a
+						resolution twice as high as standard HD TVs, you can catch all the details of your favorite
+						films and games.Explore movies, shows, apps and more on the intuitive and intelligent Samsung
+						Smart TVs. Browse a new world of TV entertainment quickly and simply with a powerful processor
+						and helpful tools like S Recommendation.Enjoy everything you love in one place. The Smart Hub
+						organizes your entertainment into 2 easy to use panels: OnTV and Apps. Effortlessly navigate
+						through live TV, movies, streaming content, browsing and more.Receive personalized TV and movie
+						recommendations based on your own preferences and what's popular and trending. Just ask your TV
+						things like what action movies are on or open the Smart Hub to browse suggestions.Note:
+						Television returns are subject to restocking fees in accordance with Dell’s return policy. See
+						dell.com/returnspolicy.BrowserBrowse the web on your Smart TV to find the latest content. Enjoy
+						everything from online shopping, social media browsing, entertainment news and the latest
+						YouTube hits. Catch up on the latest content, and then go back to watching TV.S RecommendationS
+						Recommendation uses your preferences to find the movies and shows you'll enjoy. Just ask your TV
+						things like “what action movies are on” or open the hub to browse suggestions. The more you use
+						it, the more personalized it can become. Width: 58.3 in Depth: 3.8 in Height: 34.4 in Weight:
+						62.4 lbs Enclosure Color: Black Power Consumption Operational: 195 Watt Product Type:
+						LED-backlit LCD TV - Smart TV Diagonal Size: 65 Viewable Size: 64.5 in Series: H6203 Series
+						Dimensions: Without stand Energy Consumption per Year: 123 kWh HDCP Compatible: Yes Video
+						Interface: Component, composite, HDMI HDMI Ports Qty: 2 port(s) Power Device: Power supply
+						Nominal Voltage: AC 120 V ( 60 Hz ) Power Consumption Stand by: 0.3 Watt Display Format: 1080p
+						(FullHD) Resolution: 1920 x 1080 Additional Features: Integrated web browser, Anynet Plus, game
+						mode, ConnectShare Movie, Wide Color Enhancer Plus, Eco Sensor, Smart Hub, Wi-Fi Direct,
+						S-Recommendation, Screen Mirroring, E-Manual Display Menu Language: English, French, Spanish
+						V-Chip Control: Yes LCD Backlight Technology: LED backlight Motion Enhancement Technology: 240
+						Clear Motion Rate Connector Type: 2 x HDMI ( 19 pin HDMI Type A )2 x USB ( 4 pin USB Type A )1 x
+						network ( RJ-45 )1 x composite video / component video input ( RCA phono x 3 )1 x audio line-in
+						( RCA phono x 2 )1 x digital audio output (optical) ( TOSLINK )1 x audio line-out ( mini-phone
+						stereo 3.5 mm )1 x serial Parental Channel Lock: Yes Electronic Program Guide: Digital EPG
+						Closed Caption Capability: Yes Type: Universal remote control Remote Control Model: Samsung
+						TM1250A Speaker(s): 2 x main channel speaker - built-in - 10 Watt Output Power / Total: 20 Watt
+						Additional Features: Down-firing Speaker Driver Details: Main channel speaker : full-range
+						driver Sound Effects: DTS Studio Sound, DTS Premium Sound 5.1 Digital Audio Format: Dolby
+						Digital output Surround Mode: Yes Speaker System: 2 speakers Weight (Shipping): 88.8 lbs Width
+						(Shipping): 72 in Depth (Shipping): 9.4 in Height (Shipping): 39.4 in Functionality: Digital
+						audio playback, digital photo playback, digital video playback, WEB browsing, Internet video
+						playback Connectivity: Wi-Fi, LAN Internet Streaming Services: Smart Hub LAN Protocol: Ethernet
+						Dimensions &amp; Weight Details: Panel without stand - 58.3 in x 3.8 in x 34.4 in x 62.4
+						lbsPanel with stand - 58.3 in x 13 in x 36.5 in x 71.6 lbs Digital TV Tuner: ATSC, QAM Flat
+						Panel Mount Interface: 400 x 400 mm Stand Design: Tabletop Stand Color: Black Stand: Included
+						ENERGY STAR Qualified: Yes USB Port: Yes , 2 port(s) Dimensions (WxDxH): 58.3 in x 3.8 in x 34.4
+						in - wi
+					</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di64.shoppingshadow.com/images/di/31/6f/71/374a337a4d5042327241455132467949326667-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=5&amp;pr=5&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di64.shoppingshadow.com/images/di/31/6f/71/374a337a4d5042327241455132467949326667-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=5&amp;pr=5&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<storeNotes>Free Shipping On All Orders</storeNotes>
+					<basePrice currency="USD">1864.98</basePrice>
+					<tax checkSite="true"></tax>
+					<shippingCost currency="USD">0.00</shippingCost>
+					<totalPrice checkSite="true"></totalPrice>
+					<originalPrice currency="USD">1864.98</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=44&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=448059&amp;crawler_id=448059&amp;dealId=1oq7J3zMPB2rAEQ2FyI2fg%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D600004390000036404%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+65+Inch+LED+Smart+TV+UN65H6203AF+HDTV&amp;dlprc=1864.98&amp;AR=5&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=90&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=A7726630</offerURL>
+					<store authorizedReseller="false" id="448059" trusted="true">
+						<name>Dell Small Office</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/448059.gif</sourceURL>
+						</logo>
+						<ratingInfo>
+							<reviewCount>2070</reviewCount>
+							<rating>3.66</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>http://www.shopping.com/xMR-store_dell_smb~MRD-448059~S-1~linkin_id-8054241
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+							<countryCode>US</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.97</cpc>
+					<sku>A7726630</sku>
+					<quantity>0</quantity>
+					<upc>00887276055879</upc>
+				</offer>
+				<product id="176972116">
+					<name>Samsung UN78HU9000 78" Full 3D UHD LED LCD Television</name>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/s/NjAwWDYwMA==/z/EtYAAOSw7NNT9HmL/$_32-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;pid=176972116&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>5897.99</minPrice>
+					<maxPrice>8249.98</maxPrice>
+					<productOffersURL>
+						http://www.shopping.com/samsung_un78hu9000_78_full_3d_uhd_led_lcd_television/prices~linkin_id-8054241
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.shopping.com/samsung_un78hu9000_78_full_3d_uhd_led_lcd_television/info~linkin_id-8054241
+					</productSpecsURL>
+					<offers matchedOfferCount="5" pageNumber="1" returnedOfferCount="5">
+						<offer featured="false" id="nfFviErdpgtsl9JSY8me8A==" smartBuy="false" used="false">
+							<name>Samsung 78 Inch Curved 4K Ultra HD Smart TV – UN78HU9000F 3D UHD TV with 3D glasses
+								(4pcs)
+							</name>
+							<description>Discover the ultimate immersive experience with the curved design and lifelike
+								UHD 4K picture quality of the Samsung Smart HU9000 UHD TV. Watch any movie, sport, show
+								or streaming content at 4 times the resolution of full HD with UHD upscaling.Note:
+								Television returns are subject to restocking fees in accordance with Dell’s return
+								policy. See dell.com/returnspolicy. Width: 68.9 in Depth: 5.7 in Height: 40.3 in Weight:
+								101.2 lbs Power Consumption Operational: 375 Watt Product Type: Curved LED-backlit LCD
+								TV - Smart TV Diagonal Size: 78 Timer Functions: Sleep, wake Series: 9000 Series
+								Dimensions: Without stand TV Tuner: 1x analog, 1x digital HDCP Compatible: Yes Combined
+								with: Camera Video Interface: Component, composite, HDMI HDMI Ports Qty: 4 port(s) 3D
+								Technology: Active 3D: Yes ( 3D glasses (4pcs) included ) Service &amp; Support: 1 year
+								warranty Service &amp; Support Details: Limited warranty - parts and labor - 1 year
+								Cables Included: Remote control cable Power Device: Power supply Nominal Voltage: AC 120
+								V ( 60 Hz ) Power Consumption Stand by: 0.5 Watt Display Format: 4K UHDTV (2160p)
+								Resolution: 3840 x 2160 Additional Features: Integrated web browser, Anynet Plus, Wide
+								Color Enhancer, game mode, ultra clear panel, ConnectShare Movie, Samsung Apps, Wide
+								Color Enhancer Plus, Eco Sensor, Wi-Fi Direct, Smart Interaction, Smart Evolution, BD
+								Wise Plus, Mobile High-Definition Link (MHL), S-Recommendation, Screen Mirroring,
+								DirecTV support, Quad-Core processor, Gesture Control, E-Manual, UHD Dimming, Quadmatic
+								Picture Engine, Auto Depth Enhancer, PurColor, Precision Black Local Dimming, Quad
+								Screen, Samsung Smart View 2.0, Instant On, Curved T-shape Design Display Menu Language:
+								English, French, Spanish V-Chip Control: Yes LCD Backlight Technology: LED backlight
+								Motion Enhancement Technology: 1440 Clear Motion Rate Connector Type: 4 x HDMI ( 19 pin
+								HDMI Type A )1 x composite video / component video input1 x network ( RJ-45 )3 x USB 2.0
+								( 4 pin USB Type A )1 x digital audio output (optical) ( TOSLINK )1 x audio line-out (
+								mini-phone stereo 3.5 mm )1 x One Connect1 x component video input1 x serial1 x remote
+								control output Parental Channel Lock: Yes Electronic Program Guide: Digital EPG Closed
+								Caption Capability: Yes Type: Remote control Features: Built-in microphone, Samsung
+								Smart Touch Control Remote Control Model: Samsung TM1490A Speaker(s): 2 x main channel
+								speaker - built-in - 15 Watt2 x subwoofer - 15 Watt Output Power / Total: 60 Watt
+								Additional Features: Front firing speaker(s), New Waveguide speakers Sound Effects: DTS
+								Premium Sound 5.1, DNSe+ Digital Audio Format: Dolby Digital output, DTS digital output
+								Surround Mode: Yes Speaker System: 2 speakers, 2 woofers Weight (Shipping): 151 lbs
+								Width (Shipping): 74.9 in Depth (Shipping): 17.2 in Height (Shipping): 46.4 in
+								Functionality: Digital audio playback, digital photo playback, digital video playback,
+								WEB browsing, Internet video playback Connectivity: Wi-Fi, LAN Internet Streaming
+								Services: Smart Hub LAN Protocol: Ethernet Dimensions &amp; Weight Details: Panel with
+								stand - 68.9 in x 14.6 in x 42.1 in x 115.7 lbsPanel without stand - 68.9 in x 5.7 in x
+								40.3 in x 101.2 lbs Digital TV Tuner: ATSC, QAM Flat Panel Mount Interface: 400 x 400 mm
+								Stand Design: Tabletop Stand Color: Silver Stand: Included USB Port: Yes , 3 port(s)
+								Manufacturer Warranty: 1 year warranty Dimensions (WxDxH): 68.9 in x 5.7 in x 40.3 in -
+								without stand Weight: 101.2 lbs Power: AC 120 V ( 60 Hz ) Product Type: Curved
+								LED-backlit LCD TV with camera - Smart TV Power Consumption Operational: 375 Watt
+								Diagonal Size: 78 Remote Control: Remote control Additional Features: Integrated web
+								browser, Anynet Plus, Wide Color Enhancer, game mode, ultra clear panel, ConnectShare
+								Movie, Samsung Apps, Wide Color Enhancer P
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/6e/66/46/7669457264706774736c394a5359386d653841-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di65.shoppingshadow.com/images/di/6e/66/46/7669457264706774736c394a5359386d653841-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=1&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Free Shipping On All Orders</storeNotes>
+							<basePrice currency="USD">8249.98</basePrice>
+							<tax checkSite="true"></tax>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">8249.98</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=44&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=448059&amp;crawler_id=448059&amp;dealId=nfFviErdpgtsl9JSY8me8A%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D600004390000036417%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+78+Inch+Curved+4K+Ultra+HD+Smart+TV+%E2%80%93+UN78HU9000F+3D+UHD+TV+with+3D+glasses+%284pcs%29&amp;dlprc=8249.98&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=176972116&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=90&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=A7794864</offerURL>
+							<store authorizedReseller="false" id="448059" trusted="true">
+								<name>Dell Small Office</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/448059.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>2070</reviewCount>
+									<rating>3.66</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_dell_smb~MRD-448059~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.97</cpc>
+							<sku>A7794864</sku>
+							<quantity>0</quantity>
+							<upc>00887276032207</upc>
+						</offer>
+						<offer featured="false" id="jSyufahdkEGWnuViZJaOBQ==" smartBuy="false" used="false">
+							<name>Samsung UN78HU9000 - 78-Inch Ultra High-Definition UHD 4K Curved 3D Smart TV Wi-Fi
+							</name>
+							<description>Discover the ultimate immersive experience with the new curved design and
+								lifelike UHD 4K picture quality of the Samsung Smart HU9000 UHD TV. Watch any movie,
+								sport, disc or streaming app at 4 times the resolution of full HD with UHD Upscaling.
+								This immersive curved design is combined with PurColor and Auto Depth Enhancer to reveal
+								depth, color and contrast that are just like real life. The HU9000 is truly something
+								you need to see to believe. PICTURE QUALITY UHD Upscaling - UHD Upscaling delivers the
+								complete UHD picture experience with a proprietary process including signal analysis,
+								noise reduction and detail enhancement to seamlessly upconvert SD, HD or full HD content
+								to UHD-level picture quality. UHD Dimming - UHD Dimming precisely scans an incredible
+								amount zones across the entire image and adjusts brightness to deliver deeper darks and
+								brighter whites. It virtually eliminates the halo effect and image distortion, so you'll
+								enjoy a crystal clear picture. Precision Black (Local Dimming) - Experience sharper
+								contrast with Precision Black Local Dimming. It dims LED lighting behind the darkest
+								area of the picture for greater contrast and darker blacks, while the brighter elements
+								remain as bright as they should be. Auto Depth Enhancer - Auto Depth Enhancer is
+								innovative picture technology that analyzes regions of each image and automatically
+								adjusts the contrast for a greater sense of depth. As a result, everything you watch has
+								incredible detail and appears more natural. PurColor - This feature allows the TV to
+								express all shades of color as nature intended for optimal picture performance. Not all
+								TV's focus on the adjustment points of primary colors Red, Green and Blue. PurColor
+								focuses on primary and secondary colors Magenta, Cyan and Yellow. SMART TV Quad Core
+								Plus Processor - Enjoy the fastest browsing with Quad Core Plus, our most powerful
+								processor. Seamlessly switch between apps, stream content and multi-task faster. This
+								remarkable level of power also provides faster page refreshing. Smart Hub - Enjoy
+								everything you love in one place. The interface of the Smart TV Smart Hub organizes your
+								entertainment and content into five panels. Effortlessly navigate through live TV,
+								movies, streaming content, social networks, apps and more. Full Web Browser - Browse the
+								web on your Smart TV to find the latest content. Enjoy everything from online shopping,
+								social media browsing, entertainment news and the latest YouTube hits. Catch up on the
+								latest content, and then go back to watching TV. Quad Screen - Enjoy next generation
+								multi-tasking with Quad Screen. Transform your TV into four screens that can access live
+								TV, streaming video and the web all at once. Watch your fantasy football team gain
+								points as the real players gain yards, then check Facebook - all on one screen. Instant
+								On - Tired of waiting for your UHD TV to warm up? Your Samsung UHD TV turns on 4 times
+								faster with Instant On, so you can immediately begin browsing apps or watching your
+								favorite movies, sports or shows. SMART INTERACTION Built in Pop-up Camera - Use your
+								hand motions to browse the Smart Hub, play games and more utilizing the built in po
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/6a/53/79/75666168646b4547576e7556695a4a614f4251-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/6a/53/79/75666168646b4547576e7556695a4a614f4251-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di69.shoppingshadow.com/images/di/6a/53/79/75666168646b4547576e7556695a4a614f4251-250x250-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=2&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">5997.99</basePrice>
+							<tax checkSite="true"></tax>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">8999.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=163&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=9180&amp;crawler_id=811660&amp;dealId=jSyufahdkEGWnuViZJaOBQ%3D%3D&amp;url=http%3A%2F%2Fwww.buydig.com%2Fshop%2Fproduct.aspx%3Fsku%3DSAMUN78HU9000%26ref%3Dshopping%26omid%3D113%26utm_source%3DShopping%26utm_medium%3DCSE%26utm_item%3DSAMUN78HU9000%26CAWELAID%3D230005120000321398%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+UN78HU9000+-+78-Inch+Ultra+High-Definition+UHD+4K+Curved+3D+Smart+TV+Wi-Fi&amp;dlprc=5997.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=176972116&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=134&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAMUN78HU9000</offerURL>
+							<store authorizedReseller="false" id="9180" trusted="true">
+								<name>BuyDig.com</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/9180.gif</sourceURL>
+								</logo>
+								<phoneNumber>800-617-4686 x1</phoneNumber>
+								<ratingInfo>
+									<reviewCount>7882</reviewCount>
+									<rating>4.48</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_45.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_buydig_com~MRD-9180~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.50</cpc>
+							<sku>SAMUN78HU9000</sku>
+							<quantity>0</quantity>
+							<mpn>UN78HU9000</mpn>
+							<upc>00887276032207</upc>
+							<couponCode>Receive the Samsung CY-SUC10SH1 UHD Video Pack and 6% Buydig Rewards with
+								Purchase!
+							</couponCode>
+						</offer>
+						<offer featured="false" id="p5pCNy5E7-GJUpoLGj5LqA==" smartBuy="false" used="false">
+							<name>Samsung Un78hu9000 78 Curved Smart Tv With Hw-h7501 Curved 8.1 Soundbar And Wir</name>
+							<description>Payment Returns Support Newsletter Home Audio Headphones Car Electronics
+								Televisions and Video Portable Electronics Clearance Store Categories All categories
+								Click here to view full size. Full Size Image Click to close full size. Samsung
+								UN78HU9000 78 Curved Smart TV with HW-H7501 Curved 8.1 Soundbar and Wir Product ID #:
+								78H7501BND BRAND NEW / FACTORY SEALED / AUTHORIZED DEALER Free Shipping on all orders*
+								Factory Authorized Dealer 30-Day Money-Back Guarantee Delivering Superior Customer Serv
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/70/35/70/434e793545372d474a55706f4c476a354c7141-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/70/35/70/434e793545372d474a55706f4c476a354c7141-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/70/35/70/434e793545372d474a55706f4c476a354c7141-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/70/35/70/434e793545372d474a55706f4c476a354c7141-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="304" width="400">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/70/35/70/434e793545372d474a55706f4c476a354c7141-400x304-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=3&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">6595.98</basePrice>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">8799.98</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1930865&amp;dealId=p5pCNy5E7-GJUpoLGj5LqA%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D390951687620%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F390951687620%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un78hu9000+78+Curved+Smart+Tv+With+Hw-h7501+Curved+8.1+Soundbar+And+Wir&amp;dlprc=6595.98&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=176972116&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=390951687620</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>390951687620</sku>
+							<quantity>0</quantity>
+							<mpn>UN78HU9000FXZA</mpn>
+							<upc>00013964694086</upc>
+						</offer>
+						<offer featured="false" id="NEti-4Sp5q2Tt3-jeU47Xw==" smartBuy="false" used="false">
+							<name>Samsung Un78hu9000 78 Full 3d Uhd Led Lcd Television</name>
+							<description>Samsung UN78HU9000 78 Full 3D UHD LED LCD Television Echo And Optics Refresh
+								Rate: 120Hz (Native); Clear Motion Rate 1440 (Effective) Backlight: LED (Edge-Lit
+								w/Local Dimming) Smart Functionality: Yes - Motion and Voice Control with Built In
+								Pop-up Camera Dimensions (W x H x D): TV without stand: 69.1'' x 40.3'' x 5.7'', TV with
+								stand: 69.1'' x 42.1'' x 14.6'' Inputs: 4 HDMI 2.0, 3 USB, 1 Component, 2 Composite
+								Payment Terms Only PayPal is accepted. Immediate payment is required. PayPal confir
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/45/74/692d3453703571325474332d6a655534375877-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=4&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/45/74/692d3453703571325474332d6a655534375877-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=4&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/45/74/692d3453703571325474332d6a655534375877-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=4&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/45/74/692d3453703571325474332d6a655534375877-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=4&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="500" width="278">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/45/74/692d3453703571325474332d6a655534375877-278x500-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=4&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">5897.99</basePrice>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">5897.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=519&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=446528&amp;crawler_id=446528&amp;dealId=NEti-4Sp5q2Tt3-jeU47Xw%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D291191575988%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F291191575988%26mid%3D446528%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un78hu9000+78+Full+3d+Uhd+Led+Lcd+Television&amp;dlprc=5897.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=176972116&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=529&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=291191575988</offerURL>
+							<store authorizedReseller="false" id="446528" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/446528.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4134392~MRD-446528~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>291191575988</sku>
+							<quantity>0</quantity>
+							<mpn>UN78HU9000FXZA</mpn>
+						</offer>
+						<offer featured="false" id="LzVIwaHHPzXzmxevyxeTHA==" smartBuy="false" used="false">
+							<name>Samsung Un78hu9000 78 Curved Class 3d Led 4k Ultra Hd Smart Tv With Wifi</name>
+							<description>Payment Returns Support Newsletter Home Audio Headphones Car Electronics
+								Televisions and Video Portable Electronics Clearance Store Categories All categories
+								Click here to view full size. Full Size Image Click to close full size. Samsung
+								UN78HU9000 78 Curved Class 3D LED 4k Ultra HD Smart TV With Wifi Product ID #:
+								UN78HU9000 BRAND NEW / FACTORY SEALED / AUTHORIZED DEALER Free Shipping on all orders*
+								Factory Authorized Dealer 30-Day Money-Back Guarantee Delivering Superior Customer
+								Service sin
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/4c/7a/56/4977614848507a587a6d786576797865544841-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=5&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/4c/7a/56/4977614848507a587a6d786576797865544841-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=5&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/4c/7a/56/4977614848507a587a6d786576797865544841-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=5&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di64.shoppingshadow.com/images/di/4c/7a/56/4977614848507a587a6d786576797865544841-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=6&amp;pr=6&amp;dipr=5&amp;pid=176972116&amp;fks=0&amp;pdid=nfFviErdpgtsl9JSY8me8A%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">5997.99</basePrice>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">7999.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1930865&amp;dealId=LzVIwaHHPzXzmxevyxeTHA%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D351253260238%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F351253260238%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un78hu9000+78+Curved+Class+3d+Led+4k+Ultra+Hd+Smart+Tv+With+Wifi&amp;dlprc=5997.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=176972116&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=5&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=351253260238</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>351253260238</sku>
+							<quantity>0</quantity>
+							<mpn>UN78HU9000FXZA</mpn>
+							<upc>00887276032207</upc>
+						</offer>
+					</offers>
+					<numStores>4</numStores>
+				</product>
+				<product id="124835554">
+					<name>Samsung 5000 Series UN32EH5000 32" 1080p HD Slim LED Television</name>
+					<fullDescription>With a design that is conducive to small spaces and technology that provides a
+						large, clear picture quality, the Samsung 32-inch TV is designed to be used in a variety of
+						rooms while providing high-level image clarity. The Samsung UN32EH5000F is a screen designed
+						with dimensions of 29.1 inches wide, 17.5 inches tall, and just 3.7 inches deep. This LCD TV
+						weighs just 13 lbs and can be easily set up in almost any room. As a screen that is ENERGY STAR
+						efficient and consumers only 0.3 watts on standby and 33 watts in normal operation, the Samsung
+						32-inch TV is slim not only in physical dimensions, but power consumption as well. The Samsung
+						UN32EH5000F is designed to provide a native resolution of 1920x1080 with a dynamic contrast
+						ratio of 3500000:1 and a clear motion rate of 120. This LCD TV offers a variety of features such
+						as wide color enhancement, ConnectShare, game mode, and even an eco sensor. The Samsung 32-inch
+						TV is a nice screen option for home use.
+					</fullDescription>
+					<onSale>true</onSale>
+					<onSalePercentOff>50</onSalePercentOff>
+					<freeShipping>true</freeShipping>
+					<upcs>
+						<upc>036725236615</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!oEE9gk9PwpoBPteMeFI+Q~~_32-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;pid=124835554&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!oEE9gk9PwpoBPteMeFI+Q~~_32-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;pid=124835554&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!oEE9gk9PwpoBPteMeFI+Q~~_32-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;pid=124835554&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!oEE9gk9PwpoBPteMeFI+Q~~_32-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;pid=124835554&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="480" width="640">
+							<sourceURL>
+								http://di3-4.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqN,!oEE9gk9PwpoBPteMeFI+Q~~_32-640x480-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;pid=124835554&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>19</reviewCount>
+						<rating>4.89</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>http://www.shopping.com/samsung-un32eh5000f/reviews~linkin_id-8054241</reviewURL>
+					</rating>
+					<minPrice>297.99</minPrice>
+					<maxPrice>345.99</maxPrice>
+					<productOffersURL>http://www.shopping.com/samsung-un32eh5000f/prices~linkin_id-8054241
+					</productOffersURL>
+					<productSpecsURL>http://www.shopping.com/samsung-un32eh5000f/info~linkin_id-8054241
+					</productSpecsURL>
+					<offers matchedOfferCount="4" pageNumber="1" returnedOfferCount="4">
+						<offer featured="false" id="NyNff_9ftXMAQ8wwVs-4dA==" smartBuy="false" used="false">
+							<name>Samsung UN32EH5000 - 32 inch 1080p LED HDTV</name>
+							<description>The power and fun of an LED TV within reach The new Series 5 will take your
+								breath away. Every image can be seen in amazing clarity with deep blacks and pure
+								whites. The realistic details of every image will remain intact even for those images
+								that move quickly across the TV screen. The slim profile design provides an immersive
+								viewing experience. PICTURE QUALITY Full HD 1080p With twice the resolution of standard
+								HD TVs, Samsung TVs deliver images that are guaranteed to amaze and bring pleasure to
+								your home entertainment experience. The realistic texture of Full HD images invites you
+								to enjoy a viewing experience that redefines reality. Clear Motion Rate (CMR) Is a
+								comprehensive measure of a TV's ability to display images in motion. The higher the CMR
+								the better. Samsung achieves high CMR numbers based on panel processing advancements.
+								See the picture quality difference for yourself. Wide Color Enhancer Plus Allows you to
+								see picture color the way the director originally intended. Witness the entire RGB
+								spectrum brought to life on your screen to bring you exceptionally vibrant, yet
+								natural-looking images faithful to the director's original intent. AUDIO 10 watts x 2
+								audio power stereo broadcast reception Supports multi-channel sound (MTS) and second
+								audio program (SAP) with 181-channel capacity. Dolby Digital Plus/ Dolby Pulse An
+								advanced surround sound audio processing feature designed to optimize the TV's sound
+								quality when viewing and listening to Internet movies, Internet music and other content
+								played back from wired or wireless mobile phones, PCs and tablet devices. SRS
+								TheaterSound HD A high-definition audio experience that delivers surround sound
+								multi-channel content, using built-in TV speakers to significantly enhance both the
+								depth and dimension of audio right through the TV. Enjoy a simulated surround sound
+								experience! CONNECTIONS HDMI: 2 USB: 1 Component in: 1 Digital audio output: 1 optical
+								ConnectShare Movie Have movies and pictures on a USB drive? Now easily view that content
+								right on the TV. Just plug the drive in the USB port and you are ready for a big screen
+								experience. SAMSUNG FEATURE COMPARISON CHART
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/79/4e/66665f396674584d415138777756732d346441-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/79/4e/66665f396674584d415138777756732d346441-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/4e/79/4e/66665f396674584d415138777756732d346441-250x250-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=1&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">297.99</basePrice>
+							<tax checkSite="true"></tax>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">599.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=163&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=9180&amp;crawler_id=811660&amp;dealId=NyNff_9ftXMAQ8wwVs-4dA%3D%3D&amp;url=http%3A%2F%2Fwww.buydig.com%2Fshop%2Fproduct.aspx%3Fsku%3DSAMUN32EH5000%26ref%3Dshopping%26omid%3D113%26utm_source%3DShopping%26utm_medium%3DCSE%26utm_item%3DSAMUN32EH5000%26CAWELAID%3D1386607702%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+UN32EH5000+-+32+inch+1080p+LED+HDTV&amp;dlprc=297.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=124835554&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=144&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=SAMUN32EH5000</offerURL>
+							<store authorizedReseller="false" id="9180" trusted="true">
+								<name>BuyDig.com</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/9180.gif</sourceURL>
+								</logo>
+								<phoneNumber>800-617-4686 x1</phoneNumber>
+								<ratingInfo>
+									<reviewCount>7882</reviewCount>
+									<rating>4.48</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_45.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_buydig_com~MRD-9180~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.36</cpc>
+							<sku>SAMUN32EH5000</sku>
+							<quantity>0</quantity>
+							<mpn>UN32EH5000</mpn>
+							<upc>00036725236615</upc>
+							<couponCode>Includes 2 Free 6 ft High Speed Ethernet 3D Ready 1080p HDMI Cables With
+								Purchase!
+							</couponCode>
+						</offer>
+						<offer featured="false" id="AaWwzq9WhTCM36RoW3nVLw==" smartBuy="false" used="false">
+							<name>Samsung UN32EH5000 - 32 inch 1080p LED HDTV +High Speed HDMI Cables</name>
+							<description>The power and fun of an LED TV within reach The new Series 5 will take your
+								breath away. Every image can be seen in amazing clarity with deep blacks and pure
+								whites. The realistic details of every image will remain intact even for those images
+								that move quickly across the TV screen. The slim profile design provides an immersive
+								viewing experience. PICTURE QUALITY Full HD 1080p With twice the resolution of standard
+								HD TVs, Samsung TVs deliver images that are guaranteed to amaze and bring pleasure to
+								your home entertainment experience. The realistic texture of Full HD images invites you
+								to enjoy a viewing experience that redefines reality. Clear Motion Rate (CMR) Is a
+								comprehensive measure of a TV's ability to display images in motion. The higher the CMR
+								the better. Samsung achieves high CMR numbers based on panel processing advancements.
+								See the picture quality difference for yourself. Wide Color Enhancer Plus Allows you to
+								see picture color the way the director originally intended. Witness the entire RGB
+								spectrum brought to life on your screen to bring you exceptionally vibrant, yet
+								natural-looking images faithful to the director's original intent. AUDIO 10 watts x 2
+								audio power stereo broadcast reception Supports multi-channel sound (MTS) and second
+								audio program (SAP) with 181-channel capacity. Dolby Digital Plus/ Dolby Pulse An
+								advanced surround sound audio processing feature designed to optimize the TV's sound
+								quality when viewing and listening to Internet movies, Internet music and other content
+								played back from wired or wireless mobile phones, PCs and tablet devices. SRS
+								TheaterSound HD A high-definition audio experience that delivers surround sound
+								multi-channel content, using built-in TV speakers to significantly enhance both the
+								depth and dimension of audio right through the TV. Enjoy a simulated surround sound
+								experience! CONNECTIONS HDMI: 2 USB: 1 Component in: 1 Digital audio output: 1 optical
+								ConnectShare Movie Have movies and pictures on a USB drive? Now easily view that content
+								right on the TV. Just plug the drive in the USB port and you are ready for a big screen
+								experience. SAMSUNG FEATURE COMPARISON CHART
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/41/61/57/777a7139576854434d3336526f57336e564c77-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/41/61/57/777a7139576854434d3336526f57336e564c77-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="300" width="300">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="250" width="250">
+									<sourceURL>
+										http://di62.shoppingshadow.com/images/di/41/61/57/777a7139576854434d3336526f57336e564c77-250x250-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=2&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">299.00</basePrice>
+							<tax checkSite="true"></tax>
+							<shippingCost currency="USD">0.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">599.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=163&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=9180&amp;crawler_id=811660&amp;dealId=AaWwzq9WhTCM36RoW3nVLw%3D%3D&amp;url=http%3A%2F%2Fwww.buydig.com%2Fshop%2Fproduct.aspx%3Fsku%3DE2SAMUN32EH5000%26ref%3Dshopping%26omid%3D113%26utm_source%3DShopping%26utm_medium%3DCSE%26utm_item%3DE2SAMUN32EH5000%26CAWELAID%3D230005120000314554%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+UN32EH5000+-+32+inch+1080p+LED+HDTV+%2BHigh+Speed+HDMI+Cables&amp;dlprc=299.0&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=124835554&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=2&amp;IsLps=0&amp;code=&amp;acode=144&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=E2SAMUN32EH5000</offerURL>
+							<store authorizedReseller="false" id="9180" trusted="true">
+								<name>BuyDig.com</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/9180.gif</sourceURL>
+								</logo>
+								<phoneNumber>800-617-4686 x1</phoneNumber>
+								<ratingInfo>
+									<reviewCount>7882</reviewCount>
+									<rating>4.48</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_45.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_buydig_com~MRD-9180~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.36</cpc>
+							<sku>E2SAMUN32EH5000</sku>
+							<quantity>0</quantity>
+							<mpn>E2SAMUN32EH5000</mpn>
+							<couponCode>Free Shipping. Ships same day.</couponCode>
+						</offer>
+						<offer featured="false" id="VnFdQwG9i7kWimOqgytPEA==" smartBuy="false" used="false">
+							<name>Samsung Un32eh5000 32-inch 1080p 60hz Led Tv</name>
+							<description>Refresh Rate: 60Hz (Native); Clear Motion Rate 120 (Effective)Backlight: LED
+								(Edge-Lit)Smart Functionality: No Dimensions (W x H x D): TV without stand: 29.1 x 17.5
+								x 3.7, TV with stand: 29.1 x 19.6 x 7.5Inputs: 2 HDMI, 1 USB, 1 Component, 1 Optical, 1
+								RF In, 1 Audio Out Accessories Included: Standard Remote Control
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/56/6e/46/645177473969376b57696d4f71677974504541-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=3&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/56/6e/46/645177473969376b57696d4f71677974504541-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=3&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/56/6e/46/645177473969376b57696d4f71677974504541-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=3&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/56/6e/46/645177473969376b57696d4f71677974504541-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=3&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="285" width="400">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/56/6e/46/645177473969376b57696d4f71677974504541-400x285-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=3&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">335.99</basePrice>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">335.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1932190&amp;dealId=VnFdQwG9i7kWimOqgytPEA%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D371303193607%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F371303193607%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un32eh5000+32-inch+1080p+60hz+Led+Tv&amp;dlprc=335.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=124835554&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=371303193607</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>371303193607</sku>
+							<quantity>0</quantity>
+							<mpn>UN32EH5000FXZA</mpn>
+							<upc>00036725236615</upc>
+						</offer>
+						<offer featured="false" id="J0-eqKGVw27qvw2VDd_QQA==" smartBuy="false" used="false">
+							<name>Samsung Un32eh5000 32-inch 1080p 60hz Led Tv</name>
+							<description>Refresh Rate: 60Hz (Native); Clear Motion Rate 120 (Effective)Backlight: LED
+								(Edge-Lit)Smart Functionality: No Dimensions (W x H x D): TV without stand: 29.1 x 17.5
+								x 3.7, TV with stand: 29.1 x 19.6 x 7.5Inputs: 2 HDMI, 1 USB, 1 Component, 1 Optical, 1
+								RF In, 1 Audio Out Accessories Included: Standard Remote Control
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4a/30/2d/65714b4756773237717677325644645f515141-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=4&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4a/30/2d/65714b4756773237717677325644645f515141-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=4&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4a/30/2d/65714b4756773237717677325644645f515141-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=4&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="400" width="400">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4a/30/2d/65714b4756773237717677325644645f515141-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=4&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="285" width="400">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/4a/30/2d/65714b4756773237717677325644645f515141-400x285-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=7&amp;pr=7&amp;dipr=4&amp;pid=124835554&amp;fks=0&amp;pdid=NyNff_9ftXMAQ8wwVs-4dA%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<storeNotes>Buy it new &amp; now! with eBay Buyer Protection</storeNotes>
+							<basePrice currency="USD">345.99</basePrice>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">345.99</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=271&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=503280&amp;crawler_id=1932190&amp;dealId=J0-eqKGVw27qvw2VDd_QQA%3D%3D&amp;url=http%3A%2F%2Frover.ebay.com%2Frover%2F1%2F711-56844-1854-0%2F2%3Fkwid%3D1%26mtid%3D545%26crlp%3D1_240291%26linkin_id%3D%7Blinkin_id%7D%26sortbid%3D%7Bbidamount%7D%26fitem%3D371299697248%26mt_id%3D545%26mpre%3Dhttp%253A%252F%252Fwww.ebay.com%252Fitm%252Flike%252F371299697248%26mid%3D503280%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un32eh5000+32-inch+1080p+60hz+Led+Tv&amp;dlprc=345.99&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=124835554&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=4&amp;IsLps=0&amp;code=&amp;acode=281&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=371299697248</offerURL>
+							<store authorizedReseller="false" id="503280" trusted="true">
+								<name>eBay</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/503280.gif</sourceURL>
+								</logo>
+								<ratingInfo>
+									<reviewCount>1281</reviewCount>
+									<rating>3.83</rating>
+									<ratingImage height="18" width="91">
+										<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_4.gif</sourceURL>
+									</ratingImage>
+									<reviewURL>
+										http://www.shopping.com/xMR-store_ebay_4210135~MRD-503280~S-1~linkin_id-8054241
+									</reviewURL>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.01</cpc>
+							<sku>371299697248</sku>
+							<quantity>0</quantity>
+							<mpn>UN32EH5000FXZA</mpn>
+							<upc>00036725236615</upc>
+						</offer>
+					</offers>
+					<numStores>2</numStores>
+				</product>
+				<offer featured="false" id="R9gVViHGM6xAQiA8V1PrRQ==" smartBuy="false" used="false">
+					<name>Samsung 48 Inch Curved Ultra HD SUHD Smart TV -UN48JS9000 3D with 3D glasses</name>
+					<description>Experience a breakthrough in the home theater experience with the Samsung 4K SUHD TV.
+						Get drawn into the action with an immersive curved screen that reveals up to 64x greater color
+						expression than conventional HD/UHD TVs. Access and play your favorite content seamlessly with
+						Smart TV.Note: Television returns are subject to restocking fees in accordance with Dell’s
+						return policy. See dell.com/returnspolicy. Width: 42.8 in Depth: 3.7 in Height: 24.7 in Weight:
+						35.5 lbs Power Consumption Operational: 217 Watt Product Type: Curved quantum dot backlit LCD TV
+						- Smart TV Diagonal Size: 48 Viewable Size: 47.6 in Series: JS9000 Series Dimensions: Without
+						stand TV Tuner: 1x analog, 1x digital PC Interface: Mobile High-Definition Link (MHL) HDCP
+						Compatible: Yes Video Interface: Component, composite, HDMI HDMI Ports Qty: 4 port(s) 3D
+						Technology: Active 3D: Yes ( 3D glasses included ) Included Accessories: Batteries Power Device:
+						Power supply Nominal Voltage: AC 120 V ( 60 Hz ) Power Consumption Stand by: 0.3 Watt Display
+						Format: 4K SUHDTV (2160p) Resolution: 3840 x 2160 Additional Features: Integrated web browser,
+						Anynet Plus, ultra clear panel, Samsung Apps, Eco Sensor, Wi-Fi Direct, Smart Evolution, BD Wise
+						Plus, ConnectShare, S-Recommendation, Screen Mirroring, DirecTV support, E-Manual, UHD Dimming,
+						Auto Depth Enhancer, PurColor, UHD Upscaling, Precision Black Local Dimming, Samsung Smart View
+						2.0, Caption (Subtitle), Easy Pin pairing, Nano Crystal Color, Peak Illuminator Pro, Briefing On
+						TV, Y-Shape Design, Octa-Core Processor Display Menu Language: English, French, Spanish V-Chip
+						Control: Yes LCD Backlight Technology: LED backlight - local dimming Motion Enhancement
+						Technology: 240 Clear Motion Rate Connector Type: 4 x HDMI ( 19 pin HDMI Type A )3 x USB 2.0 ( 4
+						pin USB Type A )1 x composite video / component video input ( RCA phono x 3 )1 x network ( RJ-45
+						)1 x digital audio output (optical) ( TOSLINK )1 x audio line-out ( mini-phone stereo 3.5 mm )1
+						x audio line-in ( RCA phono x 2 )1 x serial1 x One Connect1 x remote control output Type: Remote
+						control Features: Built-in microphone, Samsung Smart Touch Control Remote Control Model: Samsung
+						TM1560B Speaker(s): 1 x left channel speaker - built-in - 20 Watt1 x right channel speaker -
+						built-in - 20 Watt2 x woofer - built-in - 10 Watt Output Power / Total: 60 Watt Additional
+						Features: Front firing speaker(s), Voice Interaction Sound Effects: DTS Premium Sound 5.1, DNSe+
+						Digital Audio Format: Dolby Digital output Surround Mode: Yes Speaker System: 2 speakers, 2
+						woofers Weight (Shipping): 52.9 lbs Width (Shipping): 51.2 in Depth (Shipping): 7.3 in Height
+						(Shipping): 28.6 in Functionality: Digital audio playback, digital photo playback, digital video
+						playback, WEB browsing, Internet video playback Connectivity: Wi-Fi, LAN Internet Streaming
+						Services: Smart Hub DLNA: Yes LAN Protocol: Ethernet Dimensions &amp; Weight Details: Panel
+						without stand - 42.8 in x 3.7 in x 24.7 in x 35.5 lbsPanel with stand - 42.8 in x 11.7 in x 27.7
+						in x 40.8 lbs Digital TV Tuner: ATSC, QAM Flat Panel Mount Interface: 400 x 400 mm Stand Design:
+						Tabletop Stand Color: Brushed Dark Silver Stand: Included ENERGY STAR Qualified: Yes USB Port:
+						Yes , 3 port(s) Dimensions (WxDxH): 42.8 in x 3.7 in x 24.7 in - without stand Weight: 35.5 lbs
+						Power: AC 120 V ( 60 Hz ) Product Type: Curved quantum dot backlit LCD TV - Smart TV Power
+						Consumption Operational: 217 Watt Diagonal Size: 48 Viewable Size: 47.6 in Remote Control:
+						Remote control Additional Features: Integrated web browser, Anynet Plus, ultra clear panel,
+						Samsung Apps, Eco Sensor, Wi-Fi Direct, Smart Evolution, BD Wise Plus, ConnectShare,
+						S-Recommendation, Screen Mirroring, DirecTV support, E-Manual, UHD Dimming, Auto Depth Enhancer,
+						PurColor, UHD Upscaling, Precision Black
+					</description>
+					<categoryId>96252</categoryId>
+					<manufacturer>Samsung</manufacturer>
+					<imageList>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/52/39/67/56566948474d36784151694138563150725251-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di67.shoppingshadow.com/images/di/52/39/67/56566948474d36784151694138563150725251-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=8&amp;pr=8&amp;fks=0
+							</sourceURL>
+						</image>
+					</imageList>
+					<stockStatus>in-stock</stockStatus>
+					<storeNotes>Free Shipping On All Orders</storeNotes>
+					<basePrice currency="USD">3999.99</basePrice>
+					<tax checkSite="true"></tax>
+					<shippingCost currency="USD">0.00</shippingCost>
+					<totalPrice checkSite="true"></totalPrice>
+					<originalPrice currency="USD">3999.99</originalPrice>
+					<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=44&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=448059&amp;crawler_id=448059&amp;dealId=R9gVViHGM6xAQiA8V1PrRQ%3D%3D&amp;url=http%3A%2F%2Ftracking.searchmarketing.com%2Fclick.asp%3Faid%3D600004390000049798%26sdc_id%3D%7Bsdc_id%7D&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+48+Inch+Curved+Ultra+HD+SUHD+Smart+TV+-UN48JS9000+3D+with+3D+glasses&amp;dlprc=3999.99&amp;AR=8&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=3&amp;IsLps=0&amp;code=&amp;acode=90&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=A8225744</offerURL>
+					<store authorizedReseller="false" id="448059" trusted="true">
+						<name>Dell Small Office</name>
+						<logo available="true" height="31" width="88">
+							<sourceURL>http://img.shopping.com/cctool/merch_logos/448059.gif</sourceURL>
+						</logo>
+						<ratingInfo>
+							<reviewCount>2070</reviewCount>
+							<rating>3.66</rating>
+							<ratingImage height="18" width="91">
+								<sourceURL>http://img.shopping.com/sc/mr/sdc_checks_35.gif</sourceURL>
+							</ratingImage>
+							<reviewURL>http://www.shopping.com/xMR-store_dell_smb~MRD-448059~S-1~linkin_id-8054241
+							</reviewURL>
+						</ratingInfo>
+						<countryFlag height="11" width="18">
+							<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+							<countryCode>US</countryCode>
+						</countryFlag>
+					</store>
+					<cpc>0.97</cpc>
+					<sku>A8225744</sku>
+					<quantity>0</quantity>
+					<upc>00887276076652</upc>
+				</offer>
+				<product id="174823359">
+					<name>Samsung 9000 Series UN65F9000 65" Full 3D 2160p UHD LED LCD Internet TV</name>
+					<fullDescription>Product featuresSpectacular 4K ultra HD picture quality.The 4K picture quality is
+						unlike anything you've ever seen before. The Samsung F9000 has four times the resolution of a
+						Full HD TV, ensuring a truly immersive experience for all your favorite blockbuster movies and
+						TV shows. It's simply the highest resolution format available today.Precision black local
+						dimming: Precision black local dimming produces a much greater increase in contrast and black
+						levels by dimming LEDs behind dark areas of the picture, thus making blacks darker without
+						affecting brighter elements of the picture.Micro Dimming ultimate: Experience incredible picture
+						contrast, color and detail with Micro Dimming ultimate. By maximizing the contrast between
+						lights and darks, Samsung Micro Dimming technology displays a picture that is as true-to-life as
+						possible. This innovative technology scans zones across the image and adjusts brightness to
+						deliver deeper dark tones and brighter whites. It also eliminates the ""halo"" effect and image
+						distortion that can happen with diffused lights. The Ultimate version of this technology
+						optimizes the quality by scanning 2x the number of zones in the image. The result is a
+						crystal-clear picture with realistic, vivid detail and accurate color reproduction.Large,
+						immersive screen size:The F9000 Series display delivers spectacular picture quality in a large
+						screen size that is utterly stunning to watch.Ultra clear panel:Sometimes you can't keep
+						sunlight or house lights from shining right on your TV screen. With Samsung ultra clear panel,
+						you can still get an amazing picture even with reflective light. Ultra clear panel absorbs most
+						ambient light and virtually eliminates reflections. Ultra clear panel also helps make colors
+						more vibrant with deeper blacks and enhanced contrast for crisper images and excellent shadow
+						detail.Wide color enhancer plus:Enhances hues by expanding the color range for a more vivid
+						viewing experience especially beneficial when watching older film productions and non high
+						definition content.Samsung active Full HD 3DEnjoy stunning Full HD 1080p in both 2D and 3D
+						modes. With Samsung 3D converter, turn 2D viewing into 3D for an amazing cinematic
+						experience.Smart TVThe Samsung Smart TV finds the movies and TV shows you like - and more. Speak
+						into the microphone on the Smart Touch remote to get TV recommendations. Use gestures to swipe
+						and navigate within the 5 Smart Hub content panels. Easily discover movies, shows, and social
+						posts with less searching and more watching.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<upcs>
+						<upc>887276850474</upc>
+					</upcs>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/z/-ygAAOxyUrZS1uaM/$_32-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=9&amp;pr=9&amp;pid=174823359&amp;pdid=S72tEw0fUSqt8SJgOYDeoQ%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>0</reviewCount>
+					</rating>
+					<minPrice>1050.00</minPrice>
+					<maxPrice>1050.00</maxPrice>
+					<productOffersURL>
+						http://www.shopping.com/samsung_un65f9000_65_hd_led_lcd_television/prices~linkin_id-8054241
+					</productOffersURL>
+					<productSpecsURL>
+						http://www.shopping.com/samsung_un65f9000_65_hd_led_lcd_television/info~linkin_id-8054241
+					</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="S72tEw0fUSqt8SJgOYDeoQ==" smartBuy="false" used="false">
+							<name>Samsung Un65f9000 - 65 Led Smart Tv - 4K Uhdtv (2160P)</name>
+							<description>Spectacular 4K ultra HD picture qualityThe 4K picture quality is unlike
+								anything you've ever seen before. The Samsung F9000 has four times the resolution of a
+								Full HD TV, ensuring a truly immersive experience for all your favorite blockbuster
+								movies and TV shows. It's simply the highest resolution format available today.Precision
+								black local dimmingPrecision black local dimming produces a much greater increase in
+								contrast and black levels by dimming LEDs behind dark areas of the picture, thus making
+								blacks darker without affecting brighter elements of the picture.Micro Dimming
+								ultimateExperience incredible picture contrast, color and detail with Micro Dimming
+								ultimate. By maximizing the contrast between lights and darks, Samsung Micro Dimming
+								technology displays a picture that is as true-to-life as possible. This innovative
+								technology scans zones across the image and adjusts brightness to deliver deeper dark
+								tones and brighter whites. It also eliminates the halo effect and image distortion that
+								can happen with diffused lights. The Ultimate version of this technology optimizes the
+								quality by scanning 2x the number of zones in the image. The result is a crystal-clear
+								picture with realistic, vivid detail and accurate color reproduction.Large, immersive
+								screen sizeThe F9000 Series display delivers spectacular picture quality in a large
+								screen size that is utterly stunning to watch.Ultra clear panelSometimes you can't keep
+								sunlight or house lights from shining right on your TV screen. With Samsung ultra clear
+								panel, you can still get an amazing picture even with reflective light. Ultra clear
+								panel absorbs most ambient light and virtually eliminates reflections. Ultra clear panel
+								also helps make colors more vibrant with deeper blacks and enhanced contrast for crisper
+								images and excellent shadow detail.Wide color enhancer plusEnhances hues by expanding
+								the color range for a more vivid viewing experience especially beneficial when watching
+								older film productions and non high definition content.Samsung active Full HD 3DEnjoy
+								stunning Full HD 1080p in both 2D and 3D modes. With Samsung 3D converter, turn 2D
+								viewing into 3D for an amazing cinematic experience.Smart TVThe Samsung Smart TV finds
+								the movies and TV shows you like - and more. Speak into the microphone on the Smart
+								Touch remote to get TV recommendations. Use gestures to swipe and navigate within the 5
+								Smart Hub content panels. Easily discover movies, shows, and social posts with less
+								searching and more watching.
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/53/37/32/74457730665553717438534a674f5944656f51-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=174823359&amp;fks=0&amp;pdid=S72tEw0fUSqt8SJgOYDeoQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/53/37/32/74457730665553717438534a674f5944656f51-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=174823359&amp;fks=0&amp;pdid=S72tEw0fUSqt8SJgOYDeoQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/53/37/32/74457730665553717438534a674f5944656f51-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=174823359&amp;fks=0&amp;pdid=S72tEw0fUSqt8SJgOYDeoQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=174823359&amp;fks=0&amp;pdid=S72tEw0fUSqt8SJgOYDeoQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="360">
+									<sourceURL>
+										http://di71.shoppingshadow.com/images/di/53/37/32/74457730665553717438534a674f5944656f51-360x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=9&amp;pr=9&amp;dipr=1&amp;pid=174823359&amp;fks=0&amp;pdid=S72tEw0fUSqt8SJgOYDeoQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">1050.00</basePrice>
+							<shippingCost currency="USD">20.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">1050.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=15&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=523024&amp;crawler_id=523024&amp;dealId=S72tEw0fUSqt8SJgOYDeoQ%3D%3D&amp;url=http%3A%2F%2Fwww.grobbasdelight.com%2Fsamsung-un65f9000---6534-led-smart-tv---4k-uhdtv-2160p-338-p.asp&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un65f9000+-+65+Led+Smart+Tv+-+4K+Uhdtv+%282160P%29&amp;dlprc=1050.0&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=174823359&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=82&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=floshgadgets338</offerURL>
+							<store authorizedReseller="false" id="523024" trusted="false">
+								<name>Grobba's Delight</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/523024.gif</sourceURL>
+								</logo>
+								<phoneNumber>3152771000</phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.74</cpc>
+							<sku>floshgadgets338</sku>
+							<quantity>0</quantity>
+							<mpn>UN65F9000</mpn>
+							<upc>00022265668894</upc>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+				<product id="124293476">
+					<name>Samsung 5300 Series UN32EH5300 32" 1080p HD LED LCD Internet TV</name>
+					<fullDescription>Enjoy your favorite movies and TV programs in full HD with the Samsung UN32EH5300
+						LED-LCD television that features a resolution of 1080p. This Samsung 32-inch TV gives you the
+						liberty to browse the Web, chat with friends, stream videos, and do more, thanks to its built-in
+						Wi-Fi feature. Moreover, with 60 Hz of refresh rate, this Internet TV smoothly renders
+						fast-moving scenes, with minimum motion blur. You can also wirelessly connect and access content
+						from other compatible devices with the AllShare Play feature of this Samsung 32-inch TV.
+						Furthermore, the SRS TheaterSound HD audio system of the Samsung UN32EH5300 Internet TV delivers
+						amazing high-definition audio.
+					</fullDescription>
+					<onSale>false</onSale>
+					<onSalePercentOff>0</onSalePercentOff>
+					<freeShipping>false</freeShipping>
+					<images>
+						<image available="true" height="100" width="100">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16Z,!ygE9s7HJ+DgBQB8gVHy6Q~~_32-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;pid=124293476&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="200" width="200">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16Z,!ygE9s7HJ+DgBQB8gVHy6Q~~_32-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;pid=124293476&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="300" width="300">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16Z,!ygE9s7HJ+DgBQB8gVHy6Q~~_32-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;pid=124293476&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+							</sourceURL>
+						</image>
+						<image available="true" height="400" width="400">
+							<sourceURL>
+								http://di3-3.shoppingshadow.com/pi/i.ebayimg.com/00/$T2eC16Z,!ygE9s7HJ+DgBQB8gVHy6Q~~_32-400x400-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=2&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;pid=124293476&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+							</sourceURL>
+						</image>
+					</images>
+					<rating>
+						<reviewCount>37</reviewCount>
+						<rating>4.54</rating>
+						<ratingImage height="18" width="91">
+							<sourceURL>http://img.shopping.com/sc/pr/sdc_stars_sm_4.5.gif</sourceURL>
+						</ratingImage>
+						<reviewURL>http://www.shopping.com/samsung-un32eh5300/reviews~linkin_id-8054241</reviewURL>
+					</rating>
+					<minPrice>250.00</minPrice>
+					<maxPrice>250.00</maxPrice>
+					<productOffersURL>http://www.shopping.com/samsung-un32eh5300/prices~linkin_id-8054241
+					</productOffersURL>
+					<productSpecsURL>http://www.shopping.com/samsung-un32eh5300/info~linkin_id-8054241</productSpecsURL>
+					<offers matchedOfferCount="1" pageNumber="1" returnedOfferCount="1">
+						<offer featured="false" id="-ekTDOinsEi3mIo8iKTtfQ==" smartBuy="false" used="false">
+							<name>Samsung Un32eh5300 - 32 Led Smart Tv - 1080P (Fullhd)</name>
+							<description>Samsung · LED · 32 inch · Smart TV · High Definition · 1080p · 1920 x 1080 · 3
+								HDMI port · 3.7 inch deepYou'll never miss a moment with this 32 LED Smart HDTV. Smart
+								content includes new ways to explore and locate your favorite shows, movies games and
+								more. A full web browser with Wi-Fi built-in and innovative apps made for TV, along with
+								signature services, enhances your enjoyment. AllShare play allows you to stream content
+								from other devices and enjoy it on the big screen. The wide color enhancer plus provides
+								vibrant natural-looking images and it's all in a sleek ultra slim design.
+							</description>
+							<categoryId>96252</categoryId>
+							<manufacturer>Samsung</manufacturer>
+							<imageList>
+								<image available="true" height="100" width="100">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/2d/65/6b/54444f696e734569336d496f38694b54746651-100x100-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=124293476&amp;fks=0&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="200" width="200">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/2d/65/6b/54444f696e734569336d496f38694b54746651-200x200-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=124293476&amp;fks=0&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="300" width="300">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/2d/65/6b/54444f696e734569336d496f38694b54746651-300x300-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=124293476&amp;fks=0&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="false" height="400" width="400">
+									<sourceURL>
+										http://img.shoppingshadow.com/sc/ds/no_image_100X100.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=124293476&amp;fks=0&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+									</sourceURL>
+								</image>
+								<image available="true" height="397" width="397">
+									<sourceURL>
+										http://di61.shoppingshadow.com/images/di/2d/65/6b/54444f696e734569336d496f38694b54746651-397x397-0-0.jpg?rqid=p27.2ef324cf9356da8222d3&amp;rqt=SRS&amp;a=1&amp;c=1&amp;l=8054241&amp;r=10&amp;pr=10&amp;dipr=1&amp;pid=124293476&amp;fks=0&amp;pdid=-ekTDOinsEi3mIo8iKTtfQ%3D%3D
+									</sourceURL>
+								</image>
+							</imageList>
+							<stockStatus>in-stock</stockStatus>
+							<basePrice currency="USD">250.00</basePrice>
+							<shippingCost currency="USD">2.00</shippingCost>
+							<totalPrice checkSite="true"></totalPrice>
+							<originalPrice currency="USD">250.00</originalPrice>
+							<offerURL>http://stat.dealtime.com/DealFrame/DealFrame.cmp?bm=292&amp;BEFID=96252&amp;aon=%5E1&amp;MerchantID=525307&amp;crawler_id=525307&amp;dealId=-ekTDOinsEi3mIo8iKTtfQ%3D%3D&amp;url=http%3A%2F%2Fwww.quietelectronicsstore.com%2Fsamsung-un32eh5300---32x22-led-smart-tv---1080p-x28fullhdx29-48-p.asp&amp;linkin_id=8054241&amp;Issdt=150505093540&amp;searchID=p27.2ef324cf9356da8222d3&amp;DealName=Samsung+Un32eh5300+-+32+Led+Smart+Tv+-+1080P+%28Fullhd%29&amp;dlprc=250.0&amp;AR=1&amp;NG=9&amp;NDP=3&amp;PN=1&amp;ST=7&amp;FPT=DSP&amp;NDS=&amp;NMS=&amp;MRS=&amp;PD=124293476&amp;brnId=14783&amp;IsFtr=0&amp;IsSmart=0&amp;op=&amp;CM=&amp;RR=1&amp;IsLps=0&amp;code=&amp;acode=274&amp;category=&amp;HasLink=&amp;ND=&amp;MN=&amp;GR=&amp;lnkId=&amp;SKU=88e2b248</offerURL>
+							<store authorizedReseller="false" id="525307" trusted="false">
+								<name>Quiet Eelectronics Store</name>
+								<logo available="true" height="31" width="88">
+									<sourceURL>http://img.shopping.com/cctool/merch_logos/525307.gif</sourceURL>
+								</logo>
+								<phoneNumber>12523920631</phoneNumber>
+								<ratingInfo>
+									<reviewCount>0</reviewCount>
+								</ratingInfo>
+								<countryFlag height="11" width="18">
+									<sourceURL>http://img.shopping.com/sc/glb/flag/US.gif</sourceURL>
+									<countryCode>US</countryCode>
+								</countryFlag>
+							</store>
+							<cpc>0.33</cpc>
+							<sku>88e2b248</sku>
+							<quantity>0</quantity>
+						</offer>
+					</offers>
+					<numStores>1</numStores>
+				</product>
+			</items>
+			<attributes matchedAttributeCount="5" returnedAttributeCount="5">
+				<attribute id="Dynamic_Price_Range">
+					<name>Price range</name>
+					<attributeURL>
+						http://www.shopping.com/televisions/samsung/products?oq=samsung&amp;linkin_id=8054241
+					</attributeURL>
+					<attributeValues matchedValueCount="2" returnedValueCount="2">
+						<attributeValue id="price_range_5_5002" matchingItemsCount="1">
+							<name>$5 - $5002</name>
+							<attributeValueURL>http://www.shopping.com/televisions/samsung/products?minPrice=5&amp;maxPrice=5002&amp;linkin_id=8054241</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="price_range_5002_9999" matchingItemsCount="1">
+							<name>$5002 - $9999</name>
+							<attributeValueURL>http://www.shopping.com/televisions/samsung/products?minPrice=5002&amp;maxPrice=9999&amp;linkin_id=8054241</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="category">
+					<name>Category</name>
+					<attributeURL>http://www.shopping.com/samsung/products~all-Category~MS-1?oq=samsung&amp;linkin_id=8054241</attributeURL>
+					<attributeValues matchedValueCount="3" returnedValueCount="3">
+						<attributeValue id="API3_CATEGORY_96252" matchingItemsCount="251">
+							<name>Televisions</name>
+							<attributeValueURL>http://www.shopping.com/samsung+televisions/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="API3_CATEGORY_93767" matchingItemsCount="9">
+							<name>Cellular Phones</name>
+							<attributeValueURL>
+								http://www.shopping.com/samsung+cellular-phones/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="API3_CATEGORY_93768" matchingItemsCount="5">
+							<name>Cellular Accessories</name>
+							<attributeValueURL>
+								http://www.shopping.com/samsung+cellular-accessories/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="store">
+					<name>Store</name>
+					<attributeURL>http://www.shopping.com/televisions/samsung/products~all-store~MS-1?oq=samsung&amp;linkin_id=8054241</attributeURL>
+					<attributeValues matchedValueCount="17" returnedValueCount="5">
+						<attributeValue id="store_ebay_4210135" matchingItemsCount="116">
+							<name>eBay</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+store-ebay-4210135/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_qvc" matchingItemsCount="54">
+							<name>QVC</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+store-qvc/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_buydig_com" matchingItemsCount="32">
+							<name>BuyDig.com</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+store-buydig-com/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_macmall" matchingItemsCount="16">
+							<name>MacMall</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+store-macmall/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="store_dell_smb" matchingItemsCount="14">
+							<name>Dell Small Office</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+store-dell-smb/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="24054360_display_technology">
+					<name>Display Technology</name>
+					<attributeURL>
+						http://www.shopping.com/televisions/samsung/products~all-24054360-display-technology~MS-1?oq=samsung&amp;linkin_id=8054241
+					</attributeURL>
+					<attributeValues matchedValueCount="4" returnedValueCount="4">
+						<attributeValue id="led_lcd" matchingItemsCount="332">
+							<name>LED LCD</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+led-lcd/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="slim_led" matchingItemsCount="10">
+							<name>Slim LED</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+slim-led/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24054360_lcd" matchingItemsCount="3">
+							<name>LCD</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+24054360-lcd/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24054360_plasma" matchingItemsCount="2">
+							<name>Plasma</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+24054360-plasma/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+				<attribute id="24054371_rear_input_connectors">
+					<name>Rear Input Connectors</name>
+					<attributeURL>
+						http://www.shopping.com/televisions/samsung/products~all-24054371-rear-input-connectors~MS-1?oq=samsung&amp;linkin_id=8054241
+					</attributeURL>
+					<attributeValues matchedValueCount="17" returnedValueCount="5">
+						<attributeValue id="24054371_component_x_1" matchingItemsCount="41">
+							<name>Component x 1</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+24054371-component-x-1/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24054371_usb_port" matchingItemsCount="36">
+							<name>USB Port</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+24054371-usb-port/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24054371_composite_x_1" matchingItemsCount="33">
+							<name>Composite x 1</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+24054371-composite-x-1/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24054371_rf_x_1" matchingItemsCount="35">
+							<name>RF x 1</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+24054371-rf-x-1/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+						<attributeValue id="24054371_hdmi_x_2" matchingItemsCount="27">
+							<name>HDMI x 2</name>
+							<attributeValueURL>
+								http://www.shopping.com/televisions/samsung+24054371-hdmi-x-2/products~linkin_id-8054241
+							</attributeValueURL>
+						</attributeValue>
+					</attributeValues>
+				</attribute>
+			</attributes>
+			<contentType>hybrid</contentType>
+		</category>
+		<intActualCategoryCount>1</intActualCategoryCount>
+	</categories>
+	<relatedTerms>
+		<term>tv</term>
+		<term>samsung</term>
+		<term>lcd tv</term>
+		<term>panasonic</term>
+		<term>panasonic hdtv</term>
+		<term>cect i9</term>
+		<term>hd</term>
+		<term>i touch</term>
+		<term>lcd</term>
+		<term>hdtv</term>
+		<term>television</term>
+		<term>plasma tv</term>
+		<term>black jack 2</term>
+		<term>new philips 7 inch</term>
+		<term>plasma</term>
+	</relatedTerms>
+</GeneralSearchResponse>

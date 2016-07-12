@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="2224" firstResultPosition="1" totalResultsReturned="50" currency="SEK" totalMerchantsAvailable="68" searchOperator="and">
+		<Product>
+			<Offer id="713d4880054074c77bb98b45242984bf" type="MANUFACTURER_PRODUCTS">
+				<Title>lightinthebox Ulefone Smart Phone Be One</Title>
+				<Description>Hårdvara Platform:MT6592; RAM:1GB; ROM:16GB; Support:32GB; Kamera:13 MP; Frontkamera:8 MP; SIM kortläsare:Dubbla SIM kort; Display Storlek (inch):5.5; Skärmupplösning:1280x720; Skärmtyp:IPS; Ringsignal typ:Polyfonik,WMA,MMF,MID,MP3; FM Radio:Ja; Stand-by tid:Upp till 450 timmar; Taltid:Upp till 3 timmar;</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13682413/100020213/90/90/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201503%2Fnfuu1425294529091.jpg/hGyVH92pZs0VgHEhmQsEfQKa1MHNnfR.djl7_yvhQLs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13682413/100020213/auto/auto/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201503%2Fnfuu1425294529091.jpg/hGyVH92pZs0VgHEhmQsEfQKa1MHNnfR.djl7_yvhQLs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226811&amp;.sig=zyEo1ei_hq5BkFC9.RBetavGsOI-&amp;offerId=713d4880054074c77bb98b45242984bf&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13682413&amp;comId=13682413&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13682413">
+					<Name>Lightinthebox.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13682413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>1274</Price>
+					<DeliveryCost>129</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>129</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1403</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefoner och elektronik  Telefoner och tablets  Mobiltelefon  Android telefon</MerchantCategory>
+				<Brand>lightinthebox</Brand>
+				<BrandId>42787</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="64534389aefe9df7526bb3d66985ed02" type="MANUFACTURER_PRODUCTS">
+				<Title>Varta Powerbank Varta Phone Power 800 Apple Lightning LiIon 800 mAh</Title>
+				<Description>High-quality packs of rechargeable batteries, also suited to your notebook with quality cells from Panasonic or LG.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/7462823/100020213/90/90/http%3A%2F%2Fmedia.conrad.com%2Fmedias%2Fglobal%2Fce%2F5000_5999%2F5600%2F5680%2F5686%2F1244547_BB_00_FB.EPS_250.jpg/4yq9VSI_0SbdivsycoDjBwznk9exTbO_bFyXCjNOtJA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/7462823/100020213/auto/auto/http%3A%2F%2Fmedia.conrad.com%2Fmedias%2Fglobal%2Fce%2F5000_5999%2F5600%2F5680%2F5686%2F1244547_BB_00_FB.EPS_250.jpg/4yq9VSI_0SbdivsycoDjBwznk9exTbO_bFyXCjNOtJA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226811&amp;.sig=ucTIQFCRnT..dSpID6z4JcsD0H4-&amp;offerId=64534389aefe9df7526bb3d66985ed02&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=7462823&amp;comId=7462823&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="7462823">
+					<Name>Conrad</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/7462823/conrad_logo_2_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>269</Price>
+					<DeliveryCost>99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>368</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4008496810154</Ean>
+				<MerchantCategory>/Dator &amp; Kontor/Dator - Apple &amp; tillbehör/Tillbehör/Apple iPad, tillbehör/Powerbanks, mobilt extrabatteri</MerchantCategory>
+				<Brand>Varta</Brand>
+				<BrandId>33281</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="97cbeb2460525a91a5b41304924eed46" type="MANUFACTURER_PRODUCTS">
+				<Title>Doro 507/GRÅ Doro Phone Easy 507</Title>
+				<Description>1,76"-färgskärm Snabbval och SMS-knapp Förstärkt ljud Enkel att använda Trygghetsknapp Doro Phone Easy 507 är en mobiltelefon med väl separerade, konkava knappar samt snabbvalsminnen och SMS-knapp. Minnet och knapparna gör att denna snygga mobiltelefon är mycket lätt att ringa och skicka meddelanden med. En</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13714013/100020213/90/90/http%253A%252F%252Fcdn.siba.se%252FProductImages%252F113131.jpg%253Fid%253D113131%2526marketId%253D0%2526culture%253Dsv-SE%2526width%253D1000/y1RjuwMxGpJGdFQThNd4VI4tvoqvRIetPixCXOdomTg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13714013/100020213/auto/auto/http%253A%252F%252Fcdn.siba.se%252FProductImages%252F113131.jpg%253Fid%253D113131%2526marketId%253D0%2526culture%253Dsv-SE%2526width%253D1000/y1RjuwMxGpJGdFQThNd4VI4tvoqvRIetPixCXOdomTg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226812&amp;.sig=YcPqIunn_xRNPDwG3y7_zR9aEE8-&amp;offerId=97cbeb2460525a91a5b41304924eed46&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13714013&amp;comId=13714013&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/doro-phoneeasy-507-19854657?partnerId=96947090</CompareUrl>
+				<Merchant id="13714013">
+					<Name>Siba.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13714013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19854657</CatalogID>
+				<Catalog productId="19854657" categoryId="100020213">
+					<Name>Doro PhoneEasy 507</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>499</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>499</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>2-5 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7322460062781</Ean>
+				<MerchantCategory>Mobil, telefon &amp; GPS Telefon Knapptelefon</MerchantCategory>
+				<Brand>Doro</Brand>
+				<BrandId>969</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="cf34875750a14f98ae747f136cbe5f1c" type="MANUFACTURER_PRODUCTS">
+				<Title>Doro Phone Easy 715</Title>
+				<Description>Stor färgskärm, Klart ljud, Kamera, Skjutdesign, Tydliga knappar</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/3220101/100020213/90/90/http%3A%2F%2Fwww.netonnet.se%2FGetFile%2FProductImagePrimary%2Ftelefon%2Fmobiltelefon%2Fvarumarke%2Fdoro%2Fdoro-phoneeasy715black%28175436%29_Large.jpg/EHdHm5W3C7hhHR30N7rWiDcL76UGZusER7R.qKZzTxQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/3220101/100020213/auto/auto/http%3A%2F%2Fwww.netonnet.se%2FGetFile%2FProductImagePrimary%2Ftelefon%2Fmobiltelefon%2Fvarumarke%2Fdoro%2Fdoro-phoneeasy715black%28175436%29_Large.jpg/EHdHm5W3C7hhHR30N7rWiDcL76UGZusER7R.qKZzTxQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226812&amp;.sig=uiHzJuavi6bC_OLIUb8xz6nCYLA-&amp;offerId=cf34875750a14f98ae747f136cbe5f1c&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3220101&amp;comId=3220101&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/doro-phoneeasy-715-19823998?partnerId=96947090</CompareUrl>
+				<Merchant id="3220101">
+					<Name>Netonnet</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3220101/netonnet_logo_2_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19823998</CatalogID>
+				<Catalog productId="19823998" categoryId="100020213">
+					<Name>Doro PhoneEasy 715</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>699</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>699</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7322460061098</Ean>
+				<MerchantCategory>Menu1 Telefon Mobiltelefon Varumärke Doro</MerchantCategory>
+				<Brand>Doro</Brand>
+				<BrandId>969</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6f16592aa29fcd2e438c1cd08cfdde8f" type="MANUFACTURER_PRODUCTS">
+				<Title>Kickers PHONE</Title>
+				<Description>Sneakers Kickers  PHONE  Grå Finns i herrstorlek. 40,41,42,43,46. . Kläder &amp; Mode  Skor  Herrskor  Sneakers. (sko)</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11467623/109301/90/90/http%3A%2F%2Fphotos6.spartoo.se%2Fphotos%2F907%2F907137%2F907137_350_A.jpg/lJ00jFyVk4NnruxzBkLbJH7S6DxW7dMUl46QuSp6QvM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11467623/109301/auto/auto/http%3A%2F%2Fphotos6.spartoo.se%2Fphotos%2F907%2F907137%2F907137_350_A.jpg/lJ00jFyVk4NnruxzBkLbJH7S6DxW7dMUl46QuSp6QvM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226812&amp;.sig=oiH.mqUCUHhNp1XSd4qnEzWoIJo-&amp;offerId=6f16592aa29fcd2e438c1cd08cfdde8f&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11467623&amp;comId=11467623&amp;catId=109301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11467623">
+					<Name>Spartoo</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11467623/Spartoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="109301">
+					<Name>Herrskor</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>862</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>862</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-5 dagar</DeliveryTime>
+				<Promo>
+					<Promo>Utnyttja en rabatt på 10 % på denna artikel vid inköp över 700SEK med koden SPARTOOSE13</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Kläder &amp; Mode  Skor  Herrskor  Sneakers</MerchantCategory>
+				<Brand>Kickers</Brand>
+				<BrandId>1738</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="af5a51ff2a4167fb149e04cf064f5edf" type="MANUFACTURER_PRODUCTS">
+				<Title>Phone and Tablets Accesseories New Style Shiny Silver Cover For iPhone 4/4S /iPhone</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/3384623/108701/90/90/https%3A%2F%2Fstatic.coolshop.com%2Fimages%2Fboxshots%2F83168-forside.jpg/lNSte2TvwQptSFI_O.SyQL_A5ct2YggqLD8WbkPUPnw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/3384623/108701/auto/auto/https%3A%2F%2Fstatic.coolshop.com%2Fimages%2Fboxshots%2F83168-forside.jpg/lNSte2TvwQptSFI_O.SyQL_A5ct2YggqLD8WbkPUPnw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226812&amp;.sig=1x9GILzhcc5Am9CHnF4bwaJrrrc-&amp;offerId=af5a51ff2a4167fb149e04cf064f5edf&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3384623&amp;comId=3384623&amp;catId=108701&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="3384623">
+					<Name>Spelbutiken.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3384623/spelbutiken_logo_2_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108701">
+					<Name>Smycken</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>119</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>119</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-4 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Electronic</MerchantCategory>
+				<Brand>Phone and Tablets Accesseories</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="045d8fb322d32b1f3f6f9ba3064a957e" type="MANUFACTURER_PRODUCTS">
+				<Title>BUDDY PHONE hörlurar blå</Title>
+				<Description>Hörlurar med kompiskontakt så att barnen kan lyssna tillsammans! Perfekta hörlurar för barn som tycker om att lyssna på musik! De här BUDDY PHONE-hörlurarna har inbyggd volymbegränsning för att skydda barnens öron. Med kompiskontakt så att ytterligare 3 par hörlurar (medföljer inte) kan kopplas till samma</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/12418913/168001/90/90/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F6%252FBUDDY-PHONE-h%2525c3%2525b6rlurar-052287-1150776.ashx%253Fbc%253DTransparent%2526as%253D1%2526h%253D512%2526w%253D1024/25LSJ7XeDoXvFc0hPIdMClOdA1IhRi63kGP6nN4vGL0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/12418913/168001/auto/auto/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F6%252FBUDDY-PHONE-h%2525c3%2525b6rlurar-052287-1150776.ashx%253Fbc%253DTransparent%2526as%253D1%2526h%253D512%2526w%253D1024/25LSJ7XeDoXvFc0hPIdMClOdA1IhRi63kGP6nN4vGL0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226812&amp;.sig=oYRiNkJ4b.W55RxSM.nedDCWQNs-&amp;offerId=045d8fb322d32b1f3f6f9ba3064a957e&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12418913&amp;comId=12418913&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12418913">
+					<Name>Toysrus.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12418913/toysrus.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Leksaker</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>229.9</Price>
+					<DeliveryCost>39</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>268.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5766187150802</Ean>
+				<MerchantCategory>Musik och film</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="553b0f566567be27dbe0841b37f3d55a" type="MANUFACTURER_PRODUCTS">
+				<Title>Handskar - Phone friendly! Rut &amp; Circle</Title>
+				<Description>Svarta läderhandskar från Rut &amp; Circle med silverfärgade nitar.    De här handskarna fungerar till din touchmobil, perferkt att slippa ta av sig handskarna när det är kallt ute!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/7808223/108701/90/90/http%3A%2F%2Faldora.se%2Fimages%2Fnormal%2Fhands.jpg/.x4fXznstDi7eQycnYGyFm6Vzm00PLJxriQIicK4Agk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/7808223/108701/auto/auto/http%3A%2F%2Faldora.se%2Fimages%2Fnormal%2Fhands.jpg/.x4fXznstDi7eQycnYGyFm6Vzm00PLJxriQIicK4Agk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226812&amp;.sig=h7ajcrurqTcLAdr98_M3i_cFCWM-&amp;offerId=553b0f566567be27dbe0841b37f3d55a&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=7808223&amp;comId=7808223&amp;catId=108701&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="7808223">
+					<Name>Aldora</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/7808223/aldora_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108701">
+					<Name>Smycken</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>119</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>148</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accessoarer - Mössor &amp; Vantar</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e893de69d65da1392730c79cdd30f912" type="MANUFACTURER_PRODUCTS">
+				<Title>Picard PHONE Plånbok schwarz</Title>
+				<Description>Picard PHONE Plånbok schwarz Accessoarer från Zalando.se!   Accessoarer beställ utan fraktkostnader från Zalando.se nu!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11934813/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%408.jpg/qtYInw0.xZ1LptUBFrtP0NZ_mdXyzqdJEvKBKe0BRvk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11934813/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge-logo%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%408.jpg/qtYInw0.xZ1LptUBFrtP0NZ_mdXyzqdJEvKBKe0BRvk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226813&amp;.sig=eImA6XKnUhuvH_huHlCT1It.FjU-&amp;offerId=e893de69d65da1392730c79cdd30f912&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11934813&amp;comId=11934813&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11934813">
+					<Name>Zalando</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11934813/zalando_logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Väskor</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>1185</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1185</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 arbetsdagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4000794774848</Ean>
+				<MerchantCategory>Kvinna / Accessoarer / Plånböcker &amp; fodral / Plånböcker</MerchantCategory>
+				<Brand>Picard</Brand>
+				<BrandId>16460</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/se/11934813/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%407.jpg/0kaogSWiNAdRjTB9vZ7yZfmhCKSDGS_9jIhDnXMqs3o-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/se/11934813/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%407.jpg/0kaogSWiNAdRjTB9vZ7yZfmhCKSDGS_9jIhDnXMqs3o-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/se/11934813/100334223/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%406.jpg/jLF0xsCEludjU3M9KgDnIiHi7z1faw4bhy_aaWc9YZQ-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/se/11934813/100334223/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%406.jpg/jLF0xsCEludjU3M9KgDnIiHi7z1faw4bhy_aaWc9YZQ-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/se/11934813/100334223/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%405.jpg/2z_xKtQ2Jn3CXdPr79feX_HPxW0RMrQ2Sz4M4aKt7UY-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/se/11934813/100334223/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FPI%2F35%2F1F%2F00%2FJQ%2F11%2FPI351F00J-Q11%405.jpg/2z_xKtQ2Jn3CXdPr79feX_HPxW0RMrQ2Sz4M4aKt7UY-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e913cf9786f985b30dd5054a51d58276" type="MANUFACTURER_PRODUCTS">
+				<Title>Evoc Phone Case Mobilfodral M röd 2014 röd Fynd Tillbehörsfynd Cykeldator</Title>
+				<Description>Vikt: 40; Användningsområde: mobilväska; Stolekskategori:</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/12722213/100568013/90/90/http%253A%252F%252Fimages.internetstores.de%252F377722%252F04%252Fedf8e3%252FEvoc%252520Phone%252520Case%252520M%252520ruby.jpg%253Fsize%253D1470x849/MU13VUI1oR3WFPUWSdGnoaKakw25oiZvrNTzeHaKem0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/12722213/100568013/auto/auto/http%253A%252F%252Fimages.internetstores.de%252F377722%252F04%252Fedf8e3%252FEvoc%252520Phone%252520Case%252520M%252520ruby.jpg%253Fsize%253D1470x849/MU13VUI1oR3WFPUWSdGnoaKakw25oiZvrNTzeHaKem0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226813&amp;.sig=SDExw9dtynwNvZIbxvBpCrEEt3o-&amp;offerId=e913cf9786f985b30dd5054a51d58276&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12722213&amp;comId=12722213&amp;catId=100568013&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12722213">
+					<Name>Bikester.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12722213/bikester_shpologo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100568013">
+					<Name>Ryggsäckar</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>179</Price>
+					<DeliveryCost>109</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>109</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>288</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Beställ idag, vi skickar imorgon.</DeliveryTime>
+				<Promo>
+					<Promo>Beställ idag, vi skickar imorgon.</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4250450709046</Ean>
+				<MerchantCategory>Fynd  Tillbehörsfynd  Cykeldator</MerchantCategory>
+				<Brand>Evoc</Brand>
+				<BrandId>38444</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="707b480396f90847b7a3d373e9932d29" type="MANUFACTURER_PRODUCTS">
+				<Title>BUDDY PHONE hörlurar rosa</Title>
+				<Description>Hörlurar med kompiskontakt så att barnen kan lyssna tillsammans! Perfekta hörlurar för barn som tycker om att lyssna på musik! De här BUDDY PHONE-hörlurarna har inbyggd volymbegränsning för att skydda barnens öron. Med kompiskontakt så att ytterligare 3 par hörlurar (medföljer inte) kan kopplas till samma</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11592513/168001/90/90/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F7%252FBUDDY-PHONE-h%2525c3%2525b6rlurar-052287-1150777.ashx%253Fbc%253DTransparent%2526as%253D1%2526h%253D512%2526w%253D1024/6PlmWmJrKUV3brTLxg6A9u9moMmKZu3ujkDu55ZpQug-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11592513/168001/auto/auto/http%253A%252F%252Fcdn.top-toy.com%252F%252F%257E%252Fmedia%252FImages%252F05%252F7%252F7%252FBUDDY-PHONE-h%2525c3%2525b6rlurar-052287-1150777.ashx%253Fbc%253DTransparent%2526as%253D1%2526h%253D512%2526w%253D1024/6PlmWmJrKUV3brTLxg6A9u9moMmKZu3ujkDu55ZpQug-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226813&amp;.sig=wchwHEaok2C0cor3VEtKSK3uRj0-&amp;offerId=707b480396f90847b7a3d373e9932d29&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11592513&amp;comId=11592513&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11592513">
+					<Name>BR-leksaker.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11592513/BR_logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Leksaker</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>229.9</Price>
+					<DeliveryCost>39</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>268.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-7 vardagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5766187150819</Ean>
+				<MerchantCategory>Musikinstrument för barn</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="07106b56adbf4e91e4150de76d9836f1" type="MANUFACTURER_PRODUCTS">
+				<Title>Filip Phones assortment (Disney Filip Phone 590026)</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/5583523/168001/90/90/http%253A%252F%252Fwww.eurotoys.dk%252Fmain%252Fresizepic.asp%253Fpath%253Ds48-590026.jpg%2526width%253D400/t94S7KnU24HYQKcAW3lkwsckhCOGkxcpLNiccoG3xa4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/5583523/168001/auto/auto/http%253A%252F%252Fwww.eurotoys.dk%252Fmain%252Fresizepic.asp%253Fpath%253Ds48-590026.jpg%2526width%253D400/t94S7KnU24HYQKcAW3lkwsckhCOGkxcpLNiccoG3xa4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226813&amp;.sig=zavNuVfzuw3xQAxxhFhsUu1dOqw-&amp;offerId=07106b56adbf4e91e4150de76d9836f1&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=5583523&amp;comId=5583523&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="5583523">
+					<Name>Eurotoys.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/5583523/eurotoys_logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Leksaker</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>1124</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1124</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>2-4 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Baby Legetøj</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ae4718866a3b6cbf21e57324d98c03d8" type="MANUFACTURER_PRODUCTS">
+				<Title>Doro Phone Easy (50410)</Title>
+				<Description>Hårdvara/Telefoner &amp; GPS/Fast telefoni/Trådad telefon/</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/7058123/126001/90/90/http%3A%2F%2Fmedia.dustin.eu%2Fimage%2F44246%2F500%2F400%2Fphone-easy.jpg/oekEGV_JleIY60aJu6R3w1UDT8e9wVmeoluCAyV5qIk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/7058123/126001/auto/auto/http%3A%2F%2Fmedia.dustin.eu%2Fimage%2F44246%2F500%2F400%2Fphone-easy.jpg/oekEGV_JleIY60aJu6R3w1UDT8e9wVmeoluCAyV5qIk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226813&amp;.sig=49YYl3hKIWqHwiyegl.Yh.1g1J4-&amp;offerId=ae4718866a3b6cbf21e57324d98c03d8&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=7058123&amp;comId=7058123&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-telefoner-126001/doro-phoneeasy-311c-19532073?partnerId=96947090</CompareUrl>
+				<Merchant id="7058123">
+					<Name>Dustin home</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/7058123/dustin_logo_kelko_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>126001-19532073</CatalogID>
+				<Catalog productId="19532073" categoryId="126001">
+					<Name>Doro PhoneEasy 311c</Name>
+				</Catalog>
+				<Category id="126001">
+					<Name>Telefoner</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>239</Price>
+					<DeliveryCost>59</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>59</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>298</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7322460014445</Ean>
+				<MerchantCategory>Hårdvara/Telefoner &amp; GPS/Fast telefoni/Trådad telefon/</MerchantCategory>
+				<Brand>Doro</Brand>
+				<BrandId>969</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="079dbbddabd805a26039ae5634112a91" type="MANUFACTURER_PRODUCTS">
+				<Title>miniintheBox Tablet phones generic MHL to HDMI cable HD cable</Title>
+				<Description>HDMI Ports:HDMI V1.3; Number of HDMI In:1; Number of HDMI Out:1; Support:1080P; DTV/HDTV:1080P,1080i,720P; VGA:1920x1080; Video Input Signal:MHL; Färg:Svart; Dimensioner BxLxH(mm):17.52.51; Nettovikt (g):0.02; Typ:HDMI Switch</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13682613/100008013/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Foqhhaz1416248290640.jpg/PVe_6R4oK8GaW1Vii6Zcf0evd_Yk4xa0js8N3E0Vsm4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13682613/100008013/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Foqhhaz1416248290640.jpg/PVe_6R4oK8GaW1Vii6Zcf0evd_Yk4xa0js8N3E0Vsm4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226813&amp;.sig=0DRJaQiFsBC0k2uLu7wMB6LfnOA-&amp;offerId=079dbbddabd805a26039ae5634112a91&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13682613&amp;comId=13682613&amp;catId=100008013&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13682613">
+					<Name>Miniinthebox.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13682613/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100008013">
+					<Name>Digitalboxar &amp; Paraboler</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>100</Price>
+					<DeliveryCost>129</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>129</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>229</TotalPrice>
+					<PriceWithoutRebate>115</PriceWithoutRebate>
+					<Rebate>14</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektroniktillbehör  Audio- och videotillbehör  TV-boks</MerchantCategory>
+				<Brand>miniintheBox</Brand>
+				<BrandId>44373</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2a75e590391824ce3645c88223ff1753" type="MANUFACTURER_PRODUCTS">
+				<Title>Kickers (herr) - Phone</Title>
+				<Description>Phone (Grå) från Kickers  / Sneakers / Låga /  / Strl. 40 41 42 43 44 45. Gratis frakt på Sarenza.se!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/12013413/109301/90/90/http%3A%2F%2Fcdn.sarenza.net%2Fstatic%2F_img%2FproductsV4%2F0000115909%2FHD_0000115909_216194_09.jpg%3F201502042302/p072BSGIMmpHYMpBZzP2Mhzj15pMHhmzpZEgCnh04Bw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/12013413/109301/auto/auto/http%3A%2F%2Fcdn.sarenza.net%2Fstatic%2F_img%2FproductsV4%2F0000115909%2FHD_0000115909_216194_09.jpg%3F201502042302/p072BSGIMmpHYMpBZzP2Mhzj15pMHhmzpZEgCnh04Bw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226814&amp;.sig=ZFOscmv3dAOZ97Pc7mSkDsIoT3I-&amp;offerId=2a75e590391824ce3645c88223ff1753&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12013413&amp;comId=12013413&amp;catId=109301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12013413">
+					<Name>Sarenza.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12013413/80x24_kelkoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="109301">
+					<Name>Herrskor</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>802</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>802</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-4 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3612882634494</Ean>
+				<MerchantCategory>Ett par skor  - Man - Sneakers</MerchantCategory>
+				<Brand>Kickers</Brand>
+				<BrandId>1738</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e53e11ac305e9cf07f83c0eadbff27b4" type="MANUFACTURER_PRODUCTS">
+				<Title>blomus mobile phone charger holder</Title>
+				<Description>Skippa sladdkrånglet både på kontoret och hemma. Med den här laddningsstationen slipper du sladdar med knutar och du får ett ställe att lägga mobilen p ånär den laddas.   Höjd: 13 cm Bredd: 13 cm  Djup: 5 cm   Material: Borstat rostfritt stål   Design: Susanne Augenstein</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11845913/100409923/90/90/http%3A%2F%2Fblomussverige.nordicshops.com%2FPICTURE%2F65194_deko.JPGhttp%3A%2F%2Fblomussverige.nordicshops.com%2FPICTURE%2F65194.JPG/kq3AMROzCM7tab4feR6W7OTX6taT8ORJYMFyi0006D8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11845913/100409923/auto/auto/http%3A%2F%2Fblomussverige.nordicshops.com%2FPICTURE%2F65194_deko.JPGhttp%3A%2F%2Fblomussverige.nordicshops.com%2FPICTURE%2F65194.JPG/kq3AMROzCM7tab4feR6W7OTX6taT8ORJYMFyi0006D8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226814&amp;.sig=eEjSi4uv.okLKRUcIW9X4IrS.5c-&amp;offerId=e53e11ac305e9cf07f83c0eadbff27b4&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11845913&amp;comId=11845913&amp;catId=100409923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11845913">
+					<Name>Blomus Sverige</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11845913/blomus.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100409923">
+					<Name>Inredning</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>199</Price>
+					<DeliveryCost>59</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>59</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>258</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1-4 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>HEMINREDNING  Kontorsprodukter</MerchantCategory>
+				<Brand>blomus</Brand>
+				<BrandId>12079</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f5468ff4437d6552a655abb72bb78d03" type="MANUFACTURER_PRODUCTS">
+				<Title>blomus mobile phone charger holder</Title>
+				<Description>Med denna mobilladdningsstation slipper du trassel med sladdar. Vida sladden runt stationen och lägg mobilen i hållaren. Bra att ha både på kontoret och hemma.   Höjd: 13 cm Bredd: 13 cm  Djup: 5 cm   Material: Borstat rostfritt stål   Design: Susanne Augenstein</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11846213/100409923/90/90/http%3A%2F%2Fwww.baradesign.se%2FPICTURE%2F519-4-65194_deko.jpg/wllrNcobZKiAPililR62LQcaXTF1K8EF2aI4OB0ihmk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11846213/100409923/auto/auto/http%3A%2F%2Fwww.baradesign.se%2FPICTURE%2F519-4-65194_deko.jpg/wllrNcobZKiAPililR62LQcaXTF1K8EF2aI4OB0ihmk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226814&amp;.sig=v.V_M1oew8RsFvfi6TdC3SSCZuE-&amp;offerId=f5468ff4437d6552a655abb72bb78d03&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11846213&amp;comId=11846213&amp;catId=100409923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11846213">
+					<Name>Baradesign</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11846213/baradesign.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100409923">
+					<Name>Inredning</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>199</Price>
+					<DeliveryCost>59</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>59</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>258</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1-4 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smarta saker</MerchantCategory>
+				<Brand>blomus</Brand>
+				<BrandId>12079</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9bdd9702c643af8850a8585237e5111f" type="MANUFACTURER_PRODUCTS">
+				<Title>Patagonia Boys Lightweight Phone Home Sweatshirt</Title>
+				<Description>Långärmad ziptröja med luva och fickor fram. Tillverkad av 60% ekologisk bomull och 40% polyester fleece.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/6863923/108501/90/90/http%3A%2F%2Fpngbabyshop.cachefly.net%2Fimages%2F99112%2Fexternal-large.jpg/sDHSYKG3Zy_095kdMJ_2mN073qo5PpJ8LeHTgo891RA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/6863923/108501/auto/auto/http%3A%2F%2Fpngbabyshop.cachefly.net%2Fimages%2F99112%2Fexternal-large.jpg/sDHSYKG3Zy_095kdMJ_2mN073qo5PpJ8LeHTgo891RA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226814&amp;.sig=jwjMzUGdGiOG6AeVjMX6AI5Oqyo-&amp;offerId=9bdd9702c643af8850a8585237e5111f&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=6863923&amp;comId=6863923&amp;catId=108501&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="6863923">
+					<Name>Babyshop.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/6863923/Babyshop-se_80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108501">
+					<Name>Barnkläder</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>225</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>254</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Barnkläder</MerchantCategory>
+				<Brand>Patagonia</Brand>
+				<BrandId>8823</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a76138f6e79132e8c48d54fef515d612" type="MANUFACTURER_PRODUCTS">
+				<Title>Fisher-Price Phone"</Title>
+				<Description>"Learn phone från Fisher Price är en färgglad aktivitetsleksak med ljudfunktioner. Telefonen har en mängd knappar som spelar upp olika ljud när barnet trycker på dem. Telefonen är vit med färgglada detaljer så som en glad gul antenn, röda armar och fötter och orangea, gröna, lila och blå knappar. Telefonen</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13724213/168001/90/90/http%3A%2F%2Fservices.enferno.se%2Fimage%2F447d0bdb-22d0-48df-9309-2355a226f582.png/9skwNHnhTytahxv0N5tCUD5UX.Ui697VzscuS4UMn1o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13724213/168001/auto/auto/http%3A%2F%2Fservices.enferno.se%2Fimage%2F447d0bdb-22d0-48df-9309-2355a226f582.png/9skwNHnhTytahxv0N5tCUD5UX.Ui697VzscuS4UMn1o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226814&amp;.sig=NmXvVM8fqrSI3mm6qPj00A196eQ-&amp;offerId=a76138f6e79132e8c48d54fef515d612&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13724213&amp;comId=13724213&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13724213">
+					<Name>Storochliten.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13724213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Leksaker</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>269</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>318</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>&amp;quot;Barn &amp; baby - Babylek - Aktivitetsleksaker&amp;quot;</MerchantCategory>
+				<Brand>Fisher-Price</Brand>
+				<BrandId>1217</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="44e6400d4fa1f03198ad5d416dfeac61" type="MANUFACTURER_PRODUCTS">
+				<Title>Native union Pop phone - Chrystal silver</Title>
+				<Description>Den ultimata accessoaren med äkta swarowski-kristaller!Pop phone Crystal är ett mousserande och spektakulär lyxversion av standardversionen av Pop-telefonen, som utan tvekan gör varje samtal roligare. POP Phone luren kombinerar klassisk stil med en modern spets och avslutas med en lyxigt mjuk struktur.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/12784413/100409923/90/90/http%3A%2F%2Fservices.enferno.se%2Fimage%2Fdb901c61-8334-4c38-a804-61343fb5aa5c.jpg/7sQdiwxfSFBmPCVb3NaAXdEVWNZSJ0M.QwbFV4kdgwo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/12784413/100409923/auto/auto/http%3A%2F%2Fservices.enferno.se%2Fimage%2Fdb901c61-8334-4c38-a804-61343fb5aa5c.jpg/7sQdiwxfSFBmPCVb3NaAXdEVWNZSJ0M.QwbFV4kdgwo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226815&amp;.sig=IRkArS6OR37qt2ncUKhj5OaITug-&amp;offerId=44e6400d4fa1f03198ad5d416dfeac61&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12784413&amp;comId=12784413&amp;catId=100409923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12784413">
+					<Name>Confidentliving.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12784413/confidentliving_logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100409923">
+					<Name>Inredning</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>7290</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>7290</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 veckor</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Övrig inredning - Övrigt</MerchantCategory>
+				<Brand>Native union</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8c4127ff15c5589d85f004087e76fef2" type="MANUFACTURER_PRODUCTS">
+				<Title>Nike Men Nike Swoosh Hard Phone Case Samsung</Title>
+				<Description>Nike Swoosh Hard Phone Case - Holdbar og ripebestandig mobilskall fra Nike, designet for å passe din Samsung S4!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13628213/133601/90/90/http%3A%2F%2Fwww.bodystore.com%2Fbilder%2Fprodukter%2F700x700%2FNIAA4023NS_1.png/ak7aiRh0SEaKgR7P6z81bMO_04rBdUjwAeDd7Kr_C2o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13628213/133601/auto/auto/http%3A%2F%2Fwww.bodystore.com%2Fbilder%2Fprodukter%2F700x700%2FNIAA4023NS_1.png/ak7aiRh0SEaKgR7P6z81bMO_04rBdUjwAeDd7Kr_C2o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226815&amp;.sig=HlBMKVPy264kRdjbZSDABpK6ah4-&amp;offerId=8c4127ff15c5589d85f004087e76fef2&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13628213&amp;comId=13628213&amp;catId=133601&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13628213">
+					<Name>Bodystore.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13628213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="133601">
+					<Name>Hälsokost &amp; Vård</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>199</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>199</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0887791022707</Ean>
+				<MerchantCategory>Sport/träning &amp;gt; Träningsredskap &amp;gt; Musiktillbehör</MerchantCategory>
+				<Brand>Nike Men</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="32b2c8e5757f52fc6440585fc67acfa1" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Uc Phone 7942</Title>
+				<Description>Cisco Uc Phone 7942</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13003413/126001/90/90/https%3A%2F%2Fwww.senetic.se%2Fi%2Fnorm%2Fg%2F1905187-2281.jpg/Tn_zNxPv2bAijtrW2kvAdsruU44LD5XthYR2KtBElM0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13003413/126001/auto/auto/https%3A%2F%2Fwww.senetic.se%2Fi%2Fnorm%2Fg%2F1905187-2281.jpg/Tn_zNxPv2bAijtrW2kvAdsruU44LD5XthYR2KtBElM0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226815&amp;.sig=pazXrY4Bwa99gObr3FTKJ83F228-&amp;offerId=32b2c8e5757f52fc6440585fc67acfa1&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13003413&amp;comId=13003413&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-telefoner-126001/cisco-7942g-19622192?partnerId=96947090</CompareUrl>
+				<Merchant id="13003413">
+					<Name>Senetic</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13003413/senetic_logo_80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>126001-19622192</CatalogID>
+				<Catalog productId="19622192" categoryId="126001">
+					<Name>Cisco 7942G</Name>
+				</Catalog>
+				<Category id="126001">
+					<Name>Telefoner</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>1968.75</Price>
+					<DeliveryCost>130</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>130</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2098.75</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>5</Availability>
+				<DeliveryTime>1-2 dage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658140389</Ean>
+				<MerchantCategory>Cisco  IP telefoni</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="fc2a1ae04074cdd82d44637cc9f478dc" type="MANUFACTURER_PRODUCTS">
+				<Title>Brica Telefonholder Phone Pod</Title>
+				<Description>Brica Telefonhållare Phone Pod är en universal telefonhållare som passar till de flesta mobiltelefoner och vagnar. Kläms fast på vagnens handtag och sitter säkert på plats. Vridbar för porträtt- eller landskapsläge. Passar mobiler med måtten: höjd 9-13 cm och bredd 5-6,5 cm.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11162123/100334923/90/90/http%3A%2F%2Fwww.jollyroom.se%2Fstorage%2Fma%2F1b21661980634da1bcaaf8d0ca8ed2f9%2F0bcd37e7f3be4f4e8fbad4cd2e5a6123%2Fjpg%2F26F0CACEC39D16A24A59F8FC6D53B18B9F559C1A%2F104151.jpg/Oc5VwBcfqZDHBXQk.b9u7pCT.S0SygtCvFSk1Q05HPk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11162123/100334923/auto/auto/http%3A%2F%2Fwww.jollyroom.se%2Fstorage%2Fma%2F1b21661980634da1bcaaf8d0ca8ed2f9%2F0bcd37e7f3be4f4e8fbad4cd2e5a6123%2Fjpg%2F26F0CACEC39D16A24A59F8FC6D53B18B9F559C1A%2F104151.jpg/Oc5VwBcfqZDHBXQk.b9u7pCT.S0SygtCvFSk1Q05HPk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226815&amp;.sig=gNIFbyMoWCDGnBnN7O7HucMF2MA-&amp;offerId=fc2a1ae04074cdd82d44637cc9f478dc&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11162123&amp;comId=11162123&amp;catId=100334923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11162123">
+					<Name>Jollyroom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11162123/jollyroom (2).gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334923">
+					<Name>Barnprodukter</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>129</Price>
+					<DeliveryCost>59</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>59</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>188</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Barnvagnar-Barnvagnstillbehör-Övriga Tillbehör</MerchantCategory>
+				<Brand>BRICA</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c3b679534d0303eb18f4c44361f525e7" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems IP Phone 7861 - VoIP-telefon</Title>
+				<Description>VoIP-telefon, SIP, SRTP, 16 rader</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/12812313/126001/90/90/http%3A%2F%2Fwww.proshop.se%2Fmediacontent%2F24%2F29%2F2429429o.jpg/i4vo5qxGrYMX3EuOlbVKYET9qCjZ2oTSfB45Xf3VAoM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/12812313/126001/auto/auto/http%3A%2F%2Fwww.proshop.se%2Fmediacontent%2F24%2F29%2F2429429o.jpg/i4vo5qxGrYMX3EuOlbVKYET9qCjZ2oTSfB45Xf3VAoM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226816&amp;.sig=NsSXWStEXEtKCLwAdt0GTV_mKeg-&amp;offerId=c3b679534d0303eb18f4c44361f525e7&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12812313&amp;comId=12812313&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12812313">
+					<Name>Proshop.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12812313/Proshop-logo_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefoner</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>2948</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2948</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658621857</Ean>
+				<MerchantCategory>Fast telefon</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="be28b1fbe10ba5f8494c048896589149" type="MANUFACTURER_PRODUCTS">
+				<Title>Sofie Schnoor Phone Sleeve</Title>
+				<Description>Sofie Schnoor Phone Sleeve</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13054913/107401/90/90/http%3A%2F%2Fimages.booztx.com%2Fsofie-schnoor%2F1300x1700%2Fsscm151505_black.jpg/Su0zJrV8zXE4Dkcq_5s23xrCRL_k4YYPqf1ukknAQEw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13054913/107401/auto/auto/http%3A%2F%2Fimages.booztx.com%2Fsofie-schnoor%2F1300x1700%2Fsscm151505_black.jpg/Su0zJrV8zXE4Dkcq_5s23xrCRL_k4YYPqf1ukknAQEw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226816&amp;.sig=mmsqfHEXL5DQyxKNgnxKBL625Oc-&amp;offerId=be28b1fbe10ba5f8494c048896589149&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13054913&amp;comId=13054913&amp;catId=107401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13054913">
+					<Name>Boozt.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13054913/boozt.com-logo-80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="107401">
+					<Name>Övriga accessoarer</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>229</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>278</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-5 Dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Women  Accessories</MerchantCategory>
+				<Brand>Sofie Schnoor</Brand>
+				<BrandId>17404</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b37a196ec00b063a4565d945f7c2c289" type="MANUFACTURER_PRODUCTS">
+				<Title>Doro 311 Phone-Easy Vit</Title>
+				<Description>Jättestora knappar Hörselslinga Förstärkt ringsignal Volymkontroll 3 direktval och 10 kortnummer</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/3340201/126001/90/90/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Flarge%2F71-15%2F71-1583.jpg/btAf9UUx4VHE.vwC30WeYJWrQeFOIH65EF38OEDTw7I-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/3340201/126001/auto/auto/http%3A%2F%2Fmedia.redcatsnordic.com%2Fellos%2Fimages%2Fproducts%2Flarge%2F71-15%2F71-1583.jpg/btAf9UUx4VHE.vwC30WeYJWrQeFOIH65EF38OEDTw7I-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226816&amp;.sig=MvVu5mYC1tIePAYqAuA5LMCcM4Y-&amp;offerId=b37a196ec00b063a4565d945f7c2c289&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3340201&amp;comId=3340201&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-telefoner-126001/doro-phoneeasy-311c-19532073?partnerId=96947090</CompareUrl>
+				<Merchant id="3340201">
+					<Name>Ellos.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3340201/ellos_black_80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>126001-19532073</CatalogID>
+				<Catalog productId="19532073" categoryId="126001">
+					<Name>Doro PhoneEasy 311c</Name>
+				</Catalog>
+				<Category id="126001">
+					<Name>Telefoner</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>299</Price>
+					<DeliveryCost>49.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>348.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektronik-Hemtelefoni</MerchantCategory>
+				<Brand>Doro</Brand>
+				<BrandId>969</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="196a32e84aa1b15097e2e5408c3d3db1" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 4S 16GB Telia-låst svart (beg)</Title>
+				<Description>Klassiska iPhone 4S i svart med 16 GB minne. Operatörslåst till Telia. Begagnad i bra skick!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/8361723/100020213/90/90/http%3A%2F%2Fwww.billigteknik.se%2F28471-large%2Fi.jpg/jW3oxD58mSWauwf7TPPSheH86W4QFv3SSWV8WJfG_1Y-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/8361723/100020213/auto/auto/http%3A%2F%2Fwww.billigteknik.se%2F28471-large%2Fi.jpg/jW3oxD58mSWauwf7TPPSheH86W4QFv3SSWV8WJfG_1Y-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226816&amp;.sig=glKFrMbJMx5afVJRLdLb.4Bjplo-&amp;offerId=196a32e84aa1b15097e2e5408c3d3db1&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=8361723&amp;comId=8361723&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/apple-iphone-4s-16-gb-19753788?partnerId=96947090</CompareUrl>
+				<Merchant id="8361723">
+					<Name>Billigteknik.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/8361723/kelkoodk_logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19753788</CatalogID>
+				<Catalog productId="19753788" categoryId="100020213">
+					<Name>Apple iPhone 4S 16 GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>1895</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1944</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobiltelefon &amp; Smartphone</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0cb40b889534f48950a4987b3cbaca3c" type="MANUFACTURER_PRODUCTS">
+				<Title>Lladro Cell phone string om</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11863513/108701/90/90/http%3A%2F%2Froyaldesign.se%2Fproducts%2F96%2F01010107.jpg/PycLWJyoXwoAAel42eeg.ZAn.4ugtKh6f8QcEnGPYB8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11863513/108701/auto/auto/http%3A%2F%2Froyaldesign.se%2Fproducts%2F96%2F01010107.jpg/PycLWJyoXwoAAel42eeg.ZAn.4ugtKh6f8QcEnGPYB8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226817&amp;.sig=RwGanEZwyBb48a.ndpOuPOlUMjs-&amp;offerId=0cb40b889534f48950a4987b3cbaca3c&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11863513&amp;comId=11863513&amp;catId=108701&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11863513">
+					<Name>RoyalDesign.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11863513/royaldesign.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108701">
+					<Name>Smycken</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>186</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>235</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>4-9 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Smycken - Mobiltelefon Smycken</MerchantCategory>
+				<Brand>Lladro</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e1348067573dd6a4fa52480d37397f86" type="MANUFACTURER_PRODUCTS">
+				<Title>Fisher-Price Flip Phone</Title>
+				<Description>Peek-a-boo Friends Flip-telefonen reagerar på allt som barnet gör! Varje gång barnet öppnar telefonen spelas roliga ljud upp och en av tre glada figurer visar sig. Figurerna växlar varje gång telefonen stängs, vilket aktiverar en annan ljudeffekt som gör att barnet vill öppna luckan igen. Tryck på en knapp</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11920413/168301/90/90/http%3A%2F%2Fa-lekmer.r.worldssl.net%2F1106597%2Ffisher-price-phone.jpg/g1ndm0RN8f_zZD5o_QPna1JtU62LUbj7bmgT4.ECVL8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11920413/168301/auto/auto/http%3A%2F%2Fa-lekmer.r.worldssl.net%2F1106597%2Ffisher-price-phone.jpg/g1ndm0RN8f_zZD5o_QPna1JtU62LUbj7bmgT4.ECVL8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226817&amp;.sig=72c3GepX5sNp9C.ccrl0rIrjKzQ-&amp;offerId=e1348067573dd6a4fa52480d37397f86&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11920413&amp;comId=11920413&amp;catId=168301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11920413">
+					<Name>Lekmer.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11920413/Lekmer.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168301">
+					<Name>Babyleksaker</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>119</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>168</TotalPrice>
+					<PriceWithoutRebate>149</PriceWithoutRebate>
+					<Rebate>21</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0746775237974</Ean>
+				<MerchantCategory>Babylek - Aktivitetsleksaker</MerchantCategory>
+				<Brand>Fisher-Price</Brand>
+				<BrandId>1217</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="15f110b0ebc47c594363fedd36311bd5" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 5s 32Gb (vit)</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/14088913/100020213/90/90/http%3A%2F%2Finfocarestore.se%2Fwebbutik%2Fimage%2Fcache%2Fdata%2Ftelefoner%2Fiphone_5s_color_silver_2x-500x500-500x500.jpg/Qx8JWNgFBjJV2tDmD_AE1eN7uKq.9z7EerSQhKAPs1o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/14088913/100020213/auto/auto/http%3A%2F%2Finfocarestore.se%2Fwebbutik%2Fimage%2Fcache%2Fdata%2Ftelefoner%2Fiphone_5s_color_silver_2x-500x500-500x500.jpg/Qx8JWNgFBjJV2tDmD_AE1eN7uKq.9z7EerSQhKAPs1o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226817&amp;.sig=UTjZAFCZjHCoJI_L7ySmWo7V8t4-&amp;offerId=15f110b0ebc47c594363fedd36311bd5&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14088913&amp;comId=14088913&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/apple-iphone-5s-32gb-19873916?partnerId=96947090</CompareUrl>
+				<Merchant id="14088913">
+					<Name>InfoCareStore.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/14088913/logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873916</CatalogID>
+				<Catalog productId="19873916" categoryId="100020213">
+					<Name>Apple iPhone 5S 32GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>4499</Price>
+					<DeliveryCost>99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>4598</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Begagnade mobiltelefoner</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f66d8315cdbd385829c2c40d1f0a6e78" type="MANUFACTURER_PRODUCTS">
+				<Title>Fisher Price Swedish Learning Phone</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/7571523/168001/90/90/http%3A%2F%2Fwww.shopping4net.se%2FCommon%2FPCCs%2FProducts%2FGrpx%2FT4Net%2FImg-TTABL-1-XX-small.jpg/2ZySCbc4KImUwLgPY981gUvPnkqeiOUMY8NbUoQYtuI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/7571523/168001/auto/auto/http%3A%2F%2Fwww.shopping4net.se%2FCommon%2FPCCs%2FProducts%2FGrpx%2FT4Net%2FImg-TTABL-1-XX-small.jpg/2ZySCbc4KImUwLgPY981gUvPnkqeiOUMY8NbUoQYtuI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226817&amp;.sig=_PVAt4Q06vRxHJ9EWqoEIqrMrWM-&amp;offerId=f66d8315cdbd385829c2c40d1f0a6e78&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=7571523&amp;comId=7571523&amp;catId=168001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="7571523">
+					<Name>Shopping4net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/7571523/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168001">
+					<Name>Leksaker</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>249</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>249</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0027084287325</Ean>
+				<MerchantCategory>1|Pedagogiska leksaker</MerchantCategory>
+				<Brand>Fisher Price</Brand>
+				<BrandId>1217</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="43e7acbff07b117833cc56f7d6a16d0c" type="MANUFACTURER_PRODUCTS">
+				<Title>Exped ZIP SEAL PHONE</Title>
+				<Description>Vattentätt och transparent fodral för exempelvis kartor och mobiler. Mått: 26x15 cm. Vikt: 21 g.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/9329023/164701/90/90/http%3A%2F%2Fwww.stadium.se%2Fis-bin%2Fintershop.static%2FBOS%2FStadium-SwedenB2C-Site%2FStadium%2Fsv_SE%2FProducts%2FMedium%2F203849_101.jpg/c4RJZRtyq_XKoO06o8BH8itH5IvcM_oZu8jA76ayiis-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/9329023/164701/auto/auto/http%3A%2F%2Fwww.stadium.se%2Fis-bin%2Fintershop.static%2FBOS%2FStadium-SwedenB2C-Site%2FStadium%2Fsv_SE%2FProducts%2FMedium%2F203849_101.jpg/c4RJZRtyq_XKoO06o8BH8itH5IvcM_oZu8jA76ayiis-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226817&amp;.sig=YOnSti8WkAQznptkv9EOzUCbUrM-&amp;offerId=43e7acbff07b117833cc56f7d6a16d0c&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9329023&amp;comId=9329023&amp;catId=164701&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9329023">
+					<Name>Stadium</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9329023/stadium_logo2.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="164701">
+					<Name>Sportkläder &amp; Friluftskläder</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>199</Price>
+					<DeliveryCost>40</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>40</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>239</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>SPORT/UTELIV &amp;amp; RESA/Tillbehör</MerchantCategory>
+				<Brand>Exped</Brand>
+				<BrandId>20940</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4458ecddd495a52e8e04d878c4718f97" type="MANUFACTURER_PRODUCTS">
+				<Title>runtastic Bike Case for iPhone for i-Phone 4 / 4S / 5 * Priset är endast giltigt till 09.03. med kupongkod: AKSE-10 *</Title>
+				<Description>The iPhone becomes a top-quality bike computer with the runtastic Bike Case in combination with Runtastic Road Bike or Runtastic Mountain Bike App. The runtastic Bike Case for iPhone protects the iPhone from shocks and splash water. The protective cover offers holes for connecting earphones and battery packs.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/14164713/133601/90/90/http%3A%2F%2Fresources.sport-tiedje.com%2Fbilder%2Fruntastic%2FRUNCAI1%2Fruntastic-bike-case-iphone-04-w_250.jpg/FYcrGO1WIvErZzJxp_HIjrKEIJ4SVe2N8hwxZYIeU4M-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/14164713/133601/auto/auto/http%3A%2F%2Fresources.sport-tiedje.com%2Fbilder%2Fruntastic%2FRUNCAI1%2Fruntastic-bike-case-iphone-04-w_250.jpg/FYcrGO1WIvErZzJxp_HIjrKEIJ4SVe2N8hwxZYIeU4M-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226818&amp;.sig=dqczVgbumFJk_x4Ed_Zr2u9xsu4-&amp;offerId=4458ecddd495a52e8e04d878c4718f97&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14164713&amp;comId=14164713&amp;catId=133601&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14164713">
+					<Name>Sport-tiedje.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/14164713/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="133601">
+					<Name>Hälsokost &amp; Vård</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>359.1</Price>
+					<DeliveryCost>100</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>100</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>459.1</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Tillbehör  Pulsklockor Tillbehör</MerchantCategory>
+				<Brand>Runtastic</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="325eff79d6c74374e504140fbb5de11d" type="MANUFACTURER_PRODUCTS">
+				<Title>Michael Michael Kors Lg Phone Crossbody</Title>
+				<Description>Axelremsväska i äkta läder från Michael Michael Kors. Justerbar samt avtagbar axelrem. Försluts med lock och magnetknapp. Tre större fack samt plats för fem kort. Ett innerfack med dragkedja samt ett fack baktill. Guldfärgad metallapplikation med logotyp framtill. Bredd 17,5 cm. Höjd 13 cm. Djup 4 cm.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/12451613/100334223/90/90/http%3A%2F%2Fnlyscandinavia.scene7.com%2Fis%2Fimage%2Fnlyscandinavia%2FproductOverview2%2F246101-1122.jpg/UhG77hG4T9NzXLwlb_jjnbBmPlnQzxrnzQFRnVEiLc4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/12451613/100334223/auto/auto/http%3A%2F%2Fnlyscandinavia.scene7.com%2Fis%2Fimage%2Fnlyscandinavia%2FproductOverview2%2F246101-1122.jpg/UhG77hG4T9NzXLwlb_jjnbBmPlnQzxrnzQFRnVEiLc4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226818&amp;.sig=rzWeBhU3fHFOMWzCafnsWAoMry4-&amp;offerId=325eff79d6c74374e504140fbb5de11d&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12451613&amp;comId=12451613&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12451613">
+					<Name>Nelly.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12451613/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Väskor</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>1379</Price>
+					<DeliveryCost>39</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1418</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>0</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Kvinna  ACCESSOARER  Väskor  Axelremsväskor</MerchantCategory>
+				<Brand>Michael Michael Kors</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8c1064a262c2526c066b8be2ccd65a06" type="MANUFACTURER_PRODUCTS">
+				<Title>Nova Star Pyjamas Phone</Title>
+				<Description>Skön pyjamas, byxa i grått och tröja i blått. Gråa hörlurar i print på tröjan. Mudd i midja och benslut på byxorna. Mudd i slutet på tröjans ärm. Unisex modell.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13664813/108501/90/90/http%3A%2F%2Fkidsbrandstore.se%2Fimages%2Fproduct%2Ft80340-pyjamas-phone-top-front.jpg/xTfs6DRWKhbPVQFhLkmZPOQdUjXq1BWkvcjrBQ5S_w4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13664813/108501/auto/auto/http%3A%2F%2Fkidsbrandstore.se%2Fimages%2Fproduct%2Ft80340-pyjamas-phone-top-front.jpg/xTfs6DRWKhbPVQFhLkmZPOQdUjXq1BWkvcjrBQ5S_w4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226818&amp;.sig=bPrxP3uNwVEVR9k8_ZnvV.4c0PY-&amp;offerId=8c1064a262c2526c066b8be2ccd65a06&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13664813&amp;comId=13664813&amp;catId=108501&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13664813">
+					<Name>Kidsbrandstore.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13664813/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108501">
+					<Name>Barnkläder</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>149.5</Price>
+					<DeliveryCost>39</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>39</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>188.5</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Unisex|Bodys/Pyjamas</MerchantCategory>
+				<Brand>Nova Star</Brand>
+				<BrandId>42938</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bd1031540320ab5b2ab7f2fd6c8b4634" type="MANUFACTURER_PRODUCTS">
+				<Title>ASOS Leather Phone Sleeve with Card Slots - Blue</Title>
+				<Description>ASOS Leather Phone Sleeve with Card Slots</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/10578923/107401/90/90/http%3A%2F%2Fimages.asos-media.com%2Finv%2Fmedia%2F7%2F6%2F0%2F8%2F4638067%2Fnavy%2Fimage1l.jpg/nEqZJXFARBlpknCCgcxt5ioz6DW8A_mhVpxG9Yf0pHM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/10578923/107401/auto/auto/http%3A%2F%2Fimages.asos-media.com%2Finv%2Fmedia%2F7%2F6%2F0%2F8%2F4638067%2Fnavy%2Fimage1l.jpg/nEqZJXFARBlpknCCgcxt5ioz6DW8A_mhVpxG9Yf0pHM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226818&amp;.sig=sqmGOYc.ojU2xkg0zNCln.oJxD8-&amp;offerId=bd1031540320ab5b2ab7f2fd6c8b4634&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10578923&amp;comId=10578923&amp;catId=107401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="10578923">
+					<Name>asos.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10578923/asos.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="107401">
+					<Name>Övriga accessoarer</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>35.71</Price>
+					<DeliveryCost>50</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>50</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>85.71</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>3-7 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Menswear / Accessories / Covers &amp; Cases</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bc28941025aa8f4cb811b2f85b8b2fc3" type="MANUFACTURER_PRODUCTS">
+				<Title>Maxpedition Clip-On PDA Phone Holster Kaki</Title>
+				<Description>Great for small two-way radios, Treo, iPhone, Palm, Blackberry and anything that's 4.5" or less in height. Overall size: 2.75" wide x 5" height Belt clip (included): Heat treated heavy duty spring steel, jet black power coat, accommodates up to 2.25" belt loop Great for small two-way radios, Treo, iPhone,</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11302723/100014313/90/90/http%3A%2F%2Fwww.tacticalstore.se%2Fshop%2F6375%2Fart75%2Fh9246%2F25019246-origpic-b1bf8b.jpg/qJkb2wlFi0ForpqtjRX.BqJmFfnJihjM2iKYg9yuk3s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11302723/100014313/auto/auto/http%3A%2F%2Fwww.tacticalstore.se%2Fshop%2F6375%2Fart75%2Fh9246%2F25019246-origpic-b1bf8b.jpg/qJkb2wlFi0ForpqtjRX.BqJmFfnJihjM2iKYg9yuk3s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226818&amp;.sig=i2fJGuSINtswAkE9zMCrqzNl2is-&amp;offerId=bc28941025aa8f4cb811b2f85b8b2fc3&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11302723&amp;comId=11302723&amp;catId=100014313&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11302723">
+					<Name>Tacticalstore</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11302723/tstoremini.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100014313">
+					<Name>Övriga sporter</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>259</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>259</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0846909005995</Ean>
+				<MerchantCategory>TAKTISKA BÄRSYSTEM - MOLLE-fickor - Maxpedition</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6266d0dbb68ba1e996b272547404ec42" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 6 Plus 64GB Grå</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/3375501/100020213/90/90/http%3A%2F%2Fwww.cyberphoto.se%2Fapple%2Fiphone6pluss_1.jpg/IjB.6CIZbPiGKbBe28_bz0YeJCFOSakKhQ6KJNPXNUg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/3375501/100020213/auto/auto/http%3A%2F%2Fwww.cyberphoto.se%2Fapple%2Fiphone6pluss_1.jpg/IjB.6CIZbPiGKbBe28_bz0YeJCFOSakKhQ6KJNPXNUg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226820&amp;.sig=RIu0kKYfEbegq6ph5Php4UmnIBM-&amp;offerId=6266d0dbb68ba1e996b272547404ec42&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3375501&amp;comId=3375501&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/apple-iphone-6-plus-64gb-19902160?partnerId=96947090</CompareUrl>
+				<Merchant id="3375501">
+					<Name>CyberPhoto</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3375501/kelkoo_logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902160</CatalogID>
+				<Catalog productId="19902160" categoryId="100020213">
+					<Name>Apple Iphone 6 Plus 64GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>8189</Price>
+					<DeliveryCost>99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>8288</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobiltelefoner</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6a4870a95137d8300b1fe7d3f225b7c9" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple iPhone 6 Plus - 16GB - Silver</Title>
+				<Description>iPhone 6 Plus - 16GB - Silver</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/5790623/100020213/90/90/http%3A%2F%2Fwww.mytrendyphone.se%2F%2Fimages%2FiPhone-6-Plus-16GB-Silver-18092014-01.jpg/yvltNSIQbwUqGHHniaG24QWvGJGapfOPiJ5TNdR4GcM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/5790623/100020213/auto/auto/http%3A%2F%2Fwww.mytrendyphone.se%2F%2Fimages%2FiPhone-6-Plus-16GB-Silver-18092014-01.jpg/yvltNSIQbwUqGHHniaG24QWvGJGapfOPiJ5TNdR4GcM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226820&amp;.sig=es_6B3w9YbOgKlaMNK31kuyqVoM-&amp;offerId=6a4870a95137d8300b1fe7d3f225b7c9&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=5790623&amp;comId=5790623&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/apple-iphone-6-plus-16gb-19902159?partnerId=96947090</CompareUrl>
+				<Merchant id="5790623">
+					<Name>MyTrendyPhone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/5790623/mtp.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902159</CatalogID>
+				<Catalog productId="19902159" categoryId="100020213">
+					<Name>Apple Iphone 6 Plus 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>7596</Price>
+					<DeliveryCost>59</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>59</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>7655</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Sjekk nettsiden</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0888462039543</Ean>
+				<MerchantCategory>Dummy</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4b895e0ff0b59a79c056500857b687de" type="MANUFACTURER_PRODUCTS">
+				<Title>HP NBX Group 2 Phone E-LTU</Title>
+				<Description>HP NBX Group 2 Phone E-LTU</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/12267613/100499123/90/90/http%3A%2F%2Fstore.hp.com%2FSwedenStore%2FHtml%2FMerch%2FImages%2Fc02494442_184x140.jpg/x4lowZqV6SshNeLjv9v2JxfZCFvl6z2ASmOuEYKyicI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/12267613/100499123/auto/auto/http%3A%2F%2Fstore.hp.com%2FSwedenStore%2FHtml%2FMerch%2FImages%2Fc02494442_184x140.jpg/x4lowZqV6SshNeLjv9v2JxfZCFvl6z2ASmOuEYKyicI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226820&amp;.sig=X5YDuBhMJ7ZLjeHP7HxcXHEWWFU-&amp;offerId=4b895e0ff0b59a79c056500857b687de&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12267613&amp;comId=12267613&amp;catId=100499123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12267613">
+					<Name>HP Store</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12267613/hpstore.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100499123">
+					<Name>Tillbehör till Telefoner</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>1253.75</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1253.75</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telephony Products</MerchantCategory>
+				<Brand>HP</Brand>
+				<BrandId>6744</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="122b94e3d3ae5ccedaccb4926ab03566" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Mobil 8GB iPhone 4</Title>
+				<Description>Apples numera klassiska fjärde version av iPhone, i en version med slimmat 8 GB minne till ett ändå bättre pris! Kombinationen av en pekskärm med perfekt känsla, oslagbart snygg design och användarvänlighet har gjort den till kanske tidernas mest populära telefon. Nya "Retina"-skärmen har en otroligt hög</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/3532701/100020213/90/90/http%3A%2F%2Faz392967.vo.msecnd.net%2Fproduct-image%2F133033739497720286-343x528-3.jpg%3F%24halens-product-category%24/dwBuilP0mzkXbhIs7Q4DWwZBQQbw8Cwo8Gb1ee__uF8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/3532701/100020213/auto/auto/http%3A%2F%2Faz392967.vo.msecnd.net%2Fproduct-image%2F133033739497720286-343x528-3.jpg%3F%24halens-product-category%24/dwBuilP0mzkXbhIs7Q4DWwZBQQbw8Cwo8Gb1ee__uF8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226820&amp;.sig=k46ZNLyP.6.LBPSsi8rbK84vvJA-&amp;offerId=122b94e3d3ae5ccedaccb4926ab03566&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3532701&amp;comId=3532701&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/apple-iphone-4-8-gb-19753935?partnerId=96947090</CompareUrl>
+				<Merchant id="3532701">
+					<Name>Halens.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3532701/halens_logo_80x24_3.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19753935</CatalogID>
+				<Catalog productId="19753935" categoryId="100020213">
+					<Name>Apple iPhone 4 8 GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>2790</Price>
+					<DeliveryCost>55</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>55</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2845</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>5</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobilt,Mobiler,Mobiltelefoner</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8217eecd78950efc4fb54f9528df5099" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple IPHONE 5S 16GB GOLD OLÅST</Title>
+				<Description>Tidigare helt otänkbart. Nu helt oumbärligt.Ett chip med 64-bitars arkitektur. En fingeravtrycksläsare. En snabbare och bättre kamera. Och ett operativsystem som utvecklats särskilt för 64 bitar. Om en smartphone hade en enda av dessa funktioner skulle den var</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/14112213/100020213/90/90/http%253A%252F%252Fwww.themobilestore.se%252Fupload%252F004-IM%252Fiphone-5s-gold-16%252520%25284%2529.jpg/llG800rsOU3CB5kpVUmkACzHUyiDBzvHJv8FyO6UOlw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/14112213/100020213/auto/auto/http%253A%252F%252Fwww.themobilestore.se%252Fupload%252F004-IM%252Fiphone-5s-gold-16%252520%25284%2529.jpg/llG800rsOU3CB5kpVUmkACzHUyiDBzvHJv8FyO6UOlw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226820&amp;.sig=5Jc6.Ee8oAGlVWNHWf72FxkBZm4-&amp;offerId=8217eecd78950efc4fb54f9528df5099&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14112213&amp;comId=14112213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-mobiltelefoner-utan-abonnemang-100020213/apple-iphone-5s-16gb-19873920?partnerId=96947090</CompareUrl>
+				<Merchant id="14112213">
+					<Name>Themobilestore.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/14112213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19873920</CatalogID>
+				<Catalog productId="19873920" categoryId="100020213">
+					<Name>Apple iPhone 5S 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Mobiltelefoner utan abonnemang</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>6575</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>6575</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-4 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Apple</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d249de87f3a81a11f7da8133181998e4" type="MANUFACTURER_PRODUCTS">
+				<Title>Phone booth (Blu-ray)</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13883413/149201/90/90/http%3A%2F%2Fs0.discshop.se%2Fimg%2Ffront_normal%2F67660%2Fphone_booth_blu_ray.jpg/By5q7fe5vx8qBKCC08YBPpHqUv9zrVHLYxgLF2QNl6I-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13883413/149201/auto/auto/http%3A%2F%2Fs0.discshop.se%2Fimg%2Ffront_normal%2F67660%2Fphone_booth_blu_ray.jpg/By5q7fe5vx8qBKCC08YBPpHqUv9zrVHLYxgLF2QNl6I-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226820&amp;.sig=r.X96O8Wnv2ezM9gSP_YjEUZqpA-&amp;offerId=d249de87f3a81a11f7da8133181998e4&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13883413&amp;comId=13883413&amp;catId=149201&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13883413">
+					<Name>Discshop.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13883413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="149201">
+					<Name>Filmer</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>99</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>film</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3ae5896aed22050256b57f88257241e7" type="MANUFACTURER_PRODUCTS">
+				<Title>Nike Men Nike Swoosh Hard Phone Case Samsung</Title>
+				<Description>Nike Swoosh Hard Phone Case - Stryktåligt och repsäkert mobilskal från Nike, utformat för att passa din Samsung S4!</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/13628013/112801/90/90/http%3A%2F%2Fwww.gymgrossisten.com%2Fbilder%2Fprodukter%2F700x700%2FNIAA4023NS_1.png/qhoIUfp_3Ud341I7qStFgC13zlPMRKAM6lY1mP.d3q0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/13628013/112801/auto/auto/http%3A%2F%2Fwww.gymgrossisten.com%2Fbilder%2Fprodukter%2F700x700%2FNIAA4023NS_1.png/qhoIUfp_3Ud341I7qStFgC13zlPMRKAM6lY1mP.d3q0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226821&amp;.sig=__lPrzBvnwLPMep.oNXngEmc1zM-&amp;offerId=3ae5896aed22050256b57f88257241e7&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13628013&amp;comId=13628013&amp;catId=112801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13628013">
+					<Name>Gymgrossisten</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13628013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="112801">
+					<Name>Blandat</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>199</Price>
+					<DeliveryCost>29</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>29</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>228</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Okänd, se butik</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0887791022707</Ean>
+				<MerchantCategory>Träningstillbehör &amp;gt; Musiktillbehör</MerchantCategory>
+				<Brand>Nike Men</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5b79961692c4b676dd54adcf83711366" type="MANUFACTURER_PRODUCTS">
+				<Title>Niteize Steelie Magnets Small for Phone</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/10189823/112801/90/90/http%3A%2F%2Fwww.scandinavianphoto.se%2Fimg%2Fimg_item%2F1014130.jpg/YXzNtUIq6ByGAGtDE9lCOWW9Wt8nlEnTtJk73O.7Wj8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/10189823/112801/auto/auto/http%3A%2F%2Fwww.scandinavianphoto.se%2Fimg%2Fimg_item%2F1014130.jpg/YXzNtUIq6ByGAGtDE9lCOWW9Wt8nlEnTtJk73O.7Wj8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226821&amp;.sig=.EIIFzf3JP8Dz4mbwtUuTRZ7OdE-&amp;offerId=5b79961692c4b676dd54adcf83711366&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10189823&amp;comId=10189823&amp;catId=112801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="10189823">
+					<Name>Scandinavian Photo</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10189823/scandinavian-photo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="112801">
+					<Name>Blandat</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>129</Price>
+					<DeliveryCost>99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>228</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>1-3 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefoner &amp; Surfplattor</MerchantCategory>
+				<Brand>Niteize</Brand>
+				<BrandId>38556</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bdb2318e3aa3e4f11859696f0969b34c" type="MANUFACTURER_PRODUCTS">
+				<Title>Phone-Magnet (iPhone 4S)</Title>
+				<Description>Den här magnetiska mattan håller ordning på dina skruvar när du reparerar din iPhone 4S. Du kan sätta skruvarna på magnetmattan så du vet vart de ska vara i telefonen under tiden som du pillar med din telefon. Passar: iPhone 4S Mått: 13 x 13 cm Vikt: 50 gram</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/8893223/125801/90/90/http%3A%2F%2Fwww.iphonebutiken.se%2Ffiles%2Fiphone4s_original.jpg/3uGGlmbRhuWdBxfmQx4Jd8XkAJiaQZO1bXvbXxcavHY-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/8893223/125801/auto/auto/http%3A%2F%2Fwww.iphonebutiken.se%2Ffiles%2Fiphone4s_original.jpg/3uGGlmbRhuWdBxfmQx4Jd8XkAJiaQZO1bXvbXxcavHY-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226821&amp;.sig=HqQWkKkM6w1FriPNfRRoj4TupQE-&amp;offerId=bdb2318e3aa3e4f11859696f0969b34c&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=8893223&amp;comId=8893223&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="8893223">
+					<Name>iPhonebutiken</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/8893223/80x24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Mobiltillbehör</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>69</Price>
+					<DeliveryCost>35</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>35</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>104</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>iPhone / iPhone 4 / 4S / Reservdelar / Verktyg</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e3a40b5b31d0545e533c84b527a45c93" type="MANUFACTURER_PRODUCTS">
+				<Title>Isotech X-series In-Ear Phones with mic (White)</Title>
+				<Description>EPX01001</Description>
+				<Images>
+					<Image available="false">
+						<Url>http://r.kelkoo.com/r/se/9494523/100005613/90/90/d</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="false">
+						<Url>http://r.kelkoo.com/r/se/9494523/100005613/auto/auto/d</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226821&amp;.sig=.8wbAwnfGspVdDk.Ly4OpFkzfQE-&amp;offerId=e3a40b5b31d0545e533c84b527a45c93&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9494523&amp;comId=9494523&amp;catId=100005613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9494523">
+					<Name>Patroner.se</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9494523/80x24 logo kelkoo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100005613">
+					<Name>Bläckpatroner &amp; Toners</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>160</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>209</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1-2 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Hörlurar/Högtalare</MerchantCategory>
+				<Brand>Isotech</Brand>
+				<BrandId>21036</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="39c210b246b097f66912b47cd7e40947" type="MANUFACTURER_PRODUCTS">
+				<Title>Phone case Cheap Monday</Title>
+				<Description>Mobilfodral från Cheap Monday med logga på framsidan. </Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/8349223/125801/90/90/http%3A%2F%2Fwww.fashionisland.se%2F20.0.0.1%2F10596%2Fdf8ab5d287421e4d086243c9e826239e.jpg/CGFXcZ4QZBNtqFf1RR3hD_mSx4GIGZx5fB7DXOG_kMg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/8349223/125801/auto/auto/http%3A%2F%2Fwww.fashionisland.se%2F20.0.0.1%2F10596%2Fdf8ab5d287421e4d086243c9e826239e.jpg/CGFXcZ4QZBNtqFf1RR3hD_mSx4GIGZx5fB7DXOG_kMg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226821&amp;.sig=_qoKodD95nonhbC51ElzAsk6Nu4-&amp;offerId=39c210b246b097f66912b47cd7e40947&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=8349223&amp;comId=8349223&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="8349223">
+					<Name>Fashionisland</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/8349223/fashionisland_logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Mobiltillbehör</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mobilfodral</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5fe025452f475685d9fde059887e3ff8" type="MANUFACTURER_PRODUCTS">
+				<Title>Rock phone gadgets - Bluetooth Retro telefonlur</Title>
+				<Description>Retro telefonlur till din mobiltelefon eller dator har nu kommit i trådlös version. Denna Rock phone telefonlur har nämligen inbyggd bluetooth. 12/24 v USB biladapter: 220V USB adapter / laddare:  Denna bluetooth telefonlur är tillverkad i de bästa mjuka material och har mikrofon och högtalare av hög</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/14010113/120901/90/90/http%3A%2F%2Fwww.pryltema.se%2Fimages%2Fbluetoothhandset1.jpg/E8F0ftgkr0avWtVSRUMyrAGP_YI4NoNW6vA73zln2Mk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/14010113/120901/auto/auto/http%3A%2F%2Fwww.pryltema.se%2Fimages%2Fbluetoothhandset1.jpg/E8F0ftgkr0avWtVSRUMyrAGP_YI4NoNW6vA73zln2Mk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226821&amp;.sig=OlI1zxv.1CgrslJFVFUjDAtqFOI-&amp;offerId=5fe025452f475685d9fde059887e3ff8&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14010113&amp;comId=14010113&amp;catId=120901&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.se/p-horlurar-120901/vivanco-rock-19723134?partnerId=96947090</CompareUrl>
+				<Merchant id="14010113">
+					<Name>Pryltema.se</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>120901-19723134</CatalogID>
+				<Catalog productId="19723134" categoryId="120901">
+					<Name>Vivanco Rock</Name>
+				</Catalog>
+				<Category id="120901">
+					<Name>Hörlurar</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>249</Price>
+					<DeliveryCost>49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>298</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1-3 postdagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Headsets och hörlurar</MerchantCategory>
+				<Brand>Vivanco</Brand>
+				<BrandId>3483</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f0294e11b8c408295c738ede5a664c2a" type="MANUFACTURER_PRODUCTS">
+				<Title>Apple Phone-Magnet (iPhone 5)</Title>
+				<Description>http://www.mobian.se/files/iphone5_original.jpg</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/se/11286123/125801/90/90/http%3A%2F%2Fwww.mobian.se%2Ffiles%2Fiphone5_original.jpg/EC4rlH.cjMSVwDG_YnDDJr6vHl9CcybQydklaaNczwg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/se/11286123/125801/auto/auto/http%3A%2F%2Fwww.mobian.se%2Ffiles%2Fiphone5_original.jpg/EC4rlH.cjMSVwDG_YnDDJr6vHl9CcybQydklaaNczwg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-se.kelkoo.se/ctl/go/sitesearchGo?.ts=1425565226821&amp;.sig=90cwqbTpRwsYQ7xmzGKFnS8Jq58-&amp;offerId=f0294e11b8c408295c738ede5a664c2a&amp;searchId=10769825013082_1425565226766_108845&amp;affiliationId=96947090&amp;country=se&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11286123&amp;comId=11286123&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11286123">
+					<Name>Mailshop</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Mobiltillbehör</Name>
+				</Category>
+				<Price currency="SEK">
+					<Price>69</Price>
+					<DeliveryCost>35</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>35</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>104</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 dagar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Apple / iPhone 5 / 5S / Reservdelar / Verktyg</MerchantCategory>
+				<Brand>Apple</Brand>
+				<BrandId>211</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

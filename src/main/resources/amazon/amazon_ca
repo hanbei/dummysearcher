@@ -1,0 +1,1394 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>2aabe2ac-a670-46e2-a742-aa89d18466b4</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="foxydeal0b-20"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:02:37Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="PF9xMuEk26778d5wif1/1V9jL/PnWON3n5AFbiay3tA="></Argument>
+		</Arguments>
+		<RequestProcessingTime>1.1314420000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>4265109</TotalResults>
+		<TotalPages>426511</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.ca/gp/redirect.html?camp=2025&amp;creative=386005&amp;location=http%3A%2F%2Fwww.amazon.ca%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=foxydeal0b-20&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00J4TK4CC</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Samsung-SM-G900H-BK-Unlocked-Smartphone-Import-Black/dp/B00J4TK4CC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J4TK4CC
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00J4TK4CC%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J4TK4CC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00J4TK4CC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J4TK4CC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00J4TK4CC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J4TK4CC
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00J4TK4CC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J4TK4CC
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Unlocked Phone</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>SS-G900HL-BK</CatalogNumberListElement>
+					<CatalogNumberListElement>SM-G900HZKLTTT</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Black</Color>
+				<EAN>8806086167253</EAN>
+				<EANList>
+					<EANListElement>8806086167253</EANListElement>
+				</EANList>
+				<Feature>GSM 850/900/1800/1900 HSDPA 850/900/1900/2100; Micro-SIM</Feature>
+				<Feature>Android OS, v4.4.2 (KitKat), CPU type-Octa Core, CPU Speed-1.9GHz, 1.3GHz</Feature>
+				<Feature>Internal memory: 16 GB storage, 2 GB RAM Card slot microSD, up to 128 GB, Speed HSDPA, 42.2
+					Mbps, HSUPA, 5.76 Mbps
+				</Feature>
+				<Feature>Display: 1080 x 1920 pixels, 5.1-Inch (432 ppi pixel density) Super AMOLED capacitive
+					touchscreen, 16M colors
+				</Feature>
+				<Feature>Fingerprint sensor (PayPal certified) IP67 certified-dust and water resistant Water resistant
+					up to 1 meter and 30 minutes
+				</Feature>
+				<HazardousMaterialType>Unknown</HazardousMaterialType>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">200</Height>
+					<Length Units="hundredths-inches">650</Length>
+					<Weight Units="hundredths-pounds">20</Weight>
+					<Width Units="hundredths-inches">400</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Brand New - Unlocked - Sealed Original acccessories and box - Ships from ONTRAIO,
+					CANADA (no Import fees and taxes) all taxes included.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>87679</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 876.79</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>G900HLBK</Model>
+				<MPN>SM-G900H-BK</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">590</Length>
+					<Weight Units="hundredths-pounds">80</Weight>
+					<Width Units="hundredths-inches">330</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G900H-BK</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<PublicationDate>2014-04-14</PublicationDate>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2014-04-14</ReleaseDate>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S5 16GB SM-G900H-BK Unlocked Smartphone Import-Black</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>45972</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 459.72</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>43900</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 439.00</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>33</TotalNew>
+				<TotalUsed>5</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00J4TK4CC%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J4TK4CC
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8vz8JfD1VSi0MZINaIvR9wrAU1lbPsCfvs1XhqcTxn1nU1YO%2FPJEGz%2FL5IOQqY0syWcxdfKKmKlKpG5JF4HSMoa4uZ5FPiRt65i1OQfBVBiHjVzhpsCYKdl03FYSzNi%2F6jrhpfXEaNfp
+						</OfferListingId>
+						<Price>
+							<Amount>54499</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 544.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>33180</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 331.80</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>38</PercentageSaved>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00J8DL78O</ASIN>
+			<ParentASIN>B00MDC5RFQ</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Samsung-Galaxy-Tab-7-Inch-White/dp/B00J8DL78O%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J8DL78O
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00J8DL78O%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>12519163</CatalogNumberListElement>
+					<CatalogNumberListElement>SM-T230NZWAXAR</CatalogNumberListElement>
+					<CatalogNumberListElement>12328878</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>White</Color>
+				<EAN>0803982785169</EAN>
+				<EANList>
+					<EANListElement>0803982785169</EANListElement>
+					<EANListElement>0757607303965</EANListElement>
+					<EANListElement>0057102534476</EANListElement>
+					<EANListElement>0887276042268</EANListElement>
+					<EANListElement>0766574704521</EANListElement>
+				</EANList>
+				<Feature>Android 4.4 Kit Kat OS, 1.2 GHz quad-core processor</Feature>
+				<Feature>8 GB Flash Memory, 1.5 GB RAM Memory</Feature>
+				<Feature>WXGA Display (1280x800 Resolution)</Feature>
+				<Feature>32GB of memory available through a microSD slot and 50GB of free Dropbox storage</Feature>
+				<Feature>Comes with over 300 dollar of free content and services</Feature>
+				<HardwarePlatform>Unknown</HardwarePlatform>
+				<IsAdultProduct>0</IsAdultProduct>
+				<IsAutographed>0</IsAutographed>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">35</Height>
+					<Length Units="hundredths-inches">736</Length>
+					<Weight Units="hundredths-pounds">61</Weight>
+					<Width Units="hundredths-inches">425</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>24999</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 249.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T230NZWAXAR</Model>
+				<MPN>SM-T230NZWAXAR</MPN>
+				<OperatingSystem>Unknown</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">170</Height>
+					<Length Units="hundredths-inches">760</Length>
+					<Weight Units="hundredths-pounds">105</Weight>
+					<Width Units="hundredths-inches">450</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T230NZWAXAR</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>TABLET_COMPUTER</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2014-05-07</ReleaseDate>
+				<Size>7-Inch</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab 4, 7-Inch, White</Title>
+				<UPC>766574704521</UPC>
+				<UPCList>
+					<UPCListElement>766574704521</UPCListElement>
+					<UPCListElement>057102534476</UPCListElement>
+					<UPCListElement>757607303965</UPCListElement>
+					<UPCListElement>887276042268</UPCListElement>
+					<UPCListElement>803982785169</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>19400</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 194.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>21</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00J8DL78O
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8mmcF7j2mCEXnKoBQAPcGEmuBFp%2F4Dj36i1Ki8OY5qpf7qauN2bU%2Bn17CMap4b3mxYZejJXHBPffgb3R2DIjYRcttMwePJ2PrVBUpDcik1ReYiF6hS53ZRr2WN5M4IJDaLz3y%2ByHEKpQ
+						</OfferListingId>
+						<Price>
+							<Amount>19400</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 194.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>5599</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 55.99</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>22</PercentageSaved>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00HZ4X8HG</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/UNLOCKED-Samsung-Discover-SGH-S730M-PACKAGED/dp/B00HZ4X8HG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HZ4X8HG
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00HZ4X8HG%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00HZ4X8HG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00HZ4X8HG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00HZ4X8HG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00HZ4X8HG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00HZ4X8HG
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00HZ4X8HG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00HZ4X8HG
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>0056221356426</EAN>
+				<EANList>
+					<EANListElement>0056221356426</EANListElement>
+				</EANList>
+				<Feature>Works with 3G carriers (ie Telus, Rogers, Bell, Fido, Koodo, Virgin etc), does not work on the
+					AWS band (ie will NOT work with Wind, Mobilicity, Videotron or Verizon ETC)
+				</Feature>
+				<Feature>Watch videos and browse the web wherever you are on the 3.5-inch touch screen display with WVGA
+					resolution
+				</Feature>
+				<Feature>The 3MP auto-focus camera captures any moment quickly and easily, MicroSD Slot for memory
+					expansion
+				</Feature>
+				<Feature>Android 4.0 Ice Cream Sandwich OS keeps you running smooth with no software overlay to slow you
+					down
+				</Feature>
+				<Feature>BULK ITEM, NO RETAIL BOX, MAY BE CARRIER BRANDED BUT IS COMPLETELY UNLOCKED, INCLUDES: Phone,
+					Travel Charger and Micro USB Cable, Rechargeable Battery
+				</Feature>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>34999</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 349.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SGH-S730M</Model>
+				<MPN>SGH-S730M</MPN>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SGH-S730M</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>CONSUMER_ELECTRONICS</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>UNLOCKED Samsung Galaxy Discover SGH-S730M 3G Phone, 3.5" Screen, 3MP Camera, Google Android,
+					NEW, BULK PACKAGED
+				</Title>
+				<UPC>056221356426</UPC>
+				<UPCList>
+					<UPCListElement>056221356426</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>8599</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 85.99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00HZ4X8HG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00HZ4X8HG
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8lUJBaZKr7xs0VVyS12FMm7xc9i9uLHuY2kBUTlNcC1IfCRH81LhHtDt5gIaMgN8525QmPdSJk%2BHC%2FVT7yrdbn6nUfJphPF3ewEcGb3fYyyyY9lovNNgDSSlFK0OrkLc4Q%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>8599</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 85.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>26400</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 264.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>75</PercentageSaved>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B008OXXLQ0</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Samsung-Replacement-EH64AVFWE-Non-Retail-Packaging/dp/B008OXXLQ0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB008OXXLQ0
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB008OXXLQ0%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB008OXXLQ0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B008OXXLQ0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB008OXXLQ0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B008OXXLQ0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB008OXXLQ0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B008OXXLQ0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB008OXXLQ0
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>0879562132739</EAN>
+				<EANList>
+					<EANListElement>0879562132739</EANListElement>
+				</EANList>
+				<Feature>Noise-Isolating Soft Ear-Gels</Feature>
+				<Feature>Call Answer/End Button</Feature>
+				<Feature>Premium Line Headset Color: White</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">300</Height>
+					<Length Units="hundredths-inches">100</Length>
+					<Width Units="hundredths-inches">100</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>BRAND NEW
+					ALL SALES FINAL
+					NO REFUND
+					NO EXCHANGE
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>2499</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 24.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>EHS64AVFWE</Model>
+				<MPN>EHS64AVFWE</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">31</Height>
+					<Length Units="hundredths-inches">323</Length>
+					<Weight Units="hundredths-pounds">2</Weight>
+					<Width Units="hundredths-inches">307</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>EHS64AVFWE</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>CONSUMER_ELECTRONICS</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Replacement EH64AVFWE 3.5mm Premium Stereo Headset, Non-Retail Packaging</Title>
+				<UPC>879562132739</UPC>
+				<UPCList>
+					<UPCListElement>879562132739</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>260</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 2.60</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>499</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 4.99</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>18</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B008OXXLQ0%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB008OXXLQ0
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8rArMvosY47ht%2BDJ%2FTeLwd80RHRWbojwhP1c2QNjrcs5hT8%2B5wqNEnD2Qb53hNLE%2FD%2Bgx%2FTwI515yvh7sNDLeSbDs28w%2Bt%2Fiqu3xwKOy7URM%2FRRKYEb1GgXz4gFxgSutWJToeFrMM%2Brt
+						</OfferListingId>
+						<Price>
+							<Amount>396</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 3.96</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>2103</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 21.03</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>84</PercentageSaved>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00JBJ3JBI</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Samsung-Gear-Fit-Fitness-Tracker/dp/B00JBJ3JBI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JBJ3JBI
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00JBJ3JBI%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JBJ3JBI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00JBJ3JBI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JBJ3JBI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00JBJ3JBI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JBJ3JBI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00JBJ3JBI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JBJ3JBI
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>SMR3500ZKAG</CatalogNumberListElement>
+					<CatalogNumberListElement>SMR3500ZKAXAR</CatalogNumberListElement>
+					<CatalogNumberListElement>417945</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Black</Color>
+				<EAN>0490570002687</EAN>
+				<EANList>
+					<EANListElement>0490570002687</EANListElement>
+					<EANListElement>0887276041933</EANListElement>
+				</EANList>
+				<Feature>24/7 Wearable: Always-on activity tracking keeps track of your activities throughout the day
+					and is prepared for any adventure with its dust and water resistant protection (IP67). Light and
+					durable with a curved Super AMOLED display
+				</Feature>
+				<Feature>Personalized Fitness Motivator: With the Heart Rate Sensor, Samsung Gear Fit gives you real
+					time coaching to actively support and motivate you to achieve your fitness goals
+				</Feature>
+				<Feature>Simple Interaction: Samsung Gear Fit allows you to easily control basic functions, such as,
+					reject calls with messages, quick reply to messages and control alarms
+				</Feature>
+				<Feature>Connected Notification: Samsung Gear Fit equips you with instant notifications of emails, SMS,
+					incoming calls, &amp; 3rd party apps to keep you connected
+				</Feature>
+				<HazardousMaterialType>Unknown</HazardousMaterialType>
+				<IsAutographed>0</IsAutographed>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">226</Height>
+					<Length Units="hundredths-inches">92</Length>
+					<Weight Units="hundredths-pounds">6</Weight>
+					<Width Units="hundredths-inches">47</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Languages>
+					<Language>
+						<Name>English</Name>
+						<Type>Unknown</Type>
+					</Language>
+				</Languages>
+				<LegalDisclaimer>language is english</LegalDisclaimer>
+				<ListPrice>
+					<Amount>24999</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 249.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-R3500ZKAXAR</Model>
+				<MPN>SM-R3500ZKAXAR</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">330</Height>
+					<Length Units="hundredths-inches">680</Length>
+					<Weight Units="hundredths-pounds">65</Weight>
+					<Width Units="hundredths-inches">430</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-R3500ZKAXAR</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2014-05-20</ReleaseDate>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Gear Fit Fitness Tracker - Black</Title>
+				<UPC>887276041933</UPC>
+				<UPCList>
+					<UPCListElement>887276041933</UPCListElement>
+					<UPCListElement>490570002687</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>14999</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 149.99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>7</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00JBJ3JBI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JBJ3JBI
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8r4uUq10AwEQGuejxL3t8Jx4QfLrCtwWEY42%2F88ToC7Rjdwd9dfoFZTifqri7Ia%2BPezo8NIPZ0v%2BKaN8%2BPcr7ndhX0a5%2BlIz22L72D5xtPgdDyx9dIiMhk0UPBj4Q%2FayMA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>14999</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 149.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>10000</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 100.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>40</PercentageSaved>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00MH2SJPM</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Samsung-Galaxy-Unlocked-Quad-Core-Smartphone/dp/B00MH2SJPM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MH2SJPM
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00MH2SJPM%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00MH2SJPM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00MH2SJPM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00MH2SJPM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00MH2SJPM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00MH2SJPM
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00MH2SJPM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00MH2SJPM
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>0710500603709</EAN>
+				<EANList>
+					<EANListElement>0710500603709</EANListElement>
+				</EANList>
+				<Feature>2G: GSM 850 / 900 / 1800 / 1900, 3G: 850 / 900 / 1900 / 2100, 4G HSPA+ 850 / 900 / 1900 /
+					2100
+				</Feature>
+				<Feature>4.5" Super AMOLED Capacitive Multi-Touchscreen w/ Protective Corning Gorilla Glass 3</Feature>
+				<Feature>Fingerprint sensor (PayPal certified), IP67 certified - dust and water resistant, Water
+					resistant up to 1 meter and 30 minutes
+				</Feature>
+				<Feature>8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus, LED flash + Front-Facing 2.1 Megapixel
+					Camera
+				</Feature>
+				<Feature>Internal Memory: 16GB, 1.5GB RAM + microSD Slot Expandable up to 64GB</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">255</Height>
+					<Length Units="hundredths-inches">516</Length>
+					<Weight Units="hundredths-pounds">26</Weight>
+					<Width Units="hundredths-inches">36</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>79999</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 799.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>G800h</Model>
+				<MPN>G800h</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">190</Height>
+					<Length Units="hundredths-inches">550</Length>
+					<Weight Units="hundredths-pounds">55</Weight>
+					<Width Units="hundredths-inches">320</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>G800h</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S5 Mini G800H 16GB HSPA+ Unlocked GSM Quad-Core Smartphone - Charcoal Black
+				</Title>
+				<UPC>710500603709</UPC>
+				<UPCList>
+					<UPCListElement>710500603709</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>28100</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 281.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>6</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00MH2SJPM%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00MH2SJPM
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8s0sCKNhuKFr7aBXFZbAHk7eaoItIWt7q7aDKvmfgy%2B%2BIbhizgPt2Gc%2B19prJevhuZBX5a7QtzAoNW5JED47dB7lkoOETpH%2FXbZr66iZH6rBDeKiLfoZ1HRF1lHlxRT4AOkjSznt%2B5ZL
+						</OfferListingId>
+						<Price>
+							<Amount>28100</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 281.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>51899</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 518.99</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>65</PercentageSaved>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00JE9RO7U</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Spikes-Labs-Samsung-wifi-Remote/dp/B00JE9RO7U%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JE9RO7U
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00JE9RO7U%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JE9RO7U
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00JE9RO7U%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JE9RO7U
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00JE9RO7U%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JE9RO7U
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00JE9RO7U%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JE9RO7U
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>App</Binding>
+				<Brand>Spikes Labs</Brand>
+				<Feature>✓ Voice recognition Commands to control your TV</Feature>
+				<Feature>✓ Voice Media Controls (Play,Pause,Forward, Backward, Volume) are main attractions</Feature>
+				<Feature>✓ Type Text or URL directly from application to Samsung TV</Feature>
+				<Feature>✓ Customized remote</Feature>
+				<Feature>✓ Favourite channels</Feature>
+				<Feature>✓ Choose TV to Play/Pause/Mute on Incoming call</Feature>
+				<Feature>✓ Volume Control by side buttons</Feature>
+				<Feature>✓ French,Japanese,Danish,Spanish,English,Swedish,Norwegian,dutch,Italian,Russian,Polish,
+				</Feature>
+				<Feature>Chinese,German,Korean,Tamil,Telugu,Arabic,Portuguese,Turkish,Thai Supported</Feature>
+				<Feature>✓ Test the Connection of your TV(useful in cases when there is no physical access available to
+					your TV)
+				</Feature>
+				<Feature>✓ Automatic TV Discovery</Feature>
+				<Feature>✓ Multiple TVs can be controlled separately or altogether</Feature>
+				<Feature>✓ Continuous button press handling for volume/program/left-right-up-down buttons</Feature>
+				<Feature>✓ Manual Language selection</Feature>
+				<Feature>✓ Notification shortcut</Feature>
+				<Feature>✓ Control your TV from anywhere in the world</Feature>
+				<Feature>✓ Display the TV response messages for every key press to check command execution status
+				</Feature>
+				<Feature>✓ Display the Present Connection status always in the Application Settings</Feature>
+				<Feature>✓ Dedicated Separate Media Remote</Feature>
+				<Feature>✓ Choose Full Screen ON/OFF of remote</Feature>
+				<Feature>✓ Manual configuration of TV IP Address</Feature>
+				<Feature>✓ Dedicated Miscellaneous key press in separate Remote</Feature>
+				<Feature>✓ Fastest key press responses from the TV using this application</Feature>
+				<HardwarePlatform>Android</HardwarePlatform>
+				<IsAdultProduct>0</IsAdultProduct>
+				<Label>Spikes Labs</Label>
+				<Languages>
+					<Language>
+						<Name>Arabic</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Chinese</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Dutch</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>English</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>French</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>German</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Italian</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Japanese</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Korean</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Polish</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Portuguese</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Russian</Name>
+						<Type>Published</Type>
+					</Language>
+					<Language>
+						<Name>Spanish</Name>
+						<Type>Published</Type>
+					</Language>
+				</Languages>
+				<ListPrice>
+					<Amount>0</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 0.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Spikes Labs</Manufacturer>
+				<MPN>roid.spikesroid.samsung_tv_remote</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PartNumber>roid.spikesroid.samsung_tv_remote</PartNumber>
+				<ProductGroup>Mobile Application</ProductGroup>
+				<ProductTypeName>MOBILE_APPLICATION</ProductTypeName>
+				<Publisher>Spikes Labs</Publisher>
+				<ReleaseDate>2014-04-02</ReleaseDate>
+				<Studio>Spikes Labs</Studio>
+				<Title>Samsung wifi TV Remote</Title>
+				<TrackSequence>12105943</TrackSequence>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>0</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 0.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00JE9RO7U%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00JE9RO7U
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8ht%2BYfq1WNLqBjqcf0nr0Hwzo5ySN1WffUEwLbYQVVMzZiXe3CyHMw%2BMEcxM7LsX0NAWvUSaHX8x5iA9HeF26Y%2BMQnZfY83J7WvSVZWY%2Fgq8dA3M3noejrLstTVX0yyEokTNie7%2F2Fpc
+						</OfferListingId>
+						<Price>
+							<Amount>0</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 0.00</FormattedPrice>
+						</Price>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00OBRE5UE</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Samsung-2-5-Inch-Internal-MZ-75E500B-AM/dp/B00OBRE5UE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00OBRE5UE
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00OBRE5UE%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00OBRE5UE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00OBRE5UE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00OBRE5UE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00OBRE5UE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00OBRE5UE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00OBRE5UE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00OBRE5UE
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>MZ-75E500B/AM</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Titanic</Color>
+				<EAN>0887276086088</EAN>
+				<EANList>
+					<EANListElement>0887276086088</EANListElement>
+				</EANList>
+				<Feature>Samsung 3D V-NAND Technology for Exceptional Performance</Feature>
+				<Feature>The 850 EVO delivers exceptionally high performance in sequential read (540MB/s) and write
+					(520MB/s) speeds, as well as optimized random performance for high-end computing on client PCs.
+				</Feature>
+				<Feature>SATA 6Gb/s Interface, compatible with SATA 3Gb/s and SATA 1.5Gb/s interface</Feature>
+				<Feature>Capacity of 500 GB</Feature>
+				<Feature>Capacity: 500GB</Feature>
+				<Feature>Form Factor: 2.5 inch</Feature>
+				<Feature>Interface: SATA 6Gb/s (Compatible with SATA 3Gb/s &amp; SATA 1.5Gb/s)</Feature>
+				<Feature>NAND Flash: 32 Layer 3D V-NAND</Feature>
+				<Feature>Thickness: 7.0 mm</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">28</Height>
+					<Length Units="hundredths-inches">394</Length>
+					<Weight Units="hundredths-pounds">12</Weight>
+					<Width Units="hundredths-inches">275</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>29000</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 290.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>MZ-75E500B/AM</Model>
+				<MPN>MZ-75E500B</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">30</Height>
+					<Length Units="hundredths-inches">560</Length>
+					<Weight Units="hundredths-pounds">25</Weight>
+					<Width Units="hundredths-inches">550</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>MZ-75E500B</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>COMPUTER_DRIVE_OR_STORAGE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung 850 EVO 500GB 2.5-Inch SATA III Internal SSD (MZ-75E500B/AM)</Title>
+				<UPC>887276086088</UPC>
+				<UPCList>
+					<UPCListElement>887276086088</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>23299</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 232.99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>26</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00OBRE5UE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00OBRE5UE
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8qzrbfOChRqeRo6%2BUs73Dad0yFeEdu0Tj9GHZQgoaBOCcLWKzRY1O5T2IbEVTmexg6txvZg4t5Ovmb7767UmfyhvT%2FLLFCFdM4odJMuX%2FcQEsAcQBvNe2PNyF8pqPAfYTO2cE4vQ4Oa%2F
+						</OfferListingId>
+						<Price>
+							<Amount>23299</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 232.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>5701</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 57.01</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>20</PercentageSaved>
+						<Availability>Usually ships within 2 - 3 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00FH9I0FQ</ASIN>
+			<ParentASIN>B00K80Z8L8</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/Samsung-Galaxy-Gear-Smartwatch-Black/dp/B00FH9I0FQ%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00FH9I0FQ
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00FH9I0FQ%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00FH9I0FQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00FH9I0FQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00FH9I0FQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00FH9I0FQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00FH9I0FQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00FH9I0FQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00FH9I0FQ
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>TG0461</CatalogNumberListElement>
+					<CatalogNumberListElement>202471</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Jet Black</Color>
+				<EAN>0887276959313</EAN>
+				<EANList>
+					<EANListElement>0887276959313</EANListElement>
+					<EANListElement>0411378281227</EANListElement>
+				</EANList>
+				<Feature>Compatible with Galaxy Note 3 and other Galaxy smartphones</Feature>
+				<Feature>1.63 inch Super AMOLED screen and 1.9 Megapixel camera</Feature>
+				<Feature>Place calls and answer them directly from your Galaxy Gear</Feature>
+				<Feature>Enjoy the S Voice personal assistant right on your wrist</Feature>
+				<Feature>Includes Samsung Galaxy Gear, wall charger, charging cradle, quick start guide</Feature>
+				<IsAutographed>0</IsAutographed>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">326</Height>
+					<Length Units="hundredths-inches">405</Length>
+					<Weight Units="hundredths-pounds">62</Weight>
+					<Width Units="hundredths-inches">425</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>24999</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 249.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-V7000ZKAXAR</Model>
+				<MPN>SM-V7000ZKAXAR</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">320</Height>
+					<Length Units="hundredths-inches">420</Length>
+					<Weight Units="hundredths-pounds">65</Weight>
+					<Width Units="hundredths-inches">410</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-V7000ZKAXAR</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Gear Smartwatch - Jet Black</Title>
+				<UPC>411378281227</UPC>
+				<UPCList>
+					<UPCListElement>411378281227</UPCListElement>
+					<UPCListElement>887276959313</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>27318</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 273.18</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>7</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00FH9I0FQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00FH9I0FQ
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8gz25NJ75v%2FCAmiPuyhey3rqFoB8ciro2V1rNtoqIcQnGNh52Dm4zkpbV7c1%2FwtPtRtfMYJZMqHixKAaXeqOtZAxm0Iv5a4QkXi6v9032YgyuHOAtf7dkqv6gI0oNHfsEp2V7DwkgLuF
+						</OfferListingId>
+						<Price>
+							<Amount>27318</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 273.18</FormattedPrice>
+						</Price>
+						<Availability>Usually ships within 4 - 5 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>96</MinimumHours>
+							<MaximumHours>120</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00LYGOQ36</ASIN>
+			<DetailPageURL>
+				http://www.amazon.ca/SAMSUNG-GALAXY-10-5-TITANIUM-BRONZE/dp/B00LYGOQ36%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LYGOQ36
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.ca/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00LYGOQ36%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00LYGOQ36
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.ca/gp/pdp/taf/B00LYGOQ36%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00LYGOQ36
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.ca/review/product/B00LYGOQ36%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00LYGOQ36
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.ca/gp/offer-listing/B00LYGOQ36%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00LYGOQ36
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<EAN>0887276033969</EAN>
+				<EANList>
+					<EANListElement>0887276033969</EANListElement>
+				</EANList>
+				<Feature>Tablet - Android 4.4 (KitKat) - 16 GB - 10.5" Super AMOLED ( 2560 x 1600 ) - rear camera +
+					front camera - microSD slot - Bluetooth, Wi-Fi - titanium bronze
+				</Feature>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<MPN>SM-T800NTSAXAC</MPN>
+				<PackageDimensions>
+					<Weight Units="hundredths-pounds">1102</Weight>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T800NTSAXAC</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>COMPUTER_ADD_ON</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>SAMSUNG GALAXY TAB S 10.5 TITANIUM BRONZE - ANDROID TABLET</Title>
+				<UPC>887276033969</UPC>
+				<UPCList>
+					<UPCListElement>887276033969</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>44420</Amount>
+					<CurrencyCode>CAD</CurrencyCode>
+					<FormattedPrice>CDN$ 444.20</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>5</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.ca/gp/offer-listing/B00LYGOQ36%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal0b-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386005%26creativeASIN%3DB00LYGOQ36
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							mHmAdrhn7Fu4fnwoCv5H8o%2FFx2uWtswzDUZd64ObM2LLb97YGfWxrHRaX6W1DDlrFAyqu5ahDtyBdMqJZ3hObP5PRqImim7%2BiV4McvnCuI8RkWqpI%2FXYyF9y1rGi3WsV2a5xN3FaienHNpaUuJv1wMH8e4YOf2lV
+						</OfferListingId>
+						<Price>
+							<Amount>56999</Amount>
+							<CurrencyCode>CAD</CurrencyCode>
+							<FormattedPrice>CDN$ 569.99</FormattedPrice>
+						</Price>
+						<Availability>Usually ships within 1 - 2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

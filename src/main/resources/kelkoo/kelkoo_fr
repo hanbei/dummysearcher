@@ -1,0 +1,3203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="7419" firstResultPosition="1" totalResultsReturned="50" currency="EUR" totalMerchantsAvailable="32" searchOperator="and">
+		<Product>
+			<Offer id="d3fc210039f54defe73a1c293d771523" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia E3 (bronze)</Title>
+				<Description>Conçu pour les aventures du quotidien, le smartphone Sony Xperia E3 sous Android 4.4 (KitKat) saura vous séduire. Avec son processeur quad-core 1,2 GHz, son écran tactile IPS, b...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108178.jpg/Kvz5_eW5JkorVkZbS9JThVxZL4eBueV3ple.gX7UP0w-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108178.jpg/Kvz5_eW5JkorVkZbS9JThVxZL4eBueV3ple.gX7UP0w-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054404&amp;.sig=iodFNDr0WMoWC6mq3vcYG4oyqDo-&amp;offerId=d3fc210039f54defe73a1c293d771523&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-e3-19902330?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902330</CatalogID>
+				<Catalog productId="19902330" categoryId="100020213">
+					<Name>Sony Xperia E3</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>149</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>155.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271502357</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiae3bronze</Mpn>
+				<Sku>108178</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F278726.100.100.jpg/enYZudYnJ9XBsNRNAIeJ6TKKePEQB.Pj1DRXvAso.5Y-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F278726.100.100.jpg/enYZudYnJ9XBsNRNAIeJ6TKKePEQB.Pj1DRXvAso.5Y-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3cd387ae480149cd628dee5fcc409816" type="MANUFACTURER_PRODUCTS">
+				<Title>BABYNAT Mobile musical Nina</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/100412613/100020213/90/90/http%3A%2F%2Fwww.auchan.fr%2Fimages%2Fhbc%2Fh42%2F8936582053918.jpg/Jl_LlLnV4pAdb91jyi0zscKw5Iqup9Rct7jRUz3mL7A-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/100412613/100020213/auto/auto/http%3A%2F%2Fwww.auchan.fr%2Fimages%2Fhbc%2Fh42%2F8936582053918.jpg/Jl_LlLnV4pAdb91jyi0zscKw5Iqup9Rct7jRUz3mL7A-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054405&amp;.sig=S0Tfcqx0fxu_W.8sOhYZT4Zkt1s-&amp;offerId=3cd387ae480149cd628dee5fcc409816&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=100412613&amp;comId=100412613&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="100412613">
+					<Name>Auchan</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/100412613/logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>39</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>39</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3760011930082</Ean>
+				<MerchantCategory>Accueil  Bébé - Puériculture  Eveil et jeux  Mobile  BABYNAT Mobile musical Nina</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<Mpn>_</Mpn>
+				<Sku>C781472</Sku>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="798b220bf71291bd66ffa5a6276a6106" type="MANUFACTURER_PRODUCTS">
+				<Title>TCT Mobile International BIC phone Rouge</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/3012701/100020213/90/90/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F976514124_L.jpg/UvDLpvpYoxhCc9t4EsLe4nEcp1UD0k0edO4LjEs1ubc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/3012701/100020213/auto/auto/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F976514124_L.jpg/UvDLpvpYoxhCc9t4EsLe4nEcp1UD0k0edO4LjEs1ubc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054405&amp;.sig=rfxyGibu7ddj1fkxITpRypJDkb0-&amp;offerId=798b220bf71291bd66ffa5a6276a6106&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3012701&amp;comId=3012701&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="3012701">
+					<Name>PriceMinister Occasions</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3012701/PMOccasion.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>5</Price>
+					<DeliveryCost>5.15</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.15</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>10.15</TotalPrice>
+				</Price>
+				<ProductClass>1</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 2 à 5 jours</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Electronique Téléphones mobiles TCT Mobile International</MerchantCategory>
+				<Brand>TCT Mobile International</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2dc0ad1d734aff574fbe64d87e857022" type="MANUFACTURER_PRODUCTS">
+				<Title>Holtex Téléphone mobile Doro HandlePlus 334</Title>
+				<Description>Caractéristiques du Téléphone mobile Doro : Mode mains libres : parler sans avoir à tenir le téléphone lors d une communicationVerrouillage/Déverrouillage : Appui long sur toucheTouche SOS/112 : passez facilement un appel d urgenceTouche d appel d urgence : SMS d urgence envoyé à tous les contacts mis en</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/13310313/100020213/90/90/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fdoro-handleplus-334gsm.png/m2uKXvutshsxESybgyTtb9iGtdzspqJHtKIkK8eXGMU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/13310313/100020213/auto/auto/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fdoro-handleplus-334gsm.png/m2uKXvutshsxESybgyTtb9iGtdzspqJHtKIkK8eXGMU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054406&amp;.sig=wHurQajLI0Zkhx92U.djtWT987I-&amp;offerId=2dc0ad1d734aff574fbe64d87e857022&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13310313&amp;comId=13310313&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/doro-handleplus-334-19611746?partnerId=96947097</CompareUrl>
+				<Merchant id="13310313">
+					<Name>Materiel-Pla-Medical</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13310313/logo-kelkoo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19611746</CatalogID>
+				<Catalog productId="19611746" categoryId="100020213">
+					<Name>Doro HandlePlus 334</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>151</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>151</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 2</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Vie Pratique  Téléphonie</MerchantCategory>
+				<Brand>Holtex</Brand>
+				<BrandId>969</BrandId>
+				<Sku>HDHAND02W</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/13310313/100020213/90/90/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fdoro-mobile-334-v.jpg/Ab3TTKkH1igoj91uesqyQH7xN4UGl_5utfb0Jj.fOgA-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/13310313/100020213/auto/auto/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fdoro-mobile-334-v.jpg/Ab3TTKkH1igoj91uesqyQH7xN4UGl_5utfb0Jj.fOgA-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/13310313/100020213/90/90/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fportable-handleplus-334gsm.png/rPwFNA9T8NufU25PJObMRqNUiDEOk.rarrfC0n.s2jw-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/13310313/100020213/auto/auto/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fportable-handleplus-334gsm.png/rPwFNA9T8NufU25PJObMRqNUiDEOk.rarrfC0n.s2jw-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/13310313/100020213/90/90/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fmobile-senior-doro.png/BJbpEB5F4I0lm913atX9YdbSviaw18vsCJpTh19M09E-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/13310313/100020213/auto/auto/http%3A%2F%2Fwww.materiel-pla-medical.fr%2Fboutique%2Fimages_produits%2Fmobile-senior-doro.png/BJbpEB5F4I0lm913atX9YdbSviaw18vsCJpTh19M09E-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d18d6492ecb50d2a177e9028f36f7f46" type="MANUFACTURER_PRODUCTS">
+				<Title>SAMSUNG E1270 rouge Mobile nu</Title>
+				<Description>E1270R - SAMSUNG - Le téléphone mobile SAMSUNG E1270R rouge est un téléphone portable pratique et simple d'utilisation avec son design compact à larges touches et son écran 1.8". Vous bénéficiez d'un appareil multimédia, (images, musique, jeux, radio FM), et d'une prise Jack 3.5mm. La batterie Li-ion vous</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-43.jpg/wuZYRePMlqS70f.yDtWHB8RRgZFZN45CK63OShVz2YE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-43.jpg/wuZYRePMlqS70f.yDtWHB8RRgZFZN45CK63OShVz2YE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054407&amp;.sig=Ub8UlCVXu.t3oQI5qnv3ko8_m44-&amp;offerId=d18d6492ecb50d2a177e9028f36f7f46&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=6022223&amp;comId=6022223&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://clk.tradedoubler.com/click?p=41402&amp;a=393944&amp;epi=Telephone+portable+sans+abonnement-100020213&amp;epi2=SAMSUNG+E1270+rouge+Mobile+nu&amp;url=http://logi141.xiti.com/gopc.url?xts=328406&amp;xtor=ADC-1&amp;url=http://www.ubaldi.com/mobile/informatique-telephone/telephonie/mobile-smartphone/samsung/mobile-nu-samsung--e1270-rouge--50268.php</MobileUrl>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/samsung-gt-e1270-19876384?partnerId=96947097</CompareUrl>
+				<Merchant id="6022223">
+					<Name>Ubaldi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/6022223/ubaldi-logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19876384</CatalogID>
+				<Catalog productId="19876384" categoryId="100020213">
+					<Name>Samsung GT E1270</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>25</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<Taxes>
+						<Tax>
+							<Id>1</Id>
+							<Value>0.01</Value>
+						</Tax>
+					</Taxes>
+					<TotalPrice>25</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 24 à 72 heures</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>Livraison gratuite sur la France entière</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8806085946699</Ean>
+				<MerchantCategory>Mobile - Smartphone</MerchantCategory>
+				<Brand>SAMSUNG</Brand>
+				<BrandId>2762</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-01-43.jpg/XXUCrnw8KEDRqTblXrjRG.Habs3337OrlA_4cUVQ3v0-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-01-43.jpg/XXUCrnw8KEDRqTblXrjRG.Habs3337OrlA_4cUVQ3v0-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-02-43.jpg/AOI1JDW6GuNve_Cs2Ie2OUV4mDsLk3qBHKnzdqH52uM-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-02-43.jpg/AOI1JDW6GuNve_Cs2Ie2OUV4mDsLk3qBHKnzdqH52uM-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-03-43.jpg/KjndqqaPORwAGOueuKFHVong0gJPtqaE5YYjUMEGSGM-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F62508%2FE1270R-03-43.jpg/KjndqqaPORwAGOueuKFHVong0gJPtqaE5YYjUMEGSGM-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<NbReviews>6</NbReviews>
+				<UserRating>4.0</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c7d5a6b9390db7e9ca57fd816f487e9d" type="MANUFACTURER_PRODUCTS">
+				<Title>SAMSUNG Téléphone mobile débloqué SAMSUNG Galaxy Grand Prime gris</Title>
+				<Description>Retrait gratuit en magasin ! BLUETOOTH 4,MP3,A-GPS,PROCESS. 1,2GHz QUADCORE,ANDROID 4.4,POIDS:156G.,MICRO-SIM</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538.jpg/mvzzjcWQ1yDxAFt1H4tWNSzTD1kSo11oYBsiprfIVlg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538.jpg/mvzzjcWQ1yDxAFt1H4tWNSzTD1kSo11oYBsiprfIVlg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054408&amp;.sig=KaVp9hDMWYQZHkDbbi.n1tuFogk-&amp;offerId=c7d5a6b9390db7e9ca57fd816f487e9d&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12526213&amp;comId=12526213&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/samsung-galaxy-grand-prime-19906228?partnerId=96947097</CompareUrl>
+				<Merchant id="12526213">
+					<Name>ElectroDepot</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12526213/Logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19906228</CatalogID>
+				<Catalog productId="19906228" categoryId="100020213">
+					<Name>Samsung Galaxy Grand Prime</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>205.69</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>205.69</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>1 an constructeur</Warranty>
+				<Promo/>
+				<ShopInfo>ELECTRO DEPOT : des prix bas toute l'année</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8806086556262</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>SAMSUNG</Brand>
+				<BrandId>2762</BrandId>
+				<Mpn>samsung_ 12724</Mpn>
+				<Sku>12724</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538-1.jpg/F8ckq2qYVfFKy.7frvBIVZ7s6baZS4ZdkpaLpJPI0r8-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538-1.jpg/F8ckq2qYVfFKy.7frvBIVZ7s6baZS4ZdkpaLpJPI0r8-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538-2.jpg/5Q5y681vT2zxI6pfLS5kK3AFc18DwVQLPjRLkdVIBGU-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538-2.jpg/5Q5y681vT2zxI6pfLS5kK3AFc18DwVQLPjRLkdVIBGU-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538-3.jpg/a.2Bg.BY4s1LW5js6gs4pcFQcLrVDnpOEnZGk4Ft3Ew-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945538-3.jpg/a.2Bg.BY4s1LW5js6gs4pcFQcLrVDnpOEnZGk4Ft3Ew-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ca0f7358fe8e770138d2b2621f1a6f2c" type="MANUFACTURER_PRODUCTS">
+				<Title>Mobiho Essentiel CLAP EASY, téléphone mobile senior, grosses touches touche SOS simple photo contact</Title>
+				<Description>Téléphone GSM DEBLOQUE spécial senior avec : Liste contact avec photo, TOUCHE SOS menu simplifiable, raccourcis d'appel, grosses touches, Volume très fort de la sonnerie et du haut parleur (95 dB), utilisation extrêmement simple</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/14158213/100020213/90/90/http%3A%2F%2Fdi71.shopping.com%2Fimages%2Fdi%2F4a%2F4f%2F78%2F48786b4c316441344d6452495a665737663251-300x300-0-0.jpg-480x480-0-0.jpg/0pRZspkNbbhz8DJdEEm9Nr6Um9gl9z0OVo1iBr_wsiU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/14158213/100020213/auto/auto/http%3A%2F%2Fdi71.shopping.com%2Fimages%2Fdi%2F4a%2F4f%2F78%2F48786b4c316441344d6452495a665737663251-300x300-0-0.jpg-480x480-0-0.jpg/0pRZspkNbbhz8DJdEEm9Nr6Um9gl9z0OVo1iBr_wsiU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054408&amp;.sig=4noYI5GX._gAjxoRZIxlv87e_cE-&amp;offerId=ca0f7358fe8e770138d2b2621f1a6f2c&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14158213&amp;comId=14158213&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14158213">
+					<Name>MobihoEssentiel</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>94</Price>
+					<DeliveryCost>6.3</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.3</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>100.3</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3760081132102</Ean>
+				<MerchantCategory>Téléphone portable</MerchantCategory>
+				<Brand>Mobiho Essentiel</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2ebfae7a02b3833b8933939c71659697" type="MANUFACTURER_PRODUCTS">
+				<Title>lightinthebox s5 style vk n5 5.5 smartphone Android 4.4 3G (dual sim, wifi, gps, double caméra, mtk6582, RAM 1 Go</Title>
+				<Description>Plateforme Hardware:MT6582; RAM:1GB; ROM:8GB; Support mémoire extensible:32Go; Appareil photo:8 MP; Caméra frontale:5 MP; Slot SIM:Dual SIM; Taille d'affichage(pouces):5.5; Résolution d'écran:960x540; Type d'écran:IPS; Type de sonnerie:MMF,MID,MP3,Polyphonique,WMA; FM Radio:Oui; Autonomie en veille:Jusqu'à</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/10774523/100020213/90/90/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Fzcdyww1415108158457.jpg/atKpQDZBxgxO0RT5XtTI1XVEM77q4KvgTxkH5QxuiB0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/10774523/100020213/auto/auto/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201411%2Fzcdyww1415108158457.jpg/atKpQDZBxgxO0RT5XtTI1XVEM77q4KvgTxkH5QxuiB0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054409&amp;.sig=p_FY6paNZYfSBnidA_SFRsgCh5M-&amp;offerId=2ebfae7a02b3833b8933939c71659697&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10774523&amp;comId=10774523&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/vk-mobile-n5-19914121?partnerId=96947097</CompareUrl>
+				<Merchant id="10774523">
+					<Name>LightInTheBox</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10774523/8024.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19914121</CatalogID>
+				<Catalog productId="19914121" categoryId="100020213">
+					<Name>VK Mobile N5</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>134.33</Price>
+					<DeliveryCost>17.42</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>17.42</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>151.75</TotalPrice>
+					<PriceWithoutRebate>223.89</PriceWithoutRebate>
+					<Rebate>41</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 15 jours</DeliveryTime>
+				<Warranty>Qualité garantie</Warranty>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Téléphones &amp; Electronique  Téléphones Portables &amp; Tablettes  Téléphones Portables  Android Téléphones Portables</MerchantCategory>
+				<Brand>lightinthebox</Brand>
+				<BrandId>10816</BrandId>
+				<Sku>L2244118</Sku>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9cded21724cdaa1c87139955be03f282" type="MOBILE_PHONES">
+				<Title>Mobiles Sosh SoshPhone 4G</Title>
+				<Description>Sosh vous présente le SoshPhone 4G avec son forfait Sosh 3Go 4G à 19,99 €</Description>
+				<Images>
+					<Image available="false">
+						<Url>http://r.kelkoo.com/r/fr/12446313/100006813/90/90/d</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="false">
+						<Url>http://r.kelkoo.com/r/fr/12446313/100006813/auto/auto/d</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054410&amp;.sig=eFgtRGze9_OXjXwv2YyUPpZOfRk-&amp;offerId=9cded21724cdaa1c87139955be03f282&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12446313&amp;comId=12446313&amp;catId=100006813&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://shop.sosh.fr/telephone-portable/soshphone-4g?partnerId=[REMPLACE]&amp;src_id=3</MobileUrl>
+				<Merchant id="12446313">
+					<Name>Sosh</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12446313/SOSH-logo.png.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100006813">
+					<Name>Téléphone portable avec abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>149</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>149</TotalPrice>
+				</Price>
+				<MerchantCategory>abonnement Sosh</MerchantCategory>
+				<Brand>Mobiles Sosh</Brand>
+				<BrandId>-1</BrandId>
+				<Mpn>mobilessosh_</Mpn>
+				<Sku>sku18580105sku8060112</Sku>
+				<GreenProduct>false</GreenProduct>
+				<Network>Sosh</Network>
+				<ContractType>abonnement Sosh</ContractType>
+				<LineRental>149.0</LineRental>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ccbecf3b0f5eecc863617fed7bb951d9" type="MANUFACTURER_PRODUCTS">
+				<Title>Mobile Déco Enfant Oiseau Jaune Birdie Hoptimist</Title>
+				<Description>Retrouvez cet article : Mobile Déco Enfant Oiseau Jaune Birdie Hoptimist dès a présent sur eBay.fr. Profitez également d'un large choix d'objets neufs et d'occasions et achetez en toute confiance grace a la protection des acheteurs proposee par Paypal</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/593301/125801/90/90/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F6c%2F55%2F33%2F643036725832334e35503348504c544c673467-300x300-0-0.jpg-129x129-0-0.jpg/1lULuU73VqccL4XWkeYxHOA02NfKaoWTZwVnMyoAb1Y-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/593301/125801/auto/auto/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F6c%2F55%2F33%2F643036725832334e35503348504c544c673467-300x300-0-0.jpg-129x129-0-0.jpg/1lULuU73VqccL4XWkeYxHOA02NfKaoWTZwVnMyoAb1Y-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054410&amp;.sig=LKB4ctfdK27HQmiS95HN4aNM_p0-&amp;offerId=ccbecf3b0f5eecc863617fed7bb951d9&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=593301&amp;comId=593301&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="593301">
+					<Name>eBay</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/593301/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>24</Price>
+					<DeliveryCost>5.62</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.62</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>29.62</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d36d03e20502a0f5364486a1d5ab3abd" type="MANUFACTURER_PRODUCTS">
+				<Title>miniintheBox Mobile Batterie pour iPhone 5 et 5S (noir, 2800mAh)</Title>
+				<Description>Modèle:PC102; Type de batterie:Li-polymère; Intervalle de capacité (mAh):2000-4500; Tension d'entrée (V):5; Tension de sortie (V):5; Courant de Sortie (mA):1000; Dimensions (cm):13.56.21.5; Poids net (kg):0.068; Capacité (mAh):2800; Affichage de l'alimentation:LED; Caractéristiques:Etuis à Batterie iPhone;</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/11314223/125801/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201406%2Fteccdv1403236140689.jpg/R_2FjfH8C8jNuyMWCrWMpwBhqp6w4qRaLcnpfLc6DG0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/11314223/125801/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201406%2Fteccdv1403236140689.jpg/R_2FjfH8C8jNuyMWCrWMpwBhqp6w4qRaLcnpfLc6DG0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054411&amp;.sig=HNIhPrIx9vDtgndX1TZLCKGe1uM-&amp;offerId=d36d03e20502a0f5364486a1d5ab3abd&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11314223&amp;comId=11314223&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="11314223">
+					<Name>miniinthebox</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11314223/MINI.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>22.07</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>22.07</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-25 jours ouvrables</DeliveryTime>
+				<Warranty>Qualité garantie</Warranty>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Accessoires Apple  Accessoires pour iPhone  Etui avec batterie</MerchantCategory>
+				<Brand>miniintheBox</Brand>
+				<BrandId>44373</BrandId>
+				<Sku>M2612401</Sku>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8d8b8904c0a376fbbf90da6e3ac9a91e" type="MANUFACTURER_PRODUCTS">
+				<Title>Nokia Coque noir pour Lumia 820 - Accessoire Téléphonie mobile</Title>
+				<Description>Nokia Coque noir pour Lumia 820Coque pour smartphone Nokia Lumia 820</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/5639123/125801/90/90/http%253A%252F%252Fwww.onedirect.fr%252Fpics%252Fnokia%252FAccessoires%252FNOKIA-COQUE-LUMIA-820-1.jpg%253Fheight%253D300%2526width%253D300/i7tjWZblSsEXDPjEetChSSf.RSSPuDsrNeSEhd8KSOs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/5639123/125801/auto/auto/http%253A%252F%252Fwww.onedirect.fr%252Fpics%252Fnokia%252FAccessoires%252FNOKIA-COQUE-LUMIA-820-1.jpg%253Fheight%253D300%2526width%253D300/i7tjWZblSsEXDPjEetChSSf.RSSPuDsrNeSEhd8KSOs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054411&amp;.sig=QVidbtYG1iVTKJxtOqoFQHaUQMI-&amp;offerId=8d8b8904c0a376fbbf90da6e3ac9a91e&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=5639123&amp;comId=5639123&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="5639123">
+					<Name>Onedirect</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/5639123/onedirect-Logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>22.74</Price>
+					<DeliveryCost>9.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>9.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>32.69</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 24 à 48 heures</DeliveryTime>
+				<Promo/>
+				<ShopInfo>La téléphonie d'entreprise au meilleur prix !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>125801</MerchantCategory>
+				<Brand>Nokia</Brand>
+				<BrandId>2254</BrandId>
+				<Mpn>nokia_ hhcnokcc3058blk</Mpn>
+				<Sku>NOLUM820C</Sku>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="eb565c7764ab4238d6f171e6a57e4a2d" type="MANUFACTURER_PRODUCTS">
+				<Title>Support Mobile Universel en Plastique Rigide - Transparent</Title>
+				<Description>Support mobile universel en plastique rigide - transparent. Réalisé dans un matériau plastique transparent, léger, fin et résistant pour une longue utilisation.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/11459923/125801/90/90/http%3A%2F%2Fwww.mobile24.fr%2F%2Fimages%2FUniversal-Mobile-Phone-Hard-Plastic-Holder-Transparent-30102013-1.jpg/nKUWwZjUXqgJ6if_uaJmKkdtDPF39jZL2BhWucDNCQU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/11459923/125801/auto/auto/http%3A%2F%2Fwww.mobile24.fr%2F%2Fimages%2FUniversal-Mobile-Phone-Hard-Plastic-Holder-Transparent-30102013-1.jpg/nKUWwZjUXqgJ6if_uaJmKkdtDPF39jZL2BhWucDNCQU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054412&amp;.sig=7eVsWhy3HxS.6IOQXBBD_dp5QFM-&amp;offerId=eb565c7764ab4238d6f171e6a57e4a2d&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11459923&amp;comId=11459923&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11459923">
+					<Name>mobile 24</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11459923/mobile24-logo-60x16.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>6.3</Price>
+					<DeliveryCost>2.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>2.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>9.2</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Warranty>Les garanties légales pour les produits.</Warranty>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Supports iPhone 5S</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1a8be25c7b643226e3978bfea8583f6c" type="MANUFACTURER_PRODUCTS">
+				<Title>Doro Batterie pour téléphones mobiles Amplicomms</Title>
+				<Description>Batterie pour téléphones mobiles Amplicomms La batterie de votre téléphone portable Amplicom ne tient plus la charge ? Vous ne pouvez rester en communication que quelques minutes avant que le téléphone ne s'éteigne ? Il est temps de changer la batterie de votre appareil ! Fonctions Permet de remplacer la</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/12532513/125801/90/90/http%3A%2F%2Fmedia2.audilo.com%2F925-thickbox_default%2Fbatterie-pour-telephones-mobiles-amplicom.jpg/btnEkDnL5l7sFMETQcLb9vW80cJpttUlzg08QlWLimo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/12532513/125801/auto/auto/http%3A%2F%2Fmedia2.audilo.com%2F925-thickbox_default%2Fbatterie-pour-telephones-mobiles-amplicom.jpg/btnEkDnL5l7sFMETQcLb9vW80cJpttUlzg08QlWLimo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054413&amp;.sig=FW3TVs2ppIqCJw8.qev5nC3SWHA-&amp;offerId=1a8be25c7b643226e3978bfea8583f6c&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12532513&amp;comId=12532513&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12532513">
+					<Name>audilo</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12532513/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>19.9</Price>
+					<DeliveryCost>1.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>21.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4250711901806</Ean>
+				<MerchantCategory>Accueil  Téléphones Senior</MerchantCategory>
+				<Brand>Doro</Brand>
+				<BrandId>969</BrandId>
+				<Mpn>doro_</Mpn>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bc62bfd6b1b95aff76c19f1b6fa0eab6" type="MANUFACTURER_PRODUCTS">
+				<Title>Just Mobile Xtand GO - Support voiture pour smartphones - Support</Title>
+				<Description>Le support de voiture ultra-fonctionnel pour votre smartphone !</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/12275013/125801/90/90/http%3A%2F%2Fdi67.shopping.com%2Fimages%2Fdi%2F58%2F47%2F77%2F314b2d777a4b684c50476f3956624e34573941-300x300-0-0.jpg-200x260-0-0.jpg/5fJ.T_jvuwIB.nGNc0N9T6qfG.Zi4STETeqhAiz4bJo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/12275013/125801/auto/auto/http%3A%2F%2Fdi67.shopping.com%2Fimages%2Fdi%2F58%2F47%2F77%2F314b2d777a4b684c50476f3956624e34573941-300x300-0-0.jpg-200x260-0-0.jpg/5fJ.T_jvuwIB.nGNc0N9T6qfG.Zi4STETeqhAiz4bJo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054413&amp;.sig=C59rY_dAhnypsCrvAwVPpR_9jPw-&amp;offerId=bc62bfd6b1b95aff76c19f1b6fa0eab6&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12275013&amp;comId=12275013&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12275013">
+					<Name>MacWay</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>34.9</Price>
+					<DeliveryCost>3.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>38.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4712176186018</Ean>
+				<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+				<Brand>Just Mobile</Brand>
+				<BrandId>7160</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="51142a932faaf5f6669f54862f30d37f" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Mobile Phone Holster "Life", size 2 - Sac étui pour téléphone portable - cuir - noir</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/11653513/125801/90/90/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F911040861_L.jpg/MYOKePw.aGx6qGFXO1hitRTiyf.1ulctlDcVtiyS9Hk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/11653513/125801/auto/auto/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F911040861_L.jpg/MYOKePw.aGx6qGFXO1hitRTiyf.1ulctlDcVtiyS9Hk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054414&amp;.sig=9ZTr9qkNsSPs2QStLDyalydX5q8-&amp;offerId=51142a932faaf5f6669f54862f30d37f&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11653513&amp;comId=11653513&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="11653513">
+					<Name>Priceminister Neuf</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11653513/pmo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>13.08</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>13.08</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 2 à 5 jours</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4007249914217</Ean>
+				<MerchantCategory>informatique;consommables;Consommables imprimante (Autre);</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<Mpn>hama_91421</Mpn>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="35dac8498b43054167800a7604d29af2" type="MANUFACTURER_PRODUCTS">
+				<Title>caterpillar Téléphone Mobile Caterpillar Cat B100 Noir</Title>
+				<Description>Téléphone 3G, fonction GPS, système d'exploitation MTK NUCLEUS 2.1, appareil photo 3 Mégapixels, Bluetooth 2.0, lecteur MP3, vidéo, Mémoire stockage 50 Mo, Emplacement pour carte microSD jusquà 32 Go, Certification IP67Fnac.com : Téléphone Mobile Caterpillar Cat B100 Noir - Téléphone mobile sans abonnement.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/11963813/125801/90/90/http%3A%2F%2Fstatic.fnac-static.com%2Fmultimedia%2FImages%2FFR%2FNR%2Fa9%2Fe9%2F64%2F6613417%2F1505-1.jpg/zotD0CC7MDksa8.AG1vjZemjvYDpAL1Uq0.LmviFCbE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/11963813/125801/auto/auto/http%3A%2F%2Fstatic.fnac-static.com%2Fmultimedia%2FImages%2FFR%2FNR%2Fa9%2Fe9%2F64%2F6613417%2F1505-1.jpg/zotD0CC7MDksa8.AG1vjZemjvYDpAL1Uq0.LmviFCbE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054415&amp;.sig=QEiA4Qrp4wo_gBanRQb3hwfTFYY-&amp;offerId=35dac8498b43054167800a7604d29af2&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11963813&amp;comId=11963813&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11963813">
+					<Name>Fnac Marketplace</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11963813/fnac-market_80.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>143.99</Price>
+					<DeliveryCost>8.5</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>8.5</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>152.49</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5060280961335</Ean>
+				<MerchantCategory>Téléphone mobile Téléphone mobile sans abonnement</MerchantCategory>
+				<Brand>caterpillar</Brand>
+				<BrandId>633</BrandId>
+				<Mpn>caterpillar_c100sseee01eb1</Mpn>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c53ab71999f2b6fe7c41a390d5a903f8" type="MANUFACTURER_PRODUCTS">
+				<Title>Miss Coquines - Accessoire Mobile - Accessoires - Accessoires mobiles et tablettes</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/10768323/125801/90/90/http%3A%2F%2Fimages2.misscoquine.com%2Fcatalog%2Fproduct%2Fimages%2F201304%2F619-U%2Fargent01.jpg/xrpQih6m525PwKyGvJdfh4CLQYAPYrXqB1jCtECAHmc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/10768323/125801/auto/auto/http%3A%2F%2Fimages2.misscoquine.com%2Fcatalog%2Fproduct%2Fimages%2F201304%2F619-U%2Fargent01.jpg/xrpQih6m525PwKyGvJdfh4CLQYAPYrXqB1jCtECAHmc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054415&amp;.sig=tzDh6zmKzNNHNd_5NGr6RnOW9Js-&amp;offerId=c53ab71999f2b6fe7c41a390d5a903f8&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10768323&amp;comId=10768323&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="10768323">
+					<Name>Miss Coquines</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10768323/logo made by moi.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>1</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>7.9</TotalPrice>
+					<PriceWithoutRebate>1.99</PriceWithoutRebate>
+					<Rebate>50</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Brand>Miss Coquines</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c6aa34747f69eea4190e897742795ebd" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Etui en cuir pour téléphone mobile (blanc)</Title>
+				<Description>Etui pour téléphone mobile, convient parfaitement au Galaxy S III GT-I9300</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/12275213/125801/90/90/http%3A%2F%2Fdi63.shopping.com%2Fimages%2Fdi%2F2d%2F4d%2F6a%2F5042317a2d486f3470337673494574415f5f67-300x300-0-0.jpg-500x500-0-0.jpg/.HRxzpEqMlZ043IZ65HjtL1VFZ8ogDm.tknm7Zt51G4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/12275213/125801/auto/auto/http%3A%2F%2Fdi63.shopping.com%2Fimages%2Fdi%2F2d%2F4d%2F6a%2F5042317a2d486f3470337673494574415f5f67-300x300-0-0.jpg-500x500-0-0.jpg/.HRxzpEqMlZ043IZ65HjtL1VFZ8ogDm.tknm7Zt51G4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054416&amp;.sig=zdABWU6eb0k6aVk4eBZ0Ufw7Eos-&amp;offerId=c6aa34747f69eea4190e897742795ebd&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12275213&amp;comId=12275213&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12275213">
+					<Name>MEDION shop</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Livraison sous 6 jours</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443168986</Ean>
+				<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="be1ae2a175c27fe6b20c04f680d4b13c" type="MANUFACTURER_PRODUCTS">
+				<Title>Xtorm Batterie de recharge appareils mobiles, 2 sorties USB, 11000mAh</Title>
+				<Description>La batterie POWER BANK 11.000mAh se comporte comme un chargeur (qui n est pas solaire, contrairement au reste de notre gamme). Tres pratique, elle constitue une veritable reserve d energie, facile a emporter partout, a mettre dans votre sac, pour recharger vos appareils nomades en situation de mobilite et ne</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/13278713/125801/90/90/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F82%2F79%2F8729318321827268279b.png/eWaBiXWAkiXzaJFYzWFf0ytZCIdPXbeuZpB.pdxoZpk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/13278713/125801/auto/auto/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F82%2F79%2F8729318321827268279b.png/eWaBiXWAkiXzaJFYzWFf0ytZCIdPXbeuZpB.pdxoZpk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054416&amp;.sig=Em0xkusv73M2kGriPGWnGrnfsOI-&amp;offerId=be1ae2a175c27fe6b20c04f680d4b13c&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13278713&amp;comId=13278713&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13278713">
+					<Name>Solairepratique</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>79.9</Price>
+					<DeliveryCost>4.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>84.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8718182270730</Ean>
+				<MerchantCategory>Téléphonie - Alimentation téléphone portable</MerchantCategory>
+				<Brand>Xtorm</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="068857200d09aa66700cc5e7fcf7c11d" type="MANUFACTURER_PRODUCTS">
+				<Title>amahousse-SPORT Brassard de Sport Noir pour mobiles et smartphones</Title>
+				<Description>Port Gratuit-Entrepôt en France  Indispensable pour faire du sport, ce Brassard sport pour tous mobiles est très confortable. Aéré et discret, il vous conviendra. Port offert.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/12797313/125801/90/90/http%3A%2F%2Fdi62.shopping.com%2Fimages%2Fdi%2F41%2F5f%2F6b%2F697270544333576669663170475049567a3441-300x300-0-0.jpg-800x800-0-0.jpg/COxwa4VUaiK5LMqrRj.k02B2GF9XFGAacScjtgjIUnc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/12797313/125801/auto/auto/http%3A%2F%2Fdi62.shopping.com%2Fimages%2Fdi%2F41%2F5f%2F6b%2F697270544333576669663170475049567a3441-300x300-0-0.jpg-800x800-0-0.jpg/COxwa4VUaiK5LMqrRj.k02B2GF9XFGAacScjtgjIUnc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054417&amp;.sig=noLNfMH1BoJFLDA5k0br5MAe2PE-&amp;offerId=068857200d09aa66700cc5e7fcf7c11d&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12797313&amp;comId=12797313&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12797313">
+					<Name>Amahousse</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Accessoires pour téléphone portable</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>7.9</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>7.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>72-96 HEURES</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3700664104119</Ean>
+				<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+				<Brand>amahousse-SPORT</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ec9b527797b8a7a0d9b8add543a0891b" type="MOBILE_PHONES">
+				<Title>Sony Xperia Z3 Compact noir</Title>
+				<Description>Orange vous présente le nouvel Xperia Z3 Compact noir avec son forfait M6 mobile bloqué 2h 1Go version SIM et son abonnement de 12 mois.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/425201/100006813/90/90/http%3A%2F%2Fboutique.orange.fr%2Fmedia-cms%2Fmediatheque%2F636x900-xperia-z3-compact-noir-vue-1-22397.jpg/0U3toSXgSGyo.Z1VODwmiD7wOZ8M6q9IWXZgx1xANCI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/425201/100006813/auto/auto/http%3A%2F%2Fboutique.orange.fr%2Fmedia-cms%2Fmediatheque%2F636x900-xperia-z3-compact-noir-vue-1-22397.jpg/0U3toSXgSGyo.Z1VODwmiD7wOZ8M6q9IWXZgx1xANCI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054418&amp;.sig=9OVuZX3BeQZfCPcJb.hC3CcxwFA-&amp;offerId=ec9b527797b8a7a0d9b8add543a0891b&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=425201&amp;comId=425201&amp;catId=100006813&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="425201">
+					<Name>Orange</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/425201/OrangeLogo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100006813">
+					<Name>Téléphone portable avec abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>247.91</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<Taxes>
+						<Tax>
+							<Id>1</Id>
+							<Value>0.01</Value>
+						</Tax>
+					</Taxes>
+					<TotalPrice>247.91</TotalPrice>
+				</Price>
+				<MerchantCategory>100006813</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_</Mpn>
+				<Sku>1830</Sku>
+				<GreenProduct>false</GreenProduct>
+				<Network>Orange</Network>
+				<ContractType>M6 mobile bloqué 2h 1Go version SIM</ContractType>
+				<LineRental>14.99</LineRental>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a3a21b21fc964cb49b1d3f8ebe7889c3" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Montre connectée SmartWatch 2 (bracelet métal)</Title>
+				<Description>La SmartWatch 2 de Sony Mobile est une montre intelligente dotée d'un écran tactile multipoint OLED couleur, très réactif, qui vous permet d'accéder à votre smartphone sous Andr...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101731.jpg/ZSboxgGixZ95gkTvYlQ5v3wHcpYot1sdBmAAwZISNc4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101731.jpg/ZSboxgGixZ95gkTvYlQ5v3wHcpYot1sdBmAAwZISNc4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054418&amp;.sig=p6FYzd6KL87JKIWckgou.T.jZnI-&amp;offerId=a3a21b21fc964cb49b1d3f8ebe7889c3&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>149.9</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>156.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>1 an</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<MerchantCategory>Smartwatch</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ smartwatch2silver</Mpn>
+				<Sku>101731</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F267262.100.100.jpg/rLUKGenFO8nCHVGgRuhTjYdToCD9fDevqDpjwKHzrAI-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F267262.100.100.jpg/rLUKGenFO8nCHVGgRuhTjYdToCD9fDevqDpjwKHzrAI-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="948d3ac6b8d9a2ab60fd6cdbd32f0e42" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z1 compact (noir)</Title>
+				<Description>Venez découvrir le Xperia Z1 compact, petit frère du Xperia Z1 apparu en fin d'année 2013 ! Sony a bien choisi ses mots en le nommant Compact et non mini comme le font la plupar...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_99545.jpg/ZgXlkZ2B3f_hyjv_gSaY.3vaVLebAhCxUgqEegBb9kc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_99545.jpg/ZgXlkZ2B3f_hyjv_gSaY.3vaVLebAhCxUgqEegBb9kc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054419&amp;.sig=NUnAB6J5tMs0xWHiRJ4wlfIF9i8-&amp;offerId=948d3ac6b8d9a2ab60fd6cdbd32f0e42&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z1-compact-19884026?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19884026</CatalogID>
+				<Catalog productId="19884026" categoryId="100020213">
+					<Name>Sony Xperia Z1 Compact</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>309</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>315.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271449577</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiaz1compact</Mpn>
+				<Sku>99545</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F245634.100.100.jpg/BMMQhvuJsC9_gQGjgTzokWoKAtMnjgA.LM1DcJZ2r5I-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F245634.100.100.jpg/BMMQhvuJsC9_gQGjgTzokWoKAtMnjgA.LM1DcJZ2r5I-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="71edc4440ebedf5f2f7dc2fd3254e67b" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia M (noir) - Double SIM</Title>
+				<Description>Après le Z, le L et le P, découvrez le dernier né de la gamme Xperia, le M ! Sony nous offre un smartphone au design épuré inspiré des courbes du Xperia Z, aux finitions travail...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_106252.jpg/aQXiWfYOIHD80169j6guWT9WonOxAKI5otOqds.RTx4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_106252.jpg/aQXiWfYOIHD80169j6guWT9WonOxAKI5otOqds.RTx4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054420&amp;.sig=9XCNGDsYDF_1K6yksYnviFdNiv4-&amp;offerId=71edc4440ebedf5f2f7dc2fd3254e67b&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-ericsson-xperia-ray-19727483?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19727483</CatalogID>
+				<Catalog productId="19727483" categoryId="100020213">
+					<Name>Sony Ericsson Xperia Ray</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>109.9</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>116.85</TotalPrice>
+					<PriceWithoutRebate>119.9</PriceWithoutRebate>
+					<Rebate>9</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2960</BrandId>
+				<Mpn>sony_ 12742024</Mpn>
+				<Sku>106252</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F268098.100.100.jpg/SyQzQTOV8__xgUWuCSUA2Pdbqqe2Cxp2NDiIc5BoGIE-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F268098.100.100.jpg/SyQzQTOV8__xgUWuCSUA2Pdbqqe2Cxp2NDiIc5BoGIE-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>3</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4110b8aaf411821bc673207270033720" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia T3 (blanc)</Title>
+				<Description>Après avoir lancé sa phablette avec le T2 ultra, Sony revient avec le T3, un smartphone grand écran à prix réduit ! Au programme : un écran 5,3 pouces de résolution HD, un appar...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_105597.jpg/3QiY789eP4ciBsmHVZa8SepqZfXz4NRsTqXRqwB9CiA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_105597.jpg/3QiY789eP4ciBsmHVZa8SepqZfXz4NRsTqXRqwB9CiA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054420&amp;.sig=18n1dmzCPCfP.GKoNBBePMig3XU-&amp;offerId=4110b8aaf411821bc673207270033720&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-t3-19899316?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19899316</CatalogID>
+				<Catalog productId="19899316" categoryId="100020213">
+					<Name>Sony Xperia T3</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>284.9</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>291.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiat3blanc</Mpn>
+				<Sku>105597</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F268356.100.100.jpg/LkrMobkyqn9ll0zN61XCVK2VRvMhy7b25Zh9STy4NYc-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F268356.100.100.jpg/LkrMobkyqn9ll0zN61XCVK2VRvMhy7b25Zh9STy4NYc-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8e2316f4c11cb0faad05579ccbc598a4" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Montre connectée SmartWatch 2 (bracelet métal)</Title>
+				<Description>La SmartWatch 2 de Sony Mobile est une montre intelligente dotée d'un écran tactile multipoint OLED couleur, très réactif, qui vous permet d'accéder à votre smartphone sous Andr...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108720.jpg/ouo7PEqyGvye7mZe6.v7s8BOpvf69U7b.MlkFExbXgw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108720.jpg/ouo7PEqyGvye7mZe6.v7s8BOpvf69U7b.MlkFExbXgw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054421&amp;.sig=wlWbGFvzMZcF42rM9lJFjoA7p1c-&amp;offerId=8e2316f4c11cb0faad05579ccbc598a4&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>149.9</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>156.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>1 an</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<MerchantCategory>Objet connecté</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ smartwatch2silver</Mpn>
+				<Sku>108720</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F276882.100.100.jpg/.h994tQtyViVvuIpJJXrTOfSnjlX1ELh_rwO7IZL7x0-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F276882.100.100.jpg/.h994tQtyViVvuIpJJXrTOfSnjlX1ELh_rwO7IZL7x0-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c5cdabad08f858273a5922ff88928873" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Montre connectée SmartWatch 2 (bracelet silicone)</Title>
+				<Description>La SmartWatch 2 de Sony Mobile est une montre intelligente dotée d'un écran tactile multipoint OLED couleur, très réactif, qui vous permet d'accéder à votre smartphone sous Andr...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108726.jpg/JVbUy1JJH5KN32YPpGq._sViHb3NvC8nFYf8141Ktd0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108726.jpg/JVbUy1JJH5KN32YPpGq._sViHb3NvC8nFYf8141Ktd0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054422&amp;.sig=d02NxwQTKuunVkohv16uqsTdspc-&amp;offerId=c5cdabad08f858273a5922ff88928873&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>129.9</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>136.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>1 an</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<MerchantCategory>Objet connecté</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ smartwatch2silicon</Mpn>
+				<Sku>108726</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F276899.100.100.jpg/B8U1v8N5I.5SQ2oK8tycv1VFal_2VSoPip3hmFueLUc-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F276899.100.100.jpg/B8U1v8N5I.5SQ2oK8tycv1VFal_2VSoPip3hmFueLUc-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f22c0fbbe9c31959277045ed64fe8544" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 (blanc)</Title>
+				<Description>Après le très réussi Z2, Sony repart de plus belle avec le Xperia Z3 ! Véritable concentré de technologie, ce nouveau smartphone réuni une fois de plus l'ensemble des qualités d...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108168.jpg/m4AR71TJFizjLouF.L1LqjG3zYQweHR8zYlbvLVn_hc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108168.jpg/m4AR71TJFizjLouF.L1LqjG3zYQweHR8zYlbvLVn_hc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054423&amp;.sig=PYR.30nhc43TFTEGUvTReHUvmg8-&amp;offerId=f22c0fbbe9c31959277045ed64fe8544&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-16gb-19902329?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902329</CatalogID>
+				<Catalog productId="19902329" categoryId="100020213">
+					<Name>Sony Xperia Z3 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>529</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>535.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271485490</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiaz3blanc</Mpn>
+				<Sku>108168</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275527.100.100.jpg/o5OFfHRGzrmA8pERJJP10r7_KaZJwKoG.fGiPN33UCw-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275527.100.100.jpg/o5OFfHRGzrmA8pERJJP10r7_KaZJwKoG.fGiPN33UCw-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f472dd70b638dd875bf9f16affde2f0a" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 (noir)</Title>
+				<Description>Après le très réussi Z2, Sony repart de plus belle avec le Xperia Z3 ! Véritable concentré de technologie, ce nouveau smartphone réuni une fois de plus l'ensemble des qualités d...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108111.jpg/0m2RUdoMfG1W_vednexiqmnZ7CoIsO.mVix81SE0iWI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108111.jpg/0m2RUdoMfG1W_vednexiqmnZ7CoIsO.mVix81SE0iWI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054424&amp;.sig=23rk1o_ivgCf93wFmxpPJUXf.a8-&amp;offerId=f472dd70b638dd875bf9f16affde2f0a&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-16gb-19902329?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902329</CatalogID>
+				<Catalog productId="19902329" categoryId="100020213">
+					<Name>Sony Xperia Z3 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>539</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>545.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271485452</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiaz3</Mpn>
+				<Sku>108111</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275550.100.100.jpg/1chMKkJ3aJjl.PuyNthhdqnpv8Y684b2mqAggDM69zA-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275550.100.100.jpg/1chMKkJ3aJjl.PuyNthhdqnpv8Y684b2mqAggDM69zA-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>4</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="39838e057e90003a69a37bd85a323688" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia E3 (blanc)</Title>
+				<Description>Conçu pour les aventures du quotidien, le smartphone Sony Xperia E3 sous Android 4.4 (KitKat) saura vous séduire. Avec son processeur quad-core 1,2 GHz, son écran tactile IPS, b...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108177.jpg/1oGUAwlBvBn1IDLPJtZfzH1B2Lu0360_FEHUxyi_I4I-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108177.jpg/1oGUAwlBvBn1IDLPJtZfzH1B2Lu0360_FEHUxyi_I4I-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054424&amp;.sig=f.9MTqy.TINwsChIAbFrZaZPy6o-&amp;offerId=39838e057e90003a69a37bd85a323688&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-e3-19902330?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902330</CatalogID>
+				<Catalog productId="19902330" categoryId="100020213">
+					<Name>Sony Xperia E3</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>149</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>155.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271483564</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiae3blanc</Mpn>
+				<Sku>108177</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F278721.100.100.jpg/6llInj.CjDb7B07qhj1qRx96DTG.oqfrAc3kCCOgRQ8-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F278721.100.100.jpg/6llInj.CjDb7B07qhj1qRx96DTG.oqfrAc3kCCOgRQ8-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="29ec79aa3a964e9723db32e25ac40045" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia M2 (noir)</Title>
+				<Description>Découvrez le dernier né de la gamme Xperia, le M2 ! Sony s'est inspiré des codes du design du Xperia Z2 pour vous proposer un smartphone aux finitions travaillées et surtout com...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101401.jpg/OhRrRLz1L4_spiLMbguRNxo.to9SpuZl2p4vQHaeDAw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101401.jpg/OhRrRLz1L4_spiLMbguRNxo.to9SpuZl2p4vQHaeDAw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054425&amp;.sig=nqeWxZhIucGtJCrVgTZ5AnFUGpg-&amp;offerId=29ec79aa3a964e9723db32e25ac40045&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-m2-19885870?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19885870</CatalogID>
+				<Catalog productId="19885870" categoryId="100020213">
+					<Name>Sony Xperia M2</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>189</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>195.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271459354</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiam2</Mpn>
+				<Sku>101401</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F252003.100.100.jpg/w1fIG0W55ZKc7A5SikK8gkJ0a8.sbFIY.3omP5r8Noc-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F252003.100.100.jpg/w1fIG0W55ZKc7A5SikK8gkJ0a8.sbFIY.3omP5r8Noc-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="52ad878641f8e3a887cb0e40571c8420" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 compact (rouge)</Title>
+				<Description>Venez découvrir le Xperia Z3 compact, petit frère du Xperia Z3 ! Sony a bien choisi ses mots en le nommant Compact et non mini comme le font la plupart des autres marques, car c...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108173.jpg/XXfwOIM7PsTNmxp61YGSHaWBCxfUFBvw.7sijCEP2j4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108173.jpg/XXfwOIM7PsTNmxp61YGSHaWBCxfUFBvw.7sijCEP2j4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054426&amp;.sig=H2FmysuPsw9pQucezoKgBXGjCNY-&amp;offerId=52ad878641f8e3a887cb0e40571c8420&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-compact-19902328?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902328</CatalogID>
+				<Catalog productId="19902328" categoryId="100020213">
+					<Name>Sony Xperia Z3 Compact</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>449</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>455.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271490852</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ z3compactrouge</Mpn>
+				<Sku>108173</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275570.100.100.jpg/6QQWydwRtMCXT5S8O3E0SDD1hy7f3DAGQXX8Lwf1gXk-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275570.100.100.jpg/6QQWydwRtMCXT5S8O3E0SDD1hy7f3DAGQXX8Lwf1gXk-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>4</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="eb9096950b328b077764d152490203db" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia M2 (blanc)</Title>
+				<Description>Découvrez le dernier né de la gamme Xperia, le M2 ! Sony s'est inspiré des codes du design du Xperia Z2 pour vous proposer un smartphone aux finitions travaillées et surtout com...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101725.jpg/k5CcvcAvLzo0kEOgFHUpNUVYLDEyeWJEa90.MQRB7ek-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101725.jpg/k5CcvcAvLzo0kEOgFHUpNUVYLDEyeWJEa90.MQRB7ek-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054427&amp;.sig=0gYAVArX5UFoOQOSDm0fMCNEdqA-&amp;offerId=eb9096950b328b077764d152490203db&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-m2-19885870?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19885870</CatalogID>
+				<Catalog productId="19885870" categoryId="100020213">
+					<Name>Sony Xperia M2</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>189</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>195.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271459361</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiam2blanc</Mpn>
+				<Sku>101725</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F252011.100.100.jpg/zyh368nm4w9auTscGDKPsorUnYBb0lLXYD7RKuLDxKE-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F252011.100.100.jpg/zyh368nm4w9auTscGDKPsorUnYBb0lLXYD7RKuLDxKE-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="593bb963b6380607cb404e3972d140d1" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z1 compact (blanc)</Title>
+				<Description>Venez découvrir le Xperia Z1 compact, petit frère du Xperia Z1 apparu en fin d'année 2013 ! Sony a bien choisi ses mots en le nommant Compact et non mini comme le font la plupar...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_99782.jpg/QU0z5mghtZJc4FA1iEourHOT4ZnWwLEus.Si64IaXQw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_99782.jpg/QU0z5mghtZJc4FA1iEourHOT4ZnWwLEus.Si64IaXQw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054427&amp;.sig=PDjnN6MNRDhvsR1bRFyHwy1_OUk-&amp;offerId=593bb963b6380607cb404e3972d140d1&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z1-compact-19884026?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19884026</CatalogID>
+				<Catalog productId="19884026" categoryId="100020213">
+					<Name>Sony Xperia Z1 Compact</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>329</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>335.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271449607</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ 12797266</Mpn>
+				<Sku>99782</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F245627.100.100.jpg/hpsR6azARQdSC5GxoERo1Toqz.teUOIOKapdEZrIYjc-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F245627.100.100.jpg/hpsR6azARQdSC5GxoERo1Toqz.teUOIOKapdEZrIYjc-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0a18d570b411029c0537c1ea7fbeb8d7" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia E3 (noir)</Title>
+				<Description>Conçu pour les aventures du quotidien, le smartphone Sony Xperia E3 sous Android 4.4 (KitKat) saura vous séduire. Avec son processeur quad-core 1,2 GHz, son écran tactile IPS, b...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108176.jpg/X_QhpTXMzJ8GWwCwkrk1uEhlCUPftOFK2TH_xGetxdA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108176.jpg/X_QhpTXMzJ8GWwCwkrk1uEhlCUPftOFK2TH_xGetxdA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054428&amp;.sig=2gtVc.mHgJP6p32eKQBBxsg9aek-&amp;offerId=0a18d570b411029c0537c1ea7fbeb8d7&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-e3-19902330?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902330</CatalogID>
+				<Catalog productId="19902330" categoryId="100020213">
+					<Name>Sony Xperia E3</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>149</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>155.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271483557</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiae3noir</Mpn>
+				<Sku>108176</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F278730.100.100.jpg/jlZnehIr611tw.McZ.hsmMe.yeH4tVcckHAakiEEW20-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F278730.100.100.jpg/jlZnehIr611tw.McZ.hsmMe.yeH4tVcckHAakiEEW20-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6ad6cd02837e2bfd59aa88cf5eec34e2" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 compact (vert)</Title>
+				<Description>Venez découvrir le Xperia Z3 compact, petit frère du Xperia Z3 ! Sony a bien choisi ses mots en le nommant Compact et non mini comme le font la plupart des autres marques, car c...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108172.jpg/F0_Y57XULLSicnUvYQ6.pEdh_lLZ6F.NsGh3YHbMvXc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108172.jpg/F0_Y57XULLSicnUvYQ6.pEdh_lLZ6F.NsGh3YHbMvXc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054429&amp;.sig=w5wDgDVjgbqq5OMi8z3c2X4kspQ-&amp;offerId=6ad6cd02837e2bfd59aa88cf5eec34e2&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-compact-19902328?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902328</CatalogID>
+				<Catalog productId="19902328" categoryId="100020213">
+					<Name>Sony Xperia Z3 Compact</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>449</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>455.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271490845</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ z3compactvert</Mpn>
+				<Sku>108172</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275567.100.100.jpg/J.l1sgOawYFmVMV1zSr.h54DHj.BiVSIzNGEglg_Mmw-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275567.100.100.jpg/J.l1sgOawYFmVMV1zSr.h54DHj.BiVSIzNGEglg_Mmw-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b4c1cb51cabea537c0914e5a8b1e015c" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Bracelet connecté - SmartBand Talk (noir)</Title>
+				<Description>Après le SmartBand, découvrez le nouveau bracelet connecté de la marque Sony : le SmartBand Talk ! Conçu comme son prédécesseur pour vous accompagner dans vos efforts quotidiens...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108638.jpg/mEk1DkMF1q2FYRH5kO2O8Cl1cjVuTXH8_nnT0jE5pu0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108638.jpg/mEk1DkMF1q2FYRH5kO2O8Cl1cjVuTXH8_nnT0jE5pu0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054430&amp;.sig=Ky64OA3va5rir5SBCRISZ.xeLKM-&amp;offerId=b4c1cb51cabea537c0914e5a8b1e015c&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>159</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>165.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>1 an</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<MerchantCategory>Équipement sport</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ swr30</Mpn>
+				<Sku>108638</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F285811.100.100.jpg/Zg34CRoa2YIc6FvUebSDwvka.q7uQbZ02GcAGl36jao-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F285811.100.100.jpg/Zg34CRoa2YIc6FvUebSDwvka.q7uQbZ02GcAGl36jao-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="dbc04786866b4907dc0f10d51e8bdead" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 (vert)</Title>
+				<Description>Après le très réussi Z2, Sony repart de plus belle avec le Xperia Z3 ! Véritable concentré de technologie, ce nouveau smartphone réuni une fois de plus l'ensemble des qualités d...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108169.jpg/jDVzak2GWUTzqSt73b8mM56R.f2i7wvFkcb81knbr0k-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108169.jpg/jDVzak2GWUTzqSt73b8mM56R.f2i7wvFkcb81knbr0k-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054431&amp;.sig=1HTLl45A7fPE3lzfYGe7OFYT3gw-&amp;offerId=dbc04786866b4907dc0f10d51e8bdead&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-16gb-19902329?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902329</CatalogID>
+				<Catalog productId="19902329" categoryId="100020213">
+					<Name>Sony Xperia Z3 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>529</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>535.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271506614</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiaz3vert</Mpn>
+				<Sku>108169</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275553.100.100.jpg/mbtU0FWKT7jCin7EdAK4Y1Cekk8nTSsaIlyGGXRHjUI-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275553.100.100.jpg/mbtU0FWKT7jCin7EdAK4Y1Cekk8nTSsaIlyGGXRHjUI-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c4c309f251536aeba295c47f3466b87e" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 (bronze)</Title>
+				<Description>Après le très réussi Z2, Sony repart de plus belle avec le Xperia Z3 ! Véritable concentré de technologie, ce nouveau smartphone réuni une fois de plus l'ensemble des qualités d...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108170.jpg/baxVn3KAVTqKhKzp49GOa8ZL3zgGdq9kSHLRWZNmyX0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108170.jpg/baxVn3KAVTqKhKzp49GOa8ZL3zgGdq9kSHLRWZNmyX0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054431&amp;.sig=eBJhXdXpdaGItLeOKZgfkALRKTY-&amp;offerId=c4c309f251536aeba295c47f3466b87e&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-16gb-19902329?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902329</CatalogID>
+				<Catalog productId="19902329" categoryId="100020213">
+					<Name>Sony Xperia Z3 16GB</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>529</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>535.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271485469</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiaz3bronze</Mpn>
+				<Sku>108170</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275556.100.100.jpg/XfGhqOUuTpW9Hqli3bo9K7XqN01OhJymoVPGTjNw1JY-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275556.100.100.jpg/XfGhqOUuTpW9Hqli3bo9K7XqN01OhJymoVPGTjNw1JY-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="17488844a8e095a41029eb0f908dcbf1" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z1 compact (jaune)</Title>
+				<Description>Venez découvrir le Xperia Z1 compact, petit frère du Xperia Z1 apparu en fin d'année 2013 ! Sony a bien choisi ses mots en le nommant Compact et non mini comme le font la plupar...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_99783.jpg/lrXVocj85p.loMPO4xSb0VkO_tCR8gWg966A8RPiz9g-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_99783.jpg/lrXVocj85p.loMPO4xSb0VkO_tCR8gWg966A8RPiz9g-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054432&amp;.sig=wJlFU7E.QEbSGWJ1HgvtMZyYbIE-&amp;offerId=17488844a8e095a41029eb0f908dcbf1&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z1-compact-19884026?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19884026</CatalogID>
+				<Catalog productId="19884026" categoryId="100020213">
+					<Name>Sony Xperia Z1 Compact</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>329</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>335.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271449584</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ 12797264</Mpn>
+				<Sku>99783</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F245632.100.100.jpg/20c2MJzAod30246sSWKNyKBViS_bCnMbgDo9lAF_UTE-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F245632.100.100.jpg/20c2MJzAod30246sSWKNyKBViS_bCnMbgDo9lAF_UTE-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>4</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="90e5bf045e137cc20d9ea22bc172bc9e" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 compact (noir)</Title>
+				<Description>Venez découvrir le Xperia Z3 compact, petit frère du Xperia Z3 ! Sony a bien choisi ses mots en le nommant Compact et non mini comme le font la plupart des autres marques, car c...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108112.jpg/o7yaQbsZjjXJ_zHP_suOI9oAqHZ5WfwvgeE5498nKmA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108112.jpg/o7yaQbsZjjXJ_zHP_suOI9oAqHZ5WfwvgeE5498nKmA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054433&amp;.sig=IvCdPD2lELMcoFC_iJiZBhyRBC4-&amp;offerId=90e5bf045e137cc20d9ea22bc172bc9e&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-compact-19902328?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902328</CatalogID>
+				<Catalog productId="19902328" categoryId="100020213">
+					<Name>Sony Xperia Z3 Compact</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>449</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>455.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271490876</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiaz3compact</Mpn>
+				<Sku>108112</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275559.100.100.jpg/0g7sUBDqxfgkKBqPvH5oOr8qYYj2bU0UgcJaeeKfCQc-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275559.100.100.jpg/0g7sUBDqxfgkKBqPvH5oOr8qYYj2bU0UgcJaeeKfCQc-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8d83a2d9386611123d411bfff20492b3" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia T3 (noir)</Title>
+				<Description>Après avoir lancé sa phablette avec le T2 ultra, Sony revient avec le T3, un smartphone grand écran à prix réduit ! Au programme : un écran 5,3 pouces de résolution HD, un appar...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_105596.jpg/A6FQG78X98A9xWEVsZQIzjcS4NlL6DVdqQzLtfLOHsk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_105596.jpg/A6FQG78X98A9xWEVsZQIzjcS4NlL6DVdqQzLtfLOHsk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054434&amp;.sig=.4a6NBqk6H9uvMAPXgujpqXlMLg-&amp;offerId=8d83a2d9386611123d411bfff20492b3&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-t3-19899316?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19899316</CatalogID>
+				<Catalog productId="19899316" categoryId="100020213">
+					<Name>Sony Xperia T3</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>249.9</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>256.85</TotalPrice>
+					<PriceWithoutRebate>284.9</PriceWithoutRebate>
+					<Rebate>13</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiat3noir</Mpn>
+				<Sku>105596</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F268368.100.100.jpg/OaH1nAfx6YnQDHNL1W8CsTOIrEqc3gtgvAcZX0Tz7NU-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F268368.100.100.jpg/OaH1nAfx6YnQDHNL1W8CsTOIrEqc3gtgvAcZX0Tz7NU-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2de1cf272536646dfaf5833bdaeff324" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia Z3 compact (blanc)</Title>
+				<Description>Venez découvrir le Xperia Z3 compact, petit frère du Xperia Z3 ! Sony a bien choisi ses mots en le nommant Compact et non mini comme le font la plupart des autres marques, car c...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108171.jpg/RoefZnR5Weh8GD0u9ber_ZJ8VvF5bBZ4zowobfcIbhc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_108171.jpg/RoefZnR5Weh8GD0u9ber_ZJ8VvF5bBZ4zowobfcIbhc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054434&amp;.sig=g74ju94ZxxyxNuPznaEiBBRpDtE-&amp;offerId=2de1cf272536646dfaf5833bdaeff324&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-z3-compact-19902328?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19902328</CatalogID>
+				<Catalog productId="19902328" categoryId="100020213">
+					<Name>Sony Xperia Z3 Compact</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>449</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>455.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271490869</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ z3compactblanc</Mpn>
+				<Sku>108171</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F275573.100.100.jpg/myOnob6YsJGQ8r53VOX8yfVXLf4Eq.H4fwvISldwRjo-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F275573.100.100.jpg/myOnob6YsJGQ8r53VOX8yfVXLf4Eq.H4fwvISldwRjo-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4447b1136b6ac13af2b1843b3074b51a" type="MANUFACTURER_PRODUCTS">
+				<Title>Sony Mobile Xperia M2 (violet)</Title>
+				<Description>Découvrez le dernier né de la gamme Xperia, le M2 ! Sony s'est inspiré des codes du design du Xperia Z2 pour vous proposer un smartphone aux finitions travaillées et surtout com...</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101726.jpg/BX6pekvn9gd4zzUnpRCSk8g9v3o21JIQAG3GoVoDtEA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Ftracking.lengow.com%2Fimage%2F1784_29636_101726.jpg/BX6pekvn9gd4zzUnpRCSk8g9v3o21JIQAG3GoVoDtEA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054435&amp;.sig=pB7RjuUeHFwoAdYWgj5D9oYymt8-&amp;offerId=4447b1136b6ac13af2b1843b3074b51a&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=171801&amp;comId=171801&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/sony-xperia-m2-19885870?partnerId=96947097</CompareUrl>
+				<Merchant id="171801">
+					<Name>Materiel.net</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/171801/Materiel.net - logo_80_24.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19885870</CatalogID>
+				<Catalog productId="19885870" categoryId="100020213">
+					<Name>Sony Xperia M2</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>189</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>195.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>2 ans</Warranty>
+				<Promo/>
+				<ShopInfo>16 points-retrait en France : Économisez les frais de port !</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<EventFlag>0</EventFlag>
+				<FinancingOption/>
+				<Ean>7311271459378</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>Sony</Brand>
+				<BrandId>2959</BrandId>
+				<Mpn>sony_ xperiam2violet</Mpn>
+				<Sku>101726</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/90/90/http%3A%2F%2Fwww.materiel.net%2Flive%2F252014.100.100.jpg/gnyDUHM6wdS51KXz9nTdzDa30mss6mXHayK.yDKbTdk-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/171801/100020213/auto/auto/http%3A%2F%2Fwww.materiel.net%2Flive%2F252014.100.100.jpg/gnyDUHM6wdS51KXz9nTdzDa30mss6mXHayK.yDKbTdk-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+				<UserRating>5</UserRating>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2d6d75a9380e8be9c678ba99e66b31bd" type="MANUFACTURER_PRODUCTS">
+				<Title>SAMSUNG Solid B2710 noir Mobile nu</Title>
+				<Description>B2710 - SAMSUNG - Le B2710 de Samsung est prêt pour l'aventure comme vous, ce mobile n'a pas peur de se salir les mains. Grâce à sa protection contre l'eau et la poussière, vous pouvez vivre votre vie à fond. Votre mobile a tout ce qu'il faut pour vous suivre partout. Ses nombreuses fonctions sont la promesse</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64982%2FB2710-43.jpg/kXpCKVya72jWIVZj84rTtdKUVILiWDf9AIz_AT9PTBQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64982%2FB2710-43.jpg/kXpCKVya72jWIVZj84rTtdKUVILiWDf9AIz_AT9PTBQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054436&amp;.sig=5bYMNgq30Ht2pfL9LzRgQ7xl3_s-&amp;offerId=2d6d75a9380e8be9c678ba99e66b31bd&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=6022223&amp;comId=6022223&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://clk.tradedoubler.com/click?p=41402&amp;a=393944&amp;epi=Telephone+portable+sans+abonnement-100020213&amp;epi2=SAMSUNG+Solid+B2710+noir+Mobile+nu&amp;url=http://logi141.xiti.com/gopc.url?xts=328406&amp;xtor=ADC-1&amp;url=http://www.ubaldi.com/mobile/informatique-telephone/telephonie/mobile-smartphone/samsung/mobile-nu-samsung--solid-b2710-noir--890462.php</MobileUrl>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/samsung-b2710-19676805?partnerId=96947097</CompareUrl>
+				<Merchant id="6022223">
+					<Name>Ubaldi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/6022223/ubaldi-logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19676805</CatalogID>
+				<Catalog productId="19676805" categoryId="100020213">
+					<Name>Samsung B2710</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>83</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<Taxes>
+						<Tax>
+							<Id>1</Id>
+							<Value>0.01</Value>
+						</Tax>
+					</Taxes>
+					<TotalPrice>83</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 24 à 72 heures</DeliveryTime>
+				<Warranty>1 an</Warranty>
+				<Promo/>
+				<ShopInfo>Livraison gratuite sur la France entière</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8806071155661</Ean>
+				<MerchantCategory>Mobile - Smartphone</MerchantCategory>
+				<Brand>SAMSUNG</Brand>
+				<BrandId>2762</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64982%2FB2710-01-43.jpg/b2UVwUpcFsshXeo_Y.Pz6rKz7ucTHpEhgYjbJzUUDNw-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64982%2FB2710-01-43.jpg/b2UVwUpcFsshXeo_Y.Pz6rKz7ucTHpEhgYjbJzUUDNw-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="18029ea68bb9378c0aefe65c18a49347" type="MANUFACTURER_PRODUCTS">
+				<Title>CROSSCALL Trendy noir Mobile nu</Title>
+				<Description>TRENDY - CROSSCALL - La sobriété et l'élégance du Trendy de CROSSCALL en font incontestablement l'atout esthétique de notre gamme de mobiles étanches et résistants à la poussière. Pratique et facile à nettoyer, son design étudié ravira ceux qui sont soucieux de rester branchés en toutes circonstances ! Sa</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64580%2FTRENDY-43.jpg/tIhptEL0El6WfAbyUmmWVQ3cq9bjDKwTx1P9IVywz2Q-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64580%2FTRENDY-43.jpg/tIhptEL0El6WfAbyUmmWVQ3cq9bjDKwTx1P9IVywz2Q-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054437&amp;.sig=ryjucWx6VZA1HbE01nddn_u4inA-&amp;offerId=18029ea68bb9378c0aefe65c18a49347&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=6022223&amp;comId=6022223&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://clk.tradedoubler.com/click?p=41402&amp;a=393944&amp;epi=Telephone+portable+sans+abonnement-100020213&amp;epi2=CROSSCALL+Trendy+noir+Mobile+nu&amp;url=http://logi141.xiti.com/gopc.url?xts=328406&amp;xtor=ADC-1&amp;url=http://www.ubaldi.com/mobile/informatique-telephone/telephonie/mobile-smartphone/crosscall/mobile-nu-crosscall--trendy-noir--850460.php</MobileUrl>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/crosscall-trendy-19907771?partnerId=96947097</CompareUrl>
+				<Merchant id="6022223">
+					<Name>Ubaldi</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/6022223/ubaldi-logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19907771</CatalogID>
+				<Catalog productId="19907771" categoryId="100020213">
+					<Name>Crosscall Trendy</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>52</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<Taxes>
+						<Tax>
+							<Id>1</Id>
+							<Value>0.01</Value>
+						</Tax>
+					</Taxes>
+					<TotalPrice>52</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 24 à 72 heures</DeliveryTime>
+				<Warranty>1 an</Warranty>
+				<Promo/>
+				<ShopInfo>Livraison gratuite sur la France entière</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3700764700525</Ean>
+				<MerchantCategory>Mobile - Smartphone</MerchantCategory>
+				<Brand>CROSSCALL</Brand>
+				<BrandId>39842</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/90/90/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64580%2FTRENDY-01-43.jpg/tiJar2Q0VOQQM6A2X6m0LI6Z5m2aMIPRqhs7o1tY.NE-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/6022223/100020213/auto/auto/http%3A%2F%2Fmedias.ubaldi.com%2Fvisuels%2F64580%2FTRENDY-01-43.jpg/tiJar2Q0VOQQM6A2X6m0LI6Z5m2aMIPRqhs7o1tY.NE-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="55eef1e309bb59b72d7c58be69dc2e9b" type="MANUFACTURER_PRODUCTS">
+				<Title>Mobiho Essentiel Mobiho-Essentiel CLAP FACILE téléphone mobile GSM grosse touche, SOS, clapet SENIOR simplifié</Title>
+				<Description>Téléphone DEBLOQUE tout opérateur (sauf FREE) GSM spécial séniors à clapet et très complet : Double SIM, appareil photos, carte SD, annonce vocale des chiffres composés, grosses touches, chiffres écrits gros sur l'écran, main libre, sonnerie</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/14158213/100020213/90/90/http%3A%2F%2Fdi71.shopping.com%2Fimages%2Fdi%2F31%2F42%2F6e%2F7979334b335f326c6e34765830343164775a51-300x300-0-0.jpg-410x429-0-0.jpg/seKLavnYm13U0kFzorE_TO8MCLJ45vtzpWCzisBW.C8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/14158213/100020213/auto/auto/http%3A%2F%2Fdi71.shopping.com%2Fimages%2Fdi%2F31%2F42%2F6e%2F7979334b335f326c6e34765830343164775a51-300x300-0-0.jpg-410x429-0-0.jpg/seKLavnYm13U0kFzorE_TO8MCLJ45vtzpWCzisBW.C8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054438&amp;.sig=nkgswevZdroezN4S3vyjXroN.DU-&amp;offerId=55eef1e309bb59b72d7c58be69dc2e9b&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14158213&amp;comId=14158213&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14158213">
+					<Name>MobihoEssentiel</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>77</Price>
+					<DeliveryCost>6.3</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.3</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>83.3</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3760041132494</Ean>
+				<MerchantCategory>Téléphone portable</MerchantCategory>
+				<Brand>Mobiho Essentiel</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f55eba449a15cd14924c0825653d075f" type="MANUFACTURER_PRODUCTS">
+				<Title>SAMSUNG Téléphone mobile débloqué SAMSUNG Galaxy A3 noir</Title>
+				<Description>Retrait gratuit en magasin ! BLUETOOTH 4,MP3,A-GPS,PROCESS. 1,2GHz QUADCORE,ANDROID 4.4,POIDS:110G.,NANO-SIM</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540.jpg/EdRBJHCihqlWuEnBnnFWgUvzu5LS9b4jFvTQP9WKkmA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540.jpg/EdRBJHCihqlWuEnBnnFWgUvzu5LS9b4jFvTQP9WKkmA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054439&amp;.sig=d9EgMjSQX614XNuPGR8pBqfnHcs-&amp;offerId=f55eba449a15cd14924c0825653d075f&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12526213&amp;comId=12526213&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.fr/p-telephone-portable-sans-abonnement-100020213/samsung-galaxy-a3-19906226?partnerId=96947097</CompareUrl>
+				<Merchant id="12526213">
+					<Name>ElectroDepot</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12526213/Logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19906226</CatalogID>
+				<Catalog productId="19906226" categoryId="100020213">
+					<Name>Samsung Galaxy A3</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Téléphone portable sans abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>308.57</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>308.57</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>sous 1 à 2 jours</DeliveryTime>
+				<Warranty>1 an constructeur</Warranty>
+				<Promo/>
+				<ShopInfo>ELECTRO DEPOT : des prix bas toute l'année</ShopInfo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8806086526661</Ean>
+				<MerchantCategory>Smartphone</MerchantCategory>
+				<Brand>SAMSUNG</Brand>
+				<BrandId>2762</BrandId>
+				<Mpn>samsung_ 12726</Mpn>
+				<Sku>12726</Sku>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540-1.jpg/r4boNK7Q90wk7zJaNAurtZS1g6.kvTQdOGtVmDwOmQc-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540-1.jpg/r4boNK7Q90wk7zJaNAurtZS1g6.kvTQdOGtVmDwOmQc-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540-2.jpg/4Tcw_3nEC.WeUF__6ID5ufclMpHotPj2UY.en8sMS9M-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540-2.jpg/4Tcw_3nEC.WeUF__6ID5ufclMpHotPj2UY.en8sMS9M-</Url>
+						</ZoomImage>
+					</OtherImage>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/90/90/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540-3.jpg/ouI8038maxrq4UIqSGYmB4l2U6yaM0C6t5tO_C6VyaI-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/fr/12526213/100020213/auto/auto/http%3A%2F%2Fwww.electrodepot.fr%2Fmedia%2Fcatalog%2Fproduct%2FP945540-3.jpg/ouI8038maxrq4UIqSGYmB4l2U6yaM0C6t5tO_C6VyaI-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6509b94b1836b73aeb5527b80f6add8b" type="MOBILE_PHONES">
+				<Title>Mobiles Sosh SoshPhone 4G</Title>
+				<Description>Sosh vous présente le SoshPhone 4G avec son forfait Sosh bloqué à 4,99 €</Description>
+				<Images>
+					<Image available="false">
+						<Url>http://r.kelkoo.com/r/fr/12446313/100006813/90/90/d</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="false">
+						<Url>http://r.kelkoo.com/r/fr/12446313/100006813/auto/auto/d</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1425565054440&amp;.sig=Zav18CucKY7XEjmHUmmS2LCtmvQ-&amp;offerId=6509b94b1836b73aeb5527b80f6add8b&amp;searchId=1076982523439_1425565054330_1172297&amp;affiliationId=96947097&amp;country=fr&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12446313&amp;comId=12446313&amp;catId=100006813&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://shop.sosh.fr/telephone-portable/soshphone-4g?partnerId=[REMPLACE]&amp;src_id=3</MobileUrl>
+				<Merchant id="12446313">
+					<Name>Sosh</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12446313/SOSH-logo.png.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100006813">
+					<Name>Téléphone portable avec abonnement</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>149</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>149</TotalPrice>
+				</Price>
+				<MerchantCategory>abonnement Sosh</MerchantCategory>
+				<Brand>Mobiles Sosh</Brand>
+				<BrandId>-1</BrandId>
+				<Mpn>mobilessosh_</Mpn>
+				<Sku>sku18580105sku19660114</Sku>
+				<GreenProduct>false</GreenProduct>
+				<Network>Sosh</Network>
+				<ContractType>abonnement Sosh</ContractType>
+				<LineRental>149.0</LineRental>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

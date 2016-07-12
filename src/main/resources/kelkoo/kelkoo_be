@@ -1,0 +1,2521 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+<Products totalResultsAvailable="12505" firstResultPosition="1" totalResultsReturned="50" currency="EUR" totalMerchantsAvailable="46" searchOperator="and">
+<Product>
+<Offer id="cbf709e1c07a21e3964c96c98f9fe0b1" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Rouge (ITEFO4RE)</Title>
+<Description>ICE-FOREVER RED (ITEFO4RE)</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170139%2Fmcs_product_png/Y2akIkLJVONisBY.CUYdxRtIL6MjfWDCmIIl3LXl8gI-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170139%2Fmcs_product_png/Y2akIkLJVONisBY.CUYdxRtIL6MjfWDCmIIl3LXl8gI-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301407&amp;.sig=JyCSt438pASV0v_If8PnCVkEoSI-&amp;offerId=cbf709e1c07a21e3964c96c98f9fe0b1&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>119</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>119</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321683</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="3bd67315b16e6efddc668c2f6412bf31" type="MANUFACTURER_PRODUCTS">
+<Title>HTC Radar Windows Phone 7.5 (Blanc), version anglaise</Title>
+<Description>Le HTC Radar est le téléphone intuitif par excellence, qui garde l'œil ouvert sur tout ce qui se passe. La proximité en temps réel... avec tout ce qui compte pour vous. Fabriqué à partir d'un seul bloc de métal, son design sait se démarquer du lot. Grâce au Hub People, rassemblez tous vos contacts et réseaux</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/12944513/100020213/90/90/http%3A%2F%2Fcdn.valuebasket.com%2F808AA1%2Fvb%2Fimages%2Fproduct%2F10680-AA-WH.jpg/fILRY7mZKWNCwcnDVTMZ_mQ.Q_JOui0VdhvRPdVd9B8-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/12944513/100020213/auto/auto/http%3A%2F%2Fcdn.valuebasket.com%2F808AA1%2Fvb%2Fimages%2Fproduct%2F10680-AA-WH.jpg/fILRY7mZKWNCwcnDVTMZ_mQ.Q_JOui0VdhvRPdVd9B8-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301408&amp;.sig=Q6pAbpwh9AkwPu5QVESpssu1hO0-&amp;offerId=3bd67315b16e6efddc668c2f6412bf31&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944513&amp;comId=12944513&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/htc-radar-19746348?partnerId=96947098</CompareUrl>
+<Merchant id="12944513">
+<Name>ValueBasket</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/12944513/vbbefr.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19746348</CatalogID>
+<Catalog productId="19746348" categoryId="100020213">
+<Name>HTC Radar</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>226.93</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>226.93</TotalPrice>
+<PriceWithoutRebate>269.99</PriceWithoutRebate>
+<Rebate>16</Rebate>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<DeliveryTime>5 - 8 jours</DeliveryTime>
+<Warranty>36 mois</Warranty>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Mobile Phones Smartphones</MerchantCategory>
+<Brand>HTC</Brand>
+<BrandId>29633</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="4e43f598f7d007c5396d179a28b07cf9" type="MANUFACTURER_PRODUCTS">
+<Title>Ice Phone MINI-BLU - Ice phone GSM</Title>
+<Description>Carte Micro Sd jusque 32 Gb Appareil photo 2 Mpx Couleur : bleu</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/9789923/100020213/90/90/http%3A%2F%2Fwww.crashprices.be%2F7005%2Fice-phone-mini-bleu.jpg/ienK_1cm.BbrUBfi2Ut6T.ztHtEk5sbJItQ70G3tZ40-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/9789923/100020213/auto/auto/http%3A%2F%2Fwww.crashprices.be%2F7005%2Fice-phone-mini-bleu.jpg/ienK_1cm.BbrUBfi2Ut6T.ztHtEk5sbJItQ70G3tZ40-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301408&amp;.sig=4pZeuCv_xgCIOQIQMr_Psqq4qsI-&amp;offerId=4e43f598f7d007c5396d179a28b07cf9&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9789923&amp;comId=9789923&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+<MobileFriendly>true</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-mini-19905596?partnerId=96947098</CompareUrl>
+<Merchant id="9789923">
+<Name>Crashprices</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/9789923/logo.jpg</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905596</CatalogID>
+<Catalog productId="19905596" categoryId="100020213">
+<Name>ICE PHONE Ice Mini</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>95</Price>
+<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>-1</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>95</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321430</Ean>
+<MerchantCategory>Soldes multimedia</MerchantCategory>
+<Brand>Ice Phone</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="8e4afe791a90c841cfdce42e8e1fc6c6" type="MANUFACTURER_PRODUCTS">
+<Title>Ice Phone Ice-Phone Mini Noir</Title>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13576013/100020213/90/90/http%3A%2F%2Fdi61.shopping.com%2Fimages%2Fdi%2F67%2F47%2F34%2F41474d6f514738444a38514f78455571744941-300x300-0-0.jpg-1200x1200-0-0.jpg/mdE3KzJlFEtOhE3Pj3KzbZ35czaco5MFbq_AF5SqP9s-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13576013/100020213/auto/auto/http%3A%2F%2Fdi61.shopping.com%2Fimages%2Fdi%2F67%2F47%2F34%2F41474d6f514738444a38514f78455571744941-300x300-0-0.jpg-1200x1200-0-0.jpg/mdE3KzJlFEtOhE3Pj3KzbZ35czaco5MFbq_AF5SqP9s-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301409&amp;.sig=i_zia7bo07hAzE8bnw8hgbCRcy0-&amp;offerId=8e4afe791a90c841cfdce42e8e1fc6c6&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13576013&amp;comId=13576013&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-mini-19905596?partnerId=96947098</CompareUrl>
+<Merchant id="13576013">
+<Name>PriceMinister</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905596</CatalogID>
+<Catalog productId="19905596" categoryId="100020213">
+<Name>ICE PHONE Ice Mini</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>97.88</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>97.88</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321423</Ean>
+<MerchantCategory>Montre</MerchantCategory>
+<Brand>Ice Phone</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="23b8522e792f729c8e242e4285b608cd" type="MANUFACTURER_PRODUCTS">
+<Title>ICE-PHONE Ice Forever bleu</Title>
+<Description>Ice Forever bleu</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13533513/100020213/90/90/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F49%2F51%2F53%2F637931787176494463363546326e5263477141-300x300-0-0.jpg-200x150-0-0.jpg/MshBhVJpRM31XL7pub4lUJ4m7XgWADLYu51XI8DF5AE-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13533513/100020213/auto/auto/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F49%2F51%2F53%2F637931787176494463363546326e5263477141-300x300-0-0.jpg-200x150-0-0.jpg/MshBhVJpRM31XL7pub4lUJ4m7XgWADLYu51XI8DF5AE-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301409&amp;.sig=psQwEVTuyR_jKAPT.aIO2CnZ7Ak-&amp;offerId=23b8522e792f729c8e242e4285b608cd&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13533513&amp;comId=13533513&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13533513">
+<Name>Rue du Commerce</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>139.9</Price>
+<DeliveryCost>4.99</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>4.99</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>144.89</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321676</Ean>
+<MerchantCategory>Téléphone portable</MerchantCategory>
+<Brand>ICE-PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="05a48061beaa172965064c605ff14433" type="MANUFACTURER_PRODUCTS">
+<Title>Metropolight PHONE - Lampe à Poser Gris   Lampe à poser Metropolight designé par Metropolight</Title>
+<Description>Lampe à poser composée d'un cylindre gris bordée d'une ganse anthracite , intérieur plastifié blanc et d’un cadre de téléphone de couleur gris. mpoule : 1X20W fluocompacte E27 (non fournie).</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13582413/135901/90/90/http%3A%2F%2Fdi62.shopping.com%2Fimages%2Fdi%2F41%2F4b%2F6d%2F49756567424b5030316c2d4779544658335a51-300x300-0-0.jpg-1080x1080-0-0.jpg/SZDjb7nDOTt.inLOAZUm3q03K0_..0o9QXxnczeV1pk-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13582413/135901/auto/auto/http%3A%2F%2Fdi62.shopping.com%2Fimages%2Fdi%2F41%2F4b%2F6d%2F49756567424b5030316c2d4779544658335a51-300x300-0-0.jpg-1080x1080-0-0.jpg/SZDjb7nDOTt.inLOAZUm3q03K0_..0o9QXxnczeV1pk-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301409&amp;.sig=L.N7Rc0VmVhn1E3lk4G9.xfiZLE-&amp;offerId=05a48061beaa172965064c605ff14433&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13582413&amp;comId=13582413&amp;catId=135901&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13582413">
+<Name>LIGHTONLINE</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="135901">
+<Name>Bricolage &amp; Equipement</Name>
+</Category>
+<Price currency="EUR">
+<Price>29.9</Price>
+<DeliveryCost>6</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>6</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>35.9</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3510623028628</Ean>
+<MerchantCategory>Lampes et luminaires</MerchantCategory>
+<Brand>Metropolight</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="45fdb1a05339a072323c6a423b204f50" type="MANUFACTURER_PRODUCTS">
+<Title>deuter Phone Bag I</Title>
+<Description>Pour avoir le téléphone toujours sous la main?: la poche compacte zippée pour téléphone portable en néoprène élastique, avec sa broderie discrète, se fixe en toute sécurité sur les bretelles du sac à dos à l’aide de deux pattes en tissu avec bande velcro, ou à l’aide de la bride sur la ceinture.(Prix sans</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13843513/100327223/90/90/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F84%2F98%2F1070266359303938498b.png/5oihoFNRjCJLVM70WcIObPciiLwbxs0CmBZrYeuvQJE-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13843513/100327223/auto/auto/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F84%2F98%2F1070266359303938498b.png/5oihoFNRjCJLVM70WcIObPciiLwbxs0CmBZrYeuvQJE-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301409&amp;.sig=EfsRB0iUydXqmPyB_XRTLxuCojc-&amp;offerId=45fdb1a05339a072323c6a423b204f50&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13843513&amp;comId=13843513&amp;catId=100327223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13843513">
+<Name>Rosebikes</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100327223">
+<Name>Sport</Name>
+</Category>
+<Price currency="EUR">
+<Price>10.03</Price>
+<DeliveryCost>8.95</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>8.95</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>18.98</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>4046051010694</Ean>
+<MerchantCategory>Téléphonie - Protection téléphone portable</MerchantCategory>
+<Brand>Deuter</Brand>
+<BrandId>913</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="c8a4047d2bcc68cf7b2f249e593215ae" type="MANUFACTURER_PRODUCTS">
+<Title>Doro Phone Easy 311C White</Title>
+<Description>Points Forts : -3 touches mémoires avec photos -HAC - Compatibilité appareils auditifs -Fonctions de sécurité -Témoin lumineux de sonnerieDoro Phone Easy 311C est un téléphone senior filaire très simple d'utilisation.  Ce téléphone est idéal pour les personnes ayant une déficience auditive grâce à son volume</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13835513/126001/90/90/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F16%2F19%2F4455688373768851619b.png/L.EnPtRGDy5VPw3lq3FRfjjXg5nb91TJp1x8AM8ffXs-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13835513/126001/auto/auto/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F16%2F19%2F4455688373768851619b.png/L.EnPtRGDy5VPw3lq3FRfjjXg5nb91TJp1x8AM8ffXs-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301410&amp;.sig=gCxEdcXONqmMkt3Tv3Iqs4A4eBw-&amp;offerId=c8a4047d2bcc68cf7b2f249e593215ae&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13835513&amp;comId=13835513&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13835513">
+<Name>Novastore</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="126001">
+<Name>Téléphone Fixe &amp; VoIP</Name>
+</Category>
+<Price currency="EUR">
+<Price>29.88</Price>
+<DeliveryCost>7.92</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>7.92</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>37.8</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>7322460026851</Ean>
+<MerchantCategory>Téléphonie - Téléphone fixe filaire</MerchantCategory>
+<Brand>Doro</Brand>
+<BrandId>969</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="4fc7dcaa9ca05709e55214661e1b839a" type="MANUFACTURER_PRODUCTS">
+<Title>lightinthebox Cell Phone Mobile Signal Booster DCS/3G 1800/2100MHz</Title>
+<Description>Dimensions (cm):28.0 x 20.5 x 8.0; Poids (kg):1.5</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13740813/135901/90/90/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201403%2Fjoqhfi1396256351030.jpg/LjzhUf62CysRe2q7yyMGk5zfQQrE6wwlLLPR2XME.28-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13740813/135901/auto/auto/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201403%2Fjoqhfi1396256351030.jpg/LjzhUf62CysRe2q7yyMGk5zfQQrE6wwlLLPR2XME.28-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301410&amp;.sig=WK2YJMzbDRE2HHcagN8aKRu_blE-&amp;offerId=4fc7dcaa9ca05709e55214661e1b839a&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13740813&amp;comId=13740813&amp;catId=135901&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13740813">
+<Name>Lightinthebox</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="135901">
+<Name>Bricolage &amp; Equipement</Name>
+</Category>
+<Price currency="EUR">
+<Price>300.85</Price>
+<DeliveryCost>18.68</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>18.68</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>319.53</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<DeliveryTime>3-15 jours ouvrables</DeliveryTime>
+<Warranty>Qualité garantie</Warranty>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Téléphones &amp; Electronique  Sécurité &amp; Vidéo-Surveillance  Amplificateur de Signal Mobile</MerchantCategory>
+<Brand>lightinthebox</Brand>
+<BrandId>42787</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="a8a3207c8de624c6fe3ab00c4f7a5db5" type="MANUFACTURER_PRODUCTS">
+<Title>miniintheBox Mobile Phone 3x 10 x Loupe LED multi-fonctionnel avec détecteur d'argent (couleurs assorties)</Title>
+<Description>Type d'accessoire:Outdoor; Matière:Verre,Autre,Métal; Couleur:Rouge,Bleu,Noir; Dimensions (cm):9.0 x 4.0 x 0.7; Poids (kg):0.045</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13741013/100327223/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201309%2Fzvtsul1378105922129.jpg/gp8spI5.GYBc.AsMYyRMdSffVCHAIHDnzF95tPL5rys-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13741013/100327223/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201309%2Fzvtsul1378105922129.jpg/gp8spI5.GYBc.AsMYyRMdSffVCHAIHDnzF95tPL5rys-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301410&amp;.sig=OdRWhvfpMAYwEjxN2E6cLzhT3cw-&amp;offerId=a8a3207c8de624c6fe3ab00c4f7a5db5&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13741013&amp;comId=13741013&amp;catId=100327223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13741013">
+<Name>Miniinthebox</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100327223">
+<Name>Sport</Name>
+</Category>
+<Price currency="EUR">
+<Price>5.69</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>5.69</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<DeliveryTime>3-25 jours ouvrables</DeliveryTime>
+<Warranty>Qualité garantie</Warranty>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Sports &amp; Hygiène de Vie  Sport &amp; Loisir  Camping &amp; Randonnée  Magnifier</MerchantCategory>
+<Brand>miniintheBox</Brand>
+<BrandId>44373</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="72e9392043fab541913586d046215b63" type="MANUFACTURER_PRODUCTS">
+<Title>Fab London Phone Wallet</Title>
+<Description>Fab LONDON Portefeuille shark attack black/black night Soldes sur Zalando BE   Soldes commandez sur Zalando BE avec la livraison gratuite!</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%402.jpg/gMcJrWkprkU75_XNxPsRt1mxOOXtUf131ZRwZHYY7mE-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%402.jpg/gMcJrWkprkU75_XNxPsRt1mxOOXtUf131ZRwZHYY7mE-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301410&amp;.sig=7Cb7573ejGgpgalSOD4YL26A5A0-&amp;offerId=72e9392043fab541913586d046215b63&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12061113&amp;comId=12061113&amp;catId=100471123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="12061113">
+<Name>Zalando</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/12061113/logo.JPG</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100471123">
+<Name>Accessoires mode</Name>
+</Category>
+<Price currency="EUR">
+<Price>44.95</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>44.95</TotalPrice>
+<PriceWithoutRebate>79.95</PriceWithoutRebate>
+<Rebate>44</Rebate>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<DeliveryTime>sous 4 jours</DeliveryTime>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>8718801757994</Ean>
+<MerchantCategory>Femme / Soldes / Sacs &amp; accessoires / Portefeuilles</MerchantCategory>
+<Brand>Fab</Brand>
+<BrandId>-1</BrandId>
+<OtherImages>
+<OtherImage>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%407.jpg/MEH2.F6XlurUIboyCBlK6C63au0OmJSppqzXQdvqT9I-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%407.jpg/MEH2.F6XlurUIboyCBlK6C63au0OmJSppqzXQdvqT9I-</Url>
+</ZoomImage>
+</OtherImage>
+<OtherImage>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/90/90/http%3A%2F%2Fi1.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%406.jpg/Dr.7wmScW2NPIVuHrNzFaBPVEjZrKTeHTgYMKh730RY-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/auto/auto/http%3A%2F%2Fi1.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%406.jpg/Dr.7wmScW2NPIVuHrNzFaBPVEjZrKTeHTgYMKh730RY-</Url>
+</ZoomImage>
+</OtherImage>
+<OtherImage>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/90/90/http%3A%2F%2Fi2.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%405.jpg/LZBD7hkfCnE_BfMj42VDFpQkbt.o3b5USZQWG2B_hcQ-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/12061113/100471123/auto/auto/http%3A%2F%2Fi2.ztat.net%2Flarge%2FF3%2F55%2F1F%2F00%2F8Q%2F11%2FF3551F008-Q11%405.jpg/LZBD7hkfCnE_BfMj42VDFpQkbt.o3b5USZQWG2B_hcQ-</Url>
+</ZoomImage>
+</OtherImage>
+</OtherImages>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="d87a72886dbd39a83fc8b1a5d0fb9a7e" type="MANUFACTURER_PRODUCTS">
+<Title>Samson S-Phone</Title>
+<Description>Samson S-Phone - 4 channel headphone amp with EQ and aux inputs on each channel. Dimensions: 19" x 1U.</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13535213/100060013/90/90/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F46%2F52%2F65%2F786568514141353466513964372d6677755167-300x300-0-0.jpg-400x124-0-0.jpg/jK_2z3xGxKj4BPENieJHRV_o5bL9Q5B7A_M55XLBPKo-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13535213/100060013/auto/auto/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F46%2F52%2F65%2F786568514141353466513964372d6677755167-300x300-0-0.jpg-400x124-0-0.jpg/jK_2z3xGxKj4BPENieJHRV_o5bL9Q5B7A_M55XLBPKo-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301411&amp;.sig=JHh98t7o.WFksbhqMwsAV3p2cFw-&amp;offerId=d87a72886dbd39a83fc8b1a5d0fb9a7e&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13535213&amp;comId=13535213&amp;catId=100060013&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13535213">
+<Name>Thomann</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100060013">
+<Name>Toute la Hifi</Name>
+</Category>
+<Price currency="EUR">
+<Price>199</Price>
+<DeliveryCost>10</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>10</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>209</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>Pas en stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>0809164001300</Ean>
+<MerchantCategory>Instruments de musique</MerchantCategory>
+<Brand>Samson</Brand>
+<BrandId>2760</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="61e9c002b9a3277356f7ed5f967788c2" type="MANUFACTURER_PRODUCTS">
+<Title>KLICKFIX Accessoires Vélo - Phone Bag Duratex - Support smartphone - Duratex, M noir KLICKFIX</Title>
+<Description>- Poids : 120 g</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13572613/100327223/90/90/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F57%2F65%2F45%2F303662687658694356456537302d45546f3341-300x300-0-0.jpg-641x641-0-0.jpg/m0kq7fujM_EG1J5FEbcmhfcYpLxqanSmrBjMntB5BBY-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13572613/100327223/auto/auto/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F57%2F65%2F45%2F303662687658694356456537302d45546f3341-300x300-0-0.jpg-641x641-0-0.jpg/m0kq7fujM_EG1J5FEbcmhfcYpLxqanSmrBjMntB5BBY-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301411&amp;.sig=N.eMmrARL9Db6_oo9sCC5P7wbDY-&amp;offerId=61e9c002b9a3277356f7ed5f967788c2&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13572613&amp;comId=13572613&amp;catId=100327223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13572613">
+<Name>Marketplace by La Redoute</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100327223">
+<Name>Sport</Name>
+</Category>
+<Price currency="EUR">
+<Price>54.95</Price>
+<DeliveryCost>5.99</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>5.99</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>60.94</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>4030572102792</Ean>
+<MerchantCategory>Sports et activités de plein air</MerchantCategory>
+<Brand>KLICKFIX</Brand>
+<BrandId>7311</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="f022902a61af3d0e219b46b69cd12290" type="MANUFACTURER_PRODUCTS">
+<Title>Doro Téléphone filaire Doro Matra PHONE EASY 331PH</Title>
+<Description>Sans répondeur / 3 touches mémoires avec photo / Très grosses touches / Son puissant, compatibilité appareils auditifs</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13539713/126001/90/90/http%3A%2F%2Fdi69.shopping.com%2Fimages%2Fdi%2F74%2F31%2F34%2F764d6850746767337371436a43787834744567-300x300-0-0.jpg-345x230-0-0.jpg/GDZsIzdatu6VwU8DCKdB_PmshJJshWF7.21dimxczvU-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13539713/126001/auto/auto/http%3A%2F%2Fdi69.shopping.com%2Fimages%2Fdi%2F74%2F31%2F34%2F764d6850746767337371436a43787834744567-300x300-0-0.jpg-345x230-0-0.jpg/GDZsIzdatu6VwU8DCKdB_PmshJJshWF7.21dimxczvU-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301411&amp;.sig=dmPiWpdnL10Ft0n7iQmUUer8Ci0-&amp;offerId=f022902a61af3d0e219b46b69cd12290&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13539713&amp;comId=13539713&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13539713">
+<Name>Darty.com</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="126001">
+<Name>Téléphone Fixe &amp; VoIP</Name>
+</Category>
+<Price currency="EUR">
+<Price>34.99</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>34.99</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>7322460046286</Ean>
+<MerchantCategory>Téléphones</MerchantCategory>
+<Brand>Doro</Brand>
+<BrandId>969</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="fb2f9cc80436b32262f18745d48b8672" type="MANUFACTURER_PRODUCTS">
+<Title>Microsoft Lumia 435 double sim vert - 4 pcs - 2 MPX - Windows Phone 8.1</Title>
+<Description>Lumia 435 double sim vert - 4 pcs - 2 MPX - Windows Phone 8.1</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13564813/100020213/90/90/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F46%2F6a%2F7a%2F78565854504e727957552d34386f6e35355f41-300x300-0-0.jpg-150x150-0-0.jpg/fbnXYNyXR1Qpgi_hnvH_UXpPB.xON8kqzuCup.5ye4k-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13564813/100020213/auto/auto/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F46%2F6a%2F7a%2F78565854504e727957552d34386f6e35355f41-300x300-0-0.jpg-150x150-0-0.jpg/fbnXYNyXR1Qpgi_hnvH_UXpPB.xON8kqzuCup.5ye4k-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301412&amp;.sig=6GCrgI6e7KiZsO0odfWrosEBvGQ-&amp;offerId=fb2f9cc80436b32262f18745d48b8672&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13564813&amp;comId=13564813&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/microsoft-lumia-435-dual-19914483?partnerId=96947098</CompareUrl>
+<Merchant id="13564813">
+<Name>Grosbill</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19914483</CatalogID>
+<Catalog productId="19914483" categoryId="100020213">
+<Name>Microsoft Lumia 435 Dual</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>74</Price>
+<DeliveryCost>2</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>2</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>76</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>6438158707986</Ean>
+<MerchantCategory>Téléphone portable</MerchantCategory>
+<Brand>Microsoft</Brand>
+<BrandId>2088</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="b6e2073f2b96153dc8240263ff4c95ad" type="MANUFACTURER_PRODUCTS">
+<Title>Ice-Phone Twist blanc Produit seul Produit seul Le smartphone trendy et coloré.En exclusivité chez Orange, découvrez l'Ice-Phone Twist : le smartphone au design tendance et original, l'interface et le widget Ice-Watch. Grâce à l'écran tactile </Title>
+<Description>Produit seul</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13549613/100007613/90/90/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F48%2F47%2F75%2F4a586a4e704a59323530633678625646655377-300x300-0-0.jpg-636x900-0-0.jpg/DUskv2bKb9vfsIczk33QpFB0oCRClo6nukO3CveXsJA-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13549613/100007613/auto/auto/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F48%2F47%2F75%2F4a586a4e704a59323530633678625646655377-300x300-0-0.jpg-636x900-0-0.jpg/DUskv2bKb9vfsIczk33QpFB0oCRClo6nukO3CveXsJA-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301412&amp;.sig=NysXvA9jzJLfzb6mpypn.4nkikw-&amp;offerId=b6e2073f2b96153dc8240263ff4c95ad&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13549613&amp;comId=13549613&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13549613">
+<Name>Orange</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>57.91</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>57.91</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3561292203984</Ean>
+<MerchantCategory>Téléphone portable</MerchantCategory>
+<Brand>Ice-Phone</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="af7812afc538a1b6e2de98a4e95326c1" type="MANUFACTURER_PRODUCTS">
+<Title>Scicon Phone Frame Bag</Title>
+<Description>Sacoche pour mettre le telephone sur cadre</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13582713/100007613/90/90/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F2d%2F50%2F49%2F653873737679704935775571356c4d51694a67-300x300-0-0.jpg-425x425-0-0.jpg/m91e.Ca71zvI9oOyrqIv34saHhn8EgRUWwOtMPUU1.A-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13582713/100007613/auto/auto/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F2d%2F50%2F49%2F653873737679704935775571356c4d51694a67-300x300-0-0.jpg-425x425-0-0.jpg/m91e.Ca71zvI9oOyrqIv34saHhn8EgRUWwOtMPUU1.A-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301412&amp;.sig=Q.m.UYhWeNvD00e64McKaFeOVBQ-&amp;offerId=af7812afc538a1b6e2de98a4e95326c1&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13582713&amp;comId=13582713&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13582713">
+<Name>Sportshop</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>32.9</Price>
+<DeliveryCost>5.9</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>5.9</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>38.8</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>8023848063015</Ean>
+<MerchantCategory>Sacs, maroquinerie et portefeuilles</MerchantCategory>
+<Brand>Scicon</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="54e0790493507a7b4d9533d4026d9629" type="MANUFACTURER_PRODUCTS">
+<Title>Puma Brassard Phone Diététique Accessoires téléphone</Title>
+<Description>Le brassard Puma Phone noir vous permet de transporter votre smartphone ou MP3 lors de vos sorties running.         Sa bande auto-agrippante vous assure un ajustement optimal à votre tour de bras. Il est doté d'une fenêtre transparente qui vous donne la possibilité d'utiliser l'écran tactile sans avoir à</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13586913/100007613/90/90/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F74%2F64%2F69%2F325a564f6c56657a6b6774434e3063666b3451-300x300-0-0.jpg-2000x2000-0-0.jpg/Q7IHCCswqHp3Pzp1nexp6bpFKBJ2m.4.EZ5kSqfNU1o-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13586913/100007613/auto/auto/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F74%2F64%2F69%2F325a564f6c56657a6b6774434e3063666b3451-300x300-0-0.jpg-2000x2000-0-0.jpg/Q7IHCCswqHp3Pzp1nexp6bpFKBJ2m.4.EZ5kSqfNU1o-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301413&amp;.sig=tmUvh5t7wwH18i9V2aceGN8OixM-&amp;offerId=54e0790493507a7b4d9533d4026d9629&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13586913&amp;comId=13586913&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13586913">
+<Name>i-Run</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>15</Price>
+<DeliveryCost>5</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>5</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>20</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+<Brand>Puma</Brand>
+<BrandId>2571</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="055cb39e28b93c08bbd428b7964d0fb0" type="MANUFACTURER_PRODUCTS">
+<Title>Samson S-Phone préampli casque 19" 4 canaux</Title>
+<Description>In a studio or other recording space, additional headphone outputs are highly practical. With this high-quality headphone amplifier, you can accurately fine-tune four headphones. The S-Phone features many headphone outputs and thanks to the many preferences your sound will suit you completely. The volume can</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13586713/100007613/90/90/http%3A%2F%2Fdi69.shopping.com%2Fimages%2Fdi%2F44%2F63%2F6b%2F50613574757258543837315167535156514f77-300x300-0-0.jpg-750x750-0-0.jpg/YYyFfugQd2feWXwJaMQlRNq6zK2.gwdW27urLplMZeg-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13586713/100007613/auto/auto/http%3A%2F%2Fdi69.shopping.com%2Fimages%2Fdi%2F44%2F63%2F6b%2F50613574757258543837315167535156514f77-300x300-0-0.jpg-750x750-0-0.jpg/YYyFfugQd2feWXwJaMQlRNq6zK2.gwdW27urLplMZeg-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301413&amp;.sig=sQ_K4qu6pmZg0YKRBhRKkkbVrig-&amp;offerId=055cb39e28b93c08bbd428b7964d0fb0&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13586713&amp;comId=13586713&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13586713">
+<Name>Bax-shop.fr</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>199</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>199</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>Pas en stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Instruments de musique</MerchantCategory>
+<Brand>Samson</Brand>
+<BrandId>2760</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="2610ca2d2a940464a23619a0d9d758b7" type="MANUFACTURER_PRODUCTS">
+<Title>Vtech Baby touch phone VTECH</Title>
+<Description>Le premier smartphone des tout-petits ! 3 grosses touches de couleur pour faire comme les grands (décrocher, raccrocher, écouter des messages). 1 grand écran qui réagit au toucher de bébé et qui peut entièrement silluminer. Des effets lumineux et sonores ...</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13061313/100007613/90/90/http%3A%2F%2Fmedia.3suisses.be%2FUNIGRO%2Fvis_zoom%2F9%2F9%2F4%2F7%2F99477.jpg/XzUuBvjn0VtrztG9Up6isNsRpXPlRbUav2Oq15OcBsQ-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13061313/100007613/auto/auto/http%3A%2F%2Fmedia.3suisses.be%2FUNIGRO%2Fvis_zoom%2F9%2F9%2F4%2F7%2F99477.jpg/XzUuBvjn0VtrztG9Up6isNsRpXPlRbUav2Oq15OcBsQ-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301413&amp;.sig=Pty0UtcmLoIJo.jADovhjX0lywM-&amp;offerId=2610ca2d2a940464a23619a0d9d758b7&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13061313&amp;comId=13061313&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13061313">
+<Name>3Suisses.be</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13061313/logo_3suisses_80x24.jpg</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>17.99</Price>
+<DeliveryCost>4.99</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>4.99</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>22.98</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<DeliveryTime>sous 15 jours</DeliveryTime>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Jouet - Jeu vidéo / Jeu d&amp;#39;éveil et 1er âge / Jeu éducatif</MerchantCategory>
+<Brand>Vtech</Brand>
+<BrandId>3511</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="d11d2c3d7250277d21bd1e792fad973d" type="MANUFACTURER_PRODUCTS">
+<Title>FotoCompil Coque phone 4-4S</Title>
+<Description>Cette coque Iphone qui sera personnalisée avec votre photo est à appliquer en protection de votre Iphone 4 ou 4S. Elle constituera un magnifique cadeau à utiliser tous les jours de la semaine. Dimensions de la coque : 11.5 cm x 6 cm ép : 1.2 cm. Matière : plastique et aluminium Couleur : noire Délai : environ</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13814913/100007613/90/90/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F10%2F44%2F8628016263091491044b.png/GEV2wcAfkUv0Gui0VMhmbqq6npUjsf6gb4kLWOD7UoQ-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13814913/100007613/auto/auto/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F10%2F44%2F8628016263091491044b.png/GEV2wcAfkUv0Gui0VMhmbqq6npUjsf6gb4kLWOD7UoQ-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301414&amp;.sig=2dhwQA8L0BNIrQ6rXZqubAPDYWk-&amp;offerId=d11d2c3d7250277d21bd1e792fad973d&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13814913&amp;comId=13814913&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=21</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13814913">
+<Name>FotoCompil</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>19.9</Price>
+<DeliveryCost>4.99</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>4.99</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>24.89</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Téléphonie - Accessoires et pièces pour iPhone</MerchantCategory>
+<Brand>FotoCompil</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="bd265ad9f7371aa5682e48d597ec2baf" type="MANUFACTURER_PRODUCTS">
+<Title>Lowepro étui pour smartphone Phone Case 20</Title>
+<Description>Etui LOWEPRO Phone Case 20 pour smartphone, collection Street &amp; Field à prix discount et expédié sous 24h par un spécialiste réputé.</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13538613/100007613/90/90/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F4e%2F6c%2F6e%2F59797842444d71504e7079576b534352416651-300x300-0-0.jpg-150x120-0-0.jpg/Slpetq4mjDjTKjGQRXajuOf4nStXH9eM80IgbTk_PQ0-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13538613/100007613/auto/auto/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F4e%2F6c%2F6e%2F59797842444d71504e7079576b534352416651-300x300-0-0.jpg-150x120-0-0.jpg/Slpetq4mjDjTKjGQRXajuOf4nStXH9eM80IgbTk_PQ0-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301414&amp;.sig=eXMb4X5IuiWnEhNhRfnBCsVDCjg-&amp;offerId=bd265ad9f7371aa5682e48d597ec2baf&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13538613&amp;comId=13538613&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=22</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13538613">
+<Name>Miss Numerique</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>15.9</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>15.9</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+<Brand>Lowepro</Brand>
+<BrandId>1932</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="9cc7f64cb3ec5bc37fcd8ff0dfd3c97a" type="MANUFACTURER_PRODUCTS">
+<Title>Made.com The Phone Booth, cadre décoration, noir et blanc</Title>
+<Description>Les croquis d'enfance de Super Mario et Street Fighter réalisés par Damilola Odusote ont été une base solide pour développer son art. Il garde une approche ludique et humoristique sur son travail et trouve l'inspiration à travers Londres.</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13585413/100007613/90/90/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F32%2F6a%2F32%2F2d74374f39686c655355626b4f64612d794377-300x300-0-0.jpg-2889x1500-0-0.jpg/GfW0ub71FxqokoiIpAb4T8N8hPC0c0pqMVpqB059voo-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13585413/100007613/auto/auto/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F32%2F6a%2F32%2F2d74374f39686c655355626b4f64612d794377-300x300-0-0.jpg-2889x1500-0-0.jpg/GfW0ub71FxqokoiIpAb4T8N8hPC0c0pqMVpqB059voo-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301414&amp;.sig=dhJRPDCybRd4iTHK.bsaFi4XR44-&amp;offerId=9cc7f64cb3ec5bc37fcd8ff0dfd3c97a&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13585413&amp;comId=13585413&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=23</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13585413">
+<Name>Made.com</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>69</Price>
+<DeliveryCost>5.95</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>5.95</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>74.95</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Décoration murale</MerchantCategory>
+<Brand>Made.com</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="8e18b81a6c31fd42801d3fd4d3a4c705" type="MANUFACTURER_PRODUCTS">
+<Title>Kickers Baskets Kickers Phone pour Homme</Title>
+<Description>Baskets Kickers Homme disponibles en 40,41,42,43,44,45.</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13545713/100007613/90/90/http%3A%2F%2Fdi67.shopping.com%2Fimages%2Fdi%2F44%2F33%2F64%2F6872456c4a4234737155375075643277344e41-300x300-0-0.jpg-1523x1015-0-0.jpg/9RWASRYzc5rx22tXcnqBu276Ewm5ZGlqIuaFKm2xQSI-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13545713/100007613/auto/auto/http%3A%2F%2Fdi67.shopping.com%2Fimages%2Fdi%2F44%2F33%2F64%2F6872456c4a4234737155375075643277344e41-300x300-0-0.jpg-1523x1015-0-0.jpg/9RWASRYzc5rx22tXcnqBu276Ewm5ZGlqIuaFKm2xQSI-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301414&amp;.sig=Pme7eCSaZDzMAg.7AD40qGaAT0Y-&amp;offerId=8e18b81a6c31fd42801d3fd4d3a4c705&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13545713&amp;comId=13545713&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=24</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13545713">
+<Name>Sarenza</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>89</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>89</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Chaussures</MerchantCategory>
+<Brand>Kickers</Brand>
+<BrandId>1738</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="f79d4e288d795d4b4c98ab9739add8c2" type="MANUFACTURER_PRODUCTS">
+<Title>Doro Téléphone DORO Phone easy 110W FIXE portatif - grande affichage</Title>
+<Description>Mêmes fonctionnalités que Doro PhoneEasy® 100w, mais avec fonction retour vocal et afficheur 2 lignes contrastées Grand afficheur et caractères très lisiblesVolume du combiné amplifié jusqu?à 30 db Touche d?amplification du volume Fonction mains libres et retour vocal</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13559413/100007613/90/90/http%3A%2F%2Fdi71.shopping.com%2Fimages%2Fdi%2F37%2F38%2F72%2F6337512d4d37415f747a4639706b344a654b41-300x300-0-0.jpg-181x300-0-0.jpg/NKg59kFNJQSBzSpTtkEpvCu_rAts_pK3OyCmq0FIkZQ-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13559413/100007613/auto/auto/http%3A%2F%2Fdi71.shopping.com%2Fimages%2Fdi%2F37%2F38%2F72%2F6337512d4d37415f747a4639706b344a654b41-300x300-0-0.jpg-181x300-0-0.jpg/NKg59kFNJQSBzSpTtkEpvCu_rAts_pK3OyCmq0FIkZQ-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301415&amp;.sig=RwA8woWCb93h_BqGehvUem3BYTI-&amp;offerId=f79d4e288d795d4b4c98ab9739add8c2&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13559413&amp;comId=13559413&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=25</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13559413">
+<Name>BG Medical</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>49.9</Price>
+<DeliveryCost>6.5</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>6.5</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>56.4</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>Pas en stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Téléphones</MerchantCategory>
+<Brand>Doro</Brand>
+<BrandId>969</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="9a748fea32e497a335daa79488d86e00" type="MANUFACTURER_PRODUCTS">
+<Title>Collier supplémentaire Kitty Phone</Title>
+<Description>Divers : , weight : 1.3</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13809813/100007613/90/90/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F46%2F00%2F2857198677760334600b.png/0b83ZQ4NvmCag0RQ6EWWdYNhRJPLeq0Jkj_lCUkttY4-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13809813/100007613/auto/auto/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F46%2F00%2F2857198677760334600b.png/0b83ZQ4NvmCag0RQ6EWWdYNhRJPLeq0Jkj_lCUkttY4-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301415&amp;.sig=qMzgf53FlSpjq5wuq7p1NZvUAxs-&amp;offerId=9a748fea32e497a335daa79488d86e00&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13809813&amp;comId=13809813&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=26</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13809813">
+<Name>Easyveto</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>22.9</Price>
+<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>-1</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>22.9</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Animaux - Articles animaux divers</MerchantCategory>
+<Brand></Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="b63f0782147776ff1579d57d918684c1" type="MANUFACTURER_PRODUCTS">
+<Title>Holtex Téléphone Doro Phone Easy 311c</Title>
+<Description>Caractéristiques du Doro PhoneEasy 311c : Clavier à grandes touches avec large caractère pour une utilisation simplifiée 10 numéros mémorisables 3 touches pour 3 numéros mémorisables direct Réglage facile du volume 1 touche bis : rappel du dernier numéro composé Sonnerie monophonique Mode muet Fixation murale</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13829313/100007613/90/90/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F53%2F88%2F7236126931504915388b.png/DRDhJ3YUtXgTTuVjVMsaDG75uBW7qUI.oaHPxfC4pQc-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13829313/100007613/auto/auto/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F53%2F88%2F7236126931504915388b.png/DRDhJ3YUtXgTTuVjVMsaDG75uBW7qUI.oaHPxfC4pQc-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301415&amp;.sig=ucDtPbPihutT.xthPkTEZP.PJLY-&amp;offerId=b63f0782147776ff1579d57d918684c1&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13829313&amp;comId=13829313&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=27</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13829313">
+<Name>MaterielPlaMedical</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>39.99</Price>
+<DeliveryCost>8</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>8</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>47.99</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Beauté - Santé - Médical</MerchantCategory>
+<Brand>Holtex</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="d3bb8d6860e6e7dcf11110ba17b77074" type="MANUFACTURER_PRODUCTS">
+<Title>Zone Chevalet no phone zone   fond blanc</Title>
+<Description>Chevalet de signalisation avec le message -no phone zone- sur fond blanc , Existe en deux modèles, Simple face, Double face, Dimension hors tout , 600 mm de haut, 300 mm de large, En polypropylène, très résistant</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13843413/100007613/90/90/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F59%2F07%2F1782553886256555907b.png/YzhzLrzqmrenduddac9pU57UqgzgoIMgeUUiHMCqmy8-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13843413/100007613/auto/auto/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F59%2F07%2F1782553886256555907b.png/YzhzLrzqmrenduddac9pU57UqgzgoIMgeUUiHMCqmy8-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301415&amp;.sig=h4px9aLgco0Q4pfH_4S3x8i.oXM-&amp;offerId=d3bb8d6860e6e7dcf11110ba17b77074&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13843413&amp;comId=13843413&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=28</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13843413">
+<Name>Rolleco</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>20</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>20</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Loisirs - Beaux-Arts</MerchantCategory>
+<Brand>Zone</Brand>
+<BrandId>21967</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="b95bbf92edbbb55380bdb37d42f0c374" type="MANUFACTURER_PRODUCTS">
+<Title>ESSENTIELB Téléphone ESSENTIELB PHOTO PHONE</Title>
+<Description>Le + : Compatible appareil auditif - Autonomie en communication : 6 Des heures en heures (sans décimale) - Compatible GAP : Possibilité d'y rattacher un autre combiné compatible GAP</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13546713/100007613/90/90/http%3A%2F%2Fdi70.shopping.com%2Fimages%2Fdi%2F4a%2F79%2F34%2F494439494d54367275647475414d4131494541-300x300-0-0.jpg-400x400-0-0.jpg/3ISfEDHnwnq2mx.3zeLq1wyAV.GNO3pQjdof1HKbi1w-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13546713/100007613/auto/auto/http%3A%2F%2Fdi70.shopping.com%2Fimages%2Fdi%2F4a%2F79%2F34%2F494439494d54367275647475414d4131494541-300x300-0-0.jpg-400x400-0-0.jpg/3ISfEDHnwnq2mx.3zeLq1wyAV.GNO3pQjdof1HKbi1w-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301416&amp;.sig=eo1BK1UkGN7Jh5ITkQKXfsoLj9Y-&amp;offerId=b95bbf92edbbb55380bdb37d42f0c374&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13546713&amp;comId=13546713&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=29</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13546713">
+<Name>Boulanger</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>69.99</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>69.99</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3497670060781</Ean>
+<MerchantCategory>Téléphone portable</MerchantCategory>
+<Brand>ESSENTIELB</Brand>
+<BrandId>34103</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="61be2b76f98d8abf864c5f70e2a2cc01" type="MANUFACTURER_PRODUCTS">
+<Title>Kit Piéton Stéréo HTC 39H00014-00M pour Windows Phone 8X, Windows Phone 8S</Title>
+<Description>Kit piéton stéréo d'origine HTC 39H00014-00M. Ce produit est compatible avec: Amaze 4G, Butterfly, HTC Smart (Rome), Tattoo (Click), Hero (Hero), HD2 (Leo), Desire (Bravo), Desire</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/14052013/125401/90/90/http%3A%2F%2Fwww.mobile24.fr%2F%2Fimages%2FHTC_39H00014-00M_Stereo_Headset-Windows_Phone_8X_Windows_Phone_8S-Black_17042013.jpg/lkv7ZERrwXVktChWMbkqeVxLWeVw0ueARvxBRZQ_4JA-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/14052013/125401/auto/auto/http%3A%2F%2Fwww.mobile24.fr%2F%2Fimages%2FHTC_39H00014-00M_Stereo_Headset-Windows_Phone_8X_Windows_Phone_8S-Black_17042013.jpg/lkv7ZERrwXVktChWMbkqeVxLWeVw0ueARvxBRZQ_4JA-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301416&amp;.sig=isPwUwDCdbhb7T2XjBgs4L471wE-&amp;offerId=61be2b76f98d8abf864c5f70e2a2cc01&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14052013&amp;comId=14052013&amp;catId=125401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=30</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="14052013">
+<Name>MyTrendyPhone</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="125401">
+<Name>Accessoires &amp; Batteries téléphonie </Name>
+</Category>
+<Price currency="EUR">
+<Price>15.3</Price>
+<DeliveryCost>2.9</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>2.9</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>18.2</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<DeliveryTime>en stock. prêt à expédier.</DeliveryTime>
+<Warranty>Les garanties légales pour les produits.</Warranty>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>HTC</MerchantCategory>
+<Brand></Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="916f6c7de58321556fe702de1d0d39f7" type="MANUFACTURER_PRODUCTS">
+<Title>High-Tech Place Rugged Android Phone - Dual Core CPU, Waterproof, Shockproof, Dust Proof (Orange)</Title>
+<Description>De la marque High-Tech Place votre produit vous offrira une qualite irreprochable ! Rugged Android Phone is tough made communication device that has a Dual Core CPU and is Waterproof, Shockproof in addition to being Dust Proof. Shockproof Phone Built to test the elements of time, this rugged Android dual core</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13560413/100007613/90/90/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F59%2F47%2F53%2F30674c66584b4f4263614538794c7677593267-300x300-0-0.jpg-375x300-0-0.jpg/zu0aZByHEpqVkI_s1CY4N4PY5fm7zdBuTLd3VJPqHc4-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13560413/100007613/auto/auto/http%3A%2F%2Fdi64.shopping.com%2Fimages%2Fdi%2F59%2F47%2F53%2F30674c66584b4f4263614538794c7677593267-300x300-0-0.jpg-375x300-0-0.jpg/zu0aZByHEpqVkI_s1CY4N4PY5fm7zdBuTLd3VJPqHc4-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301416&amp;.sig=iBooffFWnkCr75m4TnQKh.oRftE-&amp;offerId=916f6c7de58321556fe702de1d0d39f7&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13560413&amp;comId=13560413&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=31</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13560413">
+<Name>High-Tech Place</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>190.91</Price>
+<DeliveryCost>7.99</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>7.99</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>198.9</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Tablettes &amp; E-book</MerchantCategory>
+<Brand>High-Tech Place</Brand>
+<BrandId>35837</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="4b8616fa1bc3110a8fbb3e94bb9842bd" type="MANUFACTURER_PRODUCTS">
+<Title>LEXIBOOK MFS100FR-00 Tablet Phone - noir - 4 Go - Smartphone Dual SIM</Title>
+<Description>Tournant sous Android KitKat 4.4, le MFS100FR-00 Tablet Phone de Lexibook est un smartphone qui répondra aux attentes et besoins des ados. Il leur offre en effet toutes les fonctionnalités présentes sur les téléphones portables d'aujourd'hui, la sécurité et les contenus éducatifs en plus. Fort d'un processeur</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13533313/100007613/90/90/http%3A%2F%2Fdi61.shopping.com%2Fimages%2Fdi%2F63%2F6d%2F36%2F62353743794343683051507437613645515341-300x300-0-0.jpg-600x532-0-0.jpg/dipntPUySPVPlCNyw9BxyzIrS4IGGj0BGNSWEkZ5kXY-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13533313/100007613/auto/auto/http%3A%2F%2Fdi61.shopping.com%2Fimages%2Fdi%2F63%2F6d%2F36%2F62353743794343683051507437613645515341-300x300-0-0.jpg-600x532-0-0.jpg/dipntPUySPVPlCNyw9BxyzIrS4IGGj0BGNSWEkZ5kXY-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301416&amp;.sig=Ho1xwqhcHyGWUfL3od5zR0J9Dh0-&amp;offerId=4b8616fa1bc3110a8fbb3e94bb9842bd&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13533313&amp;comId=13533313&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=32</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13533313">
+<Name>PIXmania.com</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>89.9</Price>
+<DeliveryCost>2.99</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>2.99</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>92.89</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3380743042947</Ean>
+<MerchantCategory>Téléphone portable</MerchantCategory>
+<Brand>LEXIBOOK</Brand>
+<BrandId>1883</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="df9510e6fa464d95fad7603c04cf3d09" type="MANUFACTURER_PRODUCTS">
+<Title>Open en Ville Tirelire téléphone Keep Calm and phone me rouge</Title>
+<Description>La tirelire téléphone Keep calm and phone me apportera une touche design et tendance à votre demeure. Elle conservera son utilité première de regrouper vos économies.</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13556413/100007613/90/90/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F47%2F34%2F55%2F514a7a566d716e633071553231543369525f41-300x300-0-0.jpg-1488x1488-0-0.jpg/.m3fNRI2wFWYh0mISNc797J8h6MUokBr5qFSo3jOd74-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13556413/100007613/auto/auto/http%3A%2F%2Fdi65.shopping.com%2Fimages%2Fdi%2F47%2F34%2F55%2F514a7a566d716e633071553231543369525f41-300x300-0-0.jpg-1488x1488-0-0.jpg/.m3fNRI2wFWYh0mISNc797J8h6MUokBr5qFSo3jOd74-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301417&amp;.sig=_A2Xfuf9WiFgCP6MWx8pbhtbcg0-&amp;offerId=df9510e6fa464d95fad7603c04cf3d09&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13556413&amp;comId=13556413&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=33</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13556413">
+<Name>Open en ville</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>9.99</Price>
+<DeliveryCost>7.99</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>7.99</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>17.98</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+<Brand>Open en Ville</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="aec3a39e7d989b000b6f4015202dfba0" type="MANUFACTURER_PRODUCTS">
+<Title>amahousse-DISCOUNT Coque rigide pour HTC Windows Phone 8S Papillon Disco</Title>
+<Description>Port Gratuit-Entrepôt en France  Coque de protection HTC Windows Phone 8S rigide Papillon Disco Cette coque aux dessins fantaisie sur fond noir mat est particulièrement adaptée au HTC Windows Phone 8S, à sa forme et sa taille. Les découpes de cet étui sont adaptées pour vous garantir l'accès à toutes les</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13563513/125401/90/90/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F73%2F67%2F6b%2F306573454835614437484c4a36793254615a51-300x300-0-0.jpg-800x800-0-0.jpg/3YdBAyD1ppCNu3Lby7DcxCiHog.3KSZ_vEgtwpHfc50-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13563513/125401/auto/auto/http%3A%2F%2Fdi66.shopping.com%2Fimages%2Fdi%2F73%2F67%2F6b%2F306573454835614437484c4a36793254615a51-300x300-0-0.jpg-800x800-0-0.jpg/3YdBAyD1ppCNu3Lby7DcxCiHog.3KSZ_vEgtwpHfc50-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301417&amp;.sig=JVrEVQG_hvkINZLs6EFy80XmYrc-&amp;offerId=aec3a39e7d989b000b6f4015202dfba0&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13563513&amp;comId=13563513&amp;catId=125401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=34</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13563513">
+<Name>amahousse.com</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="125401">
+<Name>Accessoires &amp; Batteries téléphonie </Name>
+</Category>
+<Price currency="EUR">
+<Price>5.9</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>5.9</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700664131498</Ean>
+<MerchantCategory>Accessoire pour téléphone portable</MerchantCategory>
+<Brand>amahousse-DISCOUNT</Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="5c8328eed62bda15253bf4556a67bf29" type="MANUFACTURER_PRODUCTS">
+<Title>Samsung GALAXY S5 - Android Phone - GSM - UMTS SAMSUNG</Title>
+<Description>Description du produit\nSamsung GALAXY S5 - Android Phone - GSM / UMTS\nType de Produit\nAndroid Phone - 4G - 16 Go\nFournisseur de services\nNon spécifié\nServices mobiles\nGoogle Play, YouTube, Gmail, Google Search by Voice, Google Play Books, Google Play Music, Google Play Movies, Google Drive\nFacteur de</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13864213/100007613/90/90/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F72%2F23%2F4882098513185577223b.png/7tM7JHTQaOkyUfzS3qvMqIc_QJHvGGlZZU_zWs9RJEI-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13864213/100007613/auto/auto/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F72%2F23%2F4882098513185577223b.png/7tM7JHTQaOkyUfzS3qvMqIc_QJHvGGlZZU_zWs9RJEI-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301417&amp;.sig=Jmp7SpmtzKFPD6D6oIP17RuWhyU-&amp;offerId=5c8328eed62bda15253bf4556a67bf29&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13864213&amp;comId=13864213&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=35</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13864213">
+<Name>SVGInformatique</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>459</Price>
+<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>-1</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>459</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Téléphonie - Smartphone</MerchantCategory>
+<Brand>Samsung</Brand>
+<BrandId>2762</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="0b65815867609760faaee0e088084101" type="MANUFACTURER_PRODUCTS">
+<Title>Canon Cartouche d'encre COMPATIBLE noir pour CANON FAX PHONE B150 (Ref OEM : BX-3) REMBX3 BX3 (0884A002AA/BX 3/884A002/884A002AA)</Title>
+<Description>Cartouche d'encre + tête d'impression Noir REMANUFACTUREE équivalent à CANON BX3 (0884A002AA) (2000 pages) pour imprimante CANON FAX PHONE B150</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13537813/100007613/90/90/http%3A%2F%2Fdi69.shopping.com%2Fimages%2Fdi%2F5a%2F4d%2F69%2F36755555376544414d3339342d444532334851-300x300-0-0.jpg-135x200-0-0.jpg/FD3MiCefzB8Bn38yU1JyC0M2GRxVsjmpHWN0xaqYPqs-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13537813/100007613/auto/auto/http%3A%2F%2Fdi69.shopping.com%2Fimages%2Fdi%2F5a%2F4d%2F69%2F36755555376544414d3339342d444532334851-300x300-0-0.jpg-135x200-0-0.jpg/FD3MiCefzB8Bn38yU1JyC0M2GRxVsjmpHWN0xaqYPqs-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301417&amp;.sig=ZZ6zJy39KYD9XLlXmPyomA3iTCE-&amp;offerId=0b65815867609760faaee0e088084101&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13537813&amp;comId=13537813&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=36</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13537813">
+<Name>FranceToner</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>14.88</Price>
+<DeliveryCost>5.82</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>5.82</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>20.7</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>En stock</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Cartouches imprimantes et toners</MerchantCategory>
+<Brand>Canon</Brand>
+<BrandId>598</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="8537d7377c71e46e61f1ea6833dc5bd6" type="MANUFACTURER_PRODUCTS">
+<Title>Cartouche d'encre Noir compatible pour imprimante CANON Fax Phone B60 - B 2</Title>
+<Description>1 Cartouche d’encre COMPATIBLE Noir pour imprimante Fax Phone B60 - Fax B 200Remplace : BC02 - BC-02 Capacité : 25 ml</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13855413/100007613/90/90/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F92%2F27%2F127494682690649227b.png/bBODYbeV6e4xDg46TEa4HLLeSQEg.2YddDs.ysYW9d4-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13855413/100007613/auto/auto/http%3A%2F%2Fi11.twenga.com%2F1%2Ftp%2F92%2F27%2F127494682690649227b.png/bBODYbeV6e4xDg46TEa4HLLeSQEg.2YddDs.ysYW9d4-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301418&amp;.sig=xRTVooL.WBaN7ZYHBEaINgKwcbo-&amp;offerId=8537d7377c71e46e61f1ea6833dc5bd6&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13855413&amp;comId=13855413&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=37</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13855413">
+<Name>Cartouche-encre</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>17.94</Price>
+<DeliveryCost>5.94</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>5.94</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>23.88</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Informatique - Consommables d&amp;#39;impression</MerchantCategory>
+<Brand></Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="19d21735fb2596bdaabec52358d31b82" type="MANUFACTURER_PRODUCTS">
+<Title>Housse de couette 140x200 cm + taie 100% coton phone box</Title>
+<Description>Parure housse de couette imprimée + la taie d’oreiller assortie.Taille: 140x200 cm (housse)63x63cm (taie)Composition : 100% pur conton 57 fils/cm²Qualié supérieure / Taille et Matière :Housse de couette 140x200 cm + 1 taie de 63x63 cm 100% pur coton confortable 57 fils/cm² Qualité supérieure / Drap housse</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13801913/100007613/90/90/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F16%2F10%2F962956207829931610b.png/A8aAuEOhzla2QJaI6y1dS1me3N5.YObk2x4QvT.Yq74-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13801913/100007613/auto/auto/http%3A%2F%2Fi10.twenga.com%2F1%2Ftp%2F16%2F10%2F962956207829931610b.png/A8aAuEOhzla2QJaI6y1dS1me3N5.YObk2x4QvT.Yq74-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301418&amp;.sig=C1iD5UFRGeveju7ohsxBpQ_U764-&amp;offerId=19d21735fb2596bdaabec52358d31b82&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13801913&amp;comId=13801913&amp;catId=100007613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=38</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13801913">
+<Name>Cdaffaires</Name>
+<Logo>
+<Url></Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="100007613">
+<Name>Le Grand Bazar</Name>
+</Category>
+<Price currency="EUR">
+<Price>24.9</Price>
+<DeliveryCost>6.9</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>6.9</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>31.8</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>3</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<MerchantCategory>Maison - Linge de maison</MerchantCategory>
+<Brand></Brand>
+<BrandId>-1</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="ccdc5686e99c5707371bbedb6ee4bf5f" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Mauve (ITEFO4PU)</Title>
+<Description>ICE-FOREVER PURPLE (ITEFO4PU)</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67211824%2Fmcs_product_png/ESivq.T0tbUQCclELkxkE9WBLWs4vnMZQKX2VK3o8X0-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67211824%2Fmcs_product_png/ESivq.T0tbUQCclELkxkE9WBLWs4vnMZQKX2VK3o8X0-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301418&amp;.sig=74TDgvyh3D3gpqfsG8ITQNvL4q8-&amp;offerId=ccdc5686e99c5707371bbedb6ee4bf5f&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=39</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>119</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>119</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321706</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="a725148c4fe98b5e45fa0be451a35473" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Mini Jaune (ITEMI3.5YE)</Title>
+<Description>ICE-MINI YELLOW (ITEMI3.5YE)</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170203%2Fmcs_product_png/iNNiwJIyLd.oqQynbtkjti192TVUHwne.AAb.v19lTU-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170203%2Fmcs_product_png/iNNiwJIyLd.oqQynbtkjti192TVUHwne.AAb.v19lTU-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301418&amp;.sig=5L4HSoobvtDJri9NpG3Jd863Nd4-&amp;offerId=a725148c4fe98b5e45fa0be451a35473&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=40</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-mini-19905596?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905596</CatalogID>
+<Catalog productId="19905596" categoryId="100020213">
+<Name>ICE PHONE Ice Mini</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>98.99</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>98.99</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321454</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="7c5f5e5cd99bf307174584273770c654" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Mauve + Ice Watch White (ICEPACK-PRP-WHT)</Title>
+<Description>PACK ICEFOREVER PURPLE + ICEWATCH WH (ICEPACK-PRP-</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173613%2Fmcs_product_png/sk8dQZkbiS_zjmVVQJNJZNj4PKjIeFHpj1FSL6F6cjE-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173613%2Fmcs_product_png/sk8dQZkbiS_zjmVVQJNJZNj4PKjIeFHpj1FSL6F6cjE-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301419&amp;.sig=aCZI8J8u1RKaU5xWcShkJkkLMbg-&amp;offerId=7c5f5e5cd99bf307174584273770c654&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=41</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>5412882658739</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="612488a0307dee473bba7506a47fd99f" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Noir + Ice Watch White (ICEPACK-BLK-WHT)</Title>
+<Description>PACK ICEFOREVER BLK + ICEWATCH WH (ICEPACK-BLK-WHT</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170124%2Fmcs_product_png/PUg22TSb8Wf52M7zjTPc9bC3ChqBeLYoge2b_ft07FU-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170124%2Fmcs_product_png/PUg22TSb8Wf52M7zjTPc9bC3ChqBeLYoge2b_ft07FU-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301419&amp;.sig=mMk2t5MeUdj52AEWkf850zBzOX0-&amp;offerId=612488a0307dee473bba7506a47fd99f&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=42</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>5412882658692</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="79fd4225e2584339343186a50af25ae7" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Noir (ITEFO4BL)</Title>
+<Description>ICE-FOREVER BLK (ITEFO4BL)</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170124%2Fmcs_product_png/PUg22TSb8Wf52M7zjTPc9bC3ChqBeLYoge2b_ft07FU-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170124%2Fmcs_product_png/PUg22TSb8Wf52M7zjTPc9bC3ChqBeLYoge2b_ft07FU-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301420&amp;.sig=c2mUiuFyuWwnlRS5XUUD4BBG1z4-&amp;offerId=79fd4225e2584339343186a50af25ae7&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=43</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>119</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>119</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321669</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="7b2e05c2b9bbea7a8dee6a60df1a15de" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Ice Tab 7.8" 8 GB Wi-Fi Fushia (ITA7.85FU)</Title>
+<Description>ITA7.85FU001 ICE-TAB 7,89" FUSHIA WIFI</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/113701/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-65805280%2Fmcs_product_png/vAEW2wPF2SvA9i5qAr2ONtzqOQANz1E2dSdJzOB393w-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/113701/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-65805280%2Fmcs_product_png/vAEW2wPF2SvA9i5qAr2ONtzqOQANz1E2dSdJzOB393w-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301420&amp;.sig=p3SSdonJU9Mb0_bmJwSrKczbdW0-&amp;offerId=7b2e05c2b9bbea7a8dee6a60df1a15de&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=113701&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=44</Url>
+<MobileFriendly>false</MobileFriendly>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<Category id="113701">
+<Name>Ordinateur Portable</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321393</Ean>
+<MerchantCategory>Ordinateur &amp; Multimédia</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="b4419bfc58da92b96beffc1906564842" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Blanc + Ice Watch White (ICEPACK-WHT-WHT)</Title>
+<Description>PACK ICEFOREVER WH + ICEWATCH WH (ICEPACK-WHT-WHT</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173665%2Fmcs_product_png/q0mtRHqKD549LGGhblOE_WF2pHx_iN2Ex5jRx0daYh8-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173665%2Fmcs_product_png/q0mtRHqKD549LGGhblOE_WF2pHx_iN2Ex5jRx0daYh8-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301420&amp;.sig=CXLdAJgG2NApErKdHk6RDbIitss-&amp;offerId=b4419bfc58da92b96beffc1906564842&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=45</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>5412882658685</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="3d73b0d8571fb96a4146633b03662011" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Mini Noir (ITEMI3.5BL)</Title>
+<Description>ICE-MINI BLK (ITEMI3.5BL)</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67156716%2Fmcs_product_png/4I6bJmIUSXHM7lH6XgReLgLO7c3_9vRuznLUfwGR2JI-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67156716%2Fmcs_product_png/4I6bJmIUSXHM7lH6XgReLgLO7c3_9vRuznLUfwGR2JI-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301421&amp;.sig=_9p7v86e2Dah4W1QFUuHjRGDrH4-&amp;offerId=3d73b0d8571fb96a4146633b03662011&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=46</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-mini-19905596?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905596</CatalogID>
+<Catalog productId="19905596" categoryId="100020213">
+<Name>ICE PHONE Ice Mini</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>69</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>69</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>3700740321423</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="226755a337c26fea7dd477fb1f38a1c6" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Bleu + Ice Watch White (ICEPACK-BLU-WHT)</Title>
+<Description>PACK ICEFOREVER BLUE + ICEWATCH WH (ICEPACK-BLU-WH</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173457%2Fmcs_product_png/UE1QhamesJk5YB18jHaAvkKrTvCxrnShwhlHoexcOQg-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173457%2Fmcs_product_png/UE1QhamesJk5YB18jHaAvkKrTvCxrnShwhlHoexcOQg-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301421&amp;.sig=d2JLK6NHz.zqz9cwHAjdDefgkIM-&amp;offerId=226755a337c26fea7dd477fb1f38a1c6&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=47</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>5412882658722</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="b770560be75ea8a50ca2693cd2f866ca" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Rose + Ice Watch White (ICEPACK-PNK-WHT)</Title>
+<Description>PACK ICEFOREVER PINK + ICEWATCH WH (ICEPACK-PNK-WH</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173535%2Fmcs_product_png/_RHmGesNINcHLJzf281CHKuVs1ii8vxLktWzlkKGY6c-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67173535%2Fmcs_product_png/_RHmGesNINcHLJzf281CHKuVs1ii8vxLktWzlkKGY6c-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301421&amp;.sig=LRctTWAc1IvjekE_DzEkMY5kjkM-&amp;offerId=b770560be75ea8a50ca2693cd2f866ca&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=48</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>5412882658708</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="d261467c3079873407e2bcbb8b266133" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Noir + Ice Watch Anthracite (ICEPACK-BLK-ANT)</Title>
+<Description>PACK ICEFOREVER BLK ICEWATCH ANTHRACITE (ICEPACK-B</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170124%2Fmcs_product_png/PUg22TSb8Wf52M7zjTPc9bC3ChqBeLYoge2b_ft07FU-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170124%2Fmcs_product_png/PUg22TSb8Wf52M7zjTPc9bC3ChqBeLYoge2b_ft07FU-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301422&amp;.sig=67Psn5ywc_WlPcl4YiNzVjGwWWY-&amp;offerId=d261467c3079873407e2bcbb8b266133&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=49</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>5412882658661</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+<Product>
+<Offer id="01892501a34d547c2aadab82ac29455d" type="MANUFACTURER_PRODUCTS">
+<Title>ICE PHONE Forever Rouge + Ice Watch White (ICEPACK-RED-RED)</Title>
+<Description>PACK ICEFOREVER RED + ICEWATCH WH (ICEPACK-RED-RED</Description>
+<Images>
+<Image available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/90/90/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170139%2Fmcs_product_png/Y2akIkLJVONisBY.CUYdxRtIL6MjfWDCmIIl3LXl8gI-</Url>
+<Height>90</Height>
+<Width>90</Width>
+</Image>
+<ZoomImage available="true">
+<Url>http://r.kelkoo.com/r/be/13427213/100020213/auto/auto/http%3A%2F%2Fpics.redblue.de%2Fdoi%2Fpixelboxx-mss-67170139%2Fmcs_product_png/Y2akIkLJVONisBY.CUYdxRtIL6MjfWDCmIIl3LXl8gI-</Url>
+</ZoomImage>
+</Images>
+<Video/>
+<Url>http://ecs-be.kelkoo.be/ctl/go/sitesearchGo?.ts=1425563301422&amp;.sig=HY.G1OQAHDUwTE35gHjjaLweiIA-&amp;offerId=01892501a34d547c2aadab82ac29455d&amp;searchId=10769825011086_1425563301333_7477&amp;affiliationId=96947098&amp;country=be&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13427213&amp;comId=13427213&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;contextOfferPosition=50</Url>
+<MobileFriendly>false</MobileFriendly>
+<CompareUrl>http://be.kelkoopartners.net/p-gsm-mobile-100020213/ice-phone-ice-forever-19905595?partnerId=96947098</CompareUrl>
+<Merchant id="13427213">
+<Name>MediaMarkt</Name>
+<Logo>
+<Url>http://r6.kelkoo.com//data/merchantlogos/13427213/MM_Kelkoo.png</Url>
+<Width>80</Width>
+<Height>24</Height>
+</Logo>
+</Merchant>
+<CatalogID>100020213-19905595</CatalogID>
+<Catalog productId="19905595" categoryId="100020213">
+<Name>ICE PHONE ICE Forever</Name>
+</Catalog>
+<Category id="100020213">
+<Name>GSM, Mobile</Name>
+</Category>
+<Price currency="EUR">
+<Price>149</Price>
+<DeliveryCost>0</DeliveryCost>
+<DeliveryCostDetails>
+<DeliveryCost>0</DeliveryCost>
+</DeliveryCostDetails>
+<TotalPrice>149</TotalPrice>
+</Price>
+<ProductClass>0</ProductClass>
+<Availability>1</Availability>
+<Promo/>
+<OffensiveContent>false</OffensiveContent>
+<FinancingOption/>
+<Ean>5412882658678</Ean>
+<MerchantCategory>Téléphone &amp; Navigation</MerchantCategory>
+<Brand>ICE PHONE</Brand>
+<BrandId>44000</BrandId>
+<GreenProduct>false</GreenProduct>
+</Offer>
+</Product>
+</Products>
+<Warnings>
+<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+</Warnings>
+<SearchInfo>
+<LogicalType>and</LogicalType>
+<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+</SearchInfo>
+</ProductSearch>

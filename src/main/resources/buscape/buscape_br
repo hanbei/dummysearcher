@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result xmlns="urn:buscape" totalResultsAvailable="10"
+        totalResultsReturned="10" schk="true" totalLooseOffers="0">
+	<details>
+		<applicationID>6e325779417236713472413d</applicationID>
+		<date>2015-05-06T07:16:09.362-03:00</date>
+		<elapsedTime>12</elapsedTime>
+		<status>success</status>
+		<code>0</code>
+		<message>success</message>
+	</details>
+	<category id="100" parentCategoryId="0" isFinal="true" hasOffer="false" concatenateCategoryName="false">
+		<thumbnail url="http://imagem.buscape.com.br/bp5/categorias/100.jpg"/>
+		<links>
+			<link url="http://www.buscape.com.br/joystick-controle.html?mdapp=6547&amp;mddtn=0" type="category"/>
+			<link
+				url="http://bws.buscape.com.br/service/findProductList/6e325779417236713472413d/br/?categoryId=100&amp;keyword=playstation"
+				type="xml"/>
+		</links>
+		<name>Joystick / Controle</name>
+	</category>
+	<offer categoryId="100" id="169564252">
+		<offerName>Volante com Pedais T60 para Playstation 3 ( PS3 ) - Thrustmaster - cod. 594315</offerName>
+		<offerShortName>Volante Com</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2UBFjwQZScZExMyOTAtGBYRPA4pJhY7a28Nbg9zc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9oZ2toamxrbHFobGhmaWEzOj8uLmNoa2ppZTAxLDs4ZW9lHAxlZWVuZW5lbmVuZWVvam1uZ25pbWhnbWltZWVmaXBvbWdwa2dwbGtuZW5lMCsyMmVuZW5lbmVuZW9oZ2toamxrbGVucG5lbnBuZW9lZW5lbmVu"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://parceiroimg.maquinadevendas.com.br/produto/594315_3683996_20150306123352.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>342.90</value>
+			<parcel>
+				<value>114.30</value>
+				<number>3</number>
+				<interest>0.0</interest>
+			</parcel>
+		</price>
+		<seller id="62687" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>Ricardoeletro.com</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo62687.gif"/>
+			<links>
+				<link url="http://www.ricardoeletro.com.br/" type="seller"/>
+			</links>
+			<contacts>
+				<contact value="31-40022343" label="SAC"/>
+				<contact value="31-33592719" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>323971</numComments>
+					<rating>8.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>323971</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="141890625">
+		<offerName>Joypad sem fio Extreme PS3 12 Botões NewLink - 2084501</offerName>
+		<offerShortName>Joypad Sem Fio</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2UWGTIMZQEoGRwJDhsKGWgWMxotNyk_FBUTLilzc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9qb2Znbmhsa3FpZ2EzOj8uLmNoa2ppZTAxLDs4ZW9lHAxlZWVuZW5lbmVuZWVvam1uZ25pbWhnbWltZWVmaXBvbWdwa2dwbGtuZW5lMCsyMmVuZW5lbmVuZW9qb2Znbmhsa2VucG5lbnBuZW9lZW5lbmVu"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://thumbs.buscape.com.br/T100x100/__2.79-8751441.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>69.90</value>
+		</price>
+		<seller id="79" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>Magazine Luiza</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo79.gif"/>
+			<links>
+				<link url="http://www.magazineluiza.com.br/parceiro/visita_parceiro.asp?parceiro=23" type="seller"/>
+			</links>
+			<contacts>
+				<contact value="08-00344000" label="SAC"/>
+				<contact value="11-35089900" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>198181</numComments>
+					<rating>8.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>198181</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="142938637" productId="569879">
+		<offerName>Volante Multilaser Racer JS073 3 em 1, PS2 / PS3 / PC, Dual Shock, Conexão USB, Câmbio Sequencial (
+			outletgame )
+		</offerName>
+		<offerShortName>Volante Multilase...</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2UEPRsHZSstKz03ARkgNW4Qby8mbCgBETEvOw9zc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9qbGdtZmhtaXFoZmtraWEzOj8uLmNoa2ppZTAxLDs4ZW9lHAxlZWVuZW5lbmVuZWVvam1uZ25pbWhnbWltZWVmaXBvbWdwa2dwbGtuZW5lMCsyMmVuZW5lbmVuZW9qbGdtZmhtaWVucG5lbnBuZW9lZW5lbmVu"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://thumbs.buscape.com.br/T100x100/__2.68557-885120d.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>141.50</value>
+		</price>
+		<seller id="68557" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="true"
+		        oneClickBuyValue="7" cpcDifferentiated="false">
+			<sellerName>Balão da informática</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo68557.gif"/>
+			<links>
+				<link
+					url="http://www.balaodainformatica.com.br?parceiro=buscape&amp;utm_source=buscape&amp;utm_medium=buscape&amp;utm_campaign=buscape"
+					type="seller"/>
+				<link
+					url="http://parceiro.buscape.com.br/emp_video?emp_id=68557&amp;prod_id=142938637&amp;id=100&amp;az=7800ce13d39a67cab5e3c4336922a5e5&amp;cn=3461214199&amp;nc=871395925020150506071609"
+					type="video"/>
+			</links>
+			<contacts>
+				<contact value="11-23942270" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>37968</numComments>
+					<rating>0.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>37968</numComments>
+					<rating>Ouro</rating>
+					<ratingNew>e-bit Ótima</ratingNew>
+					<ratingId>30</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="129674636">
+		<offerName>Leadership Joypad New Generation PS3 Wireless 2.4GHz USB - 6657</offerName>
+		<offerShortName>Leadership Joypad</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2U_Cj0WZScfLBRnZws8ExkzJBQYERgrJGsYNClzc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9sZ2hpamhtaHFpbGpsbmEzOj8uLmNoa2ppZTAxLDs4ZW9lHAxlZWVuZW5lbmVuZWVvam1uZ25pbWhnbWltZWVmaXBvbWdwa2dwbGtuZW5lMCsyMmVuZW5lbmVuZW9sZ2hpamhtaGVucG5lbnBuZW9lZW5lbmVu"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://thumbs.buscape.com.br/T100x100/__2.72420-7baad8c.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>104.90</value>
+			<parcel>
+				<value>10.28</value>
+				<number>12</number>
+				<interest>2.59</interest>
+			</parcel>
+		</price>
+		<seller id="72420" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>KaBuM!</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo72420.gif"/>
+			<links>
+				<link url="http://www.kabum.com.br?utm_source=buscape&amp;utm_medium=buscape&amp;utm_campaign=buscape"
+				      type="seller"/>
+			</links>
+			<contacts>
+				<contact value="19-21144400" label="Atendimento"/>
+				<contact value="19-21144404" label="Dúvidas"/>
+				<contact value="19-21144412" label="FAX"/>
+				<contact value="19-21144411" label="Informações"/>
+				<contact value="19-21144409" label="SAC"/>
+				<contact value="19-21144444" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>201781</numComments>
+					<rating>0.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>201781</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="165327073">
+		<offerName>Volante 3 em 1 Compatível com Playstation 2, Playstation 3 e Pc Js073 com Marcha Acoplada
+			Multilaser
+		</offerName>
+		<offerShortName>Volante 3 Em 1</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2VrFhhnZQgTOjMHKj8LKxwbGi1sMjUPAQ0SEx9zc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9oa21saW5pbXFvb2xvb2hoYTM6Py4uY2hramllMDEsOzhlb2UcDGVlZW5lbmVuZW5lZW9qbW5nbmltaGdtaWplZWZpcG9tZ3BrZ3Bsa25lbmUwKzIyZW5lbmVuZW5lb2hrbWxpbmltZW5wbmVucG5lb2VlbmVuZW4-"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://thumbs.buscape.com.br/T100x100/__2.1121166-9dab0e1.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>261.22</value>
+		</price>
+		<seller id="1121166" isTrustedStore="false" pagamentoDigital="true" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>SGUTECH ELETRONICA E INFORMATICA</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo1121166.gif"/>
+			<links>
+				<link url="http://www.sguarioeletronicos.com.br" type="seller"/>
+			</links>
+			<contacts>
+				<contact value="45-98218744" label="Atendimento"/>
+				<contact value="45-30286184" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>2</numComments>
+					<rating>0.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>2</numComments>
+					<rating>sob-avaliação</rating>
+					<ratingNew>e-bit em avaliação</ratingNew>
+					<ratingId>5</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="159610906">
+		<offerName>Controle Playstation 2 sem fio Lava Glow azul Dreamgear</offerName>
+		<offerShortName>Controle Playstat...</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2U6KAoVZT07ZgcdHGYLOT0JEyAYLzEpGi0yGilzc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9rZ2hvbmduaHFvbG9uYTM6Py4uY2hramllMDEsOzhlb2UcDGVlZW5lbmVuZW5lZW9qbW5nbmltaGdtaWplZWZpcG9tZ3BrZ3Bsa25lbmUwKzIyZW5lbmVuZW5lb2tnaG9uZ25oZW5wbmVucG5lb2VlbmVuZW4-"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://thumbs.buscape.com.br/T100x100/__2.1210-983781a.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>120.00</value>
+			<parcel>
+				<value>40.00</value>
+				<number>3</number>
+				<interest>0.0</interest>
+			</parcel>
+		</price>
+		<seller id="1210" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>Kalunga.com</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo1210.gif"/>
+			<links>
+				<link
+					url="http://www.kalunga.com.br?pcid=11&amp;utm_source=buscape&amp;utm_medium=buscape&amp;utm_campaign=buscape"
+					type="seller"/>
+			</links>
+			<contacts/>
+			<rating>
+				<userAverageRating>
+					<numComments>32722</numComments>
+					<rating>0.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>32722</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="114848210">
+		<offerName>Controle Dual Shock Bluetooth p / PS3 - Dazz ( 111673232 )</offerName>
+		<offerShortName>Controle Dual</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2UXKzU3ZSwBNiYfDGgICx08MzotLWYfHxABbh9zc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9vamZqZmxvbnFmb2EzOj8uLmNoa2ppZTAxLDs4ZW9lHAxlZWVuZW5lbmVuZWVvam1uZ25pbWhnbWlqZWVmaXBvbWdwa2dwbGtuZW5lMCsyMmVuZW5lbmVuZW9vamZqZmxvbmVucG5lbnBuZW9lZW5lbmVu"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://thumbs.buscape.com.br/T100x100/__2.81-6d871d2.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>119.90</value>
+		</price>
+		<seller id="81" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>Americanas.com</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo81.gif"/>
+			<links>
+				<link url="http://www.americanas.com.br?epar=buscape&amp;opn=YYNKZB&amp;loja=02" type="seller"/>
+			</links>
+			<contacts>
+				<contact value="4003-4848" label="Atendimento"/>
+				<contact value="0300-7893200" label="Televendas"/>
+				<contact value="4003-1000" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>10748</numComments>
+					<rating>0.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>10748</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="114848203">
+		<offerName>Volante Dual Shock Racing p / PS2 - Maxprint ( 111673540 )</offerName>
+		<offerShortName>Volante Dual</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2UaGQtoZTdoEAwPLSo9IDorBxQOBwE4LjUMEx9zc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9vamZqZmxubXFoa2EzOj8uLmNoa2ppZTAxLDs4ZW9lHAxlZWVuZW5lbmVuZWVvam1uZ25pbWhnbWlqZWVmaXBvbWdwa2dwbGtuZW5lMCsyMmVuZW5lbmVuZW9vamZqZmxubWVucG5lbnBuZW9lZW5lbmVu"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://isuba.s8.com.br/produtos/01/00/item/111673/5/111673540_1GG.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>82.31</value>
+		</price>
+		<seller id="65" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>Submarino</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo65.gif"/>
+			<links>
+				<link url="http://www.submarino.com.br" type="seller"/>
+			</links>
+			<contacts>
+				<contact value="4003-5544" label="SAC"/>
+				<contact value="4003-2000" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>27898</numComments>
+					<rating>0.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>27898</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="152690497" productId="433765">
+		<offerName>Controle Afterglow com Fio - PS3 - Verde</offerName>
+		<offerShortName>Controle Afterglo...</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2UVaTUxZTQRLg8zEhNsBwo3bxcpLhw1Bj85KB9zc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9rbGhnbmpnaXFvbGthMzo_Li5jaGtqaWUwMSw7OGVvZRwMZWVlbmVuZW5lbmVlb2ptbmduaW1oZ21pamVlZmlwb21ncGtncGxrbmVuZTArMjJlbmVuZW5lbmVva2xoZ25qZ2llbnBuZW5wbmVvZWVuZW5lbg--"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://ishop.s8.com.br/produtos/01/00/item/119228/8/119228871_1GG.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>89.90</value>
+		</price>
+		<seller id="125" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>Shoptime</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo125.gif"/>
+			<links>
+				<link url="http://www.shoptime.com.br?epar=4024&amp;opn=BUSCAPE&amp;loja=01" type="seller"/>
+			</links>
+			<contacts>
+				<contact value="11-40039898" label="Atendimento"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>17568</numComments>
+					<rating>0.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>17568</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+	<offer categoryId="100" id="152901302" productId="566208">
+		<offerName>Controle Dual Shock Trigger para PS2 Dazz - 0884836</offerName>
+		<offerShortName>Controle Dual</offerShortName>
+		<links>
+			<link
+				url="http://tracker.lomadee.com/tr/rd?o=Z2UxGwE1ZTIBHy5qCRoxJy4KLTMXbjU7Pzw6GQ9zc2VnbGhsa2pqZWhramllbmU2KiouZHFxKSkpcDwrLT0_LjtwPTEzcDwscTE4OywqPy1xb25ucW9rbGdub21ubHFpZ2EzOj8uLmNoa2ppZTAxLDs4ZW9lHAxlZWVuZW5lbmVuZWVvam1uZ25pbWhnbWlqZWVmaXBvbWdwa2dwbGtuZW5lMCsyMmVuZW5lbmVuZW9rbGdub21ubGVucG5lbnBuZW9lZW5lbmVu"
+				type="offer"/>
+		</links>
+		<thumbnail url="http://thumbs.buscape.com.br/T100x100/__2.79-91d16b6.jpg"/>
+		<price>
+			<currency abbreviation="BRL"/>
+			<value>34.00</value>
+		</price>
+		<seller id="79" isTrustedStore="true" pagamentoDigital="false" advertiserId="0" oneClickBuy="false"
+		        oneClickBuyValue="0" cpcDifferentiated="false">
+			<sellerName>Magazine Luiza</sellerName>
+			<thumbnail url="http://imagem.buscape.com.br/vitrine/logo79.gif"/>
+			<links>
+				<link url="http://www.magazineluiza.com.br/parceiro/visita_parceiro.asp?parceiro=23" type="seller"/>
+			</links>
+			<contacts>
+				<contact value="08-00344000" label="SAC"/>
+				<contact value="11-35089900" label="Televendas"/>
+			</contacts>
+			<rating>
+				<userAverageRating>
+					<numComments>198181</numComments>
+					<rating>8.0</rating>
+				</userAverageRating>
+				<eBitRating>
+					<numComments>198181</numComments>
+					<rating>Diamante</rating>
+					<ratingNew>e-bit Excelente</ratingNew>
+					<ratingId>40</ratingId>
+				</eBitRating>
+			</rating>
+		</seller>
+	</offer>
+</Result>

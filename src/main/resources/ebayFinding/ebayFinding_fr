@@ -1,0 +1,879 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:08:16.134Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>301500815769</itemId>
+			<title>ECOUTEURS HEADPHONES MICRO VOLUME KIT PIETON iPhone 5/5S/5C 16GB / 32GB / 64GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>31534</categoryId>
+				<categoryName>Autres</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mUu_qdxcgubtdBtdnmbCsFQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=301500815769</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>75010</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P16DT22H35M31S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-23T13:38:47.000Z</startTime>
+				<endTime>2015-05-23T13:43:47.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/301500815769_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>391041248967</itemId>
+			<title>Cable USB 30cm donnees blanc plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=391041248967</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H38M48S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:04.000Z</startTime>
+				<endTime>2015-05-29T07:47:04.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/391041248967_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>191496623594</itemId>
+			<title>Cable USB 30cm donnees noir plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=191496623594</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">3.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">3.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H39M51S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:43:07.000Z</startTime>
+				<endTime>2015-05-29T07:48:07.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/191496623594_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371192625860</itemId>
+			<title>Pink Gel TPU Case Cover Protector for Apple iPhone 5/5S 16GB/32GB/64GB UK</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mfhNibHUwf2xebROpWkxN7w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=371192625860</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>NW27JP</postalCode>
+			<location>Royaume-Uni</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.65</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.34</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P10DT23H24M16S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-18T14:27:32.000Z</startTime>
+				<endTime>2015-05-17T14:32:32.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351229335699</itemId>
+			<title>Pink Bling Case Gem Diamond Diamonite Cover for iPhone 5/5S 16GB/32GB/64GB UK</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m5-P1rqc5K_nKPJk4KkAvuA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=351229335699</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>NW27JP</postalCode>
+			<location>Royaume-Uni</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.65</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.34</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P11DT8H24M5S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-18T23:27:21.000Z</startTime>
+				<endTime>2015-05-17T23:32:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>161690459949</itemId>
+			<title>¡+16GB EN TU DROPBOX! iPhone 4S, iPhone 5, iPhone 5s, iPhone 6, iPad, Android,PC</title>
+			<globalId>EBAY-ES</globalId>
+			<primaryCategory>
+				<categoryId>162</categoryId>
+				<categoryName>Otros</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mjyHcjVe8XWdIsDqw2SzQ0w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=161690459949</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>08940</postalCode>
+			<location>Espagne</location>
+			<country>ES</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P4DT0H58M40S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-30T16:06:56.000Z</startTime>
+				<endTime>2015-05-10T16:06:56.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/161690459949_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>371193720851</itemId>
+			<title>Rose Bling Coque Gemme Diamant Strass Coque Pour iPhone 5 5S 16GB/32GB/64 GO GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Etuis, housses, coques</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m5-P1rqc5K_nKPJk4KkAvuA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=371193720851</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Royaume-Uni</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.38</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.38</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT3H46M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-19T18:50:05.000Z</startTime>
+				<endTime>2015-05-18T18:55:05.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/371193720851_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>131354557086</itemId>
+			<title>Rose Étui TPU Gel étui Protectrice Pour Apple iPhone 5 5S 16GB/32GB/64 GO GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Etuis, housses, coques</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mfhNibHUwf2xebROpWkxN7w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=131354557086</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Royaume-Uni</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.69</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.38</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.38</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT3H56M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-19T18:59:19.000Z</startTime>
+				<endTime>2015-05-18T19:04:19.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/131354557086_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221756534085</itemId>
+			<title>SUPER ANTENNA BOOSTER CELL IPHONE 2G EDGE 3 3G 3GS 4 4S 5 5C 5S 16GB 32GB 64GB y</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>68030</categoryId>
+				<categoryName>Amplificatori di segnale</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m24i7FRDbxElQAdGrKAmMhg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=221756534085</viewItemURL>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>60033</postalCode>
+			<location>Italie</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">3.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT17H49M49S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-27T08:58:05.000Z</startTime>
+				<endTime>2015-05-07T08:58:05.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/221756534085_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221757415104</itemId>
+			<title>MINI ANTENNA BOOSTER CELL IPHONE 2G EDGE 3 3G 3GS 4 4S 5 5C 5S 16GB 32GB 64GB S</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>68030</categoryId>
+				<categoryName>Amplificatori di segnale</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m24i7FRDbxElQAdGrKAmMhg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=221757415104</viewItemURL>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>60033</postalCode>
+			<location>Italie</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">3.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P1DT16H37M8S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-04-28T07:45:24.000Z</startTime>
+				<endTime>2015-05-08T07:45:24.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/221757415104_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221764308664</itemId>
+			<title>SUPER ANTENNA BOOSTER CELL IPHONE 2G EDGE 3 3G 3GS 4 4S 5 5C 5S 16GB 32GB 64GB S</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>68030</categoryId>
+				<categoryName>Amplificatori di segnale</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/m24i7FRDbxElQAdGrKAmMhg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=221764308664</viewItemURL>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>60033</postalCode>
+			<location>Italie</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">3.29</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">1.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">1.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT1H4M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-05T16:12:37.000Z</startTime>
+				<endTime>2015-05-15T16:12:37.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/221764308664_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443349</itemId>
+			<title>Cavo USB 30cm dati nero piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=321654443349</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Italie</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H38M57S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:13.000Z</startTime>
+				<endTime>2015-05-29T07:47:13.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443349_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321654443385</itemId>
+			<title>Cavo USB 30cm dati bianco piano per Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-IT</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cavi e adattatori</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=321654443385</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>10121</postalCode>
+			<location>Italie</location>
+			<country>IT</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">2.9</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">2.0</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">2.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H39M0S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:16.000Z</startTime>
+				<endTime>2015-05-29T07:47:16.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321654443385_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>391035360876</itemId>
+			<title>Cable USB 1m donnees vert plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/metmfj7JxMr1PiNydh-se2w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=391035360876</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H47M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:50:37.000Z</startTime>
+				<endTime>2015-05-22T08:55:37.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/391035360876_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>391035360965</itemId>
+			<title>Cable USB 1m donnees bleu plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m4HkfEo5bGfxPH8Sq5-hBAA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=391035360965</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H47M39S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:50:55.000Z</startTime>
+				<endTime>2015-05-22T08:55:55.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/391035360965_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>391035361297</itemId>
+			<title>Cable USB 1m donnees rouge plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mRFn6GiJYcy1NRxdfHAf-iw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=391035361297</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P15DT17H48M28S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-22T08:51:44.000Z</startTime>
+				<endTime>2015-05-22T08:56:44.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/391035361297_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>391064735225</itemId>
+			<title>3in1 USB Cable Universel pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mxuppiNamgeKeuMBidBzMQQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=391064735225</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT15H57M10S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T07:00:26.000Z</startTime>
+				<endTime>2015-05-25T07:05:26.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/391064735225_1_5_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281580722412</itemId>
+			<title>Cable USB 1m donnees jaune plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mBc6CfGihxeY99ATfb0hO4g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=281580722412</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H38M35S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:41:51.000Z</startTime>
+				<endTime>2015-05-29T07:46:51.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/281580722412_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>391041249047</itemId>
+			<title>Cable USB 1m donnees noir plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mnf_lBhUWo6VZ9jyE3OLfwg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=391041249047</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H39M0S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:16.000Z</startTime>
+				<endTime>2015-05-29T07:47:16.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/391041249047_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281580723178</itemId>
+			<title>Cable USB 1m donnees blanc plat pour Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-FR</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Câbles, adaptateurs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mjnEMU4PObWGfNEe2xTPQrA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229480&amp;item=281580723178</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>75012</postalCode>
+			<location>Paris,France</location>
+			<country>FR</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="EUR">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="EUR">4.9</currentPrice>
+				<convertedCurrentPrice currencyId="EUR">4.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H39M45S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:43:01.000Z</startTime>
+				<endTime>2015-05-29T07:48:01.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/281580723178_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Neuf</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>19</totalPages>
+		<totalEntries>375</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/709-53476-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.fr%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

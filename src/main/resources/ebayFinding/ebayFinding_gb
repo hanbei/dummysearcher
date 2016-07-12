@@ -1,0 +1,831 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:08:55.497Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>171537070709</itemId>
+			<title>for Apple iPhone 4 4S 5 5S 5C Case Cover Simple Painted Pattern Phone Hard Skin</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/171537070709404000000016_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=171537070709</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>China</location>
+			<country>CN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">0.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT15H7M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-10T06:11:49.000Z</startTime>
+				<endTime>2015-05-09T06:16:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>171537070709</itemId>
+			<title>for Apple iPhone 4 4S 5 5S 5C Case Cover Simple Painted Pattern Phone Hard Skin</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/171537070709404000000016_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=171537070709</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>China</location>
+			<country>CN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">0.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT15H7M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-10T06:11:49.000Z</startTime>
+				<endTime>2015-05-09T06:16:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>171537070709</itemId>
+			<title>for Apple iPhone 4 4S 5 5S 5C Case Cover Simple Painted Pattern Phone Hard Skin</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/171537070709404000000016_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=171537070709</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>China</location>
+			<country>CN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">0.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT15H7M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-10T06:11:49.000Z</startTime>
+				<endTime>2015-05-09T06:16:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>371192625860</itemId>
+			<title>Pink Gel TPU Case Cover Protector for Apple iPhone 5/5S 16GB/32GB/64GB UK</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mfhNibHUwf2xebROpWkxN7w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=371192625860</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>NW27JP</postalCode>
+			<location>London,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">0.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P10DT23H23M37S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-18T14:27:32.000Z</startTime>
+				<endTime>2015-05-17T14:32:32.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>351229335699</itemId>
+			<title>Pink Bling Case Gem Diamond Diamonite Cover for iPhone 5/5S 16GB/32GB/64GB UK</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m5-P1rqc5K_nKPJk4KkAvuA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=351229335699</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>NW27JP</postalCode>
+			<location>London,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">0.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">0.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P11DT8H23M26S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-18T23:27:21.000Z</startTime>
+				<endTime>2015-05-17T23:32:21.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>350883930984</itemId>
+			<title>Pink Gel TPU Case Cover Protector for Apple iPhone 5/5S 16GB/32GB/64GB UK</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mmJc-I1NUkafS_qYduOCYjA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=350883930984</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>GB</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">1.35</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">1.35</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P11DT6H2M24S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-09-24T21:06:19.000Z</startTime>
+				<endTime>2015-05-17T21:11:19.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>380865638698</itemId>
+			<title>Multi Angle Stand Case Hard Cover Wallet for Apple iPhone 5 5S 5C 16GB 32GB 64GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mOI1rcYTgqclyzVb6AZhpHg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=380865638698</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>JE23QA</postalCode>
+			<location>Jersey,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">1.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">1.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P5DT1H39M58S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-03-17T16:43:53.000Z</startTime>
+				<endTime>2015-05-11T16:48:53.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>290587622457</itemId>
+			<title>HEADPHONE HANDSFREE EARPHONE FOR IPHONE 5 5S 4 4S 3 3GS 16GB 32GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>80077</categoryId>
+				<categoryName>Headsets</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m-kjxasveyQ6h_c_-K1FY9Q/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=290587622457</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>M85BJ</postalCode>
+			<location>Manchester,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.15</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.15</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT23H9M14S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2011-07-15T14:13:09.000Z</startTime>
+				<endTime>2015-05-25T14:18:09.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>361224991557</itemId>
+			<title>3in1 USB Cable Universal for Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cables &amp; Adapters</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mxuppiNamgeKeuMBidBzMQQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=361224991557</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.53</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.53</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT15H58M26S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-02-24T07:02:21.000Z</startTime>
+				<endTime>2015-05-25T07:07:21.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>261751906082</itemId>
+			<title>Cable USB 30cm data white flat for Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cables &amp; Adapters</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mpf5BAkzfXzeqA74bgUUTkA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=261751906082</viewItemURL>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.9</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H38M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:01.000Z</startTime>
+				<endTime>2015-05-29T07:47:01.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>361201039136</itemId>
+			<title>Cable USB 30cm data black flat for Apple iPhone 5S, iPhone 5S 16GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>123422</categoryId>
+				<categoryName>Cables &amp; Adapters</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mg9Geldes9_pZOTSVbW0AoA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=361201039136</viewItemURL>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PaymentSeeDescription</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>EuropeanUnion</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.9</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.9</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P22DT16H38M14S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-01-29T07:42:09.000Z</startTime>
+				<endTime>2015-05-29T07:47:09.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141086411266</itemId>
+			<title>Gym Outdoor Sport Running Arm band Case For Apple iPhone 5 5C 5S 16GB 32GB 64GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>42425</categoryId>
+				<categoryName>Other Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mvD2oP8Rl1Tt61qg6ByzgzA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=141086411266</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.98</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P26DT19H37M2S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-10T10:40:57.000Z</startTime>
+				<endTime>2015-06-02T10:45:57.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>111185847058</itemId>
+			<title>White ADJUSTABLE NEOPRENE GYM Jogging STRAP ARM BAND FOR iPhone 5C 5S 16GB 32GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>42425</categoryId>
+				<categoryName>Other Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mx6XPlbWkhD7rof0wIutdyw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=111185847058</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.98</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P26DT19H38M24S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-10T10:42:19.000Z</startTime>
+				<endTime>2015-06-02T10:47:19.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>131015719994</itemId>
+			<title>Black Gym Outdoor Sport Running Arm band Case For Apple iPhone 5C 5S 16GB 32GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>42425</categoryId>
+				<categoryName>Other Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mfvcMJ3Zz3VhS9AUwtPPP7w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=131015719994</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.98</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P26DT19H53M52S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-10T10:57:47.000Z</startTime>
+				<endTime>2015-06-02T11:02:47.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141086420827</itemId>
+			<title>BLACK ADJUSTABLE NEOPRENE GYM Jogging STRAP ARM BAND FOR iPhone 5S 5C 16GB 32GB</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>42425</categoryId>
+				<categoryName>Other Mobile Phone Accessories</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m1QQj1iTp6lwIKg7rkAF65g/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=141086420827</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.98</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.98</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P26DT19H55M31S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-10-10T10:59:26.000Z</startTime>
+				<endTime>2015-06-02T11:04:26.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>281440586096</itemId>
+			<title>PU Leather Flip Case Cover Wallet Stand For Various Models S5 S4 5S 5C M8 M7</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/281440586096404000000001_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=281440586096</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>HX12BT</postalCode>
+			<location>Halifax,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>GB</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P6DT22H42M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-09-15T13:46:51.000Z</startTime>
+				<endTime>2015-05-13T13:51:51.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>281440586096</itemId>
+			<title>PU Leather Flip Case Cover Wallet Stand For Various Models S5 S4 5S 5C M8 M7</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/281440586096404000000002_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=281440586096</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>HX12BT</postalCode>
+			<location>Halifax,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>GB</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P6DT22H42M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-09-15T13:46:51.000Z</startTime>
+				<endTime>2015-05-13T13:51:51.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>281440586096</itemId>
+			<title>PU Leather Flip Case Cover Wallet Stand For Various Models S5 S4 5S 5C M8 M7</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/281440586096404000000001_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=281440586096</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>HX12BT</postalCode>
+			<location>Halifax,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>GB</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P6DT22H42M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-09-15T13:46:51.000Z</startTime>
+				<endTime>2015-05-13T13:51:51.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>281440586096</itemId>
+			<title>PU Leather Flip Case Cover Wallet Stand For Various Models S5 S4 5S 5C M8 M7</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/281440586096404000000002_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=281440586096</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>HX12BT</postalCode>
+			<location>Halifax,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>GB</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P6DT22H42M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-09-15T13:46:51.000Z</startTime>
+				<endTime>2015-05-13T13:51:51.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>281404425088</itemId>
+			<title>Premium PU Leather Flip Case Cover Wallet For Various Models S5 S4 5S 5C M8 M7</title>
+			<globalId>EBAY-GB</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases &amp; Covers</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/281404425088404000000001_2.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229508&amp;item=281404425088</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>HX12BT</postalCode>
+			<location>Halifax,United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="GBP">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>GB</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="GBP">3.99</currentPrice>
+				<convertedCurrentPrice currencyId="GBP">3.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P25DT20H8M14S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-08-05T11:12:09.000Z</startTime>
+				<endTime>2015-06-01T11:17:09.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>18</totalPages>
+		<totalEntries>349</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

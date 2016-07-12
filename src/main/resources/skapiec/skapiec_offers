@@ -1,0 +1,38 @@
+{"user": {}, "component": [
+    {
+        "id": null,
+        "name": "Samsung Galaxy A7 Bia\u0142y",
+        "producer": "Samsung",
+        "id_skapiec": "12977790",
+        "link": "http:\/\/www.skapiec.pl\/site\/cat\/200\/comp\/12977790",
+        "offersCount": "4",
+        "min_price": "1529.00",
+        "max_price": "1723.00",
+        "offers": {
+            "offer": [
+                {
+                    "id_skapiec": "59131938",
+                    "price": "1723.00",
+                    "id_dealer": "55",
+                    "dealer": "Cyfrowe.pl",
+                    "link": "http:\/\/www.skapiec.pl\/site\/cat\/200\/comp\/12977790#59131938"
+                },
+                {
+                    "id_skapiec": "59364940",
+                    "price": "1595.00",
+                    "id_dealer": "1011",
+                    "dealer": "Deluxury.pl",
+                    "link": "http:\/\/www.skapiec.pl\/site\/cat\/200\/comp\/12977790#59364940"
+                },
+                {
+                    "id_skapiec": "59812747",
+                    "price": "1529.00",
+                    "id_dealer": "2046",
+                    "dealer": "valuebasket.pl\/pl_PL",
+                    "link": "http:\/\/www.skapiec.pl\/site\/cat\/200\/comp\/12977790#59812747"
+                }
+            ]
+        },
+        "category": "200"
+    }
+], "totalCount": 4, "timeStamp": 1448704871, "genTime": 0.019479990005493}

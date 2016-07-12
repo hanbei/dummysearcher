@@ -1,0 +1,1536 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>548c79b2-1f32-475b-acb9-46f24b870166</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="foxydeal02-20"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:14:14Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="RqXhtyJTk5BFkR6XxmFvfPtSRoFEdpiQeP0lOpTNT2o="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.0950490000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>21897408</TotalResults>
+		<TotalPages>2189741</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.com/gp/redirect.html?camp=2025&amp;creative=386001&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=foxydeal02-20&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00FBMU3UY</ASIN>
+			<DetailPageURL>
+				http://www.amazon.com/GT-T9500-Android-Smartphone-Screen-SP6820/dp/B00FBMU3UY%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00FBMU3UY
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/GT-T9500-Android-Smartphone-Screen-SP6820/dp/tech-data/B00FBMU3UY%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00FBMU3UY%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00FBMU3UY%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00FBMU3UY%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00FBMU3UY%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00FBMU3UY%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00FBMU3UY%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>mtk</Brand>
+				<Color>White</Color>
+				<EAN>0720825347875</EAN>
+				<EANList>
+					<EANListElement>0720825347875</EANListElement>
+				</EANList>
+				<Feature>Unlocked GSM 850/900/1800/1900MHz (Dual SIM, Dual standby),support ATT mobile tower, not for
+					Verizon or Sprint/metro pcs
+				</Feature>
+				<Feature>Android 4.2 SP6820 1GHz Dual cameras (the back one with flash light)</Feature>
+				<Feature>External memory: TF card up to 8GB (not included)</Feature>
+				<Feature>5 inch Capacitive Touch Screen 854 x 480 (WVGA),phone only, package without sim card&amp;micro
+					sd card
+				</Feature>
+				<Feature>WIFI: 802.11b/g wireless internet, FM/MP3/MP4/Bluetooth function supported</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">295</Height>
+					<Length Units="hundredths-inches">559</Length>
+					<Width Units="hundredths-inches">35</Width>
+				</ItemDimensions>
+				<Label>Global Egou</Label>
+				<Manufacturer>Global Egou</Manufacturer>
+				<Model>GT-T9500</Model>
+				<OperatingSystem>Android 4.2</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">240</Height>
+					<Length Units="hundredths-inches">610</Length>
+					<Weight Units="hundredths-pounds">80</Weight>
+					<Width Units="hundredths-inches">370</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Global Egou</Publisher>
+				<Studio>Global Egou</Studio>
+				<Title>GT-T9500 Android 4.2 Smartphone 5.0 inch Screen SP6820 1GHz - White</Title>
+				<UPC>720825347875</UPC>
+				<UPCList>
+					<UPCListElement>720825347875</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>3999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$39.99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>15</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00FBMU3UY%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00FBMU3UY
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							OBvMGKzvmytmOq%2F7nmN%2BcAUM19btNTkO%2FRdt6L%2Fc4O9sVB5h9e3P%2BsytC9%2FpTTX%2B1lUt%2FEFzZkxy6H1rfi1kHgVj5mPf%2B7XPFR8B34pxuJ%2FsBU5TJkPT4CNRdJtqqs0dRW4iGCItFuHK6g1dAJJR4NOwbEb%2BAa2b
+						</OfferListingId>
+						<Price>
+							<Amount>3999</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$39.99</FormattedPrice>
+						</Price>
+						<Availability>Usually ships in 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00MCAT7EQ</ASIN>
+			<ParentASIN>B00X3LLBCY</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-Android-Smartphone-Factory-Unlocked/dp/B00MCAT7EQ%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MCAT7EQ
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-Android-Smartphone-Factory-Unlocked/dp/tech-data/B00MCAT7EQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MCAT7EQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00MCAT7EQ%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MCAT7EQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00MCAT7EQ%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MCAT7EQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00MCAT7EQ%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MCAT7EQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00MCAT7EQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MCAT7EQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00MCAT7EQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MCAT7EQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00MCAT7EQ%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00MCAT7EQ
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Unlocked Phone</Binding>
+				<Brand>Samsung</Brand>
+				<Color>White</Color>
+				<EAN>0655328327874</EAN>
+				<EANList>
+					<EANListElement>0655328327874</EANListElement>
+				</EANList>
+				<Feature>Quad Band 2G 850/900/1800/1900 MHz, 3G HSDPA 900/2100 MHz</Feature>
+				<Feature>4" Touch Screen, 1GHz CPU, Android 4.1.2 Jelly Bean</Feature>
+				<Feature>512MB RAM, 4GB ROM, up to 32GB with SD card</Feature>
+				<Feature>3MP Primary Camera, No Face Camera / LED Flash</Feature>
+				<Feature>1500mAh Battery, Blue Tooth, GPS, WiFi, USB, Stereo FM Radio, MP3/MP4 Player</Feature>
+				<Feature>Unlocked cell phones are compatible with GSM carriers like AT&amp;T and T-Mobile as well as
+					with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will
+					not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.
+				</Feature>
+				<ItemDimensions>
+					<Weight Units="hundredths-pounds">55</Weight>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>S7562 C</Model>
+				<MPN>CP_CR_150</MPN>
+				<OperatingSystem>Android OS, v4.0</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">210</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">55</Weight>
+					<Width Units="hundredths-inches">300</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>CP_CR_150</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Duos Trend S7562C Android Smartphone (GSM Factory Unlocked) - Dual SIM, 4" Screen,
+					3G 900/2100 MHz, 3MP Camera - White
+				</Title>
+				<UPC>655328327874</UPC>
+				<UPCList>
+					<UPCListElement>655328327874</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestUsedPrice>
+					<Amount>9987</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$99.87</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>0</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>0</TotalOffers>
+				<TotalOfferPages>0</TotalOfferPages>
+				<MoreOffersUrl>0</MoreOffersUrl>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00J8DL78O</ASIN>
+			<ParentASIN>B00JTF1WZO</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-Galaxy-Tab-7-Inch-White/dp/B00J8DL78O%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J8DL78O
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-Galaxy-Tab-7-Inch-White/dp/tech-data/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00J8DL78O%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00J8DL78O%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00J8DL78O%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Personal Computers</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>12519163</CatalogNumberListElement>
+					<CatalogNumberListElement>SM-T230NZWAXAR</CatalogNumberListElement>
+					<CatalogNumberListElement>12328878</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>White</Color>
+				<EAN>0803982785169</EAN>
+				<EANList>
+					<EANListElement>0803982785169</EANListElement>
+					<EANListElement>0757607303965</EANListElement>
+					<EANListElement>0057102534476</EANListElement>
+					<EANListElement>0887276042268</EANListElement>
+					<EANListElement>0766574704521</EANListElement>
+				</EANList>
+				<Feature>Android 4.4 Kit Kat OS, 1.2 GHz quad-core processor</Feature>
+				<Feature>8 GB Flash Memory, 1.5 GB RAM Memory</Feature>
+				<Feature>WXGA Display (1280x800 Resolution)</Feature>
+				<Feature>32GB of memory available through a microSD slot and 50GB of free Dropbox storage</Feature>
+				<Feature>Comes with over $300 of free content and services</Feature>
+				<HardwarePlatform>Consumer Electronics</HardwarePlatform>
+				<IsAdultProduct>0</IsAdultProduct>
+				<IsAutographed>0</IsAutographed>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<IsMemorabilia>0</IsMemorabilia>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">35</Height>
+					<Length Units="hundredths-inches">736</Length>
+					<Weight Units="hundredths-pounds">61</Weight>
+					<Width Units="hundredths-inches">425</Width>
+				</ItemDimensions>
+				<Label>????</Label>
+				<LegalDisclaimer>All items are original with original manufacturer specifications.</LegalDisclaimer>
+				<ListPrice>
+					<Amount>19999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$199.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>????</Manufacturer>
+				<Model>SM-T230NZWAXAR</Model>
+				<MPN>SM-T230NZWAXAR</MPN>
+				<NumberOfItems>1</NumberOfItems>
+				<OperatingSystem>Android 4.4 Kit Kat</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">170</Height>
+					<Length Units="hundredths-inches">760</Length>
+					<Weight Units="hundredths-pounds">105</Weight>
+					<Width Units="hundredths-inches">450</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T230NZWAXAR</PartNumber>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>TABLET_COMPUTER</ProductTypeName>
+				<Publisher>????</Publisher>
+				<ReleaseDate>2014-05-01</ReleaseDate>
+				<Size>7.7000" l x 4.6000" w x 2.0000" h x</Size>
+				<Studio>????</Studio>
+				<Title>Samsung Galaxy Tab 4 (7-Inch, White)</Title>
+				<TradeInValue>
+					<Amount>6812</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$68.12</FormattedPrice>
+				</TradeInValue>
+				<UPC>766574704521</UPC>
+				<UPCList>
+					<UPCListElement>766574704521</UPCListElement>
+					<UPCListElement>057102534476</UPCListElement>
+					<UPCListElement>757607303965</UPCListElement>
+					<UPCListElement>887276042268</UPCListElement>
+					<UPCListElement>803982785169</UPCListElement>
+				</UPCList>
+				<Warranty>Comes with Manufacturer Warranty.</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<FormattedPrice>Too low to display</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>12428</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$124.28</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>11600</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$116.00</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>73</TotalNew>
+				<TotalUsed>33</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>11</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00J8DL78O%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00J8DL78O
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							xFsFq7%2BEohnKsOByPrQMwau4ZNoDegZk%2By5r9YO1jB67%2Bom9ZjsoOlTq49z%2FOyhlP%2Fa2B5pbL%2FZxSH2bkO1EZiPh3m8jLGY2eM6oj7N3TRijmFFzvmNkTMyKS5Z8g3YeSK61JMfVTVS3UlIPQtfsLCo9m6NRD0%2Bc
+						</OfferListingId>
+						<Price>
+							<Amount>16500</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$165.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>3499</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$34.99</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>17</PercentageSaved>
+						<AvailabilityAttributes>
+							<AvailabilityType>futureDate</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00IUMNBGU</ASIN>
+			<ParentASIN>B00T540WP0</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-Galaxy-Unlocked-Android-Smartphone/dp/B00IUMNBGU%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IUMNBGU
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-Galaxy-Unlocked-Android-Smartphone/dp/tech-data/B00IUMNBGU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00IUMNBGU%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00IUMNBGU%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00IUMNBGU%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00IUMNBGU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00IUMNBGU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00IUMNBGU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Black</Color>
+				<EAN>8806085907652</EAN>
+				<EANList>
+					<EANListElement>8806085907652</EANListElement>
+				</EANList>
+				<Feature>2G: GSM 850 / 900 / 1800 / 1900 (SIM 1 &amp; SIM 2)</Feature>
+				<Feature>4.0-inch TFT Capacitive Multi-Touchscreen</Feature>
+				<Feature>Android v4.1.2 (Jelly Bean), 1 GHz Cortex-A5 Processor</Feature>
+				<Feature>2 Megapixel Camera (1600 x 1200 pixels) + Video</Feature>
+				<Feature>Internal Memory: 4GB, 512 MB RAM + microSD Slot Expandable up to 32GB</Feature>
+				<Feature>Unlocked cell phones are compatible with GSM carriers like AT&amp;T and T-Mobile as well as
+					with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will
+					not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">248</Height>
+					<Length Units="hundredths-inches">476</Length>
+					<Weight Units="hundredths-pounds">27</Weight>
+					<Width Units="hundredths-inches">43</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>18999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$189.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-S7262</Model>
+				<MPN>SMG_GT-S7262_BLK_Promo</MPN>
+				<OperatingSystem>Android OS, v4.1.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">230</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">60</Weight>
+					<Width Units="hundredths-inches">280</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SMG_GT-S7262_BLK_Promo</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Star Pro DUOS S7262 Unlocked GSM Android 4.1 Smartphone - Black</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7658</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$76.58</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>9495</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$94.95</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>9399</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$93.99</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>9</TotalNew>
+				<TotalUsed>3</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>1</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00IUMNBGU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IUMNBGU
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							lgFk4SzK8sSK5BvosbXM2N1esm5PBXmaLSPeP7tUaM4p%2F%2FAmNp1P2MJxgGcSpjav27OwIyqLQr5b8RN3AT39kykfSN2LGExjt3hBRGlHuLDHqWCAba6sgD%2FV1vPoIqs5EkJQEbR7kTJNEbf34j8%2FQ4z%2Bn3%2BicDEs
+						</OfferListingId>
+						<Price>
+							<Amount>7658</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$76.58</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>11341</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$113.41</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>60</PercentageSaved>
+						<AvailabilityAttributes>
+							<AvailabilityType>futureDate</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00SX86GYU</ASIN>
+			<ParentASIN>B00SX86GFO</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-GT-I8200-Unlocked-Android-Smartphone/dp/B00SX86GYU%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SX86GYU
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-GT-I8200-Unlocked-Android-Smartphone/dp/tech-data/B00SX86GYU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00SX86GYU%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00SX86GYU%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00SX86GYU%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00SX86GYU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00SX86GYU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00SX86GYU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>i8200wHITE</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>White</Color>
+				<EAN>8806086106160</EAN>
+				<EANList>
+					<EANListElement>8806086106160</EANListElement>
+				</EANList>
+				<Feature>Unlocked cell phones are compatible with GSM carriers like AT&amp;T and T-Mobile as well as
+					with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will
+					not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.
+				</Feature>
+				<Feature>Android 4.2.21.2 GHz dual-core Cortex-A9</Feature>
+				<Feature>5 MP camera with led flash Geo-tagging, touch focus, face and smile detection, panorama
+				</Feature>
+				<Feature>Card slot micro SD, up to 32 GB</Feature>
+				<Feature>Super AMOLED capacitive touchscreen, 16M colors 480 x 800 pixels, 4.0 inches (~233 ppi pixel
+					density)
+				</Feature>
+				<Feature>GSM 850/900/1800/1900; HSDPA 900/1900/2100</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">400</Height>
+					<Length Units="hundredths-inches">200</Length>
+					<Weight Units="hundredths-pounds">25</Weight>
+					<Width Units="hundredths-inches">200</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>29999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$299.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>I8200 White</Model>
+				<MPN>GT-I8200</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">210</Height>
+					<Length Units="hundredths-inches">570</Length>
+					<Weight Units="hundredths-pounds">65</Weight>
+					<Width Units="hundredths-inches">380</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-I8200</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung GT-I8200 Galaxy S III 3 Mini GSM Unlocked Android Smartphone - White</Title>
+				<Warranty>No warranty</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>9000</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$90.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>9372</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$93.72</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>18</TotalNew>
+				<TotalUsed>6</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00SX86GYU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00SX86GYU
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							lgFk4SzK8sSK5BvosbXM2M4DXTJROQcH1xlhyDc0xtkUfdQ5p9YFHyD4YMYWcwumBgNnTUa9a8dgYuCXxPU9Qa0ybh1Ky80HbOBb%2FHTSsXx%2BadFu8aICkcR8vTwVfnvC3KsTE6l8mdCpeOj5deHC7U9OFtEAF4d3
+						</OfferListingId>
+						<Price>
+							<Amount>11499</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$114.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>18500</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$185.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>62</PercentageSaved>
+						<Availability>Usually ships in 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00IT3WYQS</ASIN>
+			<ParentASIN>B00T540WP0</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-Galaxy-Unlocked-Android-Smartphone/dp/B00IT3WYQS%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IT3WYQS
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-Galaxy-Unlocked-Android-Smartphone/dp/tech-data/B00IT3WYQS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00IT3WYQS%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00IT3WYQS%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00IT3WYQS%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00IT3WYQS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00IT3WYQS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00IT3WYQS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<Color>White</Color>
+				<EAN>8806085905863</EAN>
+				<EANList>
+					<EANListElement>8806085905863</EANListElement>
+				</EANList>
+				<Feature>2G: GSM 850 / 900 / 1800 / 1900 (SIM 1 &amp; SIM 2)</Feature>
+				<Feature>4.0-inch TFT Capacitive Multi-Touchscreen</Feature>
+				<Feature>Android v4.1.2 (Jelly Bean), 1 GHz Cortex-A5 Processor</Feature>
+				<Feature>2 Megapixel Camera (1600 x 1200 pixels) + Video</Feature>
+				<Feature>Internal Memory: 4GB, 512 MB RAM + microSD Slot Expandable up to 32GB</Feature>
+				<Feature>Unlocked cell phones are compatible with GSM carriers like AT&amp;T and T-Mobile as well as
+					with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will
+					not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">247</Height>
+					<Length Units="hundredths-inches">477</Length>
+					<Weight Units="hundredths-pounds">27</Weight>
+					<Width Units="hundredths-inches">42</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>18999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$189.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<MPN>GT-S7262</MPN>
+				<OperatingSystem>Android OS, v4.1.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">240</Height>
+					<Length Units="hundredths-inches">670</Length>
+					<Weight Units="hundredths-pounds">70</Weight>
+					<Width Units="hundredths-inches">430</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-S7262</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Star Pro DUOS S7262 Unlocked GSM Android 4.1 Smartphone - White</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7815</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$78.15</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>9999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$99.99</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>8888</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$88.88</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>7</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>2</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00IT3WYQS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IT3WYQS
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							LiNeyh48mbFfp6ipKkF8GcbbHHiEpIeUxKpKhnq%2FwMWezOIaazlMgjqGEV%2F1D%2BgUAem105VVciVZ9hNe5zW2GwBqAZcxklqOZryxS%2FIzStky4UVBe2xOMGcszOLfaNFRboeY43EFThxtSNi7fImiZE%2FZRMze3vCt
+						</OfferListingId>
+						<Price>
+							<Amount>7815</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$78.15</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>11184</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$111.84</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>59</PercentageSaved>
+						<Availability>Usually ships in 1-2 business days</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00OKU5RPE</ASIN>
+			<ParentASIN>B00OSL9Q52</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-Galaxy-Grand-Factory-Unlocked/dp/B00OKU5RPE%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00OKU5RPE
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-Galaxy-Grand-Factory-Unlocked/dp/tech-data/B00OKU5RPE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00OKU5RPE%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00OKU5RPE%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00OKU5RPE%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00OKU5RPE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00OKU5RPE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00OKU5RPE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone Accessory</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>SS-G530H-GY</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>Gray</Color>
+				<EAN>8806086485135</EAN>
+				<EANList>
+					<EANListElement>8806086485135</EANListElement>
+				</EANList>
+				<Feature>Unlocked cell phones are compatible with GSM carriers like AT&amp;T and T-Mobile as well as
+					with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will
+					not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.
+				</Feature>
+				<Feature>2G: GSM 850 / 900 / 1800 / 1900 (SIM 1 &amp; SIM 2), 3G: HSDPA 850 / 900 / 1900 / 2100
+				</Feature>
+				<Feature>5" TFT Display Capacitive Multi-Touchscreen</Feature>
+				<Feature>Android v4.4.2 (Kit Kat), Quad-Core 1.2 GHz Cortex-A53 Processor, Chipset: Qualcomm MSM8916
+					Snapdragon 41, Adreno 306 Graphics
+				</Feature>
+				<Feature>8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus, LED Flash + Front-Facing 5 Megapixel
+					Camera
+				</Feature>
+				<Feature>Internal Memory: 8GB, 1GB RAM + micro SD Slot Expandable up to 64GB</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">34</Height>
+					<Length Units="hundredths-inches">570</Length>
+					<Weight Units="hundredths-pounds">25</Weight>
+					<Width Units="hundredths-inches">284</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>29999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$299.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SMG530</Model>
+				<MPN>SM-530H/DS</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">230</Height>
+					<Length Units="hundredths-inches">600</Length>
+					<Weight Units="hundredths-pounds">65</Weight>
+					<Width Units="hundredths-inches">340</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-530H/DS</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Grand Prime G530H/DS Factory Unlocked Phone - Retail Packaging - Gray</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>17113</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$171.13</FormattedPrice>
+				</LowestNewPrice>
+				<LowestRefurbishedPrice>
+					<Amount>17399</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$173.99</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>14</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>2</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00OKU5RPE%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00OKU5RPE
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							D%2FjLRQ1%2Fr38dOahA7lw%2BmrLseYZQ7tUO431HhJKNyi1SRK6wKG52gA3z7tiChYxFTUuP6oQjP469SYE0ZFLACok40bMELj6VGLJHSBoAr2yWu49%2BDJIqjw%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>17299</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$172.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>12700</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$127.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>42</PercentageSaved>
+						<Availability>Usually ships in 1 to 2 months</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>624</MinimumHours>
+							<MaximumHours>1200</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00COZIZ10</ASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-Galaxy-Unlocked-Phone-Pearl/dp/B00COZIZ10%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00COZIZ10
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-Galaxy-Unlocked-Phone-Pearl/dp/tech-data/B00COZIZ10%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00COZIZ10%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00COZIZ10%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00COZIZ10%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00COZIZ10%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00COZIZ10%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00COZIZ10%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone</Binding>
+				<Brand>Samsung</Brand>
+				<Color>White</Color>
+				<EAN>6935152014190</EAN>
+				<EANList>
+					<EANListElement>6935152014190</EANListElement>
+				</EANList>
+				<Feature>3G HSDPA 900/2100</Feature>
+				<Feature>QuadBand GSM</Feature>
+				<Feature>Bluetooth</Feature>
+				<Feature>Wi-Fi</Feature>
+				<Feature>Auto-focus, Geo-tagging, touch focus, face detection</Feature>
+				<Feature>Unlocked cell phones are compatible with GSM carriers like AT&amp;T and T-Mobile as well as
+					with GSM SIM cards (e.g. H20, Straight Talk, and select prepaid carriers). Unlocked cell phones will
+					not work with CDMA Carriers like Sprint, Verizon, Boost or Virgin.
+				</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">46</Height>
+					<Length Units="hundredths-inches">446</Length>
+					<Weight Units="hundredths-pounds">26</Weight>
+					<Width Units="hundredths-inches">243</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>29999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$299.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>s6812i</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android OS, v4.1.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">520</Length>
+					<Weight Units="hundredths-pounds">57</Weight>
+					<Width Units="hundredths-inches">291</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>暂无</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_ACCESSORY</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Size>113.2 x 61.6 x 11.6 mm (4.46 x 2.43 x 0.46 in)</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Fame Unlocked Phone, Pearl White</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>5999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$59.99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>4999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$49.99</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>9495</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$94.95</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>2</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00COZIZ10%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00COZIZ10
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							aTQJhJrVHzDluFLRPba1hwSBBSNgyLb1ClhCYrRBahqCijaWUYRzc1qrGa2sxW2EgI62advOvZavUIByDgKX0CDiJBQRUkgXrcPz4PaS4VS2ZqH3EFyr365fjIgHMknaSJ3ooGpUeOHUvBdtzyx92mtr4ouLyN5S
+						</OfferListingId>
+						<Price>
+							<Amount>5999</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$59.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>24000</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$240.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>80</PercentageSaved>
+						<Availability>Usually ships in 24 hours</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00X8Y2TGI</ASIN>
+			<ParentASIN>B00WCIJJSC</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-UN60JU6500-60-Inch-Fathers-Special/dp/B00X8Y2TGI%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00X8Y2TGI
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-UN60JU6500-60-Inch-Fathers-Special/dp/tech-data/B00X8Y2TGI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00X8Y2TGI%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00X8Y2TGI%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00X8Y2TGI%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00X8Y2TGI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00X8Y2TGI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00X8Y2TGI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Electronics</Binding>
+				<Brand>Samsung</Brand>
+				<Feature>Pre-order this TV today for its lower Father's Day price of $1,599</Feature>
+				<Feature>This is the same product as the currently available Samsung UN60JU6500</Feature>
+				<Feature>TVs purchased through this special pre-order opportunity will ship on or after May 31</Feature>
+				<Feature>Your credit card will not be charged until the promotion start date of May 31</Feature>
+				<Feature>Prices valid from 5/31 - 6/20, or while supplies last</Feature>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">3280</Height>
+					<Length Units="hundredths-inches">5370</Length>
+					<Weight Units="hundredths-pounds">5450</Weight>
+					<Width Units="hundredths-inches">1250</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>179999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$1,799.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>UN60JU6500FXZA</Model>
+				<MPN>UN60JU6500FXZA</MPN>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">1600</Height>
+					<Length Units="hundredths-inches">2100</Length>
+					<Weight Units="hundredths-pounds">6700</Weight>
+					<Width Units="hundredths-inches">1600</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>UN60JU6500FXZA</PartNumber>
+				<ProductGroup>Home Theater</ProductGroup>
+				<ProductTypeName>TELEVISION</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2015-05-31</ReleaseDate>
+				<Size>60-Inch</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung UN60JU6500 60-Inch 4K Ultra HD Smart LED TV (Father's Day Special)</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>159999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$1,599.99</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00X8Y2TGI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00X8Y2TGI
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							DU8U9Jj7Q0iWSpJHwscMj7o66Bgkh%2BECNOm7WmM6Qjm175wbyIW2P%2B25XpCNCt1t4zT%2FCQkRJOFotnnuimlylKT%2FKG9dXklSOqnfP4aKlUeU%2BnsmZpTWyQ%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>159999</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$1,599.99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>20000</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$200.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>11</PercentageSaved>
+						<Availability>Not yet released</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<IsPreorder>1</IsPreorder>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00IZ1X21K</ASIN>
+			<ParentASIN>B00WZZ64QW</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.com/Samsung-Galaxy-S5-White-Sprint/dp/B00IZ1X21K%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IZ1X21K
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Technical Details</Description>
+					<URL>
+						http://www.amazon.com/Samsung-Galaxy-S5-White-Sprint/dp/tech-data/B00IZ1X21K%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Baby Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00IZ1X21K%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wedding Registry</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00IZ1X21K%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>
+						http://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00IZ1X21K%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>
+						http://www.amazon.com/gp/pdp/taf/B00IZ1X21K%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>
+						http://www.amazon.com/review/product/B00IZ1X21K%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>
+						http://www.amazon.com/gp/offer-listing/B00IZ1X21K%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Binding>Wireless Phone</Binding>
+				<Brand>Samsung</Brand>
+				<CatalogNumberList>
+					<CatalogNumberListElement>SPHG900WTS</CatalogNumberListElement>
+				</CatalogNumberList>
+				<Color>White</Color>
+				<EAN>0887276975252</EAN>
+				<EANList>
+					<EANListElement>0887276975252</EANListElement>
+				</EANList>
+				<Feature>Display: 5.1-inches</Feature>
+				<Feature>Camera: 16-MP</Feature>
+				<Feature>Processor Speed: 2.5 GHz</Feature>
+				<Feature>OS: Android 4.4.2 (KitKat)</Feature>
+				<HazardousMaterialType>Unknown</HazardousMaterialType>
+				<IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+				<ItemDimensions>
+					<Height Units="hundredths-inches">560</Height>
+					<Length Units="hundredths-inches">285</Length>
+					<Weight Units="hundredths-pounds">32</Weight>
+					<Width Units="hundredths-inches">32</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>69999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$699.99</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>Galaxy S5</Model>
+				<MPN>SPHG900WTS</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="hundredths-inches">220</Height>
+					<Length Units="hundredths-inches">660</Length>
+					<Weight Units="hundredths-pounds">100</Weight>
+					<Width Units="hundredths-inches">390</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SPHG900WTS</PartNumber>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>WIRELESS_LOCKED_PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<ReleaseDate>2014-04-11</ReleaseDate>
+				<Size>16 GB</Size>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy S5, White 16GB (Sprint)</Title>
+				<TradeInValue>
+					<Amount>16203</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$162.03</FormattedPrice>
+				</TradeInValue>
+				<UPC>887276975252</UPC>
+				<UPCList>
+					<UPCListElement>887276975252</UPCListElement>
+				</UPCList>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>100</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$1.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>21999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$219.99</FormattedPrice>
+				</LowestUsedPrice>
+				<LowestRefurbishedPrice>
+					<Amount>39999</Amount>
+					<CurrencyCode>USD</CurrencyCode>
+					<FormattedPrice>$399.99</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>28</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>1</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.com/gp/offer-listing/B00IZ1X21K%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal02-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00IZ1X21K
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							ldFdUjgXRzaprnloIkkACeNWwKYSmY%2BnuVhubzlgT6RYJ5gyc7iF7%2FY0EDt5mFRYB%2Fcbsx%2FJXUPNJeau%2Fj9EZLEDbtaTTG2EhV5e4F1CeCvOPDcEafqsmA%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>100</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$1.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>69899</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$698.99</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>100</PercentageSaved>
+						<Availability>Usually ships in 2 to 5 weeks</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>456</MinimumHours>
+							<MaximumHours>696</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

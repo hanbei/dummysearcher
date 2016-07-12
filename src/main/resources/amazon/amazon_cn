@@ -1,0 +1,887 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>04f7837e-0e0c-448b-b7f0-8e5ce7297772</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="tag"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:04:43Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="pAh18pTuEJJ5W2qd+i380bhcDvSUcxkJ7gGWliAzi+Q="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.3363070000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>61647</TotalResults>
+		<TotalPages>6165</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.cn/gp/redirect.html?camp=2025&amp;creative=165953&amp;location=http%3A%2F%2Fwww.amazon.cn%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daws-amazon-aps&amp;linkCode=xm2&amp;tag=tag&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00C1AGC9K</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-I8552-3G%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA/dp/B00C1AGC9K?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00C1AGC9K
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>釉白</Color>
+				<EAN>6935152013810</EAN>
+				<Feature>亚马逊售前咨询热线:4008170600</Feature>
+				<Feature>操作系统: Android</Feature>
+				<Feature>屏幕尺寸: 4.7 英寸</Feature>
+				<Feature>电池容量: 2000mAh</Feature>
+				<Feature>客服电话：400-810-5858</Feature>
+				<ItemDimensions>
+					<Height Units="inches">0.38</Height>
+					<Length Units="inches">5.24</Length>
+					<Weight Units="pounds">0.32</Weight>
+					<Width Units="inches">2.78</Width>
+				</ItemDimensions>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>299900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 2,999.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>I8552</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.13</Height>
+					<Length Units="inches">5.59</Length>
+					<Weight Units="pounds">0.97</Weight>
+					<Width Units="inches">3.23</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 I8552 3G智能手机(釉白色 WCDMA/GSM双卡双待/双网双待 Android 4.1系统,4.7英寸大屏 1.2GHz 四核 CPU)</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>69900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 699.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>54680</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 546.80</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>7</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00C1AGC9K?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00C1AGC9K</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FJ83heIxm86OG0FPCF%2B8LENa9beBKavLkL8Lp8zWRnnRtqX0XOnnSHsO%2BcpsLzjrk2Ac1yH0ihE65giVi8%2FNX5TR6tirMHkgy1KB%2BFeWGMC0
+						</OfferListingId>
+						<Price>
+							<Amount>69900</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 699.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>230000</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 2,300.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>77</PercentageSaved>
+						<Availability>通常在 24 小时内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KW0QFGG</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-E1200R-GSM%E6%89%8B%E6%9C%BA/dp/B00KW0QFGG?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00KW0QFGG
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>黑色</Color>
+				<EAN>6935152015685</EAN>
+				<Feature>亚马逊售前咨询热线:4008170600</Feature>
+				<Feature>客服电话：400-810-5858</Feature>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>14900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 149.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>E1200R</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>无操作系统</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.91</Height>
+					<Length Units="inches">4.72</Length>
+					<Weight Units="pounds">0.4</Weight>
+					<Width Units="inches">2.99</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 E1200R GSM手机(黑色)</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>11500</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 115.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>8403</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 84.03</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>3</TotalNew>
+				<TotalUsed>11</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00KW0QFGG?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00KW0QFGG</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FCwhiM8vpGv4oWuP5TyGEilRXwPBypMV4oFXeI8m8e8S8ddNr0jlhHYdm2ow0jZNF0J9MMpcaQa65bg1RT%2FsSrRJflkZCEPxLqxF3Z3i15Z9EIxlz4hyD1mJP%2FfHusXD38EDaLWaNn5h
+						</OfferListingId>
+						<Price>
+							<Amount>11500</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 115.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>3400</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 34.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>23</PercentageSaved>
+						<Availability>通常在 1 到 2 个工作日内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00A6MCGU4</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/%E4%B8%89%E6%98%9F-32G-Class10-48MB-S-TF-%E5%AD%98%E5%82%A8%E5%8D%A1-%E5%8D%87%E7%BA%A7%E7%89%88-%E6%96%B0%E8%80%81%E5%8C%85%E8%A3%85%E9%9A%8F%E6%9C%BA%E5%8F%91%E8%B4%A7/dp/B00A6MCGU4?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00A6MCGU4
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机配件</Binding>
+				<Brand>Samsung 三星</Brand>
+				<ClothingSize>32GB</ClothingSize>
+				<Color>黑色</Color>
+				<EAN>8806085214224</EAN>
+				<Feature>客服电话：400-810-5858</Feature>
+				<ItemDimensions>
+					<Height Units="inches">0.04</Height>
+					<Length Units="inches">0.59</Length>
+					<Weight Units="pounds">0.01</Weight>
+					<Width Units="inches">0.43</Width>
+				</ItemDimensions>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>25900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 259.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>MB-MPBGC</Model>
+				<MPN>暂无</MPN>
+				<PackageDimensions>
+					<Height Units="inches">0.16</Height>
+					<Length Units="inches">5.12</Length>
+					<Weight Units="pounds">0.04</Weight>
+					<Width Units="inches">2.36</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>FLASH_MEMORY</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Size>32GB</Size>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>三星(Samsung)32G Class10-48MB/S TF(MicroSD) 存储卡 升级版 新老包装随机发货</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>6850</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 68.50</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00A6MCGU4?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00A6MCGU4</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FJtIGDnpl7XofDfG5KIQWAcsVmdchpV3sIDu6e3ZCi0eqa95OUdVT8NFHE1VTiVh%2Ff7HLhs0jJK5NJ4OBmSmk6toZMnTo9ehIdeIA8jj5a7r
+						</OfferListingId>
+						<Price>
+							<Amount>6850</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 68.50</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>19050</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 190.50</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>74</PercentageSaved>
+						<Availability>通常在 24 小时内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00INIC248</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-GALAXY-S4-I9507V-TD-LTE-4G%E6%89%8B%E6%9C%BA-%E5%9B%9B%E6%A0%B8%E5%A4%84%E7%90%86%E5%99%A8-5%E8%8B%B1%E5%AF%B8%E5%85%A8%E9%AB%98%E6%B8%85%E5%B1%8F/dp/B00INIC248?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00INIC248
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>白色</Color>
+				<EAN>6922309816974</EAN>
+				<Feature>亚马逊售前咨询热线:4008170600</Feature>
+				<Feature>客服电话：400-810-5858</Feature>
+				<ItemDimensions>
+					<Height Units="inches">0.31</Height>
+					<Length Units="inches">5.38</Length>
+					<Weight Units="pounds">0.29</Weight>
+					<Width Units="inches">2.75</Width>
+				</ItemDimensions>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>449900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 4,499.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>I9507V</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.1</Height>
+					<Length Units="inches">5.2</Length>
+					<Weight Units="pounds">0.13</Weight>
+					<Width Units="inches">3</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 GALAXY S4 I9507V TD-LTE（FDD-LTE/WCDMA/GSM） 4G手机(白色)四核处理器，5英寸全高清屏</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>176502</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,765.02</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>134771</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,347.71</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>8</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00INIC248?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00INIC248</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FBabD0%2BRCWrOpbPbWjzvgzpehRGDLbXtlKfh%2Bm4wyLuY%2F2b9O55UBMGjHpRIrl%2F%2BD%2FUhv61F1mSTYp9q92ktzaEztJcSrhk3J3eS5qOABYXs
+						</OfferListingId>
+						<Price>
+							<Amount>176502</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 1,765.02</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>273398</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 2,733.98</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>61</PercentageSaved>
+						<Availability>通常在 24 小时内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00HZDB9G4</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-Galaxy-S3-Neo-I9300i-WCDMA-GSM-%E5%8F%8C%E5%8D%A1%E5%8F%8C%E5%BE%85-%E6%89%8B%E6%9C%BA/dp/B00HZDB9G4?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00HZDB9G4
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>云石白</Color>
+				<EAN>6935152015302</EAN>
+				<Feature>客服电话：400-810-5858</Feature>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>359900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 3,599.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>I9300i</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.13</Height>
+					<Length Units="inches">5.91</Length>
+					<Weight Units="pounds">0.75</Weight>
+					<Width Units="inches">3.31</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 Galaxy S3 Neo I9300i WCDMA/GSM 双卡双待 手机(云石白)</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestUsedPrice>
+					<Amount>103040</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,030.40</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>0</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>0</TotalOffers>
+				<TotalOfferPages>0</TotalOfferPages>
+				<MoreOffersUrl>0</MoreOffersUrl>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00INIC3DS</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-GALAXY-S4-I9507V-TD-LTE-4G%E6%89%8B%E6%9C%BA-%E5%9B%9B%E6%A0%B8%E5%A4%84%E7%90%86%E5%99%A8-5%E8%8B%B1%E5%AF%B8%E5%85%A8%E9%AB%98%E6%B8%85%E5%B1%8F/dp/B00INIC3DS?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00INIC3DS
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>黑色</Color>
+				<EAN>6922309816981</EAN>
+				<Feature>客服电话：400-810-5858</Feature>
+				<ItemDimensions>
+					<Height Units="inches">0.31</Height>
+					<Length Units="inches">5.38</Length>
+					<Weight Units="pounds">0.29</Weight>
+					<Width Units="inches">2.75</Width>
+				</ItemDimensions>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>399900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 3,999.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>I9507V</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.05</Height>
+					<Length Units="inches">5.75</Length>
+					<Weight Units="pounds">0.75</Weight>
+					<Width Units="inches">3.23</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 GALAXY S4 I9507V TD-LTE（FDD-LTE/WCDMA/GSM）4G手机(黑色)四核处理器，5英寸全高清屏</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>164400</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,644.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>131964</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,319.64</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>4</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00INIC3DS?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00INIC3DS</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FN7flF9M9yEUaDtsn%2FmrBSmcK7oLJHeU9Lt%2BMdQ9Pv1kpEstXx8GYj5ndOWvI7cAZrsCJxZCp0X5fDoA6U56rW0LDdEOzpOHcRU1vYznqm9eBUM2KnSl5gjn50OYXcgzIPS6BzIBcygI
+						</OfferListingId>
+						<Price>
+							<Amount>164400</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 1,644.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>235500</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 2,355.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>59</PercentageSaved>
+						<Availability>通常在 1 到 2 个工作日内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00E5TOYOU</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG%E4%B8%89%E6%98%9F-Galaxy-S4-Zoom-3G%E6%89%8B%E6%9C%BA-WCDMA-GSM-%E8%81%94%E9%80%9A%E5%AE%9A%E5%88%B6/dp/B00E5TOYOU?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00E5TOYOU
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>皓月白</Color>
+				<EAN>6935152014374</EAN>
+				<Feature>操作系统: Android</Feature>
+				<Feature>屏幕尺寸: 4.3 英寸</Feature>
+				<Feature>电池容量: 2330 mAh</Feature>
+				<Feature>客服电话：400-810-5858</Feature>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>399900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 3,999.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>SM-C101</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.99</Height>
+					<Length Units="inches">5.35</Length>
+					<Weight Units="pounds">0.84</Weight>
+					<Width Units="inches">2.99</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG三星 Galaxy S4 Zoom 3G手机(皓月白)WCDMA/GSM(SM-C101) 联通定制</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>135900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,359.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>114156</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,141.56</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00E5TOYOU?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00E5TOYOU</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FJSMMmvrl4dQMf%2B4vvwb%2FzCWhCkVomm%2FyHOkDlcrF6KjROUWUMErsgtCw3JNAM2Xw%2BufXovlxiit6GLiA%2BBBKikSa1hapec2H4%2BETJ7o62Ag
+						</OfferListingId>
+						<Price>
+							<Amount>135900</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 1,359.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>264000</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 2,640.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>66</PercentageSaved>
+						<Availability>通常在 24 小时内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00CE1RBBY</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-Galaxy-Note-N5100-8%E8%8B%B1%E5%AF%B8%E6%99%BA%E8%83%BD%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91-1-6GHz-%E5%9B%9B%E6%A0%B8%E5%A4%84%E7%90%86%E5%99%A8-Android4-1-%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F/dp/B00CE1RBBY?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00CE1RBBY
+			</DetailPageURL>
+			<ItemAttributes>
+				<AspectRatio>1.66:1</AspectRatio>
+				<Binding>电脑及外设</Binding>
+				<Brand>Samsung 三星</Brand>
+				<ClothingSize>3G通话版本 16GB</ClothingSize>
+				<Color>珍珠白</Color>
+				<EAN>6935152013629</EAN>
+				<Feature>热线电话号码：800-810-5858,400-810-5858，010-64758100</Feature>
+				<ItemDimensions>
+					<Height Units="inches">0.31</Height>
+					<Length Units="inches">8.3</Length>
+					<Weight Units="pounds">0.75</Weight>
+					<Width Units="inches">5.35</Width>
+				</ItemDimensions>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>319800</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 3,198.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>N5100</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android4.1</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">1.97</Height>
+					<Length Units="inches">8.66</Length>
+					<Weight Units="pounds">1.41</Weight>
+					<Width Units="inches">5.83</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Personal Computer</ProductGroup>
+				<ProductTypeName>NOTEBOOK_COMPUTER</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Size>3G通话版本 16GB</Size>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 Galaxy Note N5100 8英寸智能平板电脑 1.6GHz 四核处理器 Android4.1 智能系统 (16G 3G版 支持语音通话功能 珍珠白)
+				</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>192900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,929.00</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>2</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00CE1RBBY?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00CE1RBBY</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FIJfs5exBqNQMu%2BOG4vTPJQ1rzMgDJ3DxX3giJktUHoa8lwgK1chzhsDjJYoWB%2BeD%2FQtBEeHhNVoWPnC5MfyRr90F7tHz93cIySFZcCBGc8gZMcPQ8mUNHlWqDwUlky7n%2B4801wySWYG
+						</OfferListingId>
+						<Price>
+							<Amount>192900</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 1,929.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>126900</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 1,269.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>40</PercentageSaved>
+						<Availability>通常在 1 到 2 个工作日内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00NM54JFW</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-NOTE4-N9100-4G%E6%89%8B%E6%9C%BA-5-7%E8%8B%B1%E5%AF%B82K%E5%B1%8F-%E9%AB%98%E9%80%9A%E9%AA%81%E9%BE%99805%E5%9B%9B%E6%A0%B82-7G-3GB-16GB-370%E4%B8%87-1600%E4%B8%87-%E6%9E%81%E9%80%9F%E5%85%85%E7%94%B5/dp/B00NM54JFW?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00NM54JFW
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>幻影白)</Color>
+				<Feature>客服电话：400-810-5858</Feature>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>539900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 5,399.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>N9100</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.13</Height>
+					<Length Units="inches">6.38</Length>
+					<Weight Units="pounds">0.88</Weight>
+					<Width Units="inches">3.46</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<ReleaseDate>2014-09-26</ReleaseDate>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 NOTE4 N9100 4G手机(幻影白)5.7英寸2K屏,高通骁龙805四核2.7G,3GB+16GB,370万+1600万，极速充电</Title>
+				<Warranty>售后服务电话：400-810-5858&lt;br&gt;品牌官方网站：http://www.samsung.com/cn/consumer/mobile-phones/mobile-phones/cn</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>485000</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 4,850.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>380449</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 3,804.49</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>4</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00NM54JFW?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00NM54JFW</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FKlZS0qvSx%2F58WJ8jenJ3Mrq66iy1rGYQNXe7hNRHxikHUYg5d1WidQWpXGPXrl8UOG3caEob4b8RqykSm8if%2BxBreqM6fw9H8BcR%2Frgj5nzm%2Fu6DdOO0Xl2ih1sev4bCYLKRz7qal7Y
+						</OfferListingId>
+						<Price>
+							<Amount>485000</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 4,850.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>54900</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 549.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>10</PercentageSaved>
+						<Availability>通常在 1 到 2 个工作日内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00IDZK75M</ASIN>
+			<DetailPageURL>
+				http://www.amazon.cn/SAMSUNG-%E4%B8%89%E6%98%9F-GALAXY-GRAND2-G7106-3G%E6%89%8B%E6%9C%BA-WCDMA-GSM-%E5%8F%8C%E5%8D%A1%E5%8F%8C%E5%BE%85-5-25%E8%8B%B1%E5%AF%B8%E5%B1%8F-1-2GHz-%E5%9B%9B%E6%A0%B8/dp/B00IDZK75M?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00IDZK75M
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>手机</Binding>
+				<Brand>Samsung 三星</Brand>
+				<Color>白色</Color>
+				<EAN>6935152015425</EAN>
+				<Feature>客服电话：400-810-5858</Feature>
+				<ItemDimensions>
+					<Height Units="inches">0.35</Height>
+					<Length Units="inches">5.78</Length>
+					<Weight Units="pounds">0.36</Weight>
+					<Width Units="inches">2.96</Width>
+				</ItemDimensions>
+				<Label>SAMSUNG 三星</Label>
+				<ListPrice>
+					<Amount>249900</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 2,499.00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>SAMSUNG 三星</Manufacturer>
+				<Model>G7106</Model>
+				<MPN>暂无</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="inches">2.2</Height>
+					<Length Units="inches">6.22</Length>
+					<Weight Units="pounds">0.79</Weight>
+					<Width Units="inches">3.54</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<ProductGroup>Wireless</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>SAMSUNG 三星</Publisher>
+				<Studio>SAMSUNG 三星</Studio>
+				<Title>SAMSUNG 三星 GALAXY GRAND2 G7106 3G手机(白色)WCDMA/GSM、双卡双待、5.25英寸屏、1.2GHz 四核</Title>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>125800</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 1,258.00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>96367</Amount>
+					<CurrencyCode>CNY</CurrencyCode>
+					<FormattedPrice>￥ 963.67</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>1</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>http://www.amazon.cn/gp/offer-listing/B00IDZK75M?SubscriptionId=AKIAJIHB4H4DFWW6Q5RA&amp;tag=tag&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00IDZK75M</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Uv0E6QwoIDgeAJk7Ta7O%2FGLqWsR4cAlnq7ViN8wqwflEm2IwSCTnTBb7rsymqZe8drsGKUvljuNmhg%2F93JWrief49Zy1a5lJKbGVQDxf3AtCsPogFNyL4Clek9qMrk0FdIOAoiK166%2FWtxYxXJnTbM3KAm2k76N0
+						</OfferListingId>
+						<Price>
+							<Amount>125800</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 1,258.00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>124100</Amount>
+							<CurrencyCode>CNY</CurrencyCode>
+							<FormattedPrice>￥ 1,241.00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>50</PercentageSaved>
+						<Availability>通常在 1 到 2 个工作日内发货</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

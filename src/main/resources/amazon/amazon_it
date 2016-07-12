@@ -1,0 +1,1105 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent" Value="NING/1.0"></Header>
+		</HTTPHeaders>
+		<RequestId>436d4e65-b4c8-476d-9d13-a3470c2f66e1</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJIHB4H4DFWW6Q5RA"></Argument>
+			<Argument Name="AssociateTag" Value="foxydeal00-21"></Argument>
+			<Argument Name="Condition" Value="New"></Argument>
+			<Argument Name="Keywords" Value="samsung"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="ResponseGroup" Value="ItemAttributes,Offers"></Argument>
+			<Argument Name="SearchIndex" Value="All"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2015-05-11T14:10:59Z"></Argument>
+			<Argument Name="Version" Value="2011-08-01"></Argument>
+			<Argument Name="Signature" Value="2hNghsT68RE2yKl1pGVc/cTS07j7tC3lJ3zbUGC0mog="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.5616470000000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Condition>New</Condition>
+				<Keywords>samsung</Keywords>
+				<ResponseGroup>ItemAttributes</ResponseGroup>
+				<ResponseGroup>Offers</ResponseGroup>
+				<SearchIndex>All</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>3019856</TotalResults>
+		<TotalPages>301986</TotalPages>
+		<MoreSearchResultsUrl>http://www.amazon.it/gp/redirect.html?camp=2025&amp;creative=165953&amp;location=http%3A%2F%2Fwww.amazon.it%2Fgp%2Fsearch%3Fkeywords%3Dsamsung%26url%3Dsearch-alias%253Daps&amp;linkCode=xm2&amp;tag=foxydeal00-21&amp;SubscriptionId=AKIAJIHB4H4DFWW6Q5RA</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B00IIHDE4G</ASIN>
+			<ParentASIN>B00LG0FVIO</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-Galaxy-Smartphone-Bianco-Italia/dp/B00IIHDE4G%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IIHDE4G
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086074438</EAN>
+				<EANList>
+					<EANListElement>8806086074438</EANListElement>
+				</EANList>
+				<Feature>Prodotto con garanzia ufficiale Samsung Italia</Feature>
+				<Feature>Prodotto non brandizzato operatore</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">480</Height>
+					<Length Units="Centesimi pollici">248</Length>
+					<Weight Units="Centesimi libbre">28</Weight>
+					<Width Units="Centesimi pollici">39</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>DISPLAY:4 Pollici; CONNETTIVITA':Edge, Gprs, Hsdpa, Hsupa, Wi-fi, 802.11 B/G/N,
+					Bluetooth; GPS E MAPPE:GPS, Google Maps; DIMENSIONI/PESO:Larghezza : 6,31 cm, Altezza : 12,15 cm,
+					Spessore : 1,09 cm, 126 gr; GENERALE:Radio, Vivavoce, Bianco; FOTO/VIDEO CAMERA:3 Sensore; FUNZIONI
+					MESSAGGISTICA:Email, Instant Messaging; MEMORIA INTERNA:4 GB; SISTEMA OPERATIVO:Android, Versione :
+					4 ; BATTERIA:480 min, 350 hr; GARANZIA: 24 mesi.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>7990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 79,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-S7390RWAITV</Model>
+				<MPN>GT-S7390RWAITV</MPN>
+				<OperatingSystem>Android 4.1.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">213</Height>
+					<Length Units="Centesimi pollici">528</Length>
+					<Weight Units="Centesimi libbre">66</Weight>
+					<Width Units="Centesimi pollici">291</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-S7390RWAITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung S7390 Galaxy Trend Lite Smartphone, 4 GB, Bianco [Italia]</Title>
+				<Warranty>2 anni riparato</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>6559</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 65,59</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>6968</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 69,68</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>52</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00IIHDE4G%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IIHDE4G
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							a0dkHnPcW1xtQ2Qt%2BcnfWb6S8dvLnwgrG2GIKYAeWirJObH4qm1znC4bGBk0Tb5%2Fvkp%2BtQ8bLn34qZeu6yodMSMIBRSZg2%2BkxylFa%2F2P26HpMUXbJLTWTJ7iDBsM%2FSEUni5ePtE6go3I6wyV7Htk6iFMbCRRZKus
+						</OfferListingId>
+						<Price>
+							<Amount>6559</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 65,59</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1431</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 14,31</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>18</PercentageSaved>
+						<Availability>Generalmente spedito in 2-3 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>48</MinimumHours>
+							<MaximumHours>72</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S68TZBS</ASIN>
+			<ParentASIN>B00S9YNL3C</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-I9060i-Galaxy-Smartphone-Bianco/dp/B00S68TZBS%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TZBS
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086569590</EAN>
+				<EANList>
+					<EANListElement>8806086569590</EANListElement>
+				</EANList>
+				<Feature>Grande schermo per tutti: display da 5,0 " ampio e brillante per un'esperienza visiva
+					amplificata
+				</Feature>
+				<Feature>Potente processore Quad Core: permette un multitasking fluido anche durante le operazioni più
+					complesse
+				</Feature>
+				<Feature>Multischermo: le applicazioni possono essere visualizzate contemporaneamente dividendo lo
+					schermo in due parti
+				</Feature>
+				<Feature>Memoria interna da 8GB, espandibile con miscroSD fino a 64GB</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">566</Height>
+					<Length Units="Centesimi pollici">304</Length>
+					<Weight Units="Centesimi libbre">36</Weight>
+					<Width Units="Centesimi pollici">38</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>17990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 179,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SAI9060ZWIITV</Model>
+				<MPN>SAI9060ZWIITV</MPN>
+				<OperatingSystem>Android 4.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">220</Height>
+					<Length Units="Centesimi pollici">606</Length>
+					<Weight Units="Centesimi libbre">71</Weight>
+					<Width Units="Centesimi pollici">378</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SAI9060ZWIITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung I9060i Galaxy Grand Neo Plus Smartphone, 8 GB, Bianco [Italia]</Title>
+				<Warranty>Prodotto con Garanzia Ufficiale del produttore</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>13290</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 132,90</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>12952</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 129,52</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>47</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00S68TZBS%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TZBS
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							9mQ8TLFVPC4uwE6QU6YrCOIw73TzYhgLgi2hNkiAVXZPJkY2JClBwOTa1KlHMU9HhrquJdKDaykamHtH%2BHox2yBigaFCNMnfofrs5Z8CkyaJMl%2B0GFKHNeFdy3hWGi%2BqrvezJszOk2%2Bbf6Gqk%2FKhT2flHce8Ag1X
+						</OfferListingId>
+						<Price>
+							<Amount>13290</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 132,90</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>4700</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 47,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>26</PercentageSaved>
+						<Availability>Generalmente spedito in 1-2 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00KGX4K02</ASIN>
+			<ParentASIN>B00LG0DU6Y</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-Galaxy-Smartphone-Bianco-Italia/dp/B00KGX4K02%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KGX4K02
+			</DetailPageURL>
+			<ItemAttributes>
+				<AspectRatio>16:9</AspectRatio>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086553797</EAN>
+				<EANList>
+					<EANListElement>8806086553797</EANListElement>
+					<EANListElement>8806086186001</EANListElement>
+				</EANList>
+				<Feature>SIM singola</Feature>
+				<Feature>Prodotto con garanzia ufficiale Samsung Italia</Feature>
+				<Feature>Prodotto non brandizzato operatore</Feature>
+				<Feature>Prodotto rientra nel programma Samsung Exclusive</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">538</Height>
+					<Length Units="Centesimi pollici">278</Length>
+					<Weight Units="Centesimi libbre">29</Weight>
+					<Width Units="Centesimi pollici">34</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Non adatto a bambini sotto i 3 anni di età. Nonostante sia nostro impegno assicurare la
+					correttezza delle informazioni dei prodotti talvolta i produttori possono modificare le loro
+					specifiche. L'imballaggio effettivo utilizzato e i materiali possono contenere informazioni che
+					differiscono da quelle presentate nel nostro sito web. Si consiglia di non basarsi solo sulle
+					informazioni qui presentate ma di leggere sempre le etichette, gli avvertimenti e i consigli d'uso
+					prima di utilizzare o scartare un prodotto. Si suggerisce di contattare il produttore per avere
+					maggiori informazioni su un determinato articolo
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>18990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 189,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-I9301RWZITV</Model>
+				<MPN>GT-I9301RWIITV</MPN>
+				<OperatingSystem>Android 4.4 (KitKat)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">213</Height>
+					<Length Units="Centesimi pollici">583</Length>
+					<Weight Units="Centesimi libbre">71</Weight>
+					<Width Units="Centesimi pollici">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-I9301RWIITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung I9301 Galaxy S III Neo Smartphone, 16 GB, Bianco [Italia]</Title>
+				<Warranty>2 anni</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>17499</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 174,99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>16739</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 167,39</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>51</TotalNew>
+				<TotalUsed>4</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00KGX4K02%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00KGX4K02
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							kVJU4sD0KJlQIvKRg1bThlZbAa96xfLpr%2Fqb1XitVzJ6Uyo52nb14uonB7tTJet2ZP8qNF3jQ%2BQ28S4SV4Kb4XfRPzq7%2FgOH3DHrYLhTWXrQGRnVpMnmELEjB6zlq%2FYcmikXPglMO95gdLehgzYDf%2BOVmms6mz2h
+						</OfferListingId>
+						<Price>
+							<Amount>17499</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 174,99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1491</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 14,91</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>8</PercentageSaved>
+						<Availability>Generalmente spedito in 1-2 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S68TYHI</ASIN>
+			<ParentASIN>B00S9YNL3C</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-I9060i-Galaxy-Smartphone-Italia/dp/B00S68TYHI%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TYHI
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Nero</Color>
+				<EAN>8806086569484</EAN>
+				<EANList>
+					<EANListElement>8806086569484</EANListElement>
+				</EANList>
+				<Feature>Grande schermo per tutti: display da 5,0 " ampio e brillante per un'esperienza visiva
+					amplificata
+				</Feature>
+				<Feature>Potente processore Quad Core: permette un multitasking fluido anche durante le operazioni più
+					complesse
+				</Feature>
+				<Feature>Multischermo: le applicazioni possono essere visualizzate contemporaneamente dividendo lo
+					schermo in due parti
+				</Feature>
+				<Feature>Memoria interna da 8GB, espandibile con miscroSD fino a 64GB</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">566</Height>
+					<Length Units="Centesimi pollici">304</Length>
+					<Weight Units="Centesimi libbre">36</Weight>
+					<Width Units="Centesimi pollici">38</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>17990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 179,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SAI9060MKIITV</Model>
+				<MPN>SAI9060MKIITV</MPN>
+				<OperatingSystem>Android 4.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">228</Height>
+					<Length Units="Centesimi pollici">606</Length>
+					<Weight Units="Centesimi libbre">71</Weight>
+					<Width Units="Centesimi pollici">386</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SAI9060MKIITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung I9060i Galaxy Grand Neo Plus Smartphone, 8 GB, Nero [Italia]</Title>
+				<Warranty>Prodotto con Garanzia Ufficiale del produttore</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>13290</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 132,90</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>13043</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 130,43</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>51</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00S68TYHI%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TYHI
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							9mQ8TLFVPC4uwE6QU6YrCFbZxE0IrShqXhVSQvviyDhW2XeUQDFoWbJ0CUT7hhczGHOs9qAfoFdBgCVFOLi93%2BhYs6xEK8awkGNTSQnkNWY147xvfL6k1IYTppTm1XIoZt9P2mgqundvY0sOfpYRY7tChVTACdex
+						</OfferListingId>
+						<Price>
+							<Amount>13290</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 132,90</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>4700</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 47,00</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>26</PercentageSaved>
+						<Availability>Generalmente spedito in 1-2 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00IIHDE14</ASIN>
+			<ParentASIN>B00LG0FVIO</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-S7390-Galaxy-Smartphone-Italia/dp/B00IIHDE14%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IIHDE14
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Nero</Color>
+				<EAN>8806086074384</EAN>
+				<EANList>
+					<EANListElement>8806086074384</EANListElement>
+				</EANList>
+				<Feature>Prodotto con garanzia ufficiale Samsung Italia</Feature>
+				<Feature>Prodotto non brandizzato operatore</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">43</Height>
+					<Length Units="Centesimi pollici">478</Length>
+					<Weight Units="Centesimi libbre">27</Weight>
+					<Width Units="Centesimi pollici">248</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>DISPLAY:4 Pollici; CONNETTIVITA':Edge, Gprs, Hsdpa, Hsupa, Wi-fi, 802.11 b/g/n,
+					Bluetooth; GPS E MAPPE:GPS, Google Maps; DIMENSIONI/PESO:Larghezza : 6,31 mm, Altezza : 12,15 mm,
+					Spessore : 1,09 mm, 126 gr; GENERALE:Radio, Vivavoce, Nero; FOTO/VIDEO CAMERA:3 Sensore; FUNZIONI
+					MESSAGGISTICA:Email, Instant Messaging; MEMORIA INTERNA:4 GB; SISTEMA OPERATIVO:4 Versione;
+					BATTERIA:480 min, 350 hr; GARANZIA: 24 mesi.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>7990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 79,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>GT-S7390MKAITV</Model>
+				<MPN>GT-S7390MKAITV</MPN>
+				<OperatingSystem>Android 4.1.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">213</Height>
+					<Length Units="Centesimi pollici">520</Length>
+					<Weight Units="Centesimi libbre">62</Weight>
+					<Width Units="Centesimi pollici">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>GT-S7390MKAITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung S7390 Galaxy Trend Lite Smartphone, 4 GB, Nero [Italia]</Title>
+				<Warranty>2 anni riparato</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>6470</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 64,70</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>6444</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 64,44</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>42</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00IIHDE14%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IIHDE14
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Y7EBNUZc%2Fze85xQYbxZAhZxPU%2FX3Cgn36QHxeqPdtXJXG8R8wCUp6VuwbbjEqVGd%2FTWaQzVRxTbI6EzvGRtLc1BpIha6x0dQU7wICpQ04uaubGTxc7QIVhrRZ0UTmeoL4xmEtmJYXPQUg9L9s8R8lgudGhMoBznv
+						</OfferListingId>
+						<Price>
+							<Amount>6470</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 64,70</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>1520</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 15,20</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>19</PercentageSaved>
+						<Availability>Generalmente spedito in 1-2 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00MXR67V4</ASIN>
+			<ParentASIN>B00S9YNQEQ</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-Galaxy-Smartphone-Bianco-Italia/dp/B00MXR67V4%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MXR67V4
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086309080</EAN>
+				<EANList>
+					<EANListElement>8806086309080</EANListElement>
+				</EANList>
+				<Feature>Più evoluto: display da 4.5" e Processore Quad Core1.2GHz</Feature>
+				<Feature>Sempre più smart: fotocamera da 5 Mpx con FlashLED e fotocamera frontale VGA</Feature>
+				<Feature>Design rinnovato ed elegante</Feature>
+				<Feature>Sistema operativo: Android Kitkat</Feature>
+				<Feature>TouchWiz Essence UX</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">39</Height>
+					<Length Units="Centesimi pollici">513</Length>
+					<Weight Units="Centesimi libbre">31</Weight>
+					<Width Units="Centesimi pollici">268</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>13990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 139,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-G355HZWNITV</Model>
+				<MPN>SM-G355HZWNITV</MPN>
+				<OperatingSystem>Android 4.4.2 (KitKat)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">213</Height>
+					<Length Units="Centesimi pollici">528</Length>
+					<Weight Units="Centesimi libbre">57</Weight>
+					<Width Units="Centesimi pollici">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-G355HZWNITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung G355 Galaxy Core 2 Smartphone, 4 GB, Bianco [Italia]</Title>
+				<Warranty>Prodotto con Garanzia Ufficiale del produttore</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>11170</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 111,70</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>11155</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 111,55</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>25</TotalNew>
+				<TotalUsed>1</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00MXR67V4%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MXR67V4
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Y7EBNUZc%2Fze85xQYbxZAhaOlrn6O%2BSeolDzNb9D%2Bdx1%2FVMve0lEsaC4vo0fBV9dLtGwVC1jME6ZVwTaRJYe0IzckpVr1M%2B3dcZE37xRNPVRgxq%2BPN7z3or7BiwOECZUBv%2FRltLUx9uFiOdfTAv67oLUNkb%2FpbqHS
+						</OfferListingId>
+						<Price>
+							<Amount>11170</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 111,70</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>2820</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 28,20</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>20</PercentageSaved>
+						<Availability>Generalmente spedito in 4-5 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>96</MinimumHours>
+							<MaximumHours>120</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00PK978LU</ASIN>
+			<ParentASIN>B00S9YN0SS</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-I8200-Galaxy-Smartphone-Bianco/dp/B00PK978LU%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00PK978LU
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086206815</EAN>
+				<EANList>
+					<EANListElement>8806086206815</EANListElement>
+				</EANList>
+				<Feature>Prodotto con garanzia ufficiale Samsung Italia</Feature>
+				<Feature>Prodotto non brandizzato operatore</Feature>
+				<Feature>Prodotto rientra nel programma Samsung Exclusive</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">39</Height>
+					<Length Units="Centesimi pollici">479</Length>
+					<Weight Units="Centesimi libbre">25</Weight>
+					<Width Units="Centesimi pollici">248</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Il Prodotto è nuovo e sigillato, garanzia italia NO BRAND 24 mesi. Tutti i nostri
+					prodotti vengono venduti con scontrino fiscale, per richiedere la fattura inviare un email.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>13990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 139,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>I8200</Model>
+				<MPN>I8200 Blanc</MPN>
+				<OperatingSystem>Android 4.2.2 (Jelly Bean)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">213</Height>
+					<Length Units="Centesimi pollici">520</Length>
+					<Weight Units="Centesimi libbre">71</Weight>
+					<Width Units="Centesimi pollici">323</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>I8200 Blanc</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung I8200 Galaxy S III Mini Smartphone, 8 GB, Bianco [Italia]</Title>
+				<Warranty>Prodotto con Garanzia Ufficiale del produttore</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>10900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 109,00</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>11047</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 110,47</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>30</TotalNew>
+				<TotalUsed>2</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00PK978LU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00PK978LU
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Y7EBNUZc%2Fze85xQYbxZAhSsz8NrI0Ixm0n7fF3WUKK5OY0Yzvm%2Bi1gr2%2B9xvfeLlJY20LeZe1vA1igPbSDdwYhAy9NC0jNUYkIWjYek8NWRwTq98j1OOxPUhpz1g8Bi%2B6kCouNby%2FeyPM9SScE3vxTrNMOJCpLwD
+						</OfferListingId>
+						<Price>
+							<Amount>10900</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 109,00</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>3090</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 30,90</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>22</PercentageSaved>
+						<Availability>Generalmente spedito in 1-2 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00WG60MXG</ASIN>
+			<ParentASIN>B00X5NAKTU</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-Galaxy-Display-WI-FI-Italia/dp/B00WG60MXG%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WG60MXG
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086756068</EAN>
+				<EANList>
+					<EANListElement>8806086756068</EANListElement>
+				</EANList>
+				<Feature>Wi-Fi e LTE (4G) - Android 5.0 Lollipop</Feature>
+				<Feature>Il rapporto 4:3 del display è perfetto per leggere. Display 9.7" XGA TFT (1024x768)</Feature>
+				<Feature>Solo 7,5mm di spessore. Massima portabilità: 470g di leggerezza</Feature>
+				<Feature>Processore Quad Core 1.2, RAM 2 GB</Feature>
+				<Feature>Memoria Interna 16GB con slot per microSD fino a 128 GB</Feature>
+				<Feature>Fotocamera da 5 MP con messa a fuoco automatica per ottenere immagini sempre chiare e
+					definite
+				</Feature>
+				<Feature>Galaxy Tab A e il Samsung Smart TV si collegano automaticamente tramite Bluetooth</Feature>
+				<Feature>La Modalità Bambino prevede un'interfaccia semplificata, divertente e protetta con applicazioni
+					pensate per i più piccoli
+				</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">30</Height>
+					<Length Units="Centesimi pollici">955</Length>
+					<Weight Units="Centesimi libbre">101</Weight>
+					<Width Units="Centesimi pollici">657</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<ListPrice>
+					<Amount>34990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 349,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-T555NZWAITV</Model>
+				<MPN>SM-T555NZWAITV</MPN>
+				<OperatingSystem>Android</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">197</Height>
+					<Length Units="Centesimi pollici">992</Length>
+					<Weight Units="Centesimi libbre">159</Weight>
+					<Width Units="Centesimi pollici">693</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-T555NZWAITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>ABIS_ELECTRONICS</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung Galaxy Tab A T555, Display 9.7" LTE WI-FI [Italia]</Title>
+				<Warranty>2 anni</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>30492</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 304,92</FormattedPrice>
+				</LowestNewPrice>
+				<TotalNew>13</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00WG60MXG%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WG60MXG
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Y7EBNUZc%2Fze85xQYbxZAhSXqh0WNiOVYyYLWaHk%2BOPIWeN7J2SJeDCIuaHdJUif4rEXXtw3OvVbUMAo7pko2ViRrPbK3SKS28EkivsaWmXvVJiTuczXW6Q%3D%3D
+						</OfferListingId>
+						<Price>
+							<Amount>30492</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 304,92</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>4498</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 44,98</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>13</PercentageSaved>
+						<Availability>Generalmente spedito in 24 ore</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>0</MinimumHours>
+							<MaximumHours>0</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00JR00YUU</ASIN>
+			<ParentASIN>B00LG0FETU</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-Galaxy-Ace-Style-Smartphone/dp/B00JR00YUU%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JR00YUU
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086072953</EAN>
+				<EANList>
+					<EANListElement>8806086072953</EANListElement>
+				</EANList>
+				<Feature>NUOVO Samsung SM-G310HZWNITV GALAXY ACE STYLE WHITE</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">476</Height>
+					<Length Units="Centesimi pollici">248</Length>
+					<Weight Units="Centesimi libbre">26</Weight>
+					<Width Units="Centesimi pollici">43</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Non adatto a bambini sotto i 3 anni di età. Nonostante sia nostro impegno assicurare la
+					correttezza delle informazioni dei prodotti talvolta i produttori possono modificare le loro
+					specifiche. L'imballaggio effettivo utilizzato e i materiali possono contenere informazioni che
+					differiscono da quelle presentate nel nostro sito web. Si consiglia di non basarsi solo sulle
+					informazioni qui presentate ma di leggere sempre le etichette, gli avvertimenti e i consigli d'uso
+					prima di utilizzare o scartare un prodotto. Si suggerisce di contattare il produttore per avere
+					maggiori informazioni su un determinato articolo.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>12900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 129,00</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<MediaType>MP3</MediaType>
+				<Model>G310HN Ace Style Blanc</Model>
+				<MPN>8806086072953</MPN>
+				<OperatingSystem>Android 4.4.2 (KitKat)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">220</Height>
+					<Length Units="Centesimi pollici">520</Length>
+					<Weight Units="Centesimi libbre">40</Weight>
+					<Width Units="Centesimi pollici">299</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>8806086072953</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung G310 Galaxy Ace Style Smartphone, 4 GB, Bianco [Italia]</Title>
+				<Warranty>2 anni</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>7089</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 70,89</FormattedPrice>
+				</LowestNewPrice>
+				<LowestUsedPrice>
+					<Amount>7423</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 74,23</FormattedPrice>
+				</LowestUsedPrice>
+				<TotalNew>15</TotalNew>
+				<TotalUsed>3</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>0</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00JR00YUU%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JR00YUU
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Y7EBNUZc%2Fze85xQYbxZAhcGvQGVAzFFXUl4lUo70vWdtT8KSOW3MlwPdAngu%2BYJQTGsTpYy7vmtopOjl7Zi%2Bj%2BHqazuJp%2FrojHDny%2FRTfNiF3bw7PkVfUxD4X%2F19DnWviYdUv5dqYYp2%2FuSYnfr8lvxCWuo8lgV0
+						</OfferListingId>
+						<Price>
+							<Amount>7089</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 70,89</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>5811</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 58,11</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>45</PercentageSaved>
+						<Availability>Generalmente spedito in 1-2 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+		<Item>
+			<ASIN>B00S68TV0S</ASIN>
+			<ParentASIN>B00S9YNHAE</ParentASIN>
+			<DetailPageURL>
+				http://www.amazon.it/Samsung-Galaxy-Smartphone-Bianco-Italia/dp/B00S68TV0S%3Fpsc%3D1%26SubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TV0S
+			</DetailPageURL>
+			<ItemAttributes>
+				<Binding>Elettronica</Binding>
+				<Brand>Samsung</Brand>
+				<Color>Bianco</Color>
+				<EAN>8806086511346</EAN>
+				<EANList>
+					<EANListElement>8806086511346</EANListElement>
+				</EANList>
+				<Feature>Design in metallo incredibilmente sottile (6.9mm) con tanti colori disponibili</Feature>
+				<Feature>Interfaccia utente a temi variabili e nuove suonerie</Feature>
+				<Feature>Selfie perfetti: Fotocamera frontale da 5 MP, autoscatto tramite comandi vocali e gestuali
+				</Feature>
+				<Feature>Tecnologia alive display e audio personalizzato: si adatta automaticamente alle tue preferenze
+					e all'ambiente in cui ti trovi
+				</Feature>
+				<Feature>Performance a livello superiore: display HD Super AMOLED 4,5", Processore Quad-core, 1.5 GB di
+					RAM
+				</Feature>
+				<ItemDimensions>
+					<Height Units="Centesimi pollici">27</Height>
+					<Length Units="Centesimi pollici">512</Length>
+					<Weight Units="Centesimi libbre">24</Weight>
+					<Width Units="Centesimi pollici">258</Width>
+				</ItemDimensions>
+				<Label>Samsung</Label>
+				<LegalDisclaimer>Non adatto a bambini sotto i 3 anni di età. Nonostante sia nostro impegno assicurare la
+					correttezza delle informazioni dei prodotti talvolta i produttori possono modificare le loro
+					specifiche. L'imballaggio effettivo utilizzato e i materiali possono contenere informazioni che
+					differiscono da quelle presentate nel nostro sito web. Si consiglia di non basarsi solo sulle
+					informazioni qui presentate ma di leggere sempre le etichette, gli avvertimenti e i consigli d'uso
+					prima di utilizzare o scartare un prodotto. Si suggerisce di contattare il produttore per avere
+					maggiori informazioni su un determinato articolo.
+				</LegalDisclaimer>
+				<ListPrice>
+					<Amount>30990</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 309,90</FormattedPrice>
+				</ListPrice>
+				<Manufacturer>Samsung</Manufacturer>
+				<Model>SM-A300FZWUITV</Model>
+				<MPN>SM-A300FZWUITV</MPN>
+				<OperatingSystem>Android 4.4 (KitKat)</OperatingSystem>
+				<PackageDimensions>
+					<Height Units="Centesimi pollici">236</Height>
+					<Length Units="Centesimi pollici">543</Length>
+					<Weight Units="Centesimi libbre">2</Weight>
+					<Width Units="Centesimi pollici">291</Width>
+				</PackageDimensions>
+				<PackageQuantity>1</PackageQuantity>
+				<PartNumber>SM-A300FZWUITV</PartNumber>
+				<ProductGroup>CE</ProductGroup>
+				<ProductTypeName>PHONE</ProductTypeName>
+				<Publisher>Samsung</Publisher>
+				<Studio>Samsung</Studio>
+				<Title>Samsung A300 Galaxy A3 Smartphone, 16 GB, Bianco [Italia]</Title>
+				<Warranty>Prodotto con Garanzia Ufficiale del produttore</Warranty>
+			</ItemAttributes>
+			<OfferSummary>
+				<LowestNewPrice>
+					<Amount>23799</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 237,99</FormattedPrice>
+				</LowestNewPrice>
+				<LowestRefurbishedPrice>
+					<Amount>20900</Amount>
+					<CurrencyCode>EUR</CurrencyCode>
+					<FormattedPrice>EUR 209,00</FormattedPrice>
+				</LowestRefurbishedPrice>
+				<TotalNew>51</TotalNew>
+				<TotalUsed>0</TotalUsed>
+				<TotalCollectible>0</TotalCollectible>
+				<TotalRefurbished>1</TotalRefurbished>
+			</OfferSummary>
+			<Offers>
+				<TotalOffers>1</TotalOffers>
+				<TotalOfferPages>1</TotalOfferPages>
+				<MoreOffersUrl>
+					http://www.amazon.it/gp/offer-listing/B00S68TV0S%3FSubscriptionId%3DAKIAJIHB4H4DFWW6Q5RA%26tag%3Dfoxydeal00-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00S68TV0S
+				</MoreOffersUrl>
+				<Offer>
+					<OfferAttributes>
+						<Condition>New</Condition>
+					</OfferAttributes>
+					<OfferListing>
+						<OfferListingId>
+							Y7EBNUZc%2Fze85xQYbxZAhcX5rwT9MxPKmM98pK03sipvpU4ZHvNlHMi%2B3kU4gpSjzv%2FBDKk8BHqK0oVHbks%2B2xtjXqa0eibIkFNpeO6DHkwiKr2jFeqERF2BT0EXxtJ0IZ4ctnNWLzJDL23kFI8iSFbr5F%2BMUEUW
+						</OfferListingId>
+						<Price>
+							<Amount>23799</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 237,99</FormattedPrice>
+						</Price>
+						<AmountSaved>
+							<Amount>7191</Amount>
+							<CurrencyCode>EUR</CurrencyCode>
+							<FormattedPrice>EUR 71,91</FormattedPrice>
+						</AmountSaved>
+						<PercentageSaved>23</PercentageSaved>
+						<Availability>Generalmente spedito in 1-2 giorni lavorativi</Availability>
+						<AvailabilityAttributes>
+							<AvailabilityType>now</AvailabilityType>
+							<MinimumHours>24</MinimumHours>
+							<MaximumHours>48</MaximumHours>
+						</AvailabilityAttributes>
+						<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+					</OfferListing>
+				</Offer>
+			</Offers>
+		</Item>
+	</Items>
+</ItemSearchResponse>

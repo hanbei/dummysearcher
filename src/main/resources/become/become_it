@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dynamic-data version="3.1" serial-number="201504151" name="query" xmlns="http://services.become.eu/livexml">
+	<params>
+		<param name="qry">xbox</param>
+	</params>
+	<top-level-categories-module>
+		<params/>
+		<top-level-categories nr-of-products="16613" nr-of-offers="826756" n="18">
+			<category nr-of-products="12" nr-of-offers="196438" cid="56242">
+				<label>Auto &amp; Moto</label>
+			</category>
+			<category nr-of-products="61" nr-of-offers="196537" cid="57352">
+				<label>Moda &amp; Accessori</label>
+			</category>
+			<category nr-of-products="906" nr-of-offers="8131" cid="56437">
+				<label>Telefonia &amp; Telecomunicazione</label>
+			</category>
+			<category nr-of-products="598" nr-of-offers="9061" cid="56515">
+				<label>Foto, Videocamere &amp; Accessori</label>
+			</category>
+			<category nr-of-products="3441" nr-of-offers="71284" cid="56838">
+				<label>PC, Portatili &amp; Software</label>
+			</category>
+			<category nr-of-products="6620" nr-of-offers="93634" cid="92620">
+				<label>Casa &amp; Vivere</label>
+			</category>
+			<category nr-of-products="2953" nr-of-offers="3801" cid="57081">
+				<label>Audio, Video &amp; TV</label>
+			</category>
+			<category nr-of-products="821" nr-of-offers="1372" cid="56411">
+				<label>Giochi &amp; Console</label>
+			</category>
+			<category nr-of-products="32" nr-of-offers="23843" cid="114652">
+				<label>Film &amp; Musica</label>
+			</category>
+			<category nr-of-products="24" nr-of-offers="829" cid="68202">
+				<label>Libri, Libri multimediali &amp; Calendari</label>
+			</category>
+			<category nr-of-products="427" nr-of-offers="54982" cid="57698">
+				<label>Bellezza</label>
+			</category>
+			<category nr-of-products="104" nr-of-offers="42631" cid="109007">
+				<label>Salute &amp; Benessere</label>
+			</category>
+			<category nr-of-products="213" nr-of-offers="26062" cid="57197">
+				<label>Hobby, Giochi &amp; Idee Regalo</label>
+			</category>
+			<category nr-of-products="93" nr-of-offers="23262" cid="114764">
+				<label>Sport e Tempo libero</label>
+			</category>
+			<category nr-of-products="19" nr-of-offers="4582" cid="57786">
+				<label>Neonati &amp; Bambini</label>
+			</category>
+			<category nr-of-products="1" nr-of-offers="335" cid="119105">
+				<label>Mercatino dell'usato</label>
+			</category>
+			<category nr-of-products="278" nr-of-offers="69931" cid="68223">
+				<label>Altri Prodotti</label>
+			</category>
+			<category nr-of-products="10" nr-of-offers="41" cid="655588">
+				<label>SmartWatch Wearables e Accessori</label>
+			</category>
+		</top-level-categories>
+	</top-level-categories-module>
+	<current-category-module>
+		<params/>
+		<module-attributes/>
+	</current-category-module>
+	<navigation-trail-module>
+		<params/>
+		<navigation-trail n="2">
+			<element type="index">
+				<label>Index</label>
+			</element>
+			<element id="xbox" type="query">
+				<label>Xbox</label>
+			</element>
+		</navigation-trail>
+	</navigation-trail-module>
+	<suggestions-module>
+		<params/>
+		<suggestions>
+			<queries n="0"/>
+			<outstanding-category parent-cid="64281" cid="108887">
+				<label>Accessori Console</label>
+				<category-attributes n="0"/>
+			</outstanding-category>
+		</suggestions>
+	</suggestions-module>
+	<category-results-module>
+		<params/>
+		<category-results n="6" total="6">
+			<category nr-of-products="92" parent-cid="64281" cid="108887">
+				<label>Accessori Console</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="64283" cid="49824">
+				<label>Giochi Xbox 360</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="3" parent-cid="56838" cid="114644">
+				<label>Cavi &amp; Adattatori Computer</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="63727" cid="114522">
+				<label>TV, Audio &amp; Montaggio Video</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="64888" cid="109793">
+				<label>Mobili Soggiorno</label>
+				<category-attributes n="0"/>
+			</category>
+			<category nr-of-products="1" parent-cid="64494" cid="50012">
+				<label>Personaggi</label>
+				<category-attributes n="0"/>
+			</category>
+		</category-results>
+	</category-results-module>
+	<result-filter-module>
+		<params/>
+		<result-filter n="3">
+			<filter-dimension n="6" selected="false" display-position="1">
+				<label>Category</label>
+				<dimension-class nr-of-products="92" selected="false" display-position="1" fdid="cat108887">
+					<label>Accessori console</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="2" fdid="cat49824">
+					<label>Giochi Xbox 360</label>
+				</dimension-class>
+				<dimension-class nr-of-products="3" selected="false" display-position="3" fdid="cat114644">
+					<label>Cavi &amp; Adattatori computer</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="4" fdid="cat114522">
+					<label>TV, audio &amp; montaggio video</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="5" fdid="cat109793">
+					<label>Mobili Soggiorno</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="6" fdid="cat50012">
+					<label>Personaggi</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="3" selected="false" display-position="2">
+				<label>Marca</label>
+				<dimension-class nr-of-products="2" selected="false" display-position="1" fdid="mnU29ueQ..">
+					<label>Sony</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="2" fdid="mnTWNmYXJsYW5l">
+					<label>Mcfarlane</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="3" fdid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</dimension-class>
+			</filter-dimension>
+			<filter-dimension n="7" selected="false" display-position="4">
+				<label>Negozio</label>
+				<dimension-class nr-of-products="69" selected="false" display-position="1" fdid="me60010">
+					<label>Mini in The Box</label>
+				</dimension-class>
+				<dimension-class nr-of-products="17" selected="false" display-position="2" fdid="me105642">
+					<label>Miniinthebox</label>
+				</dimension-class>
+				<dimension-class nr-of-products="6" selected="false" display-position="3" fdid="me55953">
+					<label>Light in the Box</label>
+				</dimension-class>
+				<dimension-class nr-of-products="4" selected="false" display-position="4" fdid="me8597">
+					<label>OVERLOAD</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="5" fdid="me101396">
+					<label>Giocalo</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="6" fdid="me102299">
+					<label>Youredo</label>
+				</dimension-class>
+				<dimension-class nr-of-products="1" selected="false" display-position="7" fdid="me100437">
+					<label>ON LINE</label>
+				</dimension-class>
+			</filter-dimension>
+		</result-filter>
+	</result-filter-module>
+	<product-results-module>
+		<params/>
+		<product-results n="10" total="99" nr="1" srt="RELEVANCE">
+			<product nr-of-offers="1" nr-of-merchants="1" oid="126085376" type="offer">
+				<label>Parti di ricambio per joystick Xbox 360 - Grigio</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/126/085/D_000126085376_IT_450.jpg"/>
+				<description>Parti di ricambio per joystick Xbox 360 - Grigio</description>
+				<offer oid="126085376">
+					<label>Parti di ricambio per joystick Xbox 360 - Grigio</label>
+					<merchant mid="60010">
+						<label>Mini in The Box</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/60010/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=126085376&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=60010&amp;rid=168206&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSFonQxqZGp7rQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=0.28&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=0&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllxRlODiGKflylDIhX7S2Lx6RuW6U8dn6hgHc7U6wvafNTqhndpBufpUeH0l2UZpLtHzxrjJWlwEhwWYPy0WQoXp-8XgqJzLjU5BRGwDovEtWGEbn0NGiRgq3FGVEJ9T_p2swiiqSwGX45xpAm_-skfgpOdulqrITQKwM0-xvpyMgH8oHOdZ_9vL7U565JWPKpPXacJZYgKzHxYa588b4hApS4-9VcK54O_p-2FW5FpnVlot9aOTnQbv1OyQWq0xrSW1yQJE6MdS5AIG4oi9g2EaniM--_u3JrE_Smt6dHf_CGQYyDTvhcReXXeH14HnJvKzKpkCGb9kgOX5OFvaBqXEEUXeq181iRx6qju8Uwz6aMne0h-UY83OD_SJzmDbHnR6SfJGRhoEARHVA5u5W6aba8Av4etk1-XVD_ztImYczohbJwJ0kMVnwZCWBXJVj1wRIlxkNxBz90jPyoAJDE0B1AGUuOH8nmBorzRwKa6H4FYLFE0qxS1mrN2T2BJzxEQ9dzv7K-PDipktfDhyfoDDKZnVwErP50</url>
+					<price cur="EUR">0.28</price>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="109858639" type="offer">
+				<label>Xbox 360 + Kinect 360</label>
+				<brand bid="mnTWljcm9zb2Z0">
+					<label>Microsoft</label>
+				</brand>
+				<category cid="49824">
+					<label>Giochi Xbox 360</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/109/858/D_000109858639_IT_450.jpg"/>
+				<description>Speciale promozione, Microsoft Xbox 360 completa di Kinect ad un prezzo esclusivo.
+				</description>
+				<offer oid="109858639">
+					<label>Microsoft Xbox 360 + Kinect 360</label>
+					<merchant mid="100437">
+						<label>ON LINE</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/100437/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001341&amp;c=49824&amp;o=109858639&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=100437&amp;rid=744a6a8c102729c73e79bcb0c4535ac7&amp;ver=2.0&amp;market=it&amp;man=Microsoft&amp;ser=2708&amp;pc=20001341&amp;pcat=25934&amp;abob=cGFuZ29yYSEMtGRw3XzGqQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=169.0&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=1&amp;dle=cGFuZ29yYSH2SzeAyVPW5y1JbjKIVvU8OHgVtBUaqovvugtFIxv0Z7BWCdgVLp9DAcGUd4Zciepo1sOnufwvMuYNwuuptIFH8EIHFYnOS7MYNfggu0v103n1XCV8XZW-dKU4BVFhKX9vteDB5dy6UQ..</url>
+					<price cur="EUR">169.00</price>
+					<price-info cur="EUR" type="total">180.98</price-info>
+					<delivery>
+						<period unit="WEEK" time="1" flag="MEDIUM">3-5 giorni</period>
+						<charge cur="EUR" price="11.98">€ 11,98</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="126087594" type="offer">
+				<label>Controller Wireless per Xbox 360 - Nero</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/126/087/D_000126087594_IT_450.jpg"/>
+				<description>Controller Wireless per Xbox 360 - Nero</description>
+				<offer oid="126087594">
+					<label>Controller Wireless per Xbox 360 - Nero</label>
+					<merchant mid="60010">
+						<label>Mini in The Box</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/60010/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=126087594&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=60010&amp;rid=359798&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSFonQxqZGp7rQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=23.15&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=2&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllxRlODiGKflylDIhX7S2Lx6RuW6U8dn6hgHc7U6wvafNTqhndpBufpUeH0l2UZpLtHzxrjJWlwEhwWYPy0WQoXp-8XgqJzLjU5BRGwDovEtWGEbn0NGiRgq3FGVEJ9T_p2swiiqSwGX45xpAm_-skfgpOdulqrITQKwM0-xvpyMgH8oHOdZ_9vL7U565JWPKpPXacJZYgKzHxYa588b4hApS4-9VcK54O_p-2FW5FpnVlot9aOTnQbv1OyQWq0xrSW1yQJE6MdS5AIG4oi9g2EaniM--_u3JrE_Smt6dHf_CGQYyDTvhcReXXeH14HnJvKzKpkCGb9kgOX5OFvaBqXEEUXeq181iRx6qju8Uwz6aMne0h-UY83OD_SJzmDbHnR6SfJGRhoEARHVA5u5W6aba8Av4etk1-XVD_ztImYczohbJwJ0kMVnwZCWBXJVj1wRIlxkNxBz_ZeB-An84CLlXtJhQ5Y7rn_3oPetyTAFIRJG84V5Me56NOKXrLcC5iAZaMaUd67a1z9gJRLSy-qg..</url>
+					<price cur="EUR">23.15</price>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="126103444" type="offer">
+				<label>Ricevitore Wireless per giochi per PC/Xbox 360 - Bianco</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/126/103/D_000126103444_IT_450.jpg"/>
+				<description>Ricevitore Wireless per giochi per PC/Xbox 360 - Bianco</description>
+				<offer oid="126103444">
+					<label>Ricevitore Wireless per giochi per PC/Xbox 360 - Bianco</label>
+					<merchant mid="55953">
+						<label>Light in the Box</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/55953/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=126103444&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=55953&amp;rid=230521&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSFonQxqZGp7rQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=16.49&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=3&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllxRlODiGKflylDIhX7S2Lx6RuW6U8dn6hgHc7U6wvafNTqhndpBufpbHiDiJmePCvU9q_JsPj5g8JxtNzRO6PETbTvEq-tZHskZjXh74ETReJWpvFOH8zJXekg4hM8k6z5hZOKZOIBlnLnLAg5Ng52gACtBd_7fj8eoMgOKD4vMzsglw7hl1UNF9Zcr5DnZY4FAaN6IURIztxSFilQnqIulDZIC0x1c1BpD2Z5klNXA3J2R9CWY2glf6g7vEbGnvnd6_wr52o8cffCzoCPjFlrPNQLKMlCCVUElTMkquUROYk_PW-J8EvyLXF-uANdfeQWxHd1QXwZYNerU0cYf94mQCD9IOBxtuXNjcnzSUffqdnE21dg_u3GZdUd3nCzD6FBjveb0XM8mTwRS6W_dfg7_TR7E5rcq-9gVzocdapLLHH4XSYIKQOhf4JopzfqIBwIp7J-pIRK3vFsEd4CgjjYENX3dR0EZzji84X4dfbQwetzXmFx3XqvF-RzD27XoGUJKTcDb3tfZnBkPT4X1E39vB-GIHkkMWyWzCNSvW0dDU.</url>
+					<price cur="EUR">16.49</price>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="126088260" type="offer">
+				<label>plastica da 250 GB hard disk drive caso per Xbox 360 slim (nera)</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/126/088/D_000126088260_IT_450.jpg"/>
+				<description>plastica da 250 GB hard disk drive caso per Xbox 360 slim (nera)</description>
+				<offer oid="126088260">
+					<label>plastica da 250 GB hard disk drive caso per Xbox 360 slim (nera)</label>
+					<merchant mid="60010">
+						<label>Mini in The Box</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/60010/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=126088260&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=60010&amp;rid=396855&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSFonQxqZGp7rQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=2.76&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=4&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllxRlODiGKflylDIhX7S2Lx6RuW6U8dn6hgHc7U6wvafNTqhndpBufpUeH0l2UZpLtHzxrjJWlwEhwWYPy0WQoXp-8XgqJzLjU5BRGwDovEtWGEbn0NGiRgq3FGVEJ9T_p2swiiqSwGX45xpAm_-skfgpOdulqrITQKwM0-xvpyMgH8oHOdZ_9vL7U565JWPKpPXacJZYgKzHxYa588b4hApS4-9VcK54O_p-2FW5FpnVlot9aOTnQbv1OyQWq0xrSW1yQJE6MdS5AIG4oi9g2EaniM--_u3JrE_Smt6dHf_CGQYyDTvhcReXXeH14HnJvKzKpkCGb9kgOX5OFvaBqXEEUXeq181iRx6qju8Uwz6aMne0h-UY83OD_SJzmDbHnR6SfJGRhoEARHVA5u5W6aba8Av4etk1-XVD_ztImYczohbJwJ0kMVnwZCWBXJVj1wRIlxkNxBz_EraELCVCu5t7CkgUhpdJErkoklvHzzElRdwAc7e4VTxSJ2FWB2rNu-kQvArHnBmkEUayITR-TJr1INS_A53yj5hzFIiVZAHU.</url>
+					<price cur="EUR">2.76</price>
+					<price-info cur="EUR" type="total">2.98</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.22">€ 0,22</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="128011276" type="offer">
+				<label>10pcs Replacement Anti-Slip Silicone Analog Cap Covers for PS4/XBOX One Controller</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/128/011/D_000128011276_IT_450.jpg"/>
+				<description>Per:Xbox 360 PS4; Tipo di accessori:Kit di accessori; Caratteristiche:Novità;
+					Colore:Multicolore; Materiale:Silicone; Dimensioni(cm):5.0 x 5.0 x 3.0; Peso (kg):0.005; Cosa
+					contiene il pacco:1 kit accessori
+				</description>
+				<offer oid="128011276">
+					<label>10pcs Replacement Anti-Slip Silicone Analog Cap Covers for PS4/XBOX One Controller</label>
+					<merchant mid="105642">
+						<label>Miniinthebox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/105642/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=128011276&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=105642&amp;rid=M1710273&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSHlxBVptItEMw..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=2.29&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=5&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqg9MuG17xmUKKX-dM0p6ODw.</url>
+					<price cur="EUR">2.29</price>
+					<price-info cur="EUR" type="old">3.65</price-info>
+					<price-info cur="EUR" type="total">2.29</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">€ 0,00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="126089307" type="offer">
+				<label>Custodia in plastica per Hard Disk 320 GB per Xbox 360 Slim - Nero</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/126/089/D_000126089307_IT_450.jpg"/>
+				<description>Custodia in plastica per Hard Disk 320 GB per Xbox 360 Slim - Nero</description>
+				<offer oid="126089307">
+					<label>Custodia in plastica per Hard Disk 320 GB per Xbox 360 Slim - Nero</label>
+					<merchant mid="60010">
+						<label>Mini in The Box</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/60010/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=126089307&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=60010&amp;rid=470042&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSFonQxqZGp7rQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=9.19&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=6&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllxRlODiGKflylDIhX7S2Lx6RuW6U8dn6hgHc7U6wvafNTqhndpBufpUeH0l2UZpLtHzxrjJWlwEhwWYPy0WQoXp-8XgqJzLjU5BRGwDovEtWGEbn0NGiRgq3FGVEJ9T_p2swiiqSwGX45xpAm_-skfgpOdulqrITQKwM0-xvpyMgH8oHOdZ_9vL7U565JWPKpPXacJZYgKzHxYa588b4hApS4-9VcK54O_p-2FW5FpnVlot9aOTnQbv1OyQWq0xrSW1yQJE6MdS5AIG4oi9g2EaniM--_u3JrE_Smt6dHf_CGQYyDTvhcReXXeH14HnJvKzKpkCGb9kgOX5OFvaBqXEEUXeq181iRx6qju8Uwz6aMne0h-UY83OD_SJzmDbHnR6SfJGRhoEARHVA5u5W6aba8Av4etk1-XVD_ztImYczohbJwJ0kMVnwZCWBXJVj1wRIlxkNxBz9o9JOUz2ambQsRotLFUOpRxZJURs4aDJPjeSyqUONNdAMuvu2ibXP19VOH93PYuKuaGFLVOCj6q2IUok15Jd3GDDJ0uaB85mBA5vDqZhC0Ug..</url>
+					<price cur="EUR">9.18</price>
+					<price-info cur="EUR" type="total">9.46</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.28">€ 0,28</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="126105012" type="offer">
+				<label>Custodia sostitutiva stile fibra di carbonio per controller wireless Xbox 360 - Nero</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/126/105/D_000126105012_IT_450.jpg"/>
+				<description>Custodia sostitutiva stile fibra di carbonio per controller wireless Xbox 360 - Nero
+				</description>
+				<offer oid="126105012">
+					<label>Custodia sostitutiva stile fibra di carbonio per controller wireless Xbox 360 - Nero</label>
+					<merchant mid="55953">
+						<label>Light in the Box</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/55953/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=126105012&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=55953&amp;rid=350775&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSFonQxqZGp7rQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=16.49&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=7&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllxRlODiGKflylDIhX7S2Lx6RuW6U8dn6hgHc7U6wvafNTqhndpBufpbHiDiJmePCvU9q_JsPj5g8JxtNzRO6PETbTvEq-tZHskZjXh74ETReJWpvFOH8zJXekg4hM8k6z5hZOKZOIBlnLnLAg5Ng52gACtBd_7fj8eoMgOKD4vMzsglw7hl1UNF9Zcr5DnZY4FAaN6IURIztxSFilQnqIulDZIC0x1c1BpD2Z5klNXA3J2R9CWY2glf6g7vEbGnvnd6_wr52o8cffCzoCPjFlrPNQLKMlCCVUElTMkquUROYk_PW-J8EvyLXF-uANdfeQWxHd1QXwZYNerU0cYf94mQCD9IOBxtuXNjcnzSUffqdnE21dg_u3GZdUd3nCzD6FBjveb0XM8mTwRS6W_dfg7_TR7E5rcq-9gVzocdapLLHH4XSYIKQOhf4JopzfqIBwIp7J-pIRK3viusHF4rhoUe6GBr6UCb4G2oLDDyF3VwAWPwHliiVIbaO5LeR2ydepN5I-91eGFVaTTW0JeL9DYEKEZkn2bO1ymhace7GMjg9it-Zys1azkdoaEUsjtMIMQn3_jpzQ0bvUdlidkcx42A..</url>
+					<price cur="EUR">16.49</price>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="126091533" type="offer">
+				<label>Set di Joystick di ricambio per Xbox 360 Controller (2-pack, colori assortiti)</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/126/091/D_000126091533_IT_450.jpg"/>
+				<description>Set di Joystick di ricambio per Xbox 360 Controller (2-pack, colori assortiti)
+				</description>
+				<offer oid="126091533">
+					<label>Set di Joystick di ricambio per Xbox 360 Controller (2-pack, colori assortiti)</label>
+					<merchant mid="60010">
+						<label>Mini in The Box</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/60010/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=126091533&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=60010&amp;rid=590911&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSFonQxqZGp7rQ..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=0.35&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=8&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllxRlODiGKflylDIhX7S2Lx6RuW6U8dn6hgHc7U6wvafNTqhndpBufpUeH0l2UZpLtHzxrjJWlwEhwWYPy0WQoXp-8XgqJzLjU5BRGwDovEtWGEbn0NGiRgq3FGVEJ9T_p2swiiqSwGX45xpAm_-skfgpOdulqrITQKwM0-xvpyMgH8oHOdZ_9vL7U565JWPKpPXacJZYgKzHxYa588b4hApS4-9VcK54O_p-2FW5FpnVlot9aOTnQbv1OyQWq0xrSW1yQJE6MdS5AIG4oi9g2EaniM--_u3JrE_Smt6dHf_CGQYyDTvhcReXXeH14HnJvKzKpkCGb9kgOX5OFvaBqXEEUXeq181iRx6qju8Uwz6aMne0h-UY83OD_SJzmDbHnR6SfJGRhoEARHVA5u5W6aba8Av4etk1-XVD_ztImYczohbJwJ0kMVnwZCWBXJVj1wRIlxkNxBz-Y1LG-TFr1yrfQdh04sy_G5eHFj2zAGJmEDcP7UhLXZONIsr-s9jDlt_pZfVCaqwY_xB_0EoJZyYUheFm_34nQIPbiIu239YnXErMdkvht0RmUB-n3Lr6ZqE2Vk9GddOM.</url>
+					<price cur="EUR">0.35</price>
+					<price-info cur="EUR" type="total">0.38</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.03">€ 0,03</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="130859816" type="offer">
+				<label>Controller dual shock cablata per xbox 360</label>
+				<category cid="108887">
+					<label>Accessori Console</label>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="D" height="100" width="100"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/130/859/D_000130859816_IT_450.jpg"/>
+				<description>Per:Xbox 360; Tipo di accessori:Controller; Interfaccia:Con fili; Collegamento:USB;
+					Caratteristiche:Novità; Colore:Nero; Materiale:Plastica; Dimensioni(cm):15.0 x 10.0 x 5.0; Peso
+					(kg):0.25; Cosa contiene il pacco:1 controller
+				</description>
+				<offer oid="130859816">
+					<label>Controller dual shock cablata per xbox 360</label>
+					<merchant mid="105642">
+						<label>Miniinthebox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/105642/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=130859816&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=105642&amp;rid=M1818863&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSHlxBVptItEMw..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=13.99&amp;kw=xbox&amp;tp=ot%3AEX&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=9&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqrE12SdWIduLvkDCB4VqMzk.</url>
+					<price cur="EUR">13.99</price>
+					<price-info cur="EUR" type="old">22.01</price-info>
+					<price-info cur="EUR" type="total">13.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">€ 0,00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<sort-orders n="3">
+				<sort-order direction="DESC" srt="rel" name="Pertinenza" type="query"/>
+				<sort-order direction="ASC" srt="pa" name="Prezzo: dal più basso" type="query"/>
+				<sort-order direction="DESC" srt="pd" name="Prezzo: dal più alto" type="query"/>
+			</sort-orders>
+			<paging n="7" total="10" pge="10">
+				<page rel="FIRST" pgn="1" name="query" type="query"/>
+				<page rel="CURRENT" pgn="1" name="query" type="query"/>
+				<page rel="NEXT" pgn="2" name="query" type="query"/>
+				<page pgn="3" name="query" type="query"/>
+				<page pgn="4" name="query" type="query"/>
+				<page pgn="5" name="query" type="query"/>
+				<page rel="LAST" pgn="10" name="query" type="query"/>
+			</paging>
+		</product-results>
+	</product-results-module>
+	<popular-products-module>
+		<params/>
+		<popular-products n="2">
+			<product nr-of-offers="1" nr-of-merchants="1" oid="133295676" type="offer">
+				<label>dual-shock controller wireless 3 bluetooth per ps3 (nero)</label>
+				<category nr-of-products="1" nr-of-offers="725" parent-cid="64281" cid="108887">
+					<label>Accessori Console</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/133/295/B_000133295676_IT_450.jpg"/>
+				<description>Per:Sony PS3; Tipo di accessori:Controller; Interfaccia:Senza fili; Collegamento:Bluetooth;
+					Caratteristiche:Novità; Materiale:Plastica; Dimensioni(cm):16.0 x 10.0 x 6.0; Peso (kg):0.17; Cosa
+					contiene il pacco:1 controller
+				</description>
+				<offer oid="133295676">
+					<label>dual-shock controller wireless 3 bluetooth per ps3 (nero)</label>
+					<merchant mid="105642">
+						<label>Miniinthebox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/105642/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=133295676&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=105642&amp;rid=M1717361&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSHlxBVptItEMw..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=8.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqlAYUk8ozovk9vLKeHNcrCs.</url>
+					<price cur="EUR">8.99</price>
+					<price-info cur="EUR" type="old">16.99</price-info>
+					<price-info cur="EUR" type="total">8.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">€ 0,00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+			<product nr-of-offers="1" nr-of-merchants="1" oid="133295676" type="offer">
+				<label>dual-shock controller wireless 3 bluetooth per ps3 (nero)</label>
+				<category nr-of-products="1" nr-of-offers="725" parent-cid="64281" cid="108887">
+					<label>Accessori Console</label>
+					<category-attributes n="0"/>
+				</category>
+				<product-codes n="0"/>
+				<image type="NORMAL" name="B" height="40" width="40"
+				       source="http://images.pangora.com/foxydeal_it/images/offers/IT/450/000/133/295/B_000133295676_IT_450.jpg"/>
+				<description>Per:Sony PS3; Tipo di accessori:Controller; Interfaccia:Senza fili; Collegamento:Bluetooth;
+					Caratteristiche:Novità; Materiale:Plastica; Dimensioni(cm):16.0 x 10.0 x 6.0; Peso (kg):0.17; Cosa
+					contiene il pacco:1 controller
+				</description>
+				<offer oid="133295676">
+					<label>dual-shock controller wireless 3 bluetooth per ps3 (nero)</label>
+					<merchant mid="105642">
+						<label>Miniinthebox</label>
+						<image height="20" width="60"
+						       source="http://images.pangora.com/foxydeal_it/images/merchants/p/105642/60x20.gif"/>
+					</merchant>
+					<url>http://clicks.pangora.com/purchaseRedirect.do?p=20001326&amp;c=108887&amp;o=133295676&amp;che=cGFuZ29yYSFn2KNSuS1VS9Jqw9oQNoon&amp;m=105642&amp;rid=M1717361&amp;ver=2.0&amp;market=it&amp;man=&amp;ser=2708&amp;pc=20001326&amp;pcat=25927&amp;abob=cGFuZ29yYSHlxBVptItEMw..&amp;abobcur=EUR&amp;ts=MjAxNTA0MTUtMTA0MzQ4&amp;piid=&amp;page=&amp;tile=&amp;elem=&amp;pistate=&amp;r=0&amp;docgrp=&amp;docnam=&amp;cpctx=&amp;op=8.99&amp;kw=xbox&amp;tp=ot%3APOP&amp;UG=CS_3&amp;serviceName=livexml_3.1&amp;pos=-1&amp;dle=cGFuZ29yYSFVoAFC-npqKmOYDb1e9NllpXdGIBltdKm2XTwP3gTHl05faVqpZdo4Ja-T9OrwNd0bztv6ARnRqlAYUk8ozovk9vLKeHNcrCs.</url>
+					<price cur="EUR">8.99</price>
+					<price-info cur="EUR" type="old">16.99</price-info>
+					<price-info cur="EUR" type="total">8.99</price-info>
+					<delivery>
+						<period flag="UNKNOWN"/>
+						<charge cur="EUR" price="0.00">€ 0,00</charge>
+					</delivery>
+					<offer-attributes/>
+				</offer>
+			</product>
+		</popular-products>
+	</popular-products-module>
+	<document-info service-id="2708" channel-id="foxydeal_it" host="foxydeal-it" msecs="42">
+		<tracking>
+			<tracking-data totalNumber="99">xbox</tracking-data>
+			<tracking-image height="1" width="1" source="http://it.channel.become.eu/livexml/3.1/tr/lxtrimg.gif"/>
+			<tracking-script type="text/javascript">&lt;script type="text/javascript"
+				src="http://it.channel.become.eu/livexml/3.1/tr/lxtrscript.js"&gt;&lt;/script&gt;
+				&lt;noscript&gt;&lt;div&gt;&lt;img src="http://it.channel.become.eu/livexml/3.1/tr/lxtrimg.gif" alt=""
+				style="height: 1px; width: 1px;"/&gt;&lt;/div&gt;&lt;/noscript&gt;</tracking-script>
+		</tracking>
+		<cache-control expires="2015-04-15T10:48:48.651+02:00" max-age="300">
+			<last-modified>2015-04-15T10:43:48.651+02:00</last-modified>
+			<etag>MjAxNTA0MTUxfHwxNDI5MDg3NDI4NjUx</etag>
+		</cache-control>
+	</document-info>
+</dynamic-data>

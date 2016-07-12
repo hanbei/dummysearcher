@@ -1,0 +1,2481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="150338" firstResultPosition="1" totalResultsReturned="50" currency="EUR" totalMerchantsAvailable="67" searchOperator="and">
+		<Product>
+			<Offer id="2b288b89ecd03068bd59c548cd0a23ab" type="MANUFACTURER_PRODUCTS">
+				<Title>Mobile Action i-GotU  hartslagmeter</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/3426301/100471323/90/90/http%3A%2F%2Fs.s-bol.com%2Fimgbase0%2Fimagebase%2Fregular%2FFC%2F8%2F1%2F3%2F4%2F9200000010834318.jpg/P21FHsTQDRJUlgjeV_64Hx4E2UvLZyJt2HV5rmdPm_k-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/3426301/100471323/auto/auto/http%3A%2F%2Fs.s-bol.com%2Fimgbase0%2Fimagebase%2Fregular%2FFC%2F8%2F1%2F3%2F4%2F9200000010834318.jpg/P21FHsTQDRJUlgjeV_64Hx4E2UvLZyJt2HV5rmdPm_k-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129472&amp;.sig=M_0xhknXnLMbVxsOMbHOsRlbXTI-&amp;offerId=2b288b89ecd03068bd59c548cd0a23ab&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3426301&amp;comId=3426301&amp;catId=100471323&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="3426301">
+					<Name>bol.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3426301/bol_com_logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100471323">
+					<Name>Sport &amp; Fitness</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>49.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>49.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4711246110922</Ean>
+				<MerchantCategory>telefonie  Accessoires  Overig</MerchantCategory>
+				<Brand>Mobile Action</Brand>
+				<BrandId>20075</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a9381f12ee7b3331624193776df0d548" type="MANUFACTURER_PRODUCTS">
+				<Title>ECCO Mobile Ii</Title>
+				<Description>Een casual damesschoen gemaakt van lichtgewicht leer voor optimaal comfort. Volledig gevoerd voor extra comfort. Bevat een GORE-TEX® membraan zodat uw voeten warm en droog blijven gedurende de hele dag. De binnenzool is uitneembaar voor extra duurzaamheid en hygiëne. Kortom een uniek ontwerp welke comfort en</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11587813/109401/90/90/http%3A%2F%2Fimages.booztx.com%2Fecco%2F350%2Fec202633_blackblack_53994.jpg/uSGCStT9T2FhCh_G.OkBDwgZle_rDlYjEe1hZDhlTfI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11587813/109401/auto/auto/http%3A%2F%2Fimages.booztx.com%2Fecco%2F350%2Fec202633_blackblack_53994.jpg/uSGCStT9T2FhCh_G.OkBDwgZle_rDlYjEe1hZDhlTfI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129473&amp;.sig=gR8ngUdw_wGDl5llox02ZBr3IOs-&amp;offerId=a9381f12ee7b3331624193776df0d548&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11587813&amp;comId=11587813&amp;catId=109401&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11587813">
+					<Name>ecco</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11587813/ECCO_LOGO_POS-2.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="109401">
+					<Name>Damesschoenen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>109.95</Price>
+					<DeliveryCost>4.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>114.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-4 Dagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Women - Casual</MerchantCategory>
+				<Brand>ECCO</Brand>
+				<BrandId>1013</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="844bd064bee53498dd95c4f2e85740ae" type="MANUFACTURER_PRODUCTS">
+				<Title>Ecco Mobile leren dames schoenen</Title>
+				<Description>Ecco sneaker voor dames uit de Ecco collectie, type Ecco Mobile II. Deze comfortabele schoen is zowel van binnen als van buiten van soepel leer gemaakt en sluit met een veter. De binnenzool is uitneembaar.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11286623/109401/90/90/http%3A%2F%2Fwww.scapino.nl%2Fimages%2Fcatalog%2Fproduct%2F343x343%2F015390851_01.jpg/S7B60.KOmuiJOAS_3rg7TxKfHbtwmqRIpMZlCJwU9fo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11286623/109401/auto/auto/http%3A%2F%2Fwww.scapino.nl%2Fimages%2Fcatalog%2Fproduct%2F343x343%2F015390851_01.jpg/S7B60.KOmuiJOAS_3rg7TxKfHbtwmqRIpMZlCJwU9fo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129473&amp;.sig=c2dXkq.x883PDqJSvstzmwfmEyQ-&amp;offerId=844bd064bee53498dd95c4f2e85740ae&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11286623&amp;comId=11286623&amp;catId=109401&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11286623">
+					<Name>Scapino</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11286623/scapino logo 80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="109401">
+					<Name>Damesschoenen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>94.99</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>94.99</TotalPrice>
+					<PriceWithoutRebate>99.99</PriceWithoutRebate>
+					<Rebate>6</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>|Schoenen Comfort schoenen</MerchantCategory>
+				<Brand>Ecco</Brand>
+				<BrandId>1013</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c0ca573a987f202aed6275be1cb22f7f" type="MANUFACTURER_PRODUCTS">
+				<Title>Solar Mobile Charger met ingebouwde Lithium batterij voor camera MP3 / 4</Title>
+				<Description>Zonne-energie bediening Model:YG-010; Stroom (A):200mAh</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12002513/100565213/90/90/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201311%2Fygszaa1385344925117.jpg/e0.0osFvIDmb77VXx9MR3h.x9BWShy09kVgvRJhRMrw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12002513/100565213/auto/auto/http%3A%2F%2Fminiimg.rightinthebox.com%2Fimages%2Fl%2F201311%2Fygszaa1385344925117.jpg/e0.0osFvIDmb77VXx9MR3h.x9BWShy09kVgvRJhRMrw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129473&amp;.sig=h8LMbGBMnFHg9LQXaKMH2clTAFA-&amp;offerId=c0ca573a987f202aed6275be1cb22f7f&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12002513&amp;comId=12002513&amp;catId=100565213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12002513">
+					<Name>Mini In The Box</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12002513/MINI.GIF</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100565213">
+					<Name>Elektronische componenten</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>43.42</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>43.42</TotalPrice>
+					<PriceWithoutRebate>57.9</PriceWithoutRebate>
+					<Rebate>26</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>zie website</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Batterijen &amp; Opladers  Zonne-energie bediening</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2ecb0bc8749e873f2d4372b9088219c6" type="MANUFACTURER_PRODUCTS">
+				<Title>Befedo Mobile 60 tabletten</Title>
+				<Description>Befedo Mobile, voedingssupplement in geval van groeistoornissen, vooral bij jonge opgroeiende honden van grote rassen.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11883813/142101/90/90/http%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fmedpetsimg2.s3.amazonaws.com%2Fimages%2Fproducts_variants%2Finformatie_over_befedo_mobile_60_tabletten_bestellen_medpets_nl_3_1370953014_8544.jpg/S7hCOfnBnPjPHlEBKVXYmfXDrU_x5CZtORMhKkVMLDU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11883813/142101/auto/auto/http%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fmedpetsimg2.s3.amazonaws.com%2Fimages%2Fproducts_variants%2Finformatie_over_befedo_mobile_60_tabletten_bestellen_medpets_nl_3_1370953014_8544.jpg/S7hCOfnBnPjPHlEBKVXYmfXDrU_x5CZtORMhKkVMLDU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129474&amp;.sig=2VKVWRzqDQINj9qAswbjNJRQHbU-&amp;offerId=2ecb0bc8749e873f2d4372b9088219c6&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11883813&amp;comId=11883813&amp;catId=142101&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11883813">
+					<Name>medpets.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11883813/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="142101">
+					<Name>Dierenbenodigdheden &amp; Diervoeding</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>34.25</Price>
+					<DeliveryCost>2.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>2.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>37.2</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8715885001234</Ean>
+				<MerchantCategory>HONDEN Gewrichten - Beweging - HD Befedo Mobile</MerchantCategory>
+				<Brand>Befedo Mobile</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d27d19a43c652d1b01812edb819e27dd" type="MANUFACTURER_PRODUCTS">
+				<Title>T-Mobile Galaxy Young Blauw</Title>
+				<Description>T-Mobile Samsung Galaxy Young, 83.1 mm (3.27 "), 320 x 480 Pixels, TFT, 1 GHz, 768 MB, 4 GB</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12945513/100020213/90/90/http%3A%2F%2Fwww.dixons.nl%2Fimages%2F510686.png/JwgnCxQM1uM3z1xaqHDwcVyfhPsD_j3f4ipMfM11bEg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12945513/100020213/auto/auto/http%3A%2F%2Fwww.dixons.nl%2Fimages%2F510686.png/JwgnCxQM1uM3z1xaqHDwcVyfhPsD_j3f4ipMfM11bEg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129474&amp;.sig=8SSI4ZSe9yCK.1iZHJYyry7SX2U-&amp;offerId=d27d19a43c652d1b01812edb819e27dd&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12945513&amp;comId=12945513&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.nl/p-gsm-telefoon-100020213/samsung-galaxy-young-s6310-19858159?partnerId=96947099</CompareUrl>
+				<Merchant id="12945513">
+					<Name>Dixons</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12945513/80x24_dixons.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19858159</CatalogID>
+				<Catalog productId="19858159" categoryId="100020213">
+					<Name>Samsung Galaxy Young S6310</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Gsm telefoon</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>69.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>69.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Langer dan 5 dagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8715872093280</Ean>
+				<MerchantCategory>Telecom Telefoons Prepaid Prepaid Toestel</MerchantCategory>
+				<Brand>T-Mobile</Brand>
+				<BrandId>2762</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4426a54c6739e05c4d5f06960d550d55" type="MANUFACTURER_PRODUCTS">
+				<Title>T-Mobile web'n'walk Express</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12944713/100293723/90/90/http%3A%2F%2Fwww.mycom.nl%2Fimages%2F5735.png/aEthRFvlpylmEOi8NY1LIY4iG0Ub2FK_GoymXovksHU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12944713/100293723/auto/auto/http%3A%2F%2Fwww.mycom.nl%2Fimages%2F5735.png/aEthRFvlpylmEOi8NY1LIY4iG0Ub2FK_GoymXovksHU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129474&amp;.sig=Bu..lyyQ_srkYHsXSce.LKNzylA-&amp;offerId=4426a54c6739e05c4d5f06960d550d55&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944713&amp;comId=12944713&amp;catId=100293723&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12944713">
+					<Name>Mycom</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944713/80x24_mycom.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100293723">
+					<Name>Netwerkkaarten</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>24.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1 dag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8715872617073</Ean>
+				<MerchantCategory>Desktops &amp; Randapparatuur Netwerk &amp; Internet Netwerkkaarten &amp; -Adapters</MerchantCategory>
+				<Brand>T-Mobile</Brand>
+				<BrandId>3243</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9c43874389585509310924900b90ac7a" type="MANUFACTURER_PRODUCTS">
+				<Title>T-Mobile Samsung E1190 - Grijs - T-Mobile prepaid telefoon</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11545213/100020213/90/90/http%3A%2F%2Fwww.bol.com%2Fimgbase0%2Fimagebase%2Fregular%2FFC%2F6%2F5%2F6%2F9%2F9005000011699656.jpg/b0S2zQy3AkCSCWq1.W8WYdIFb6zAIPlF66GarEXbsJQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11545213/100020213/auto/auto/http%3A%2F%2Fwww.bol.com%2Fimgbase0%2Fimagebase%2Fregular%2FFC%2F6%2F5%2F6%2F9%2F9005000011699656.jpg/b0S2zQy3AkCSCWq1.W8WYdIFb6zAIPlF66GarEXbsJQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129475&amp;.sig=L1wHYmy8IlZRfJljFPJjzqFPfc8-&amp;offerId=9c43874389585509310924900b90ac7a&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11545213&amp;comId=11545213&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.nl/p-gsm-telefoon-100020213/samsung-e1190-19737294?partnerId=96947099</CompareUrl>
+				<Merchant id="11545213">
+					<Name>Bol.com plaza</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11545213/bol.com logo-plaza.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19737294</CatalogID>
+				<Catalog productId="19737294" categoryId="100020213">
+					<Name>Samsung E1190</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Gsm telefoon</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>32.26</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>32.26</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8715872092399</Ean>
+				<MerchantCategory>telefonie  Prepaid  Prepaidpakketten</MerchantCategory>
+				<Brand>T-Mobile</Brand>
+				<BrandId>2762</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f73c9b4754cb3b561576445a84ec5453" type="MANUFACTURER_PRODUCTS">
+				<Title>Only MOBILE WOOL COAT OTW</Title>
+				<Description>Lange jas, bevat wol Het jack is open en heeft geen sluiting. 2 zakken aan de voorkant. Ronde hals. Loose fit. Geruit motief. Lengte: 82 cm in maat M. Het model is 176 lang en draagt maat S.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/100060713/108301/90/90/http%3A%2F%2Fimage.otto.nl%2Fis%2Fasset%2Fmmo%2Fformata%2F12915679.jpg/viECy_gCXz6XXOFJMen.aRVzA.5mhLWywm.0S9azWhE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/100060713/108301/auto/auto/http%3A%2F%2Fimage.otto.nl%2Fis%2Fasset%2Fmmo%2Fformata%2F12915679.jpg/viECy_gCXz6XXOFJMen.aRVzA.5mhLWywm.0S9azWhE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129475&amp;.sig=A0sCURKnL7ga.5L_YunsrHaVo0s-&amp;offerId=f73c9b4754cb3b561576445a84ec5453&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=100060713&amp;comId=100060713&amp;catId=108301&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="100060713">
+					<Name>OTTO</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/100060713/OTTO_logo_80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108301">
+					<Name>Dameskleding</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>79.95</Price>
+					<DeliveryCost>5.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>85.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5712413567319</Ean>
+				<MerchantCategory>Dames Jassen Wollen mantels</MerchantCategory>
+				<Brand>ONLY</Brand>
+				<BrandId>16149</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7a5b529feb597dd2ef092804158d24f3" type="MANUFACTURER_PRODUCTS">
+				<Title>ORTLIEB Mobile Guide voor ULTIMATE 6</Title>
+				<Description>Beschermhoes in hoogformaat voor de smartphone, gps of pda dat met een koord direct op het deksel van de Ultimate 6M (Pro, Plus, Classic) stuurtassen kan worden bevestigd, UV-bestendige folie op de bovenzijde, scheurbestendig weefsel op de onderkant, incl. losse riemlus met snelontgrendeling. Afmetingen: ca.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13466713/100548123/90/90/http%3A%2F%2Fi101.twenga.com%2F10%2Ftp%2F39%2F07%2F7511242808737303907b.png/Ii.N_e5BNXZBdJf1QJLXihtF8cmVlrRmn1EaU_9n.KU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13466713/100548123/auto/auto/http%3A%2F%2Fi101.twenga.com%2F10%2Ftp%2F39%2F07%2F7511242808737303907b.png/Ii.N_e5BNXZBdJf1QJLXihtF8cmVlrRmn1EaU_9n.KU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129475&amp;.sig=.IkjL8dfWx5LrS4Mzf0QpO4.nnI-&amp;offerId=7a5b529feb597dd2ef092804158d24f3&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13466713&amp;comId=13466713&amp;catId=100548123&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13466713">
+					<Name>Rose Versand GmbH</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100548123">
+					<Name>Fietstassen, Manden en Aanhangers</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>30.46</Price>
+					<DeliveryCost>7.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>38.41</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Check winkel</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4013051031608</Ean>
+				<MerchantCategory>Sport - Fietssport</MerchantCategory>
+				<Brand>Ortlieb</Brand>
+				<BrandId>2336</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6d11591ed71ef27cdbd4598051c576f7" type="MANUFACTURER_PRODUCTS">
+				<Title>LIFETIME Rebound Mobile Basketballanlage</Title>
+				<Description>Verder is het toestel eenvoudig in te klappen en op te bergen. De loopband neemt weinig ruimte in en is snel en gemakkelijk te verplaatsen dankzij de transportrollers.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13331613/163801/90/90/http%3A%2F%2Fklanten.buffalo.nl%2FImages%2F7090.002_main.jpg/Zu33izB0ibHDx6MTIUdjCYr.rJ.dFUsAMihU7edYOyE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13331613/163801/auto/auto/http%3A%2F%2Fklanten.buffalo.nl%2FImages%2F7090.002_main.jpg/Zu33izB0ibHDx6MTIUdjCYr.rJ.dFUsAMihU7edYOyE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129475&amp;.sig=7SeEV4x8TY7HRrXJmn253aat8H4-&amp;offerId=6d11591ed71ef27cdbd4598051c576f7&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13331613&amp;comId=13331613&amp;catId=163801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13331613">
+					<Name>buffalo</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13331613/Buffalo-Joba-blauw.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="163801">
+					<Name>Sport Artikelen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>119</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>119</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0841101000410</Ean>
+				<MerchantCategory>BASKETBAL</MerchantCategory>
+				<Brand>LIFETIME</Brand>
+				<BrandId>42196</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b6497e8a983a12fa067ebaaf978ac74b" type="MANUFACTURER_PRODUCTS">
+				<Title>Duracell Batterijlader Mobile Traveller CEF23 Stuks</Title>
+				<Description>Duracell CEF23P mobile traveller. Deze batterijlader laadt simultaan AA- en AAA-batterijen op. Mogelijkheid om externe apparaten op te laden via USB-poort. Oplaadtijd: 2-6 uur, afhankelijk van het type batterij. Met Power Protection Circuit: automatische reset na uitnemen batterij of bij stroomuitval. Kleur:</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13080913/100565213/90/90/http%3A%2F%2Fodeu.scene7.com%2Fis%2Fimage%2Fodeu04%2F5911362%3F%24lg%24/TFOgp94u0lsIFQ5.3_fhNrCa5h_4oB0F7Ym4QreMCT0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13080913/100565213/auto/auto/http%3A%2F%2Fodeu.scene7.com%2Fis%2Fimage%2Fodeu04%2F5911362%3F%24lg%24/TFOgp94u0lsIFQ5.3_fhNrCa5h_4oB0F7Ym4QreMCT0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129476&amp;.sig=dJXx687_0swkh9mHlkigSerAQ1E-&amp;offerId=b6497e8a983a12fa067ebaaf978ac74b&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13080913&amp;comId=13080913&amp;catId=100565213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13080913">
+					<Name>Viking Direct</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13080913/vking.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100565213">
+					<Name>Elektronische componenten</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>41.13</Price>
+					<DeliveryCost>4.49</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.49</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>45.62</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Binnen 24 of 48 uur</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5000394037472</Ean>
+				<MerchantCategory>Magazijn Elektro Batterijen &amp; adapters Batterijen &amp; adapters</MerchantCategory>
+				<Brand>Duracell</Brand>
+				<BrandId>991</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9d175d5131a0d47901723afb15a640d3" type="MANUFACTURER_PRODUCTS">
+				<Title>HP Officejet Mobile Printer</Title>
+				<Description>HP Officejet Mobile Printer</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13017713/114901/90/90/https%3A%2F%2Fwww.senetic.nl%2Fi%2Fnorm%2Fg%2F8009627-3755.jpg/1eg_SXBkkx5hjzW5I6vNbC0kLrFkBnsmg3xYU5iiIaU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13017713/114901/auto/auto/https%3A%2F%2Fwww.senetic.nl%2Fi%2Fnorm%2Fg%2F8009627-3755.jpg/1eg_SXBkkx5hjzW5I6vNbC0kLrFkBnsmg3xYU5iiIaU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129476&amp;.sig=q2DmcQ_uTMTjbPVG76cBDN_PByA-&amp;offerId=9d175d5131a0d47901723afb15a640d3&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13017713&amp;comId=13017713&amp;catId=114901&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.nl/p-printers-114901/hp-officejet-100-19731405?partnerId=96947099</CompareUrl>
+				<Merchant id="13017713">
+					<Name>Senetic</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>114901-19731405</CatalogID>
+				<Catalog productId="19731405" categoryId="114901">
+					<Name>Hp Officejet 100</Name>
+				</Catalog>
+				<Category id="114901">
+					<Name>Printers</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>240.77</Price>
+					<DeliveryCost>15</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>15</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>255.77</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>5</Availability>
+				<DeliveryTime>1 tot 7 dagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885631849101</Ean>
+				<MerchantCategory>HP  Printers van HP  HP Deskjet Mobile Printer Professional</MerchantCategory>
+				<Brand>HP</Brand>
+				<BrandId>6744</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="32b28f9861f7a3e50a1616b41b3ced69" type="MANUFACTURER_PRODUCTS">
+				<Title>Franke Abfalltrennsystem Mobile Waste, Tischmülleimer 1340046244</Title>
+				<Description>Der Franke mobiler Kunststoffabfallsammler fasst 4 l.#br/# Dieser mobile Mülleimer passt genau in kleine Spülbecken.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13788213/100376523/90/90/https%3A%2F%2Fwww.kuechenhaus-online.com%2Fimages%2Fprodukte%2Fi64%2F6404-franke-abfalltrennsystem-xl.jpg/quMtGkGe4Ny3ypiPBUchiKzOfzwtmFwH4YLA5.tcuQs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13788213/100376523/auto/auto/https%3A%2F%2Fwww.kuechenhaus-online.com%2Fimages%2Fprodukte%2Fi64%2F6404-franke-abfalltrennsystem-xl.jpg/quMtGkGe4Ny3ypiPBUchiKzOfzwtmFwH4YLA5.tcuQs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129476&amp;.sig=NGvNMHxzLySY_EWon7qdgnmEHJI-&amp;offerId=32b28f9861f7a3e50a1616b41b3ced69&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13788213&amp;comId=13788213&amp;catId=100376523&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13788213">
+					<Name>Küchenhaus-Online</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100376523">
+					<Name>Keukenonderdelen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>26</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>26</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>2</Availability>
+				<DeliveryTime>Check winkel</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7612980022892</Ean>
+				<MerchantCategory>Zubehör|Reinigen &amp; Pflegen|für Spülen</MerchantCategory>
+				<Brand>Franke</Brand>
+				<BrandId>1249</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d14cc726c228a1d90196c3c88ea6ec8e" type="MANUFACTURER_PRODUCTS">
+				<Title>lightinthebox Vrouwen Mobile Messenger schoudertas trend</Title>
+				<Description>Geslacht:Vrouw; Gelegenheid:Informeel; SEIZOEN:Voor alle seizoenen; Kleur:Rood,Groen; Stof:Polyurethaan; Tastypes:Totalisator; Sluiting:Rits; Lengte(cm):25; Breedte (cm):8.5; Hoogte (cm):19.5; Netto gewicht (kg):0.6; Verzendgewicht (kg):0.65; Let op:Linning color on random</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11613213/100334223/90/90/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201404%2Fbeccvv1397639268188.jpg/U1gtoHSp3o0ZlkZcViUoDukEwk6xYRkzzOVG5wuj1SI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11613213/100334223/auto/auto/http%3A%2F%2Flitbimg.rightinthebox.com%2Fimages%2Fl%2F201404%2Fbeccvv1397639268188.jpg/U1gtoHSp3o0ZlkZcViUoDukEwk6xYRkzzOVG5wuj1SI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129477&amp;.sig=Wg2vv3QxGFPfrIOG2tiQ669X4IE-&amp;offerId=d14cc726c228a1d90196c3c88ea6ec8e&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11613213&amp;comId=11613213&amp;catId=100334223&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="11613213">
+					<Name>lightinthebox.com/nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11613213/logo lightinthebox au bon format.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Tassen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>21.65</Price>
+					<DeliveryCost>14.97</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>14.97</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>36.62</TotalPrice>
+					<PriceWithoutRebate>36.09</PriceWithoutRebate>
+					<Rebate>41</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>zie website</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Mode &amp; Kleding  Modieuze handtassen  Draagtassen</MerchantCategory>
+				<Brand>lightinthebox</Brand>
+				<BrandId>42787</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="17e604c081f393cbd65e65ba36edbc92" type="MANUFACTURER_PRODUCTS">
+				<Title>Accu-Chek Mobile Glucosemeter Teststrips (50st.)</Title>
+				<Description>Accu-Chek Mobile Glucosemeter Teststrips (50st.)  Deze strips zijn bedoeld voor de Accu-Check Mobile glucosemeter. De teststrips zijn eenvoudig in het apparaat te plaatsen en bepalen zonder extra codering of handeling uw glucose.   Het pakketje bevat een doorlopende tape met 50 teststrips, die automatisch</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/9392623/133601/90/90/http%3A%2F%2Fwww.thuistesters.nl%2Fmedia%2Fcatalog%2Fproduct%2Fa%2Fc%2Faccu-chek-mobile-cassette-met-50-testen-55-500x500.jpg/bnIWe0cFOWdonwhCrcVKT0DbWBhtIydyLED_AaU84nE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/9392623/133601/auto/auto/http%3A%2F%2Fwww.thuistesters.nl%2Fmedia%2Fcatalog%2Fproduct%2Fa%2Fc%2Faccu-chek-mobile-cassette-met-50-testen-55-500x500.jpg/bnIWe0cFOWdonwhCrcVKT0DbWBhtIydyLED_AaU84nE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129477&amp;.sig=Ud08gqGbFv9E_r4iF6A2IKiG55Y-&amp;offerId=17e604c081f393cbd65e65ba36edbc92&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9392623&amp;comId=9392623&amp;catId=133601&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9392623">
+					<Name>Thuistesters.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9392623/thuistesters.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="133601">
+					<Name>Gezondheid</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>86.19</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>86.19</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>zie website</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4015630058730</Ean>
+				<MerchantCategory>Root Thuistesters.nl, Root Thuistesters.nl  Merken, Root Thuistesters.nl  Diagnoseapparatuur, Root Thuistesters.nl  Diagnoseapparatuur  Glucose, Root Thuistesters.nl  Diagnoseapparatuur  Glucose  Meetintrumenten</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5443fd1bff8e4f228decadc07340696c" type="MANUFACTURER_PRODUCTS">
+				<Title>Samsung T-Mobile prepaid Samsung Galaxy Young 2</Title>
+				<Description>De Samsung Galaxy Young 2 is uitgerust met Android 4.4 KitKat en beschikt over een 1 GHz processor met 500 MB werkgeheugen. Het intern geheugen van 4 GB is uit te breiden met een Micro SD kaart van maximaal 32 GB. Het TFT scherm is 3.5 inch groot. Samsung heeft gekozen voor een minimaal en geraffineerd design</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/3478201/100020213/90/90/http%253A%252F%252Fi1.adis.ws%252Fi%252Fwehkamp%252F403493_pb_01%253Fw%253D500%2526h%253D500/K2vnso_tlnL3NH9wKjYxEWKET58CacNrqNbu8XaNOas-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/3478201/100020213/auto/auto/http%253A%252F%252Fi1.adis.ws%252Fi%252Fwehkamp%252F403493_pb_01%253Fw%253D500%2526h%253D500/K2vnso_tlnL3NH9wKjYxEWKET58CacNrqNbu8XaNOas-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129477&amp;.sig=7wNTRLtoa6PYbAuKu0jW_kI6GBA-&amp;offerId=5443fd1bff8e4f228decadc07340696c&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3478201&amp;comId=3478201&amp;catId=100020213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.nl/p-gsm-telefoon-100020213/samsung-galaxy-young-2-19896869?partnerId=96947099</CompareUrl>
+				<Merchant id="3478201">
+					<Name>wehkamp.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3478201/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>100020213-19896869</CatalogID>
+				<Catalog productId="19896869" categoryId="100020213">
+					<Name>Samsung Galaxy Young 2</Name>
+				</Catalog>
+				<Category id="100020213">
+					<Name>Gsm telefoon</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>82.19</Price>
+					<DeliveryCost>5.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>88.14</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>1 tot 2 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8715872094980</Ean>
+				<MerchantCategory>Mobiele telefoons</MerchantCategory>
+				<Brand>Samsung</Brand>
+				<BrandId>2762</BrandId>
+				<OtherImages>
+					<OtherImage>
+						<Image available="true">
+							<Url>http://r.kelkoo.com/r/nl/3478201/100020213/90/90/http%253A%252F%252Fi1.adis.ws%252Fi%252Fwehkamp%252F403493_eb_02%253Fw%253D500%2526h%253D500/lhmRGZjE9K9vLeEtMm95eLLwiDyk941_5hYjXCZ3o00-</Url>
+							<Height>90</Height>
+							<Width>90</Width>
+						</Image>
+						<ZoomImage available="true">
+							<Url>http://r.kelkoo.com/r/nl/3478201/100020213/auto/auto/http%253A%252F%252Fi1.adis.ws%252Fi%252Fwehkamp%252F403493_eb_02%253Fw%253D500%2526h%253D500/lhmRGZjE9K9vLeEtMm95eLLwiDyk941_5hYjXCZ3o00-</Url>
+						</ZoomImage>
+					</OtherImage>
+				</OtherImages>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7bb4473c8005449c3fb951bdc3e0846c" type="MANUFACTURER_PRODUCTS">
+				<Title>Molicare Slip mobile X large 14st</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13486413/133601/90/90/http%3A%2F%2Fd3k9jb403r734p.cloudfront.net%2Fcache%2Fimages%2Fholland-pharma-814337.400x400.90.Lanczos3.no.no.0.jpg/9YRbuUBzezrXMGBL3EzW1kVxs9iLMl8bgpGs9ToRzjA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13486413/133601/auto/auto/http%3A%2F%2Fd3k9jb403r734p.cloudfront.net%2Fcache%2Fimages%2Fholland-pharma-814337.400x400.90.Lanczos3.no.no.0.jpg/9YRbuUBzezrXMGBL3EzW1kVxs9iLMl8bgpGs9ToRzjA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129478&amp;.sig=JSxrHEmaILD9UA3di7XwIO1K0QA-&amp;offerId=7bb4473c8005449c3fb951bdc3e0846c&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13486413&amp;comId=13486413&amp;catId=133601&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="13486413">
+					<Name>De Weegschaal GezondheidsWinkel</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13486413/logo-weegschaal80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="133601">
+					<Name>Gezondheid</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>31.36</Price>
+					<DeliveryCost>5.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>37.31</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 tot 2 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4049500608510</Ean>
+				<MerchantCategory>Hygiene en papier Incontinentie</MerchantCategory>
+				<Brand>Molicare</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d563f859c81de759cdd1cccd7ea7e07c" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Sonic Mobil 250 speaker Zilver</Title>
+				<Description>2 jaar garantie. Gratis verzending bij  EUR 25,- + met iDEAL betaald.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/3482701/110601/90/90/http%3A%2F%2Fwww.conrad.nl%2Fmedias%2Fglobal%2Fce%2F9000_9999%2F9000%2F9080%2F9084%2F908471_BB_00_FB.EPS_250.jpg/q2J5UEVOERO.fzXWaVUn3w8WzQtHfGx_gMKLSYYsy0w-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/3482701/110601/auto/auto/http%3A%2F%2Fwww.conrad.nl%2Fmedias%2Fglobal%2Fce%2F9000_9999%2F9000%2F9080%2F9084%2F908471_BB_00_FB.EPS_250.jpg/q2J5UEVOERO.fzXWaVUn3w8WzQtHfGx_gMKLSYYsy0w-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129478&amp;.sig=eiZ0jsZSW35qbfUhRy9b2YhsQts-&amp;offerId=d563f859c81de759cdd1cccd7ea7e07c&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=3482701&amp;comId=3482701&amp;catId=110601&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="3482701">
+					<Name>Conrad Electronic</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/3482701/logo2_conrad.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="110601">
+					<Name>Computer Speakers</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>19.99</Price>
+					<DeliveryCost>6.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>26.94</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-4 dagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4007249528209</Ean>
+				<MerchantCategory>Multimedia  MP3 &amp; MP4  MP3-/MP4-speler toebehoren  Mobiele speakers</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c9a7bd8e382fe3c0ef690d24be0742b5" type="MANUFACTURER_PRODUCTS">
+				<Title>Taf Toys Mobile Butterflies</Title>
+				<Description>Taf Toys Mobile ButterfliesDeze prachtige, gekleurde muziekmobiel heeft veel handige functies. De contrasterende kleuren zijn al herkenbaar voor pasgeboren baby's, de heldere kleuren voor baby's vanaf 3 maanden. De vlinders draaien vrolijk rond op eacute;eacute;n van de 7 klassieke muziekjes of</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11600513/168301/90/90/http%3A%2F%2Fwww.babypark.nl%2Fmedia%2Fcatalog%2Fproduct%2F_%2F1%2F_10655_stereo_mobile_butterflies_2.jpg/4t7FXKi_WQlpMNzz4iezOdU9uhcs_WbSXIfFzeAGTrg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11600513/168301/auto/auto/http%3A%2F%2Fwww.babypark.nl%2Fmedia%2Fcatalog%2Fproduct%2F_%2F1%2F_10655_stereo_mobile_butterflies_2.jpg/4t7FXKi_WQlpMNzz4iezOdU9uhcs_WbSXIfFzeAGTrg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129478&amp;.sig=vEbbX.nYwIOLrcMQU53H5xm71co-&amp;offerId=c9a7bd8e382fe3c0ef690d24be0742b5&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11600513&amp;comId=11600513&amp;catId=168301&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11600513">
+					<Name>Babypark</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11600513/Babypark.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168301">
+					<Name>Babyspeelgoed</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>73.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>73.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>zie website</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0605566106557</Ean>
+				<MerchantCategory>Speelgoed  Cadeau&amp;#039;s - Muziekmobiel</MerchantCategory>
+				<Brand>Taf Toys</Brand>
+				<BrandId>37919</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4fcab2675ee3a9243e4adb5807f39bc6" type="MANUFACTURER_PRODUCTS">
+				<Title>Monster Cable Mobile High Performance USB to Micro USB Cable High Speed 1.5ft/45cm</Title>
+				<Description>De Monster Mobile High Performance USB naar Micro USB kabel 1.5ft/45cm zorgt voor een snelle en betrouwbare gegevensoverdracht. Deze high speed usb-kabel levert een bandbreedte van 1.5 maal hoger dan de normale industriespecificaties. Kenmerken: Geschatte</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12258813/100434023/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F40000%2FF160%2F000%2F018%2F101%2F18101229.jpg/DxRJEBlrIg2NV5b.hvIyP9mcDJQpN.ALTeOfJJTcxM8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12258813/100434023/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F40000%2FF160%2F000%2F018%2F101%2F18101229.jpg/DxRJEBlrIg2NV5b.hvIyP9mcDJQpN.ALTeOfJJTcxM8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129479&amp;.sig=9FhZYvrcRJHoztdYqJwKIJ5BYt8-&amp;offerId=4fcab2675ee3a9243e4adb5807f39bc6&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12258813&amp;comId=12258813&amp;catId=100434023&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12258813">
+					<Name>Vergelijk de prijzen</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12258813/ritel.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100434023">
+					<Name>Muziekinstrumenten accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>19.95</Price>
+					<DeliveryCost>3.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>23.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 tot 3 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0050644638091</Ean>
+				<MerchantCategory>Kabels USB-kabels</MerchantCategory>
+				<Brand>Monster Cable</Brand>
+				<BrandId>2142</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4e46023358bcad3eecfb4432e0e4ee96" type="MANUFACTURER_PRODUCTS">
+				<Title>Hansgrohe I-control mobile basisgarnituur 15941180</Title>
+				<Description>Zu diesem Artikel liegt keine Beschreibung vor.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11867913/100567813/90/90/http%3A%2F%2Fwww.afb-24.eu%2Fmedia%2Fimages%2Fhgb15941_big.GIF/ZHgCJGr2_U3JXU4uFzYBJ4uetCIOegd4Op3_5gv0xec-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11867913/100567813/auto/auto/http%3A%2F%2Fwww.afb-24.eu%2Fmedia%2Fimages%2Fhgb15941_big.GIF/ZHgCJGr2_U3JXU4uFzYBJ4uetCIOegd4Op3_5gv0xec-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129479&amp;.sig=DBok4h0m.9P9PRls2aYcif6zFa0-&amp;offerId=4e46023358bcad3eecfb4432e0e4ee96&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11867913&amp;comId=11867913&amp;catId=100567813&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11867913">
+					<Name>afb-24.eu</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11867913/Grafik1.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100567813">
+					<Name>Sanitair</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>169.61</Price>
+					<DeliveryCost>10</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>10</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>179.61</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4011097583471</Ean>
+				<MerchantCategory>Sanitair</MerchantCategory>
+				<Brand>Hansgrohe</Brand>
+				<BrandId>14090</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="acf64154bc6b61abb43842c44592a016" type="MANUFACTURER_PRODUCTS">
+				<Title>Flensted Mobiles Cyclephants mobile - multi</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13729813/136001/90/90/http%253A%252F%252Fwww.designonline.se%252FProducts%252Fflensted%252520mobiles%252F14885%252FImages%252FVariants%252F01%252F338x338%252F01.jpg/ymGHl2zsws3lM6fYvdP8hMWbjVQVFk2QfZpA68LjFnM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13729813/136001/auto/auto/http%253A%252F%252Fwww.designonline.se%252FProducts%252Fflensted%252520mobiles%252F14885%252FImages%252FVariants%252F01%252F338x338%252F01.jpg/ymGHl2zsws3lM6fYvdP8hMWbjVQVFk2QfZpA68LjFnM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129479&amp;.sig=PgR3NJVrNDRPJTxnRsRdotwgz_8-&amp;offerId=acf64154bc6b61abb43842c44592a016&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13729813&amp;comId=13729813&amp;catId=136001&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13729813">
+					<Name>Scandinavian Design Center</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13729813/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="136001">
+					<Name>Woonaccessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>19</Price>
+					<DeliveryCost>1</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>20</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-4 dagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Wonen:Decoratie</MerchantCategory>
+				<Brand>Flensted Mobiles</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1fd749ee848c1b8a301288e8f1eedbcd" type="MANUFACTURER_PRODUCTS">
+				<Title>Stanley Rollende Gereedschapswagen - Mobile Toolbox 1-95-621</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13712013/135901/90/90/http%3A%2F%2Fwww.redcoon.nl%2Fres%2Fshop%2Fcataloge%2Fproduct_315%2FB359690.jpg/_kMPj7WyPz_79RV5z1VwbyxTT2mG0QEFC9avJjS2csQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13712013/135901/auto/auto/http%3A%2F%2Fwww.redcoon.nl%2Fres%2Fshop%2Fcataloge%2Fproduct_315%2FB359690.jpg/_kMPj7WyPz_79RV5z1VwbyxTT2mG0QEFC9avJjS2csQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129479&amp;.sig=_8IQyajB6qjprV7swnOObgk5a1M-&amp;offerId=1fd749ee848c1b8a301288e8f1eedbcd&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13712013&amp;comId=13712013&amp;catId=135901&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13712013">
+					<Name>Redcoon.nl</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="135901">
+					<Name>Handgereedschap</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>144.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>144.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>2 dagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3253561956218</Ean>
+				<MerchantCategory>Tuin &amp; Gereedschap Stationair Gereedschap Werkplaatsinrichting</MerchantCategory>
+				<Brand>Stanley</Brand>
+				<BrandId>20460</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d35d6298d93fd84ee4a198861f47b2b1" type="MANUFACTURER_PRODUCTS">
+				<Title>Vitility Wandbeugel Quick Mobile Rail Indicator S</Title>
+				<Description>De Quick Mobile Rail is ontworpen om te ondersteunen bij een natuurlijke beweging, bijvoorbeeld als men in en uit de douche stapt. De Quick Mobile Rail is niet ontworpen om het hele lichaamsgewicht te dragen. De mobiele wandbeugel is in enkele seconden, zonder te boren of te schroeven, aan te brengen en te</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13310613/133601/90/90/http%3A%2F%2Fwww.stelcomfortshop.nl%2Fimage%2Fdata%2Fvitility%2Fwandbeugel-quick-mobile-rail-indicator-s-1119087-vitility-152.jpg/b2eZWLs91.GXkrbiziZEWDnjN7vZ3YK6ptKk43h7xsE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13310613/133601/auto/auto/http%3A%2F%2Fwww.stelcomfortshop.nl%2Fimage%2Fdata%2Fvitility%2Fwandbeugel-quick-mobile-rail-indicator-s-1119087-vitility-152.jpg/b2eZWLs91.GXkrbiziZEWDnjN7vZ3YK6ptKk43h7xsE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129480&amp;.sig=d06GTQ1Yd0i2HQT3B1l0H70Q2yg-&amp;offerId=d35d6298d93fd84ee4a198861f47b2b1&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13310613&amp;comId=13310613&amp;catId=133601&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="13310613">
+					<Name>STELCOMFORTSHOP.NL</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13310613/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="133601">
+					<Name>Gezondheid</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>36.5</Price>
+					<DeliveryCost>4.75</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.75</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>41.25</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8718026371906</Ean>
+				<MerchantCategory>Leven en wonen</MerchantCategory>
+				<Brand>Vitility</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8a47a53baab2ef63f8eb1058b93522bf" type="MANUFACTURER_PRODUCTS">
+				<Title>Rollei Selfie Clip Mobile Phone Universele Houder</Title>
+				<Description>Een losse universele telefoonhouder voor de Rollei Selfie Stick met bluetooth afstandbediening</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11829913/100565213/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F40000%2FF160%2F000%2F014%2F976%2F14976521.jpg/2GzTmnNrftsT5GmtdpWSmnBET20u.INsclC_Kq8x13I-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11829913/100565213/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F40000%2FF160%2F000%2F014%2F976%2F14976521.jpg/2GzTmnNrftsT5GmtdpWSmnBET20u.INsclC_Kq8x13I-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129480&amp;.sig=6ASWOnj53I5X1jjNChaNU5DYr6w-&amp;offerId=8a47a53baab2ef63f8eb1058b93522bf&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11829913&amp;comId=11829913&amp;catId=100565213&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11829913">
+					<Name>CameraNU.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11829913/cameranu01.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100565213">
+					<Name>Elektronische componenten</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>19.95</Price>
+					<DeliveryCost>4.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4048805215362</Ean>
+				<MerchantCategory>Statieftoebehoren</MerchantCategory>
+				<Brand>Rollei</Brand>
+				<BrandId>2698</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="25a103fa27e1e4c8ebd34393fc0b47d3" type="MANUFACTURER_PRODUCTS">
+				<Title>IBIZA Port 8 Mini Mobile actief PA-systeem CD MP3 Player</Title>
+				<Description>testUltra-compact en mobiel IBIZA Port 8 Mini â€“ geluidssysteem met veel gebruiksmogelijkheden:  Met geÃ¯ntegreerde versterker, een CD-Player ook geschikt voor MP3, USB-ingang en 2 microfoon ingangen (2 microfoons zijn inclusief) heeft het systeem alles om zonder lange op- en afbouwtijd elk evenement op te</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13650513/100310823/90/90/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FM%2F10000071_1_title_IBIZA_PORT_MINI.jpg/r3aztIbd16EfCIE0fMfwoPli1frVCtvd35D28od7LIA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13650513/100310823/auto/auto/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FM%2F10000071_1_title_IBIZA_PORT_MINI.jpg/r3aztIbd16EfCIE0fMfwoPli1frVCtvd35D28od7LIA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129480&amp;.sig=34V93h_Qq2rz3_7sJ6e5RhxQa4k-&amp;offerId=25a103fa27e1e4c8ebd34393fc0b47d3&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13650513&amp;comId=13650513&amp;catId=100310823&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13650513">
+					<Name>Electronic-star</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13650513/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100310823">
+					<Name>Audio &amp; Hi-Fi accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>187.9</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>187.9</TotalPrice>
+					<PriceWithoutRebate>199.9</PriceWithoutRebate>
+					<Rebate>7</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>levering in pakket 3-5 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5420047110893</Ean>
+				<MerchantCategory>PA-apparatuur</MerchantCategory>
+				<Brand>Ibiza</Brand>
+				<BrandId>37944</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f9c143ead319c99751c5dd4d6104a7dc" type="MANUFACTURER_PRODUCTS">
+				<Title>Taf Toys Taftoys Mobile Butterflies</Title>
+				<Description>Met 7 verschillende melodieën en geluiden</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13467713/168301/90/90/http%3A%2F%2Fi101.twenga.com%2F10%2Ftp%2F87%2F31%2F1139341144623388731b.png/loFHYMoEWdFQKyNv59ja6OvTh1pnjaa4YisrpkdYVuM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13467713/168301/auto/auto/http%3A%2F%2Fi101.twenga.com%2F10%2Ftp%2F87%2F31%2F1139341144623388731b.png/loFHYMoEWdFQKyNv59ja6OvTh1pnjaa4YisrpkdYVuM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129481&amp;.sig=lTTUA9kAqdbsoR6uTFDwUOXf9O0-&amp;offerId=f9c143ead319c99751c5dd4d6104a7dc&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13467713&amp;comId=13467713&amp;catId=168301&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13467713">
+					<Name>Babyandmore</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168301">
+					<Name>Babyspeelgoed</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>79.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>79.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Check winkel</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0605566106557</Ean>
+				<MerchantCategory>Games - Speelgoed - Babyspeelgoed</MerchantCategory>
+				<Brand>Taf Toys</Brand>
+				<BrandId>37919</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a3aa21dc13f374689ad615a28ce9f7d9" type="MANUFACTURER_PRODUCTS">
+				<Title>Hebel Rolvoet Hebel Tbv Mobile Presenter Grijs</Title>
+				<Description>Bestelnummer statief grijs Q922521 zie meebestellers</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12256213/100398623/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F361%2FF160%2F000%2F006%2F829%2F6829431.jpg/P63vVibqQEAEEICpLDmwehMaDSN7zRPwFVNMMui9ldQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12256213/100398623/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F361%2FF160%2F000%2F006%2F829%2F6829431.jpg/P63vVibqQEAEEICpLDmwehMaDSN7zRPwFVNMMui9ldQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129481&amp;.sig=LyCbFZXq3brG5KbVACzZHDgLrlk-&amp;offerId=a3aa21dc13f374689ad615a28ce9f7d9&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12256213&amp;comId=12256213&amp;catId=100398623&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12256213">
+					<Name>Vergelijk de prijzen</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12256213/discountoffice.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100398623">
+					<Name>Planning &amp; Presentatie</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>66.77</Price>
+					<DeliveryCost>5.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>72.76</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 tot 2 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4002390023016</Ean>
+				<MerchantCategory>Wandborden Planborden</MerchantCategory>
+				<Brand>Hebel</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1df46a2618384b02601afd25a254c437" type="MANUFACTURER_PRODUCTS">
+				<Title>TP-Link 3G SIM Mobile Wi-Fi with battery</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12258213/111301/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F909%2F909529.jpg/Cf4fN22lSOTOw8aElBRWC3f0GETLhGU.PsztXUgB9xU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12258213/111301/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F909%2F909529.jpg/Cf4fN22lSOTOw8aElBRWC3f0GETLhGU.PsztXUgB9xU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129481&amp;.sig=JKCWqk2_XiGxsYAJGhZwQgp_1JA-&amp;offerId=1df46a2618384b02601afd25a254c437&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12258213&amp;comId=12258213&amp;catId=111301&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12258213">
+					<Name>Vergelijk de prijzen</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12258213/micromail.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="111301">
+					<Name>Netwerk</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>47.35</Price>
+					<DeliveryCost>4.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>52.3</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>6935364071004</Ean>
+				<MerchantCategory>Netwerk Modems</MerchantCategory>
+				<Brand>TP-Link</Brand>
+				<BrandId>34034</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="383d68a7343e1f2f3047e485eef7fd57" type="MANUFACTURER_PRODUCTS">
+				<Title>HP Inkjetprinter HP Vehicle Power Adapter For Officejet Mobile Printers</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/10406723/111301/90/90/http%3A%2F%2Fwww.office-deals.nl%2Fimages%2FInkjetprinter_Hp_Vehicle_Power_Adapter_For_Officejet_M%28HPCZ274A%29.jpg/ER8hP82raC6W4okdIeVJzostbm7pZ4cQXI4QgfWuriw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/10406723/111301/auto/auto/http%3A%2F%2Fwww.office-deals.nl%2Fimages%2FInkjetprinter_Hp_Vehicle_Power_Adapter_For_Officejet_M%28HPCZ274A%29.jpg/ER8hP82raC6W4okdIeVJzostbm7pZ4cQXI4QgfWuriw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129482&amp;.sig=pyvrxiWR5vRRgAvZhu0PEgM1xSk-&amp;offerId=383d68a7343e1f2f3047e485eef7fd57&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=10406723&amp;comId=10406723&amp;catId=111301&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="10406723">
+					<Name>office-deals</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/10406723/oDeals_logo80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="111301">
+					<Name>Netwerk</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>52.8</Price>
+					<DeliveryCost>12.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>12.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>65.75</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>2 tot 3 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0886111966691</Ean>
+				<MerchantCategory>Printer/Kantoormachines</MerchantCategory>
+				<Brand>HP</Brand>
+				<BrandId>6744</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bb81a8fb2b09687f76eccead5a43c97c" type="MANUFACTURER_PRODUCTS">
+				<Title>Paco Rabanne BLACK XS L'EXCES SET-EAU DE PARFUM SPRAY 80 ml &amp; 4 SKULL MOBILE PHONE ACCESSORIES</Title>
+				<Description>Vanilla, Jasmine, Rose, And Cereus.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/8421523/133501/90/90/http%3A%2F%2Fwww.topparfumerie.de%2Fimages%2FP%2Fprod_10014138_P.jpg/c934Wxi86625XibmPTkTinefoRSewO.wU9ZAf0l1Mo8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/8421523/133501/auto/auto/http%3A%2F%2Fwww.topparfumerie.de%2Fimages%2FP%2Fprod_10014138_P.jpg/c934Wxi86625XibmPTkTinefoRSewO.wU9ZAf0l1Mo8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129482&amp;.sig=AqgJWZI8scEWmMBEx8Tg8QFsJZw-&amp;offerId=bb81a8fb2b09687f76eccead5a43c97c&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=8421523&amp;comId=8421523&amp;catId=133501&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<CompareUrl>http://www.kelkoo.nl/p-parfum-eau-de-toilette-133501/paco-rabanne-black-xs-l-exces-19894133?partnerId=96947099</CompareUrl>
+				<Merchant id="8421523">
+					<Name>TopParfumerie</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/8421523/logo_topparfumerie.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<CatalogID>133501-19894133</CatalogID>
+				<Catalog productId="19894133" categoryId="133501">
+					<Name>Paco Rabanne Black Xs L exces</Name>
+				</Catalog>
+				<Category id="133501">
+					<Name>Parfum &amp; Eau de Toilette</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>64.95</Price>
+					<DeliveryCost>4.09</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.09</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>69.04</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>Check Site</Availability>
+				<DeliveryTime>zie website</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3349668519668</Ean>
+				<MerchantCategory>Dames Parfum</MerchantCategory>
+				<Brand>Paco Rabanne</Brand>
+				<BrandId>2352</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3753df685c8c2c6761f01d38313fbd18" type="MANUFACTURER_PRODUCTS">
+				<Title>Freecom Mobile Drive Sq 1TB</Title>
+				<Description>Mobile Drive Sq 1TB. Deze schijf ziet er prachtig uit naast elke computer, zelfs naast uw TV. Om krassen en vingerafdrukken te voorkomen, is de behuizing van de Mobile Drive Sq’s gemaakt van aluminium. Naast een onderscheidend en uniek ontwerp wordt de Hard Drive Sq geleverd met de USB 3.0 interface:</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/9956623/116501/90/90/http%3A%2F%2Fwww.officesavers.nl%2Fimages%2Fproduct%2Fmedium%2F13658.jpg/mkBAiStlg59QSFi_V1hWnOd2nAFyAJDmtB.oqRTniQE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/9956623/116501/auto/auto/http%3A%2F%2Fwww.officesavers.nl%2Fimages%2Fproduct%2Fmedium%2F13658.jpg/mkBAiStlg59QSFi_V1hWnOd2nAFyAJDmtB.oqRTniQE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129482&amp;.sig=N8ehtibMqQ68RUzorm6e4XDWfos-&amp;offerId=3753df685c8c2c6761f01d38313fbd18&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9956623&amp;comId=9956623&amp;catId=116501&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9956623">
+					<Name>OfficeSavers.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9956623/officesavers 80x24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="116501">
+					<Name>Harddisks &amp; Opslag</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>135.25</Price>
+					<DeliveryCost>3.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>139.2</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>zie website</DeliveryTime>
+				<Promo>
+					<Promo>Voor 21.00 uur besteld morgen in huis!</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4021801561541</Ean>
+				<MerchantCategory>Batterijen &amp; opladers Computer supplies Harde schijven</MerchantCategory>
+				<Brand>Freecom</Brand>
+				<BrandId>1256</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="33bc3d946934d6c22b624d8648355e62" type="MANUFACTURER_PRODUCTS">
+				<Title>Microsoft Wedge Mobile</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12254413/113201/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F855%2F855540.jpg/yxEW2azUhnuB5IeXfZIHd.PktUD05qEZVc.D_TTqv0c-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12254413/113201/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F855%2F855540.jpg/yxEW2azUhnuB5IeXfZIHd.PktUD05qEZVc.D_TTqv0c-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129483&amp;.sig=euVV2acF0SNFCUBjUyP5FC233C4-&amp;offerId=33bc3d946934d6c22b624d8648355e62&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12254413&amp;comId=12254413&amp;catId=113201&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12254413">
+					<Name>Vergelijk de prijzen’</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12254413/amecomputers.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="113201">
+					<Name>Toetsenborden</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>64.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>64.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885370380132</Ean>
+				<MerchantCategory>Input devices Toetsenborden</MerchantCategory>
+				<Brand>Microsoft</Brand>
+				<BrandId>2088</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6c0ca827aa3f4914cc99b21003a18d75" type="MANUFACTURER_PRODUCTS">
+				<Title>Microsoft Wireless Mobile Mouse 3500 - Zwart, Bluetrack</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12108113/100317623/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F705%2F705253.jpg/lTEC29fn6j5swgZz0sbjm74CyLaQ8EDRWI12ZLjm754-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12108113/100317623/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F705%2F705253.jpg/lTEC29fn6j5swgZz0sbjm74CyLaQ8EDRWI12ZLjm754-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129483&amp;.sig=W.9AnDRUlIcHvR0KjRhem1.bnaA-&amp;offerId=6c0ca827aa3f4914cc99b21003a18d75&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12108113&amp;comId=12108113&amp;catId=100317623&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12108113">
+					<Name>Vergelijk de prijzen</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12108113/replacedirect.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100317623">
+					<Name>Muizen &amp; Trackballs</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>24.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0885370051827</Ean>
+				<MerchantCategory>Input devices Computermuizen</MerchantCategory>
+				<Brand>Microsoft</Brand>
+				<BrandId>2088</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="33c1f7770886877860d5adfe49985679" type="MANUFACTURER_PRODUCTS">
+				<Title>Fantec MWiD25 Mobile WiFi Disk</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12258313/116501/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F965%2F965617.jpg/hrcyeliZoJUtATBBdA18_rukt8NoD55x5iPUllA4M3Y-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12258313/116501/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F965%2F965617.jpg/hrcyeliZoJUtATBBdA18_rukt8NoD55x5iPUllA4M3Y-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129483&amp;.sig=amhoc_0SetMHmAJ.j2hvutRaM8s-&amp;offerId=33c1f7770886877860d5adfe49985679&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12258313&amp;comId=12258313&amp;catId=116501&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12258313">
+					<Name>Vergelijk de prijzen</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12258313/mobile-harddisk.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="116501">
+					<Name>Harddisks &amp; Opslag</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>82.95</Price>
+					<DeliveryCost>5.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>88.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4250273416367</Ean>
+				<MerchantCategory>Computeronderdelen Opslagbehuizingen</MerchantCategory>
+				<Brand>Fantec</Brand>
+				<BrandId>5996</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="51aa8845cdf77c30328fc2ad05807d25" type="MANUFACTURER_PRODUCTS">
+				<Title>LaCie 500GB Porsche Design Mobile Drive USB 3.0</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11831813/116501/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F775%2F775646.jpg/7ssFgKUcwPUPPIljrqyIBfuKA5syasyQU1OM3EDYurs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11831813/116501/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F775%2F775646.jpg/7ssFgKUcwPUPPIljrqyIBfuKA5syasyQU1OM3EDYurs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129483&amp;.sig=2DvH5NIYobwLuspmUVW1AvR1OpU-&amp;offerId=51aa8845cdf77c30328fc2ad05807d25&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11831813&amp;comId=11831813&amp;catId=116501&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11831813">
+					<Name>Kamera-express.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11831813/kameraexpress02.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="116501">
+					<Name>Harddisks &amp; Opslag</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>74.99</Price>
+					<DeliveryCost>3.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>78.98</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 werkdag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3660619319985</Ean>
+				<MerchantCategory>Computeronderdelen Harde schijven</MerchantCategory>
+				<Brand>LaCie</Brand>
+				<BrandId>1826</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="fc81a436f90ec3b724cd205f56a93883" type="MANUFACTURER_PRODUCTS">
+				<Title>Mobil 1 SUPER 3000 FORMULA G 5W-30  208 liter vat</Title>
+				<Description>Mobil Super 3000 Formula G 5W-30 is een asarme hoogperformante motorolie die speciaal is ontwikkeld voor het verlagen van uitlaatgasemissie en het verlengen van de levensduur van uitlaatgasreinigingssystemen in benzine- en dieselvoertuigen. #br##br#  Eigenschappen en voordelen: #br##br# Mobil Super</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/14034813/121001/90/90/http%3A%2F%2Fimage.delti.com%2Foil-pictures%2FMobil_1%2F330%2FSuper_3000_Formula_G_5W-30_12.jpg/PU9kz2KAGj0conKq0GWC_QgQUv7c0r773314q0wfU5Y-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/14034813/121001/auto/auto/http%3A%2F%2Fimage.delti.com%2Foil-pictures%2FMobil_1%2F330%2FSuper_3000_Formula_G_5W-30_12.jpg/PU9kz2KAGj0conKq0GWC_QgQUv7c0r773314q0wfU5Y-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129484&amp;.sig=1DtDf4WKomQgPqEqPx9FHSamKPM-&amp;offerId=fc81a436f90ec3b724cd205f56a93883&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14034813&amp;comId=14034813&amp;catId=121001&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14034813">
+					<Name>automaterialenspecialisten.nl</Name>
+					<Logo>
+						<Url></Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="121001">
+					<Name>Auto Accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>766.4</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>766.4</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>3-4 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Motorolie</MerchantCategory>
+				<Brand>Mobil 1</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="24f4d51cdd7d2850abf1d0551082212a" type="MANUFACTURER_PRODUCTS">
+				<Title>Mobil Plastic Assortimentsdoos met vaste vakken</Title>
+				<Description>Opbergdoos met 1 compartiment. Afmeting: L 190 x B 155 x H 40 mm.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/9375023/100354023/90/90/http%3A%2F%2Fstatic.manutan.nl%2FGRP%2F59%2F49%2FST%2FAIG295949.jpg/tpesIVzN1L_bCCcuQRyMSmX66uE9F320zsaDL2L8wXA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/9375023/100354023/auto/auto/http%3A%2F%2Fstatic.manutan.nl%2FGRP%2F59%2F49%2FST%2FAIG295949.jpg/tpesIVzN1L_bCCcuQRyMSmX66uE9F320zsaDL2L8wXA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129484&amp;.sig=817zJ.CcgP3hxL_Tz_eLUnqP1Bc-&amp;offerId=24f4d51cdd7d2850abf1d0551082212a&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9375023&amp;comId=9375023&amp;catId=100354023&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9375023">
+					<Name>Manutan</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9375023/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354023">
+					<Name>Kelkoo Overig</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>6.43</Price>
+					<DeliveryCost>8</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>8</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14.43</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>01 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Un-categorised - Assortimentsdoos</MerchantCategory>
+				<Brand>Mobil Plastic</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="360ea0a6e9160fbd1c2f75e8821bac2b" type="MANUFACTURER_PRODUCTS">
+				<Title>Amethyst Mobile iPig Touch (zwart) oplaadbaar</Title>
+				<Description>Kleur: Zwart  Dit model kunt u overal mee naartoe nemen.  Amethyst iPig is een unieke speakerdock voor de iPod of iPhone (geschikt voor alle dock-connector modellen). Hoor geluid in hoge kwaliteit via de vier luidsprekers en krachtige 4 subwoofer van de Amethyst iPig.  Het geluid is krachtig en kris</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11967913/125801/90/90/http%3A%2F%2Fwww.eKabels.nl%2Ftemplate%2Fprodimg%2FstEVN-2444.jpg/6L9bi0xzk8E15lhF7gjjEwk4VgrcIybz4aeBxORWiSw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11967913/125801/auto/auto/http%3A%2F%2Fwww.eKabels.nl%2Ftemplate%2Fprodimg%2FstEVN-2444.jpg/6L9bi0xzk8E15lhF7gjjEwk4VgrcIybz4aeBxORWiSw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129485&amp;.sig=.iJ45.eFRYvDFIZ1dUTJ7ZJqOR8-&amp;offerId=360ea0a6e9160fbd1c2f75e8821bac2b&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11967913&amp;comId=11967913&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="11967913">
+					<Name>eKabels.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11967913/kelkoologo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Mobiele Telefoon Accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>92.95</Price>
+					<DeliveryCost>9.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>9.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>102.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>6</Availability>
+				<DeliveryTime>5 tot 7 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>iPhone accessoires - Amethyst iPig</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1a34bcbc88c7bb2c23ceaf9cb7483985" type="MANUFACTURER_PRODUCTS">
+				<Title>Afstandsbediening Mobil RF/12</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/9769723/100354023/90/90/http%3A%2F%2Fmedia.electronet24.com%2Fimages%2Fsmall%2F10112402.jpg/YK6sWdWQ8scPOJtBp7GuV811mnHawfaSXa5D7o.sqNQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/9769723/100354023/auto/auto/http%3A%2F%2Fmedia.electronet24.com%2Fimages%2Fsmall%2F10112402.jpg/YK6sWdWQ8scPOJtBp7GuV811mnHawfaSXa5D7o.sqNQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129485&amp;.sig=EqPkJMd0iw61XjXQJ.XhGmlPCws-&amp;offerId=1a34bcbc88c7bb2c23ceaf9cb7483985&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9769723&amp;comId=9769723&amp;catId=100354023&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9769723">
+					<Name>Electronet24</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9769723/logo80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354023">
+					<Name>Kelkoo Overig</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>15.9</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>22.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>1 tot 3 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4015120012402</Ean>
+				<MerchantCategory>lektrische installatie  Draadloze besturingen</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a6b93bc05cf0eeeb835b8e70d42c864b" type="MANUFACTURER_PRODUCTS">
+				<Title>Zwei Mobil U12 15" laptoptas brown (470102)</Title>
+				<Description>De Mobile U12 laptoptassen van het Duitse Zwei, zijn een aparte verschijning. Het strakke maar multifunctionele ontwerp zorgt ervoor dat je naast je laptop ook verschillende accessoires, documenten en boeken overzichtelijk kunt opbergen. (470102)</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/9448823/100316323/90/90/http%3A%2F%2Fwww.laptopverpakking.nl%2Fmedia%2Fcatalog%2Fproduct%2Fu%2F1%2Fu12-brown.jpg/GWe0hmt7Sw5.D4kIm.z7B.9pwXErpZIq_mFs8bDs2jM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/9448823/100316323/auto/auto/http%3A%2F%2Fwww.laptopverpakking.nl%2Fmedia%2Fcatalog%2Fproduct%2Fu%2F1%2Fu12-brown.jpg/GWe0hmt7Sw5.D4kIm.z7B.9pwXErpZIq_mFs8bDs2jM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129485&amp;.sig=Fc5ZpWMyw.ZmM9lTIvJI1bexH60-&amp;offerId=a6b93bc05cf0eeeb835b8e70d42c864b&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9448823&amp;comId=9448823&amp;catId=100316323&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9448823">
+					<Name>Laptopverpakking.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9448823/logo_laptopverpakking_Kelkoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100316323">
+					<Name>Laptop Accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>33.02</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>33.02</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Check winkel</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>ZWEI</MerchantCategory>
+				<Brand>ZWEI</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8b2511fce86a46a6073d60f8c3ec8485" type="MANUFACTURER_PRODUCTS">
+				<Title>Blauer Mobil Jet Casque Noir/Gris -</Title>
+				<Description>Mobil est le nouveau casque Blauer pour le marché du tourisme. Une caractéristique particulière de ce casque modulaire, homologué P/J, est la protecteur amovible mentonnière, qui rend Mobil un produit extrêmement polyvalent capable de besoins de motard pendant tout type de route et de la saison. Il est</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/13306713/100354023/90/90/http%3A%2F%2Fwww.fc-moto.de%2FWebRoot%2FFCMotoDB%2FShops%2F10207048%2F5181%2F82AB%2FE6DC%2F5E2A%2F4514%2F3E70%2F5055%2F28AE%2FBlauer-Mobil-Black-13_h.jpg/RlkNr8QePmJvUCkJ47feJwTeDBHqq9eU4rQDCR6yEXM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/13306713/100354023/auto/auto/http%3A%2F%2Fwww.fc-moto.de%2FWebRoot%2FFCMotoDB%2FShops%2F10207048%2F5181%2F82AB%2FE6DC%2F5E2A%2F4514%2F3E70%2F5055%2F28AE%2FBlauer-Mobil-Black-13_h.jpg/RlkNr8QePmJvUCkJ47feJwTeDBHqq9eU4rQDCR6yEXM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129486&amp;.sig=aoJnamiHpAeB7p6zg4s9WDIiY_4-&amp;offerId=8b2511fce86a46a6073d60f8c3ec8485&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=13306713&amp;comId=13306713&amp;catId=100354023&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="13306713">
+					<Name>FC Moto (NL)</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/13306713/FC-Motoaaaaaaaaaaaaaaaaa.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354023">
+					<Name>Kelkoo Overig</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>199.9</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>199.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Check winkel</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Casques</MerchantCategory>
+				<Brand>Blauer</Brand>
+				<BrandId>19373</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="10ef1c82f60cf88f68b0eb5eeb1c1382" type="MANUFACTURER_PRODUCTS">
+				<Title>ARKON Mobile Grip 2 MG279 Autohouder - Windshield / Dashboard Mount</Title>
+				<Description>Arkon Mobile Grip 2 MG279 Autohouder - Windshield / Dashboard Mount - Mobile Grip 2 holder fits all smartphones up to 3.6" wide - Sticky suction base provides a maximum surface bond on smooth or textured flat or bumpy surfaces - Suction mount arm adjusts vertically and provides 360 degree rotation</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/9788223/100316323/90/90/http%3A%2F%2Fmytrendyphone.nl%2F%2Fimages%2FArkon-Mobile-Grip-2-MG279-Car-Holder-Windshield-Dashboard-Mount-25032014-1.jpg/HvuCGoan.xcQczjk1O8Awd3U7ilaqFlThYSgCsUGSLI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/9788223/100316323/auto/auto/http%3A%2F%2Fmytrendyphone.nl%2F%2Fimages%2FArkon-Mobile-Grip-2-MG279-Car-Holder-Windshield-Dashboard-Mount-25032014-1.jpg/HvuCGoan.xcQczjk1O8Awd3U7ilaqFlThYSgCsUGSLI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129486&amp;.sig=QUTKO1bh5v8ipK4CgM8CFqq1yaY-&amp;offerId=10ef1c82f60cf88f68b0eb5eeb1c1382&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9788223&amp;comId=9788223&amp;catId=100316323&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9788223">
+					<Name>My Trendy Phone</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9788223/mytrendyphone.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100316323">
+					<Name>Laptop Accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>21.9</Price>
+					<DeliveryCost>4.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>26.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Check winkel</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>HTC Desire S Autohouder</MerchantCategory>
+				<Brand>ARKON</Brand>
+				<BrandId>244</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bac0f11f604719010cbe12e627c7879a" type="MANUFACTURER_PRODUCTS">
+				<Title>Eneloop Mobile Booster KBC-L3S</Title>
+				<Description>1</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/9493723/123401/90/90/http%3A%2F%2Fwww.batterijenhuis.nl%2Fimages%2Fb_144.jpg/tD22ASP8fTJWDy4iVN0nJRoMzPbYAeiHaIfcFgCNtZw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/9493723/123401/auto/auto/http%3A%2F%2Fwww.batterijenhuis.nl%2Fimages%2Fb_144.jpg/tD22ASP8fTJWDy4iVN0nJRoMzPbYAeiHaIfcFgCNtZw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129487&amp;.sig=nAcTRU.lPlLc.NW.MJw27EwCCGE-&amp;offerId=bac0f11f604719010cbe12e627c7879a&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=9493723&amp;comId=9493723&amp;catId=123401&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="9493723">
+					<Name>Batterijenhuis.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/9493723/batterij.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="123401">
+					<Name>Camera &amp; Camcorder Acc.</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>26.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>26.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>2-4 dagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4994334246318</Ean>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="615cc01c03ef8f913510d9e630d15f00" type="MANUFACTURER_PRODUCTS">
+				<Title>HP MOBILE USB NLS DVDRW DRIVE</Title>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12108313/100316323/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F795%2F795245.jpg/8fiUfa6ta.lXJhGridpqXBTvpzT8BT8ku0_vi_0L8Zg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12108313/100316323/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F6%2FF160%2F000%2F000%2F795%2F795245.jpg/8fiUfa6ta.lXJhGridpqXBTvpzT8BT8ku0_vi_0L8Zg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129487&amp;.sig=4bxWqod.Y4R9QwflKmZxKUSI3FA-&amp;offerId=615cc01c03ef8f913510d9e630d15f00&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12108313&amp;comId=12108313&amp;catId=100316323&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12108313">
+					<Name>Vergelijk de prijzen</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12108313/spareit.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100316323">
+					<Name>Laptop Accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>101.64</Price>
+					<DeliveryCost>9.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>9.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>111.59</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 tot 3 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7330381940248</Ean>
+				<MerchantCategory>Computeronderdelen Disk drives</MerchantCategory>
+				<Brand>HP</Brand>
+				<BrandId>6744</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0bc428823b8a8d4d40bced88872fd9ba" type="MANUFACTURER_PRODUCTS">
+				<Title>celexon Mobil Professional 200 x 150 cm</Title>
+				<Description>celexon Mobil Professional 200 x 150 cm De serie Mobil Professional van celexon is een mobiel projectiescherm met een fraai design voor ieder soort projector (DLP, LCD, Diaprojectoren, enz. ). Gegevens: - 196 x 147 cm (B x H) zichtbar, wit oppervlak - 2 c</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12254913/6613/90/90/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F40000%2FF160%2F000%2F009%2F567%2F9567470.jpg/sSFac4GdzvD0xvs.xehrIWSb1Gph0_lRDU0u3o3xBSQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12254913/6613/auto/auto/http%3A%2F%2Fhwimages.beslist.net%2Fbeslist-images%2F40000%2FF160%2F000%2F009%2F567%2F9567470.jpg/sSFac4GdzvD0xvs.xehrIWSb1Gph0_lRDU0u3o3xBSQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129487&amp;.sig=2BY3bYwkTEy.lRyYm9JnG0voZYI-&amp;offerId=0bc428823b8a8d4d40bced88872fd9ba&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12254913&amp;comId=12254913&amp;catId=6613&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12254913">
+					<Name>Vergelijk de prijzen</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12254913/beamershop24.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="6613">
+					<Name>Home entertainment accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>204.99</Price>
+					<DeliveryCost>16.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>16.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>221.98</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 tot 3 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4260094730733</Ean>
+				<MerchantCategory>Projectieschermen</MerchantCategory>
+				<Brand>Celexon</Brand>
+				<BrandId>37288</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="588567ad44caa9481d54fa737e7275ef" type="MANUFACTURER_PRODUCTS">
+				<Title>Krusell uppsala mobile pouch bruin iPhone 5 / 5s</Title>
+				<Description>Deze prachtige insteekhoes van Krusell is stevig en zacht tegelijkertijd. Tevens is uw iPhone 5 / 5s uitstekend beschermd tegen stoten en krassen. Deze luxe, stijlvolle en zakelijke hoes is zeker aan te raden voor uw telefoon.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12944313/125801/90/90/http%3A%2F%2Fstatic.webshopapp.com%2Fshops%2F005299%2Ffiles%2F006711084%2Fimage.jpg/sAexZ9O9bBuw2bCDm4Si6BgSrgbBV1SQRzPBCL0Y6_w-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12944313/125801/auto/auto/http%3A%2F%2Fstatic.webshopapp.com%2Fshops%2F005299%2Ffiles%2F006711084%2Fimage.jpg/sAexZ9O9bBuw2bCDm4Si6BgSrgbBV1SQRzPBCL0Y6_w-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129488&amp;.sig=Dlx1YBOvOplrDD.iKByMKhCJz2I-&amp;offerId=588567ad44caa9481d54fa737e7275ef&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12944313&amp;comId=12944313&amp;catId=125801&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="12944313">
+					<Name>Smartphonehoesjes.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12944313/logo80x24.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Mobiele Telefoon Accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>14.95</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1 dag</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Apple / iPhone 5/5s</MerchantCategory>
+				<Brand>Krusell</Brand>
+				<BrandId>14948</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d579e5587a2cd77ae87466db60340c4d" type="MANUFACTURER_PRODUCTS">
+				<Title>Kartell ladekast Mobil - 3 lades (mat antraciet)</Title>
+				<Description>Afmetingen: Zie hieronder, Materiaal: PMMA of doorzichtig krasvrij gevernist, Frame: verchroomd staal, Aantal lades: 1-6, Wielen: nee, Ontwerper: Antonio Citterio met Oliver Low, Garantie: 2 jaar</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/12668613/100354023/90/90/http%3A%2F%2Fwww.fundesign.nl%2Fimages%2Fartikelen%2FKartell__ladekast-Mobil64821_large.png/NHaad71r.k2aEd4vZTTsal4HXCqC4.tpBQtIrCbaUbc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/12668613/100354023/auto/auto/http%3A%2F%2Fwww.fundesign.nl%2Fimages%2Fartikelen%2FKartell__ladekast-Mobil64821_large.png/NHaad71r.k2aEd4vZTTsal4HXCqC4.tpBQtIrCbaUbc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129488&amp;.sig=MvTmyBtyw7NYdMMLHTNjdLx0LLA-&amp;offerId=d579e5587a2cd77ae87466db60340c4d&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=12668613&amp;comId=12668613&amp;catId=100354023&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="12668613">
+					<Name>fundesign.nl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/12668613/Fundesign.nl Logo-Kelkoo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354023">
+					<Name>Kelkoo Overig</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>732</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>732</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>10 werkdagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Wonen/Kasten/Opbergkasten</MerchantCategory>
+				<Brand>Kartell</Brand>
+				<BrandId>33725</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a051e0691879613f5542e0155ad66dff" type="MANUFACTURER_PRODUCTS">
+				<Title>bpc living mobile kopje in wit - bpc living</Title>
+				<Description>Zwevende kopjes en schoteltjes in combinatie met kralen van kunststof, een lepel en een vork van rvs vormen deze zwevende, witte mobile. Een bijzondere blikvanger in de keuken! Ideaal om bij het raam of in de hoek van de kamer te hangen. Voor binnen en buiten.</Description>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/nl/11909213/100354023/90/90/http%3A%2F%2Fimage01.bonprix.nl%2Fbonprixbilder%2F1400x1960%2F1384761192%2F13050244-pjbnsZTu.jpg/s53hboHqUHN1PLMpKWjKEqRkg5N9nx7P2M6eYxK2AOU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/nl/11909213/100354023/auto/auto/http%3A%2F%2Fimage01.bonprix.nl%2Fbonprixbilder%2F1400x1960%2F1384761192%2F13050244-pjbnsZTu.jpg/s53hboHqUHN1PLMpKWjKEqRkg5N9nx7P2M6eYxK2AOU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-nl.kelkoo.nl/ctl/go/sitesearchGo?.ts=1425565129488&amp;.sig=MWHmiHzGJii9zlMtHigRvRSlNh4-&amp;offerId=a051e0691879613f5542e0155ad66dff&amp;searchId=10769825312746_1425565129349_115040&amp;affiliationId=96947099&amp;country=nl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=11909213&amp;comId=11909213&amp;catId=100354023&amp;searchQuery=bW9iaWxl&amp;useSearch6=true&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="11909213">
+					<Name>bonprix</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com//data/merchantlogos/11909213/bonprix_logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354023">
+					<Name>Kelkoo Overig</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>19.99</Price>
+					<DeliveryCost>4.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24.94</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3 werkdag(en)</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4041041029830</Ean>
+				<MerchantCategory>Wonen  Meubels &amp; decoratie  Decoratie  Woonaccessoires</MerchantCategory>
+				<Brand>bpc living</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

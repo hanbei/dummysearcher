@@ -1,0 +1,2419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<Products totalResultsAvailable="58" firstResultPosition="1" totalResultsReturned="50" totalMerchantsAvailable="7" searchOperator="and">
+		<Product>
+			<Offer id="75fe375ceee52c7a24a7a37ee5e9e7a8" type="MANUFACTURER_PRODUCTS">
+				<Title>Skytronic Przedwzmacniacz stereo phono-line preamplifier</Title>
+				<Description>Przedwzmacniacz wzmacnia sygnał phono do poziomu sygnału liniowego, by możliwe było podłączenie gramofonów (phono) do urządzeń z wejściem line (miksery, wzmacniacze).Możliwe zasilanie przez zasilacz lub na baterię, co zapobiega używania dodatkowych kabli podczas setów DJ-skich.</Description>
+				<LastModified>2015-08-02 18:37:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/122501/90/90/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10003987_title_vorverstaerker_skytronic.jpg/U31xWRHjs_kX1_De1vFf8nDwEVGV4OLmFNpariZwl5A-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/122501/auto/auto/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10003987_title_vorverstaerker_skytronic.jpg/U31xWRHjs_kX1_De1vFf8nDwEVGV4OLmFNpariZwl5A-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760587&amp;.sig=DjzycDd0QymuCFfSRdS5k42pOA4-&amp;offerId=75fe375ceee52c7a24a7a37ee5e9e7a8&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14306613&amp;comId=14306613&amp;catId=122501&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14306613">
+					<Name>Elektronik-Star PL</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14306613/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="122501">
+					<Name>Gramofony</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>79</Price>
+					<DeliveryCost>20</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>20</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Wysyłka 3-5 dni robocze</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5015972099919</Ean>
+				<MerchantCategory>Sprzęt Studio / Przedwzmacniacze</MerchantCategory>
+				<Brand>Skytronic</Brand>
+				<BrandId>2900</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0482cdf18512922277aa9e8dc41ef1a7" type="MANUFACTURER_PRODUCTS">
+				<Title>EVOLVEO STRONG PHONE Q4 4500 mAh Dostępny! Kup na ProLine.pl</Title>
+				<LastModified>2015-08-01 23:50:07</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/90/90/http%3A%2F%2Fproline.pl%2Fimg%2Fproline-opis.gif/tLtZYoFBy4w47Lp.3MOVy4KyBET.RIfnzzxXB.MxQ_s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/auto/auto/http%3A%2F%2Fproline.pl%2Fimg%2Fproline-opis.gif/tLtZYoFBy4w47Lp.3MOVy4KyBET.RIfnzzxXB.MxQ_s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760587&amp;.sig=ZZXywrswIvoTVYZQLVbLhSdOZyk-&amp;offerId=0482cdf18512922277aa9e8dc41ef1a7&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14356513&amp;comId=14356513&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14356513">
+					<Name>Proline</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14356513/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Telefony komórkowe </Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>949</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>949</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8594161336310</Ean>
+				<MerchantCategory>Telekomunikacja/Telefony komórkowe</MerchantCategory>
+				<Brand>Evolveo</Brand>
+				<BrandId>44752</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="927b61810578946a03ca3c8fb1a29c8b" type="MANUFACTURER_PRODUCTS">
+				<Title>ART USB Phono Plus przedwzmacniacz</Title>
+				<Description>Art USB Phono Plus przedwzmacniacz</Description>
+				<LastModified>2015-08-02 22:30:21</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14396813/100342923/90/90/http%3A%2F%2Fmuzyczny.pl%2Ftowary_200x200%2F3164.jpg/brckgkO2cupqMM08UCGRFz2QOStiaTlkIHRPy0Z2oT8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14396813/100342923/auto/auto/http%3A%2F%2Fmuzyczny.pl%2Ftowary_200x200%2F3164.jpg/brckgkO2cupqMM08UCGRFz2QOStiaTlkIHRPy0Z2oT8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760588&amp;.sig=_HzF_vKSutjZCITZbl_NDkxh5Ls-&amp;offerId=927b61810578946a03ca3c8fb1a29c8b&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14396813&amp;comId=14396813&amp;catId=100342923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14396813">
+					<Name>muzyczny.pl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14396813/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342923">
+					<Name>Studio i Sprzęt DJ</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>399</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>399</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-3 dni</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0840402018216</Ean>
+				<MerchantCategory>Dee Jay / Gramofony</MerchantCategory>
+				<Brand>ART</Brand>
+				<BrandId>4049</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="be3ae67504d02864c165d802235e6ec9" type="MANUFACTURER_PRODUCTS">
+				<Title>Reflecta RPL 21 Phone-TabLight (20380) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/124501/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F608395_0_f.jpg/ikumYifunkGqaNUHBqA5noS.wYlJsloedvbKpMaHZ50-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/124501/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F608395_0_f.jpg/ikumYifunkGqaNUHBqA5noS.wYlJsloedvbKpMaHZ50-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760588&amp;.sig=Tv3bjRBRTQfqCMtzcDr_piejArA-&amp;offerId=be3ae67504d02864c165d802235e6ec9&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=124501&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="124501">
+					<Name>Akcesoria</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>104.6</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>104.6</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4005039203800</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Pozostałe akcesoria</MerchantCategory>
+				<Brand>Reflecta</Brand>
+				<BrandId>2624</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="aa73435a6464a2b0463b85e6aa5153a1" type="MANUFACTURER_PRODUCTS">
+				<Title>Kare Design Ramka Smart Phone Kare Design 35866</Title>
+				<Description>Ramka Smart Phone Kare Design 35866</Description>
+				<LastModified>2015-08-02 19:57:09</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14399113/136101/90/90/http%3A%2F%2Fnew2.sfmeble.pl%2Fassets%2Fimages%2F600x450%2FProductsImages%2F8862%2F25510.jpg/NDGgMZgH0OT9FLhhzIDy7nx40_DFTuHE4XB12zeLBWE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14399113/136101/auto/auto/http%3A%2F%2Fnew2.sfmeble.pl%2Fassets%2Fimages%2F600x450%2FProductsImages%2F8862%2F25510.jpg/NDGgMZgH0OT9FLhhzIDy7nx40_DFTuHE4XB12zeLBWE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760588&amp;.sig=deJa7NWwSHO0tZZVhJwf_u53jtk-&amp;offerId=aa73435a6464a2b0463b85e6aa5153a1&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14399113&amp;comId=14399113&amp;catId=136101&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14399113">
+					<Name>Kare24.pl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14399113/logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="136101">
+					<Name>Dekoracje</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>19</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>19</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Fotografia  Ramki i albumy do zdjęć</MerchantCategory>
+				<Brand>Kare Design</Brand>
+				<BrandId>36736</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b805bdab387b827196401c5a8ba53818" type="MANUFACTURER_PRODUCTS">
+				<Title>Kare Design Ramka Smart Phone Kare Design 35866</Title>
+				<Description>Ramka Smart Phone Kare Design 35866</Description>
+				<LastModified>2015-08-02 19:59:35</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14399013/100119813/90/90/http%3A%2F%2Fnew2.sfmeble.pl%2Fassets%2Fimages%2F600x450%2FProductsImages%2F8862%2F25510.jpg/NDGgMZgH0OT9FLhhzIDy7nx40_DFTuHE4XB12zeLBWE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14399013/100119813/auto/auto/http%3A%2F%2Fnew2.sfmeble.pl%2Fassets%2Fimages%2F600x450%2FProductsImages%2F8862%2F25510.jpg/NDGgMZgH0OT9FLhhzIDy7nx40_DFTuHE4XB12zeLBWE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760588&amp;.sig=bZc0llIpQiJqrg5gWt.uhk2.nsk-&amp;offerId=b805bdab387b827196401c5a8ba53818&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14399013&amp;comId=14399013&amp;catId=100119813&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14399013">
+					<Name>SFMeble.pl</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14399013/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100119813">
+					<Name>Ramki i albumy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>19</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>19</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Fotografia  Ramki i albumy do zdjęć</MerchantCategory>
+				<Brand>Kare Design</Brand>
+				<BrandId>36736</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="638af176f782223cd0a209f952d968ae" type="MANUFACTURER_PRODUCTS">
+				<Title>Topeak Mała torebka na kierownicę TOPEAK Handy Phone Pack (Micro)</Title>
+				<Description>Sprawi, że twój telefon będzie pod ręką nawet podczas jazdy po bezdrożach.</Description>
+				<LastModified>2015-08-03 00:03:07</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14325113/100544223/90/90/http%3A%2F%2Fwww.domenasportowa.pl%2Fdata%2Fgfx%2Fpictures%2Flarge%2F6%2F8%2F4286_1.jpg/gxiQiBCSmNJPRe8EW9bX42dhLY2g87LJ.euyphbuMTg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14325113/100544223/auto/auto/http%3A%2F%2Fwww.domenasportowa.pl%2Fdata%2Fgfx%2Fpictures%2Flarge%2F6%2F8%2F4286_1.jpg/gxiQiBCSmNJPRe8EW9bX42dhLY2g87LJ.euyphbuMTg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760589&amp;.sig=8x4RhtWiE2qVghDTGFUtujF5evU-&amp;offerId=638af176f782223cd0a209f952d968ae&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14325113&amp;comId=14325113&amp;catId=100544223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14325113">
+					<Name>Domenasportowa</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14325113/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100544223">
+					<Name>Akcesoria rowerowe</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>255.22</Price>
+					<DeliveryCost>14.75</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>14.75</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>269.97</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Rowery i akcesoria/Akcesoria rowerowe/Sakwy, Torby</MerchantCategory>
+				<Brand>Topeak</Brand>
+				<BrandId>3266</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="88d825e9ebda08e707c92f46b50c95fd" type="MANUFACTURER_PRODUCTS">
+				<Title>EVOLVEO STRONG PHONE D2 MINI Dostępny! Kup na ProLine.pl</Title>
+				<LastModified>2015-08-01 23:50:07</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/90/90/http%253A%252F%252Fcdn.action.pl%252FPicture.aspx%253FCID%253D06607%2526UID%253Damazur%2526PID%253D8148ca649eb4062b2d759174e0f5ece3%2526P%253D%252FPictures%252FTEL%252FKOM%252FTELEVVKOM0006%252F1.jpg/suvR7mGvnb.qhgvJ6r96Oz2oPLzEswgoBuiPUvzxch4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/auto/auto/http%253A%252F%252Fcdn.action.pl%252FPicture.aspx%253FCID%253D06607%2526UID%253Damazur%2526PID%253D8148ca649eb4062b2d759174e0f5ece3%2526P%253D%252FPictures%252FTEL%252FKOM%252FTELEVVKOM0006%252F1.jpg/suvR7mGvnb.qhgvJ6r96Oz2oPLzEswgoBuiPUvzxch4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760589&amp;.sig=GXhmk3SYnfbKaOPvDAZ3w68NeNw-&amp;offerId=88d825e9ebda08e707c92f46b50c95fd&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14356513&amp;comId=14356513&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14356513">
+					<Name>Proline</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14356513/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Telefony komórkowe </Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>599</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>599</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8594161336327</Ean>
+				<MerchantCategory>Telekomunikacja/Telefony komórkowe</MerchantCategory>
+				<Brand>Evolveo</Brand>
+				<BrandId>44752</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="66b386cbd14aa6dc2f72a55a5b680a92" type="MANUFACTURER_PRODUCTS">
+				<Title>Citronic Adapter Citronic USB Phono Line cinch analogowy cyfrowy</Title>
+				<Description>Firma Citronic specjalizuje się w produkcji akcesoriów Dj-skich najwyższej jakości. Każdemu znane są problemy ze zdigitalizowanymi nośnikami analogowymi, takimi jak: kasety czy płaty vinylowe.Citronic znalazła najlepsze rozwiązanie: adapter Citronic AC-1 USB-Phono-Lino pozwala na dziecinnie łatwe zgranie</Description>
+				<LastModified>2015-08-02 18:37:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/100342923/90/90/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10001746_1_title.jpg/H7fMlGVWikKcmOqncwfNV_Qr8DP3uxsFt25cSJbGtSA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/100342923/auto/auto/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10001746_1_title.jpg/H7fMlGVWikKcmOqncwfNV_Qr8DP3uxsFt25cSJbGtSA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760589&amp;.sig=.dNQIolkq24nvrQZO8CECub92gY-&amp;offerId=66b386cbd14aa6dc2f72a55a5b680a92&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14306613&amp;comId=14306613&amp;catId=100342923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14306613">
+					<Name>Elektronik-Star PL</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14306613/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342923">
+					<Name>Studio i Sprzęt DJ</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>149</Price>
+					<DeliveryCost>20</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>20</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>169</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Wysyłka 3-5 dni robocze</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5015972023624</Ean>
+				<MerchantCategory>Nagłośnienie PA / Kable estradowe, złącza i adaptery / Wtyki i gniazda / Wtyki i gniazda cinch</MerchantCategory>
+				<Brand>Citronic</Brand>
+				<BrandId>698</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8f89d4a2c89e102ce55a27268ff166cd" type="MANUFACTURER_PRODUCTS">
+				<Title>Behringer PP400 przedwzmacniacz gramofonowy – phono – line</Title>
+				<Description>Behringer PP400 to wysokiej jakości przedwzmacniacz, który przetwarza sygnał phono w sygnał liniowy. Dzięki niemu urządzenia phono (np. gramofon) można podłączyć do urządzeń liniowych (np. miksera labo wzmacniacza). Oferowane urządzenie, w przeciwieństwie do większości oferowanych na rynku przedwzmacniaczy,</Description>
+				<LastModified>2015-08-02 18:37:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/100342923/90/90/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10005358_title_behringer_pp_400_vorverstaerker.jpg/6WVynY78ziEnIMoN4OTujEcfzSxb7tZXeXUo_gLtEYE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/100342923/auto/auto/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10005358_title_behringer_pp_400_vorverstaerker.jpg/6WVynY78ziEnIMoN4OTujEcfzSxb7tZXeXUo_gLtEYE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760590&amp;.sig=rVLXmPc.EEMC8Eiy2ZpRl8RoUis-&amp;offerId=8f89d4a2c89e102ce55a27268ff166cd&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14306613&amp;comId=14306613&amp;catId=100342923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14306613">
+					<Name>Elektronik-Star PL</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14306613/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100342923">
+					<Name>Studio i Sprzęt DJ</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>186</Price>
+					<DeliveryCost>20</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>20</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>206</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>dostępny</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4033653011037</Ean>
+				<MerchantCategory>Sprzęt DJ / Akcesoria DJ</MerchantCategory>
+				<Brand>Behringer</Brand>
+				<BrandId>391</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="83d053154a3cfd654539afd9bc054987" type="MANUFACTURER_PRODUCTS">
+				<Title>4World Mobile Phone Cleaning Kit zestaw czyszczący do telefonów GSM  (04835) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F659598_0_f.jpg/IhEqlyHwj0vzzAMArIvrxZnyL.9i4asJ8VDwkbkkZ2o-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F659598_0_f.jpg/IhEqlyHwj0vzzAMArIvrxZnyL.9i4asJ8VDwkbkkZ2o-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760590&amp;.sig=FOLncUtAR0JNCDWQuTakWJ4nUJQ-&amp;offerId=83d053154a3cfd654539afd9bc054987&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>28</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>28</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5908214311132</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Gadżety do telefonów</MerchantCategory>
+				<Brand>4World</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4f3dc9ad8dccd4c1027c35e1114d3540" type="MANUFACTURER_PRODUCTS">
+				<Title>TomTom Uchwyt TomTom PHONE WINDSCREEN MOUNT WITH CLA (ONYX) EE  (9UUB.024.04) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F650300_0_f.jpg/rsKNMQf5jv8Y4VfWaAFt11m6IOGh3jcD0uVFJM6grgk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F650300_0_f.jpg/rsKNMQf5jv8Y4VfWaAFt11m6IOGh3jcD0uVFJM6grgk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760590&amp;.sig=VEDKjKjDOQj8Lepwh_v9gVymqG8-&amp;offerId=4f3dc9ad8dccd4c1027c35e1114d3540&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>58</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>58</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefony/Akcesoria GSM/Uchwyty samochodowe</MerchantCategory>
+				<Brand>TomTom</Brand>
+				<BrandId>3257</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="89b4b1b222d4c99af697004eda3be062" type="MANUFACTURER_PRODUCTS">
+				<Title>Tracer Uchwyt Tracer Phone P 70 Uniwersalny (TRAUCH44554) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F717234_0_f.jpeg/9H7Vgzm.Bo2kuOtKhJ_g5tXmG5dVUDHpLNGA_2emOL8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F717234_0_f.jpeg/9H7Vgzm.Bo2kuOtKhJ_g5tXmG5dVUDHpLNGA_2emOL8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760591&amp;.sig=__tEL8QlpoDDmLOT1gY1nivR4QE-&amp;offerId=89b4b1b222d4c99af697004eda3be062&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>13.01</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>13.01</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5907512853139</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Uchwyty samochodowe</MerchantCategory>
+				<Brand>Tracer</Brand>
+				<BrandId>44473</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="66354a60c2e641e540400637068679fc" type="MANUFACTURER_PRODUCTS">
+				<Title>Evolveo Smartphone Evolveo STRONG PHONE D2 4GB 4" 4.2 Czarny Dostępny! Kup na ProLine.pl</Title>
+				<LastModified>2015-08-01 23:50:07</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/90/90/http%253A%252F%252Fcdn.action.pl%252FPicture.aspx%253FCID%253D06607%2526UID%253Damazur%2526PID%253D8148ca649eb4062b2d759174e0f5ece3%2526P%253D%252FPictures%252FTEL%252FKOM%252FTELEVVKOM0002%252F1.jpg/8JRnikSOBjT3NJhKIE8HMtSwrS72wpgKPnCnqvlXJVg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/auto/auto/http%253A%252F%252Fcdn.action.pl%252FPicture.aspx%253FCID%253D06607%2526UID%253Damazur%2526PID%253D8148ca649eb4062b2d759174e0f5ece3%2526P%253D%252FPictures%252FTEL%252FKOM%252FTELEVVKOM0002%252F1.jpg/8JRnikSOBjT3NJhKIE8HMtSwrS72wpgKPnCnqvlXJVg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760591&amp;.sig=NYzCnqLo8XbmpmPz1_0XMQqZJo8-&amp;offerId=66354a60c2e641e540400637068679fc&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14356513&amp;comId=14356513&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14356513">
+					<Name>Proline</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14356513/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Telefony komórkowe </Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>739</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>739</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8594161335856</Ean>
+				<MerchantCategory>Telekomunikacja/Telefony komórkowe</MerchantCategory>
+				<Brand>Evolveo</Brand>
+				<BrandId>44752</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="012684eead8cbb4ed7840b8e97286e97" type="MANUFACTURER_PRODUCTS">
+				<Title>Evolveo Telefon Evolveo Strong Phone Accu 7,8GB 1,8" Czarny Dostępny! Kup na ProLine.pl</Title>
+				<LastModified>2015-08-01 23:50:07</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/90/90/http%3A%2F%2Fproline.pl%2Fimg%2Fproline-opis.gif/tLtZYoFBy4w47Lp.3MOVy4KyBET.RIfnzzxXB.MxQ_s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/auto/auto/http%3A%2F%2Fproline.pl%2Fimg%2Fproline-opis.gif/tLtZYoFBy4w47Lp.3MOVy4KyBET.RIfnzzxXB.MxQ_s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760591&amp;.sig=gzpMvNJFo_jlAHUkLVCER4PulX8-&amp;offerId=012684eead8cbb4ed7840b8e97286e97&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14356513&amp;comId=14356513&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14356513">
+					<Name>Proline</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14356513/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Telefony komórkowe </Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>269</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>269</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8594161335580</Ean>
+				<MerchantCategory>Telekomunikacja/Telefony komórkowe</MerchantCategory>
+				<Brand>Evolveo</Brand>
+				<BrandId>44752</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a0cb8984519a2891f7a8c0a31b9c9b43" type="MANUFACTURER_PRODUCTS">
+				<Title>Evolveo Telefon Evolveo STRONG PHONE X1 2,2" Czarny Dostępny! Kup na ProLine.pl</Title>
+				<LastModified>2015-08-01 23:50:07</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/90/90/http%3A%2F%2Fproline.pl%2Fimg%2Fproline-opis.gif/tLtZYoFBy4w47Lp.3MOVy4KyBET.RIfnzzxXB.MxQ_s-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14356513/100020213/auto/auto/http%3A%2F%2Fproline.pl%2Fimg%2Fproline-opis.gif/tLtZYoFBy4w47Lp.3MOVy4KyBET.RIfnzzxXB.MxQ_s-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760592&amp;.sig=MLrVGagYC03Qni.JvHCgoM.qWXQ-&amp;offerId=a0cb8984519a2891f7a8c0a31b9c9b43&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14356513&amp;comId=14356513&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14356513">
+					<Name>Proline</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14356513/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Telefony komórkowe </Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>229</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>229</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8594161335573</Ean>
+				<MerchantCategory>Telekomunikacja/Telefony komórkowe</MerchantCategory>
+				<Brand>Evolveo</Brand>
+				<BrandId>44752</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0c1e4167ad1a5bcde5c525740111052e" type="MANUFACTURER_PRODUCTS">
+				<Title>Auna Wzmacniacz stereo Auna CD708 AUX Phono srebrny 600W</Title>
+				<Description>Auna CD708 to będący na czasie wzmacniacz Hi-Fi, którego funkcje umożliwiają mnóstwo zastosowań i uzyskanie idealnego nagłośnienia.Złącza w jakie jest wyposażony odpowiadają dokładnie standardom domowego sprzętu Hi-Fi. zawiera on nawet położone z przodu wejście słuchawkowe, by umożliwić nocne odsłuchy. Z tyłu</Description>
+				<LastModified>2015-08-02 18:37:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/126701/90/90/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10008982_test_auna_av2_cd708_stereo_verstaerker.jpg/BPneXosMfl8.yLoUkGfqXim_IyAefIET2e_5VKXVlB4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/126701/auto/auto/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10008982_test_auna_av2_cd708_stereo_verstaerker.jpg/BPneXosMfl8.yLoUkGfqXim_IyAefIET2e_5VKXVlB4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760592&amp;.sig=X4oEaAC43uir6AvH9KzXodlCols-&amp;offerId=0c1e4167ad1a5bcde5c525740111052e&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14306613&amp;comId=14306613&amp;catId=126701&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14306613">
+					<Name>Elektronik-Star PL</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14306613/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126701">
+					<Name>Zestawy Kina Domowego</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>539</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>539</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Wysyłka 3-5 dni robocze</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4260322374883</Ean>
+				<MerchantCategory>HiFi &amp; TV / Wzmacniacze HiFi / Wzmacniacze HiFi 2.0 Stereo</MerchantCategory>
+				<Brand>Auna</Brand>
+				<BrandId>34482</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5601657e9a56884f017975bcd6287709" type="MANUFACTURER_PRODUCTS">
+				<Title>Evolveo Smartfon Evolveo Strong Phone D2 Mini Dual Sim, Czarny Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100020213/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F732753_0_f.jpeg/6BVFRQEG4TyaPic4JTySLOHObSInjEJaNTExlGsZS2M-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100020213/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F732753_0_f.jpeg/6BVFRQEG4TyaPic4JTySLOHObSInjEJaNTExlGsZS2M-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760592&amp;.sig=ZQ7xQfFUItv5RqFEdxnk42s7Zs4-&amp;offerId=5601657e9a56884f017975bcd6287709&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Telefony komórkowe </Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>689</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>689</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8594161336327</Ean>
+				<MerchantCategory>Telefony/Telefony, smartfony, krótkofalówki/Smartfony</MerchantCategory>
+				<Brand>Evolveo</Brand>
+				<BrandId>44752</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5bddf56711ef1b23fd48929c18fcdb5e" type="MANUFACTURER_PRODUCTS">
+				<Title>Tracer Uchwyt Tracer Uchwyt Phone P10 na szybę i rower TRAUCH42893 Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F535825_0_f.jpg/SYmuzS9_fMs1ZwIpZiqGxXMs0ZimQqqvEwdOVu4d7DY-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F535825_0_f.jpg/SYmuzS9_fMs1ZwIpZiqGxXMs0ZimQqqvEwdOVu4d7DY-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760593&amp;.sig=HE0q1a5VTgFQhU5rcQiGkTzTDpg-&amp;offerId=5bddf56711ef1b23fd48929c18fcdb5e&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>21</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>21</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5907512846230</Ean>
+				<MerchantCategory>Telefony/Tablety/Uchwyty do tabletów</MerchantCategory>
+				<Brand>Tracer</Brand>
+				<BrandId>44473</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3bcad1a75d7b836c469b754c2cd9c449" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco UC Phone 6901, Charcoal, Standard handset (CP-6901-C-K9=) Darmowy odbiór w 16 miastach! Raty od 13.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F413856_0_f.jpg/B1DREoyCT4uB9qTNiVfl3jNjqTCztM58Cg.ntEU4blM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F413856_0_f.jpg/B1DREoyCT4uB9qTNiVfl3jNjqTCztM58Cg.ntEU4blM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760593&amp;.sig=4SQonjTpPztuMOPJ2SX5agorrCw-&amp;offerId=3bcad1a75d7b836c469b754c2cd9c449&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>328</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>328</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658289378</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="503f9d0a9cc5960b6c64f40a13bd1ea2" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco Unified Phone 8945, Phantom Grey, Standard Handset (CP-8945-K9=) Darmowy odbiór w 16 miastach! Raty od 52.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F413858_0_f.jpg/vDxI8jsAeK4DA2eLoxc3AhcR_OeyK6C6qErbcw7hi3Y-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F413858_0_f.jpg/vDxI8jsAeK4DA2eLoxc3AhcR_OeyK6C6qErbcw7hi3Y-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760593&amp;.sig=.WqY92Y0tdAE2qFxAU3t4n.dSSs-&amp;offerId=503f9d0a9cc5960b6c64f40a13bd1ea2&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>1289.22</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1289.22</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658385278</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="120647b3e95560586fb376f2a8e2b5df" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco IP Phone 7931G Darmowy odbiór w 16 miastach! Raty od 41.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F76589_0_f.jpg/mboLcEiug82BGIvVpIHXetM1PAcinpHSzson1YZq1pg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F76589_0_f.jpg/mboLcEiug82BGIvVpIHXetM1PAcinpHSzson1YZq1pg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760594&amp;.sig=gSqdQT2.ITKpqm0FPEByRtcYzQg-&amp;offerId=120647b3e95560586fb376f2a8e2b5df&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>1016</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1016</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658082399</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c53922d76d3f7cd3ed33c4f193c865bb" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco SIP Phone 3905 Charcoal (CP-3905) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F597575_0_f.jpg/9dXUPDuYv14T5KeDR34O3AQJxqgoOuhpXr.OqWK17x0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F597575_0_f.jpg/9dXUPDuYv14T5KeDR34O3AQJxqgoOuhpXr.OqWK17x0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760594&amp;.sig=30Now7zCBxbMMCILz_NJQAmUIgA-&amp;offerId=c53922d76d3f7cd3ed33c4f193c865bb&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>299</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>299</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658385216</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ff56aa69cabf68101e28c997b17fe79a" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco UC Phone 8961 (CP-8961-WL-K9=) Darmowy odbiór w 16 miastach! Raty od 94.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F637453_0_f.jpg/M8i4Ra6nDgX5ytsRT_XAeK3L7CFBCJ0iDAPQd9o1R5c-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F637453_0_f.jpg/M8i4Ra6nDgX5ytsRT_XAeK3L7CFBCJ0iDAPQd9o1R5c-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760595&amp;.sig=xpMAeRyKKNc3RwgCh.q1oChk4PI-&amp;offerId=ff56aa69cabf68101e28c997b17fe79a&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>2314.5</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>2314.5</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658287527</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="780fbe123d91460188fb0931941ee7f1" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco Telefon UP Phone 7861 (CP-7821-K9=) Darmowy odbiór w 16 miastach! Raty od 25.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F640319_0_f.jpg/j.bY_g.s6vNb9Fs9smA7eHwPkZBW5gBcHM2UnGD.dRg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F640319_0_f.jpg/j.bY_g.s6vNb9Fs9smA7eHwPkZBW5gBcHM2UnGD.dRg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760595&amp;.sig=EeYQsPhT_IM6Zp1A9bEqN2SYA8Q-&amp;offerId=780fbe123d91460188fb0931941ee7f1&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>625</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>625</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658621840</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="645871bf4c5cf25fc94c697be52156b6" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco Telefon UP Phone 7841 (CP-7841-K9=) Darmowy odbiór w 16 miastach! Raty od 38.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F632714_0_f.jpg/ta6OBWlVtHYde1SI9FRiQVDjFXZTjqG5F4.eNVH.EIc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F632714_0_f.jpg/ta6OBWlVtHYde1SI9FRiQVDjFXZTjqG5F4.eNVH.EIc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760595&amp;.sig=2IqA9oCcCmD2As6Qdn76qawJxVE-&amp;offerId=645871bf4c5cf25fc94c697be52156b6&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>935.15</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>935.15</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658621871</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d0cc7c8b0f98a7f7c78811f30115be06" type="MANUFACTURER_PRODUCTS">
+				<Title>HP Telefon Hewlett-Packard 4120 IP Phone (J9766B) Darmowy odbiór w 16 miastach! Raty od 45.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/115701/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F631782_0_f.png/aHsDsVwsjpwX5e6.Jo7za9BRBtWiXuAVu0T6IHmoIf4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/115701/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F631782_0_f.png/aHsDsVwsjpwX5e6.Jo7za9BRBtWiXuAVu0T6IHmoIf4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760595&amp;.sig=1sMCZKL_QykgjAni.ZkdIJkqlbw-&amp;offerId=d0cc7c8b0f98a7f7c78811f30115be06&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=115701&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="115701">
+					<Name>Serwery internetowe</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>1114.4</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>1114.4</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>HP</Brand>
+				<BrandId>6744</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="283ee3bead705ce7013eac92d3de8d9f" type="MANUFACTURER_PRODUCTS">
+				<Title>Emporia Telefon komórkowy Emporia Click Flip-phone V32 Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100020213/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F528029_0_f.jpg/jH1E9i49YCkgAOdbEC5N8I5fog545lFgN0oY1aVo9hg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100020213/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F528029_0_f.jpg/jH1E9i49YCkgAOdbEC5N8I5fog545lFgN0oY1aVo9hg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760596&amp;.sig=hFCRmh4WaOLjUS9UXSu_dpdQOLM-&amp;offerId=283ee3bead705ce7013eac92d3de8d9f&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100020213&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100020213">
+					<Name>Telefony komórkowe </Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>232</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>232</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>9005613113674</Ean>
+				<MerchantCategory>Telefony/Telefony, smartfony, krótkofalówki/Telefony komórkowe</MerchantCategory>
+				<Brand>Emporia</Brand>
+				<BrandId>29652</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b8bda70361ddd2f0b0e0266b4539ee21" type="MANUFACTURER_PRODUCTS">
+				<Title>Topeak Mała torebka na kierownicę TOPEAK Handy Phone Pack (Small)</Title>
+				<Description>Mały pokrowiec na telefon wyposażony w system montażowy do wspornika kierownicy lub klips do paska.</Description>
+				<LastModified>2015-08-03 00:03:07</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14325113/100544223/90/90/http%3A%2F%2Fwww.domenasportowa.pl%2Fdata%2Fgfx%2Fpictures%2Flarge%2F7%2F8%2F4287_1.jpg/UwSzUulNF_1VdznHBTTnEtjCkt803o6m.PL.hoMH6cM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14325113/100544223/auto/auto/http%3A%2F%2Fwww.domenasportowa.pl%2Fdata%2Fgfx%2Fpictures%2Flarge%2F7%2F8%2F4287_1.jpg/UwSzUulNF_1VdznHBTTnEtjCkt803o6m.PL.hoMH6cM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760596&amp;.sig=n1wuyxOtXHzcrkgZF_7kvPkDv.8-&amp;offerId=b8bda70361ddd2f0b0e0266b4539ee21&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14325113&amp;comId=14325113&amp;catId=100544223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14325113">
+					<Name>Domenasportowa</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14325113/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100544223">
+					<Name>Akcesoria rowerowe</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>283.06</Price>
+					<DeliveryCost>14.75</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>14.75</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>297.81</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Rowery i akcesoria/Akcesoria rowerowe/Sakwy, Torby</MerchantCategory>
+				<Brand>Topeak</Brand>
+				<BrandId>3266</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2f7b39e1709603e22062f58398ae7e8b" type="MANUFACTURER_PRODUCTS">
+				<Title>Media-Tech Telefon komórkowy Media-Tech DUAL PHONE HQ Czarno-czerwony (MT846KR) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F701694_0_f.jpg/CqIykHm5qC4_TuyPtPZfG4ZRaSAIBHwSZCJfO20P5X4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F701694_0_f.jpg/CqIykHm5qC4_TuyPtPZfG4ZRaSAIBHwSZCJfO20P5X4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760596&amp;.sig=b2U.B1eGIS.IyVQdhU4pbNI5_8w-&amp;offerId=2f7b39e1709603e22062f58398ae7e8b&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>59</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>59</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5900882855772</Ean>
+				<MerchantCategory>Telefony/Telefony, smartfony, krótkofalówki/Telefony komórkowe</MerchantCategory>
+				<Brand>Media-Tech</Brand>
+				<BrandId>37027</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="20d45f208ff6cbee64c422dbb4889508" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco 3-Line IP Phone with Display and PC Port (SPA303-G2) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F355045_0_f.jpg/GCujXA1gDBQO2WOG7mnUOPkFFfZ0WkUBWk.YvQZkiKo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F355045_0_f.jpg/GCujXA1gDBQO2WOG7mnUOPkFFfZ0WkUBWk.YvQZkiKo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760597&amp;.sig=FOhbMVIYg3_itjui9FsJxM4Lggs-&amp;offerId=20d45f208ff6cbee64c422dbb4889508&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>293.99</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>293.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658345364</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e17c8ed40bbc7e53b8d137912219f754" type="MANUFACTURER_PRODUCTS">
+				<Title>Media-Tech Telefon komórkowy Media-Tech DUAL PHONE HQ Czarno-niebieski (MT846KB) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F701695_0_f.jpg/1YsGTktHOj_TSDiJdU44wEXI8QV34AT61OaHwedkq5M-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F701695_0_f.jpg/1YsGTktHOj_TSDiJdU44wEXI8QV34AT61OaHwedkq5M-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760597&amp;.sig=iPkcFX5GUnXYxCsaBULm.rYrfpw-&amp;offerId=e17c8ed40bbc7e53b8d137912219f754&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>54.9</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>54.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5906453108469</Ean>
+				<MerchantCategory>Telefony/Telefony, smartfony, krótkofalówki/Telefony komórkowe</MerchantCategory>
+				<Brand>Media-Tech</Brand>
+				<BrandId>37027</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a9a19e686119d750d9e788ca21e14cb7" type="MANUFACTURER_PRODUCTS">
+				<Title>Cisco Systems Telefon Cisco 5-Line IP Phone with Color Display, PoE, 802.11g, Bluetooth (SPA525G2) Darmowy odbiór w 16 miastach! Raty od 40.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F355853_0_f.jpg/ZOp8epyCTzyfd4U5PNsOSv7aOFAIeQuAK_ltjhROEQA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/126001/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F355853_0_f.jpg/ZOp8epyCTzyfd4U5PNsOSv7aOFAIeQuAK_ltjhROEQA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760597&amp;.sig=TFD6tw6poSo0QMlLS5hQOjcU5Mc-&amp;offerId=a9a19e686119d750d9e788ca21e14cb7&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=126001&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="126001">
+					<Name>Telefony i Faksy</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>995.38</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>995.38</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0882658311086</Ean>
+				<MerchantCategory>Komputery/Sieci/Telefony internetowe</MerchantCategory>
+				<Brand>Cisco Systems</Brand>
+				<BrandId>694</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="a5ceafa2d99524e31469f64ab5636ba5" type="MANUFACTURER_PRODUCTS">
+				<Title>Compas Telefon komórkowy Compas Classic Dual SIM Phone Szary  (42246) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F693589_0_f.jpeg/AdluZYNUQggIn07dPODIZ_0_BIxn9biKGMPkE_IxhA0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F693589_0_f.jpeg/AdluZYNUQggIn07dPODIZ_0_BIxn9biKGMPkE_IxhA0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760598&amp;.sig=SkXTA9x0DjM1XfdUhYw4iBZaeZ4-&amp;offerId=a5ceafa2d99524e31469f64ab5636ba5&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>109</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>109</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5907595422468</Ean>
+				<MerchantCategory>Telefony/Telefony, smartfony, krótkofalówki/Telefony komórkowe</MerchantCategory>
+				<Brand>Compas</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d0e4d75fdc42d5efeb2e9b6a7024b449" type="MANUFACTURER_PRODUCTS">
+				<Title>Manta Multimedia Telefon komórkowy Manta Multimedia MS1702 Senior Phone Big Light Czarny Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F748552_0_f.jpeg/scKSLSAKRjkuv.Bsoi1XPC.OiHokIJe5G68ujJaPKVA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F748552_0_f.jpeg/scKSLSAKRjkuv.Bsoi1XPC.OiHokIJe5G68ujJaPKVA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760598&amp;.sig=g125hfOxRTzrKQXf5Rp0cpjVu4A-&amp;offerId=d0e4d75fdc42d5efeb2e9b6a7024b449&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>110</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>110</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5907377864547</Ean>
+				<MerchantCategory>Telefony/Telefony, smartfony, krótkofalówki/Telefony komórkowe</MerchantCategory>
+				<Brand>Manta Multimedia</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c3a53ccb679950767b74c81010e09184" type="MANUFACTURER_PRODUCTS">
+				<Title>White diamonds Zatyczka do gniazda Jack 3.5mm Mobile Phone Jewelry for Samsung Galaxy S4, Clear/Pink Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F600555_0_f.jpg/YCRWX.Kmq4iSrH9avBPwnAyD8Oiug.bwvbCqHe3MDzo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/100091613/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F600555_0_f.jpg/YCRWX.Kmq4iSrH9avBPwnAyD8Oiug.bwvbCqHe3MDzo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760598&amp;.sig=kbrop1BptsO9FeQtT9nb7WEVagA-&amp;offerId=c3a53ccb679950767b74c81010e09184&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=100091613&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100091613">
+					<Name>Różne i przydatne ciekawostki</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>40</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>40</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4260237632566</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Pozostałe akcesoria</MerchantCategory>
+				<Brand>White diamonds</Brand>
+				<BrandId>44468</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2ad8e57e9a6f27c75b8b0c5a1b05ee32" type="MANUFACTURER_PRODUCTS">
+				<Title>Auna Gramofon Auna TT-196E USB MP3 UKW/MW Phono</Title>
+				<Description>Auna  TT-196E jest kompaktowym gramofonem  USB, który zręcznie pośredniczy pomiędzy światem analogowym a cyfrowym.  Jako źródła nagrań służą oprócz płyt winylowych  także wszystkie sygnały ze spektrum stacji UKF/MF. Zainstalowany system  adapterowy w powiązaniu z cichobieżnym napędem paskowym urządzenia Auna</Description>
+				<LastModified>2015-08-02 18:37:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/122501/90/90/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10021685_1_Auna_TT-196E_Plattenspieler.jpg/ciAXKd605ERSlBl2ZO1nUYMGldCqnaOUw41vkvO4xog-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14306613/122501/auto/auto/http%3A%2F%2Fmedia.chaltec.com%2Fimages%2FL%2F10021685_1_Auna_TT-196E_Plattenspieler.jpg/ciAXKd605ERSlBl2ZO1nUYMGldCqnaOUw41vkvO4xog-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760599&amp;.sig=qLUL2slNejBH03GiayfZgrN.kzo-&amp;offerId=2ad8e57e9a6f27c75b8b0c5a1b05ee32&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14306613&amp;comId=14306613&amp;catId=122501&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14306613">
+					<Name>Elektronik-Star PL</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14306613/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="122501">
+					<Name>Gramofony</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>329</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>329</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>Wysyłka 3-5 dni robocze</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4260365794136</Ean>
+				<MerchantCategory>HiFi &amp; TV / Wieże i miniwieże / Wieże z gramofonem</MerchantCategory>
+				<Brand>Auna</Brand>
+				<BrandId>34482</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="02c07168c975b0049a279b7db7308995" type="MANUFACTURER_PRODUCTS">
+				<Title>Lowepro S&amp;F Phone Case 20 Czarny LP36254-0EU Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F525217_0_f.jpg/pVGDc4HBC.w529CzlIv3XZo.B5.dLQ2tRGWDBC.W.Vg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F525217_0_f.jpg/pVGDc4HBC.w529CzlIv3XZo.B5.dLQ2tRGWDBC.W.Vg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760599&amp;.sig=LIy_g1psP3wFBCMoek0YbPDY2ZU-&amp;offerId=02c07168c975b0049a279b7db7308995&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>57.01</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>57.01</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefony/Akcesoria GSM/Etui i pokrowce do telefonów</MerchantCategory>
+				<Brand>Lowepro</Brand>
+				<BrandId>1932</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="33a380b23fef896797b44584bf757245" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Booklet Look Mobile Phone Window Case (Samsung Galaxy S4 Mini) Biały Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F622387_0_f.jpg/cEzqHu5KHo_TsWgA0Em.FGl2r5uS4DTtBNr0VJifcRo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F622387_0_f.jpg/cEzqHu5KHo_TsWgA0Em.FGl2r5uS4DTtBNr0VJifcRo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760599&amp;.sig=XopUnMJSQcWDS1BKX0AKn0UmsAg-&amp;offerId=33a380b23fef896797b44584bf757245&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>63.31</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>63.31</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443205414</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Etui i pokrowce do telefonów</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="43967713cfe3c83b45d200748e7d4061" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Booklet Look Mobile Phone Window Case (Samsung Galaxy S4 Mini) Czarny Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F622385_0_f.jpg/PJTRBIDugMAv18D_R5L6JQZ4Mk9JocFMZHJjSyStPvw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F622385_0_f.jpg/PJTRBIDugMAv18D_R5L6JQZ4Mk9JocFMZHJjSyStPvw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760600&amp;.sig=B_24YwtNlavd3N3yahibLaxl1mE-&amp;offerId=43967713cfe3c83b45d200748e7d4061&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>63.31</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>63.31</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443205407</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Etui i pokrowce do telefonów</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ff87363e92080582589260e1b3239e17" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Booklet Look Mobile Phone Window Case (Samsung Galaxy S4 Mini) Różowy Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F622386_0_f.jpg/BguQlJY6UBrO3Z_d1Xj8OU4G2TKgsRPksVjLBeZ2ZHQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F622386_0_f.jpg/BguQlJY6UBrO3Z_d1Xj8OU4G2TKgsRPksVjLBeZ2ZHQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760600&amp;.sig=rs_7K739jJAVVqgsQaQl_AqTSwk-&amp;offerId=ff87363e92080582589260e1b3239e17&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>63.31</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>63.31</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443205445</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Etui i pokrowce do telefonów</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="79e8df4a0afe39a6018282024df89cee" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Tom Tailor Nature Love Mobile Phone Sleeve XL Brązowy Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F609474_0_f.jpg/ph2c1QTQQEebu37GqP8Fftbyu9mVnPCdzr8M0LRTft8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F609474_0_f.jpg/ph2c1QTQQEebu37GqP8Fftbyu9mVnPCdzr8M0LRTft8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760600&amp;.sig=xjf_kAZkDp5fI4vMWBWDNoL_toc-&amp;offerId=79e8df4a0afe39a6018282024df89cee&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>27.9</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>27.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443167934</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Etui i pokrowce do telefonów</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d4e99e78a9c1086b15f181fe1ee59b18" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Tom Tailor Nature Love Mobile Phone Sleeve XL Beżowy Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F609475_0_f.jpg/FNs.vV3_S3rGgDb_zSGY6wuQPW.LzCHKihE2MR4ajXg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F609475_0_f.jpg/FNs.vV3_S3rGgDb_zSGY6wuQPW.LzCHKihE2MR4ajXg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760600&amp;.sig=hR3TMv5qjCPDsYt58TMuIjPFtE4-&amp;offerId=d4e99e78a9c1086b15f181fe1ee59b18&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>27.9</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>27.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443167965</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Etui i pokrowce do telefonów</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7cc3ca6810db6ca83b2b931b22fb7f53" type="MANUFACTURER_PRODUCTS">
+				<Title>CASEual Folia Ochronna CASEual Full Szkło Phone 6 (FGIP6-WHT) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F719752_0_f.jpeg/AZZQWfv9FuXGGumhPAlexN4MPIDx87edYtilZsVdRXg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F719752_0_f.jpeg/AZZQWfv9FuXGGumhPAlexN4MPIDx87edYtilZsVdRXg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760601&amp;.sig=vO.Mr.tmfxi4bOWGK.qyOyZ6PFA-&amp;offerId=7cc3ca6810db6ca83b2b931b22fb7f53&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>100.2</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>100.2</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefony/Akcesoria GSM/Folie ochronne do telefonów</MerchantCategory>
+				<Brand>CASEual</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="bdeda3530c328e25fd0b7efe00dbb28e" type="MANUFACTURER_PRODUCTS">
+				<Title>Sandberg Zestaw ładowarek Sandberg ładowarka Mobile Phone Multi Charger (135-80) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F532347_0_f.jpg/Jbl0GVqrlpQKQSuz9E7uVO26jJ29g9Uc1T72pw69TMg-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F532347_0_f.jpg/Jbl0GVqrlpQKQSuz9E7uVO26jJ29g9Uc1T72pw69TMg-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760601&amp;.sig=BDL0.BjjkbVXkuVQ9uaoD9B.oYo-&amp;offerId=bdeda3530c328e25fd0b7efe00dbb28e&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>48.99</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>48.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5705730135804</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Zestawy ładowarek</MerchantCategory>
+				<Brand>Sandberg</Brand>
+				<BrandId>2764</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f9910a3c99dd392041357804ae3ae702" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Tom Tailor Nature Love Mobile Phone Sleeve XL Czarny Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F609471_0_f.jpg/UHHcw4tScpYTt4vBTRG1K5OFIIU2025gbE1dLEhSeTA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F609471_0_f.jpg/UHHcw4tScpYTt4vBTRG1K5OFIIU2025gbE1dLEhSeTA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760601&amp;.sig=MHR3c2g95eXN018JdBX5jiz4zPY-&amp;offerId=f9910a3c99dd392041357804ae3ae702&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>27.9</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>27.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443167910</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Etui i pokrowce do telefonów</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2fbaa0f8b41048e45c6d3cbf1aa71556" type="MANUFACTURER_PRODUCTS">
+				<Title>Bull Products Folia Ochronna Bull Products Tempered Glass doi Phone 5C (132 1021) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F719911_0_f.png/WlMvM5SPO24ICY0yVq1Eaem8OgUZozUwrFwfF_QXNlM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F719911_0_f.png/WlMvM5SPO24ICY0yVq1Eaem8OgUZozUwrFwfF_QXNlM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760602&amp;.sig=2amVtS.RCUKmY6Jq_uv.WYJ2i4w-&amp;offerId=2fbaa0f8b41048e45c6d3cbf1aa71556&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>54</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>54</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Telefony/Akcesoria GSM/Folie ochronne do telefonów</MerchantCategory>
+				<Brand>Bull Products</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1bbf0005d8a9e9dbb718d15252dcf3f5" type="MANUFACTURER_PRODUCTS">
+				<Title>Jabra Słuchawki z mikrofonem Jabra PRO925 Mono Desk Phone and mobile BT (925-15-508-201) Darmowy odbiór w 16 miastach! Raty od 34.00 zł</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F720670_0_f.jpeg/2Y_lMi5507OdmgIQm58yrw7jt1CzGjoGKuz5Z4mF7HI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F720670_0_f.jpeg/2Y_lMi5507OdmgIQm58yrw7jt1CzGjoGKuz5Z4mF7HI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760602&amp;.sig=A53dQ5KpC72M7_boyMYsYjPGCq0-&amp;offerId=1bbf0005d8a9e9dbb718d15252dcf3f5&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>858</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>858</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5706991016659</Ean>
+				<MerchantCategory>Komputery/Słuchawki, głośniki i MP3/Słuchawki z mikrofonem</MerchantCategory>
+				<Brand>Jabra</Brand>
+				<BrandId>1624</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5af2a738bae1b046f5fd0f76b56f5150" type="MANUFACTURER_PRODUCTS">
+				<Title>Hama Zestaw ładowarek Hama 230V+12VDOUBLEUSB I-PHONE ( 1081560000 ) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F595846_0_f.jpg/YNjMh0hPP.F1eYs25MV_IAlKWVyLimsSd5R7R0Brp9U-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F595846_0_f.jpg/YNjMh0hPP.F1eYs25MV_IAlKWVyLimsSd5R7R0Brp9U-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760602&amp;.sig=OLZ3gWJkOa6csjewK79E0IL3.OU-&amp;offerId=5af2a738bae1b046f5fd0f76b56f5150&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>44</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>44</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4047443121905</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Zestawy ładowarek</MerchantCategory>
+				<Brand>Hama</Brand>
+				<BrandId>1425</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="498964826efadf98647a56de565e57ff" type="MANUFACTURER_PRODUCTS">
+				<Title>3MK Folia Ochronna 3MK Matte do HTC Windows Phone 8S (F3MK_MATTE_HTC Windows 8S) Darmowy odbiór w 16 miastach!</Title>
+				<LastModified>2015-08-03 00:01:28</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/90/90/http%3A%2F%2Fimages.morele.net%2Ffull%2F694425_0_f.png/_dwLVPpMqhD.RhjlDN2Etq0HpSO.4Os1NWIOJYdiHQA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/pl/14379913/125801/auto/auto/http%3A%2F%2Fimages.morele.net%2Ffull%2F694425_0_f.png/_dwLVPpMqhD.RhjlDN2Etq0HpSO.4Os1NWIOJYdiHQA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-pl.kelkoo.pl/ctl/go/sitesearchGo?.ts=1438588760603&amp;.sig=XnqkByR_wezWJHjHokZfOzKc9l8-&amp;offerId=498964826efadf98647a56de565e57ff&amp;searchId=10769820428417_1438588760548_190&amp;affiliationId=96947966&amp;country=pl&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14379913&amp;comId=14379913&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14379913">
+					<Name>Morele</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14379913/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Akcesoria do telefonów</Name>
+				</Category>
+				<Price currency="PLN">
+					<Price>16.51</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>16.51</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5901571123004</Ean>
+				<MerchantCategory>Telefony/Akcesoria GSM/Folie ochronne do telefonów</MerchantCategory>
+				<Brand>3MK</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

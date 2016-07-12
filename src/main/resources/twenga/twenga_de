@@ -1,0 +1,3557 @@
+{
+    "code": 200,
+    "infos": {
+        "info_code": 0,
+        "nb_tw_objects": 1
+    },
+    "tw_objects": [{
+        "nb_results": 50,
+        "confkey": "56e8a384c1aee",
+        "tracking_url": "http:\/\/api.wtpn.twenga.de\/track\/display.js",
+        "results": [{
+            "item_id": 6780137502967231083,
+            "name": "Apple iPhone 5s 32 GB Gold",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 32 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiGQ5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcbD9_Oz3zDeqGlRykWOSigzTgguaEpynCaovTqMS1ShBO-N17CM05UIk6FE5hUq8pIwm6G3YSt9Ba85zivcryvarl_iAeu8cILJtjTVeNlDZjsPHKE9hHknQerB-lMrHNGM0S9CTvgAlI5KTXIpCKKWA9uwab6AJ8TDjL6ZpBtm6k9bqHvJGt3LufZA8H2IHhK-2j6s2VaSQgjImYJPgFAuRFWHgpgkgDsFOn2O0G-ZRRdssuHyYTd_UU5iASbbAdEHxHSElpiWjQYSMHuINbpLiRpKTIEjdVHpnpTPdeQmGcTQw2Pb471pgzlKeY9UCUk21nvxa9oGHQ8Hr01UZFCZzMlNQX9nP4aivPwZfd_wC0LhusBrQwyht8x6uQdnPLw%2A%2A",
+            "tag": "2192447425762077596-6780137502967231083",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "647,36 \u20ac",
+            "price_raw": 647.36,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 885909782253,
+            "product": {
+                "product_id": 34625437,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625437"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 6766228041554969440,
+            "name": "Apple iPhone 6 Plus 16 GB Spacegrau",
+            "description": "Apple iPhone 6 Plus. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: Space",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9x8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47SQaTcrD9_Oz3nG9U1qjggnOADFPCGM15TilOUHUZNCpQhRK0M07HPgIpFyJBj2pQqMBLoJCgt34rXetbM54B3q-A7lcv8Xnq_TB4RDaNscbJ2le2Y_8xylOYRxK07q0bpXIxZRRYgp70xVMYkZxkUuRCKeVpz0PtjG9CPMz4iyFlPlu30lrd-bzWjZw7FyTPh9jhw1fbxVWbMlJIDpQKv0lwwEKwPAzc1AHEIdjpc4x2_TyqaJsGlw-z6epqChMwYQsMC8B3hBQYCgpBhIwe4g1ukuJGkpEgSN1UusHKwbTnpTeMo4HeNsd_1wJzmvIMq8Yj5VTpya1lF3g4FJw-XZX5wmROZgrqS_vZH_X1x9IEHb88aIa2t9qjh1Ha-j1cA-jPLw%2A%2A",
+            "tag": "2192447425762077596-6766228041554969440",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "796,11 \u20ac",
+            "price_raw": 796.11,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462039246,
+            "product": {
+                "product_id": 34669057,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669057"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 6590431515854135579,
+            "name": "Apple iPhone 6 64 GB Spacegrau",
+            "description": "Apple iPhone 6. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 64 GB. Farbe: Spacegrau",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9J8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47TgaTcrD9_Oz3nG9U1qgQPMcsJZzwjDOSci7zBFWXwaACVShBO-tN7CM0FVIm6FEPGhV4SRlN0Fu_Vb6F1kxkFO9XlO1XL_EB9X4YAFFNY531qobKduw_RnUK80iC1r3zo9I-ppxRnqAncwEKJ0qQTMlcaq2B9jzU3kITEmHGX0xTDtm6Vc6ZDvLaNGrufJA8H2IHhK-ui6s2ZaSQnDImYZMUFEvJ8zBwUwcQh2BnzjHa9fOoo20WXD7MtqurKUzAhC8wXVB8R0iBacFoEKGih3iDm6S4kWQkCNI3lX5warDteQmGcTTQu-b471piwVKRYd0AUk6VmfxadYGHQ8Gb01UZFCZ7slNQX7rP_miuP5Ym6PgFoB3a3hlAD6Ny9Xu4BmU_vw%2A%2A",
+            "tag": "2192447425762077596-6590431515854135579",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "793,73 \u20ac",
+            "price_raw": 793.73,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462064101,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 6394014509810415607,
+            "name": "Apple iPhone 5s 32 GB Silber inkl. 5 Kensington Handyh\u00fcllen",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 32 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9J8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47TgaTcrD9_Oz3nG9U1qgQac4wYRznGcGMcIFlgqrLYFCBKpSgnfUm9hGaCgnYox40KvCSMpqgt36rfAutmcgo3q8o269e4gPq_TAAoprGOutVDZXt2H-M6hTmkQSte-dHpX1MOaM8QU_mAhROlCCZkrnUWgPteai9hSYkwoy_mKYcsnWrnDMd5LVp1Nz5IHk-xA4IX10XV23KSCE5ZUzCJikolpLnYeCmDiAOwc6cY7Tr51FH2yy4fJhtV1dTmIAJX2C6oPiOkALTgtEgQkUP8QY3SXEjyUgQpG8q_eDUYNvzEgzjaKB3zfHftcSCpSLDugGknCoz-bXqAg-HgjenqzIoTPZkp6C-dJ_90Vx_LE3Q8QtAO7S9M4AeRuXq93ANyn5-AQ%2A%2A",
+            "tag": "2192447425762077596-6394014509810415607",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "641,41 \u20ac",
+            "price_raw": 641.41,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625437,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625437"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 5360857820865944868,
+            "name": "Apple iPhone 5s 32 GB Spacegrau inkl. 5 Kensington Handyh\u00fcllen",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9J8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47TgaTcrD9_Oz3nG9U1qjgqcAZlxnFmeA5Y5nIElRdBoMKVKEE7aw3oU8QmgopE_SoB40KvKSMJuit3yrfQivQKN6vKNuvXuID6v0wAKKaxjrrVQ2V7dh_jOoU5pEErXvnR6V9TDmjPEFP5gIUTpQgmZK51FoD7XmovYUmJMKMv5imHLJ1q5wzHeS1adTc-SB5PsQOCF9dF1dtykghOWVMwiYpKJaS52Hgpg4gDsHOnGO06-dRR9ssuHyYbVdXU5iACV9guqD4jpAC04LRIEJFD_EGN0lxI8lIEKRvKv3g1GDb8xIM42igd83x37XEgqUiw7oBpJwqM_m16gIPh4I3p6syKEz2ZKegvnSf_dFcfyxN0PELQDu0vTOAHkbl6vdwDcp-fgE%2A",
+            "tag": "2192447425762077596-5360857820865944868",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "641,41 \u20ac",
+            "price_raw": 641.41,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625437,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625437"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625437.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625437b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625437vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 5235988925340574967,
+            "name": "Apple iPhone 6 Plus 16 GB Gold",
+            "description": "Apple iPhone 6 Plus. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: Gold",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9J8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47TgaTcrD9_Oz3nG9U1qjgNOV5luWUpwxzyXIhE1RdBoMKVKEE7aw3oU8QmgoJ2KMeNCrwkjKaoLd-q3wLrZnIKN6vKNuvXuID6v0wAKKaxjrrVQ2V7dh_jOoU5pEErXvnR6V9TDmjPEFP5gIUTpQgmZK51FoD7XmovYUmJMKMvxh0Q7ZulXOmg7w2jZo7HyTPh9gB4avr4qpNGSkkp4xJ2CQFxVLyPAzc1AHEIdiZc4x2_TzqaJsFlw-z7epqChMw4QtMFxTfEVJgWjAaRKjoId7gJiluJBkJgvRNpR-cGmx7XoJhHA30rjn-u5ZYsFRkWDeAlFNlJr9WXeDhUPDmdFUGhcme7BTUl-6zP5rrj6UJOn4BaIe2dwbQw6hc_R6uQdnPLw%2A%2A",
+            "tag": "2192447425762077596-5235988925340574967",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "796,11 \u20ac",
+            "price_raw": 796.11,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462039840,
+            "product": {
+                "product_id": 34669057,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669057"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669057.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669057b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669057vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 4726986778159102051,
+            "name": "Apple iPhone 6 Plus 128 GB Spacegrau",
+            "description": "Apple iPhone 6 Plus. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Display: 5.5 Retina HD LED-backlit display. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2o4fSW7QcogQolIDp0rIdRxiNXXSxAFViH9n7UKlHHZ3ZnZnnG9U1qhgkoo8E1JmhOcEU8xJgqrLYFCBKpSgnfUm8AShKbAS9KgHjQq8pIwm6K3fKt8CNRMZxfsVZfvVS_xAej8MgKimsc56VcNkO_YfozqFfXBl3Ts_Ku1jyxnlCXoyF5BwogTJlMyl1hpkz0PtLZCQCDv-appy6Natcs500NemUXPng-X5EBlQvrountqUUUJyypiES1JQLCXPw8JNHUAcip05x2rXz6OOsVlI-TDbrq6msAETvsB0QfEdIQWmBaPBhIoZ4hvcLMWLJCPBkL659INTg23PSwiMY4DeNcf_1BILlooM6waQcqrM5NeqCzocBt6crs5gMNmTnYL70n32R3P9Y2mCjl8A2qHtnQH0MCpXv4fXoOznFw%2A%2A",
+            "tag": "2192447425762077596-4726986778159102051",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "992,46 \u20ac",
+            "price_raw": 992.46,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462040143,
+            "product": {
+                "product_id": 34669137,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669137"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 368015149907402032,
+            "name": "Apple iPhone 5s 16 GB Silber inkl. inkl. 5 Kensington Handyh\u00fcllen",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiGQ5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcbD9nu33zDeqGlSmPMckI6wosGCY4pQmqL44jUpUowTtjNeBxglNuRAJelROoRIvKQPi27CVvgNqznOK9yvK9quX-KD13jlAZNsaa7xsoLIdh49RnsI8kqD1YP0olY9pxmiWoCd9gZaMSE5yKQqhlIK2Z9d4AyTEw4y_mKYZZOtOWqt7yBvdyrn3QfJ8iAwIX20fV22q2EIKypiATYJTLERWhIGbJoA4BDt9jtFumEcVbbPg8mE2fVNPYQKcaoHpguI7QkpMS0aDCBk9xBvcJMWNJCdBkLqp9M5KZ7rzEgzjaGCw7fHftcCchf9QLSDVVOvJr2Uf-nAoeH26KoPCZE5mCuor-zkc9fXH0gQdvwA0rhusBvQwStu8h2tQ9vML",
+            "tag": "2192447425762077596-368015149907402032",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "581,91 \u20ac",
+            "price_raw": 581.91,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625427,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625427"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625427.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625427b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625427vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 368015149907334193,
+            "name": "Apple iPhone 5s 16 GB Gold inkl. inkl. 5 Kensington Handyh\u00fcllen",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiGQ5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcTB-fvZ79jeqGlSmPMckI6wosEhTRoo0QfXFaVSiGiVoZ7wOZZzQlAuRoEflFCrxkjKaoLdhK30HpTnPKd6vKNuvXuID6r1zgMi2NdZ42UBmOw4fozyFfiRB68H6USofvxmjWYKe9AUoGZGc5FIUQikFtGfXeANFiIcefzFNM_itO2mt7uHf6FbOvQ-S50OsgPDV9nHUpooUUlDGBEwSnGIhsiI03DQBxCHY6XOMdsM8qmibBZcPs-mbegodYFULTBcU3xFSYloyGkTI6CHu4CYpTiQ5CYLUTaV3VjrTnZdgGEcDg22P_64F5izcQ7WAVFOtJ7-WfeDhkPD6dFUGicmczBTUV_ZzOOrrxeB0xy8AjesGqwE9jNI272EblP38Ag%2A%2A",
+            "tag": "2192447425762077596-368015149907334193",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "581,91 \u20ac",
+            "price_raw": 581.91,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625427,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625427"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3634626117189397055,
+            "name": "Apple iPhone 5c 32 GB Blau",
+            "description": "Apple iPhone 5c. Ausgestattet mit A6\u00a0Chip, einer 8 Megapixel\u00a0iSight\u00a0Kamera und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 32 GB. Farbe: blau",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiGQ5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcbD9_Oz3zDeqGlSmPGWcckIEyYu0EDjLElRfnEYlqlGCdsbr0McJTbkQCXpUTqESLymjCXobttJ30JrznOL9irL96iU-oN47B4hsW2ONlw1UtuPwMcpTmEcStB6sH6XyMc0YhcVP-gKUjEhOcikKoZQC2rNrvIEmxMOMv5imGWTrTlqre8gb3cq590HyfIgdEL7aPq7aVJFCCsqYgE2CUyxEVoSBmyaAOAQ7fY7RbphHFW2z4PJhNn1TT2ECJtkC0wXFd4SUmJaMBhEyeog3uEmKG0lOgiB1U-mdlc505yUYxtHAYNvjv2uBOUt5jlULSDXVevJr2QceDgWvT1dlUJjMyUxBfWU_h6O-_liaoOMXgMZ1g9WAHkZpm_dwDcp-fgE%2A",
+            "tag": "2192447425762077596-3634626117189397055",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "593,81 \u20ac",
+            "price_raw": 593.81,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 885909808656,
+            "product": {
+                "product_id": 34626097,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34626097"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34626097.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34626097b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34626097vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2871329364977229922,
+            "name": "Apple iPhone 6 16 GB Silber",
+            "description": "Apple iPhone 6. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: Silber",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFBTsMwEPwK8jlt7Y1jJ7lBy6FCiEoNnCoh13Go1dRJEwdUIf7O2oVKOezuzOzOON9kXZMScslSKFLBCykBigIgIdWlN6QkFUnI1noTeIJBKqRMyKPuNSnpHDgS37qN8gek5iIHulsA3y1e4ofS-75HRDWNddarGiebofsY1CnsYwlZds4PSvvYZhyyhDyZC0oypgTLlSyk1hplz33tLZKICDv-akgz7JYH5Zxpsa9No6bWB8vTPjKwfHVtPLVaRwkrgHOJl6QAKmVWhIWrOoA0FFtzjtW2mwYdY_OQ8mGybV2NYQNl2YzCDOgdYyWFkkMwoWKG-AY3S_Eiy1kwpG8ufe9Ubw_nOQamMUDnmuN_akkFT0VOdYPIeqzM6JeqDToaBt6crs5wMNqTHYP7tfvsjub6x9KEHL8QtP2hcwbR_aBc_R5eA_jPLw%2A%2A",
+            "tag": "2192447425762077596-2871329364977229922",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "689,01 \u20ac",
+            "price_raw": 689.01,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462062657,
+            "product": {
+                "product_id": 34669177,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669177"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669177.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669177b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669177vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2415994021089632495,
+            "name": "Apple iPhone 6 16 GB Gold",
+            "description": "Apple iPhone 6. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: Gold",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiGQ5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcbD9_Oz38DeqGlRSRrKiYJgSnBc8pazIElRfnEYlqlGCdsbr0McJTbkQCXpUTqESLymjCXobttJ30JrznOL9irL96iU-oN47B4hsW2ONlw1UtuPwMcpTmEcStB6sH6XyMc0YhcVP-gKUjEhOcikKoZQC2rNrvIEmxMOMv5imGWTrTlqre8gb3cq590HyfIgdEL7aPq7aVJFCCsqYgE2CUyxEVoSBmyaAOAQ7fY7RbphHFW2z4PJhNn1TT2ECJtkC0wXFd4SUmJaMBhEyeoh_cJMUN5KcBEHqptI7K53pzkswjKOBwbbHf9cCc5byHKsWkGqq9eTXsg88HApen67KoDCZk5mC-sp-Dkd9vViaoOMXgMZ1g9WAHkZpm3cT7_zzCw%2A%2A",
+            "tag": "2192447425762077596-2415994021089632495",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "689,01 \u20ac",
+            "price_raw": 689.01,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462062947,
+            "product": {
+                "product_id": 34669177,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669177"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2330588824841557760,
+            "name": "Apple iPhone 5s 32 GB Spacegrau",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9x8rTfYOFQIMWmF0ySUpSmN1qVdm4EmxH8nyWBSDrafn_2e843KGhWQ55hJKYFKShgTguMMVZfBoAJVKENb603s4wRyLkSGHvWgUYHnQCFDb_1G-Ta0Si4B7xZAd4uX9AL1fhgCoprGOutVHSqbsf8Y1THOIxla9c6PSvuUMgosQ0_mEiiMKE6kEkuhtQ6056H2NjQhHmf8xZCzkK1a5ZzpQl6bRp07HyWf96kjhK-uS6vWZaKQJVAqwibBAQvBlnHguo4gjsHWnFK07c-jTrZpdPlwtl1dTXECJmyGYQb4jpACQ0EhilDJQ7rBTVLaSCSJgvRNpR-cGmx7mgfDOBnoXXP4dy0wpzmXWDcBKafKTH6lusjDseDN8aosFCZ7tFNUX7rP_mCuP5Zn6PAVQDu0vTMB3Y_K1e_xGkB_fgE%2A",
+            "tag": "2192447425762077596-2330588824841557760",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "647,36 \u20ac",
+            "price_raw": 647.36,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 885909781652,
+            "product": {
+                "product_id": 34625437,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625437"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625437.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625437b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625437vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2220561158553441649,
+            "name": "Apple iPhone 5s 16 GB Spacegrau inkl. inkl. 5 Kensington Handyh\u00fcllen",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9x8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47SQaTcrD9_Oz3nG9U1qgAAMw4ISxjLKWUcJonqLoMGhWoQgnaGadDHyeQciES9KgGhQq8BAoJeuu30rW-NeMZ4P0K6H71Ep-n3g-DR2TTGGucrH1lO_YfozyFeSRB6966USoXU0aBJehJXzyFEclJJkUulFKe9jzUzvgmxMOMvxhS5rN1K63Vnc9r3ci5c0HyfIgdPny1XVy1KSOF5ECp8JsEBywEy8PATR1AHIKdPsdo18-jirZpcPkwm66upjABE7bAsAB8R0iBoaAQRMjoId7gJiluJBkJgtRNpRusHEx7XnrDOBrobXP8dy0wpynPsGo8Uk6VntxadoGHQ8Hp01WZL0zmZKagvrSf_VFffyxN0PHLg2Zoe6s9ehilrd_DNYD-_AI%2A",
+            "tag": "2192447425762077596-2220561158553441649",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "593,81 \u20ac",
+            "price_raw": 593.81,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625427,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625427"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2032592912595764843,
+            "name": "Apple iPhone 6 64 GB Gold",
+            "description": "Apple iPhone 6. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 64 GB. Farbe: Gold",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPagkMgyW1rd6imaZWa7VRpooSsqClJE7KpmvbvM3SrhJDt52e_B99kXZMSaApZAQXDO5OC5zxNSHXpDSlJRRKytd6EPsEgFVIm5FH3mpR0DhwS8tZtlD9gay5yoLsF8N3iJR6k3vc9IqpprLNe1VjZDN3HoE5hHkvIsnN-UNrHNOOQJeTJXJCSMSVYrmQhtdZIe-5rb7GJiDDjL4Y0w2x5UM6ZFvPaNGpqfZA87WMHhq-ujatW60hhBXAucZMUQKXMijBwVQeQhmBrzjHadtOgo20eXD5Mtq2rMUygLJtRmAG9Y6ykUHIIIlT0EN_gJiluZDkLgvRNpe-d6u3hPEfDNBroXHP8dy2p4KnIqW4QWY-VGf1StYFHQ8Gb01UZFkZ7smNQv3af3dFcfwy_7viFoO0PnTOI7gfl6vfwGsB_fgE%2A",
+            "tag": "2192447425762077596-2032592912595764843",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "793,73 \u20ac",
+            "price_raw": 793.73,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462064682,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 1436222707280805751,
+            "name": "Apple iPhone 6 64 GB Silber",
+            "description": "Apple iPhone 6. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 64 GB. Farbe: Silber",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBTsMwDP0VlHO3JW6adL3BxqFCiEkrnCahLE1ptC7t2gw0If4dJ4NJOdh-fvZ7zjcpa1IwngoAkFRCTnOayYwlpLoMhhSkIgnZWm9Cn2CQCikT8qgHTQo6Bw4Jees3yrfYmosc6G4BfLd4iQ-p98OAiGoa66xXNVY2Y_8xqmPcm5BV7_yotI9pxiFLyJO5ICVjSrBcyaXUWiPteai9xSYiwoy_GNIMs1WrnDMd5rVp1LnzQfJ5HzswfHVdXLUuI4UtgXOJm6QAKmW2DAPXdQBpCLbmFKNtfx51tM2Dy4ez7epqChMoy2YUZkDvGCsoFByCCBU9xBvcJMWNLGdBkL6p9INTg21PczRMo4HeNYd_15IK_I6c6gaRcqrM5FeqCzwaCt4cr8qwMNmjnYL60n32B3P9sTQhhy8E7dD2ziC6H5Wr38M1gP_8Ag%2A%2A",
+            "tag": "2192447425762077596-1436222707280805751",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "793,73 \u20ac",
+            "price_raw": 793.73,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462064392,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3113653762770122050,
+            "name": "Apple Leder case F\u00fcr iPhone 6 Schwarz",
+            "description": "Das Leder Case sch\u00fctzt die R\u00fcckseite und Seitenkanten des iPhone 6 vor Kratzer und aufschl\u00e4gen. Von Innen sch\u00fctzt ein weiches Mikrofaserfutter das iPhone",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9J8dL3BxqFCiEkrnCahLE1ptC7N2gw0If47TgaTcrD9_Oz3nG9UNajMCckFz6WgUmJCKeY4Q_XFG1SiGmVoa4OJfYLQXEiZoUftNSrxnDKaobdho0IHrYUoKN4tKNstXtID6r33gKi2tc4G1UBlMw4fozrGeSRDq8GFUemQUs4oz9CTuQCFEyVIoeRSaq2B9uybYKEJiTjjL6Y5h2zVKedMD3ljWnXuQ5R83qcOCF9dn1atq0QhS8qYhE1gF0vJl3HguokgjsHWnFK0Hc6jTrZZdPlwtn1TT3ECJnyG6YziO0JKTEtGowiVPKQb3CSljaQgUZC-qQzeKW-70xwM42RgcO3h37XEguWiwLoFpJpqM4WV6iMPx0Iwx6syKEz2aKeovnKfw8FcfyzP0OELQOu7wRlA96NyzXu8BmU_vw%2A%2A",
+            "tag": "2192447425762077596-3113653762770122050",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "41,04 \u20ac",
+            "price_raw": 41.04,
+            "currency": "\u20ac",
+            "shipping_cost": "4,90 \u20ac",
+            "shipping_cost_raw": 4.9,
+            "has_ean": true,
+            "ean": 888462016322,
+            "product": {
+                "product_id": 34669007,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669007"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669007.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669007b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669007vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 7202768678352245990,
+            "name": "Apple iPhone 6 Plus 16 GB Silber",
+            "description": "Apple iPhone 6 Plus. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: Silbe",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9x8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47SQaTcrD9_Oz3nG9U1qgQgEHwjIssZQCU5TlOUHUZNCpQhRK0M06HPk4g5UIk6FENChV4CRQS9NZvpWt9a8YzwPsV0P3qJT5PvR8Gj8imMdY4WfvKduw_RnkK80iC1r11o1QupowCS9CTvngKI5KTTIpcKKU87XmonfFNiIcZfzGkzGfrVlqrO5_XupFz54Lk-RA7fPhqu7hqU0YKyYFS4TcJDlgIloeBmzqAOAQ7fY7Rrp9HFW3T4PJhNl1dTWECJmyBYQH4jpACQ0EhiJDRQ7zBTVLcSDISBKmbSjdYOZj2vPSGcTTQ2-b471pgTlOeYdV4pJwqPbm17AIPh4LTp6syX5jMyUxBfWk_-6O-_liaoOOXB83Q9lZ79DBKW7-HawD9-QU%2A",
+            "tag": "2192447425762077596-7202768678352245990",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "796,11 \u20ac",
+            "price_raw": 796.11,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462039543,
+            "product": {
+                "product_id": 34669057,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669057"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 7779214581163286295,
+            "name": "Apple iPhone 6 Plus 64 GB Gold",
+            "description": "Apple iPhone 6 Plus. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Display: 5.5 Retina HD LED-backlit display. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBTsMwDP0VlHO3JW6atL3BxmFCiEkrnCahLE1ZtC7t2hQ0If4dJ4NJOdh-fvZ7zjdZ16SUUhbAeJYzJlLIBRRZQqpLb0hJKpKQrfUm9AkGqZAyIY-616Skc-CQkLduo_wBW3ORA90tgO8WL_Eh9b7vEVFNY531qsbKZug-BnUK81hClp3zg9I-phkHXPxkLkjJmBIsV7KQWmukPfe1t9hERJjxF0OaYbY8KOdMi3ltGjW1Pkie9rEDw1fXxlWrdaSwAjiXuEkKoFJmRRi4qgNIQ7A15xhtu2nQ0TYPLh8m29bVGCZQls0ozIDeMVZSKDkEESp6iDe4SYobWc6CIH1T6Xunens4z9EwjQY61xz_XUsqeCpyqhtE1mNlRr9UbeDRUPDmdFWGhdGe7BjUr91ndzTXH0sTcvxC0PaHzhlE94Ny9Xu4BvCfXw%2A%2A",
+            "tag": "2192447425762077596-7779214581163286295",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "891,31 \u20ac",
+            "price_raw": 891.31,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462041645,
+            "product": {
+                "product_id": 34669097,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669097"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669097.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669097b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669097vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 7833305883568904272,
+            "name": "Apple iPhone 6 128 GB Silber",
+            "description": "Apple iPhone 6. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Display: 4.7 Retina HD LED-backlit display. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und M",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFBTsMwEPwK8jltbcexndyg5RAhRKUGTpWQ6zjEauqkiQOqEH9n7UKlHHZ3ZnZnnG9U1qgQMk1TnEmZZlzmmFFBE1RdBoMKVKEE7aw3gccJTbkQCXrUg0YFXlIGxLd-q3wLVMklxfsVZfvVS_xAej8MgKimsc56VcNkO_YfozqFfSRB6975UWkf24zRLEFP5gKSjChOpBK50FqD7HmovQUS4mHHX03TDLp1q5wzHfS1adTc-WB5PkQGlK-ui6c2ZZSQnDIm4JLgFAuR5WHhpg4gDsXOnGO16-dRx9gspHyYbVdXU9iASbbAdEHxHSEFpgWjwYSKGeIb3CzFi0SSYEjfXPrBqcG25yUExjFA75rjf2qBOUu5xLoBpJwqM_m16oIOh4E3p6szGEz2ZKfgvnSf_dFc_1iaoOMXgHZoe2cAPYzK1e_hNSj7-QU%2A",
+            "tag": "2192447425762077596-7833305883568904272",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "891,31 \u20ac",
+            "price_raw": 891.31,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462063524,
+            "product": {
+                "product_id": 34669257,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669257"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 8627669190251282553,
+            "name": "Apple iPhone 5s 32 GB Gold inkl. 5 Kensington Handyh\u00fcllen",
+            "description": "Apple iPhone\u00a05s. Ausgestattet mit A7\u00a0Chip, Touch\u00a0ID Fingerabdrucksensor, einer iSight\u00a0Kamera mit gr\u00f6\u00dferem 8 Megapixel Sensor und iOS\u00a07. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 32 GB. Farbe: ",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNb8IwDP0rU84FEjcfbW8b7ICmaUiwnZCmkKYjoqSlDZvQtP8-J2xIOdh-fvZ7zjdZ1qQqJCgpS1ZSEAwKECLPyObSW1KRDcnI2gUb-ySDXCqVkUfTG1LRKXDIyFu30mGPrYUsgG5nwLezl_SQet_3iOimcd4FXWNlNXQfgz7GeSwj886HQZuQUsFBZOTJXpAimJas0KpUxhikPfd1cNhEZJzxF0MuMJvvtfe2xby2jT63IUo-71IHhq--TasWy0RhJXCucJOSQJUSZRy4qCNIY7C2pxStu_Ngkm0eXT6cXVtvxjiBMjGhMAF6x1hFoeIQRehwPSXe4CYpbWQFi4LMTWXove7d_jRFwzQZ6Hxz-HetqOS5LKhpEFmOGzuGuW4jj8ZCsMerMiyM7ujGqH7pP7uDvf4Yft3hC0HX7ztvEd0N2tfv8RrAf34B",
+            "tag": "2192447425762077596-8627669190251282553",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "641,41 \u20ac",
+            "price_raw": 641.41,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625437,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625437"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625437vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 8826377397099759153,
+            "name": "Apple iPhone 6 16 GB Spacegrau",
+            "description": "Apple iPhone 6. Ausgestattet mit A8 Chip, Touch ID Fingerabdrucksensor, einer iSight Kamera mit 8 Megapixel Sensor und iOS 8. Das Iphone wird mit Lightning Anschluss geliefert und Apple EarPods mit Fernbedienung und Mikrofon. Kapazit\u00e4t: 16 GB. Farbe: Spacegrau",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiGQ5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcbD9_Oz3zDeqGlTmOeWpEGkhcFGIrCBZmqD64jQqUY0StDNehz5OaMqFSNCjcgqVeEkZTdDbsJW-g9ac5xTvV5TtVy_xAfXeOUBk2xprvGygsh2Hj1GewjySoPVg_SiVj2nGaJagJ30BSkYkJ7kUhVBKAe3ZNd5AE-Jhxl9M0wyydSet1T3kjW7l3PsgeT7EDghfbR9XbapIIQVlTMAmwSkW4DYM3DQBxCHY6XOMdsM8qmibBZcPs-mbegoTMMkWmC4oviOkxLRkNIiQ0UO8wU1S3EhyEgSpm0rvrHSmOy_BMI4GBtse_10LzFnKc6xaQKqp1pNfyz7wcCh4fboqg8JkTmYK6iv7ORz19cfg645fABrXDVYDehilbd7DNSj7-QU%2A",
+            "tag": "2192447425762077596-8826377397099759153",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "689,01 \u20ac",
+            "price_raw": 689.01,
+            "currency": "\u20ac",
+            "shipping_cost": "1,95 \u20ac",
+            "shipping_cost_raw": 1.95,
+            "has_ean": true,
+            "ean": 888462062367,
+            "product": {
+                "product_id": 34669177,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669177"
+            },
+            "estimated_cpc": "0,23 \u20ac",
+            "estimated_cpc_raw": 0.230481,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6123677,
+            "merchant": {
+                "merchant_id": 2150061,
+                "name": "Viking",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=2150061",
+                "domain": "viking",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/5\/2150061.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 1654180967931593689,
+            "name": "Apple iPhone 5 16\/32\/64 GB - Schwarz - 32 GB",
+            "description": "Sie suchen einen neuen Begleiter, der \u00fcber s\u00e4mtliche technische Raffinessen verf\u00fcgt? Das iPhone 5 bietet nicht nur moderne Technologie, es sieht in seinem schwarzen oder wei\u00dfen Design zudem auch noch klasse aus. Mit Haupt- und Frontkamera sowie einem leistungss",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9J8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47TgaTcrD9_Oz3nG9U1qgggjOS4VzIPCU8T0WWJ6i6DAYVqEIJ2llvQp8AgDCZoEc9aFTgJWU0QW_9VvkWWjORUbxfUbZfvcQH1PthAEQ1jXXWqxoq27H_GNUp7k3Qund-VNrHlDPKE_RkLkDhRAmSKZlLrTXQnofaW2hCIsz4i2nKIVu3yjnTQV6bRs2dD5LnQ-yA8NV1cdWmjBSSU8YkbJKCYil5HgZu6gDiEOzMOUa7fh51tM2Cy4fZdnU1hQmY8AWmC4rvCCkwLRgNIlT0EG9wkxQ3kowEQfqm0g9ODbY9L8EwjgZ61xz_XUssGPwA1g0g5VSZya9VF3g4FLw5XZVBYbInOwX1pfvsj-b6Y2mCjl8A2qHtnQH0MCpXv4drUPbzCw%2A%2A",
+            "tag": "2192447425762077596-1654180967931593689",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "468,99 \u20ac",
+            "price_raw": 468.99,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34628617,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34628617"
+            },
+            "estimated_cpc": "0,18 \u20ac",
+            "estimated_cpc_raw": 0.1815,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34628617.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34628617b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34628617vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6689147,
+            "merchant": {
+                "merchant_id": 6689147,
+                "name": "Lesara",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=6689147",
+                "domain": "lesara",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/6689147.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 8587763649890507976,
+            "name": "Apple iPhone 5 16\/32\/64 GB - Schwarz - 16 GB",
+            "description": "Sie suchen einen neuen Begleiter, der \u00fcber s\u00e4mtliche technische Raffinessen verf\u00fcgt? Das iPhone 5 bietet nicht nur moderne Technologie, es sieht in seinem schwarzen oder wei\u00dfen Design zudem auch noch klasse aus. Mit Haupt- und Frontkamera sowie einem leistungss",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiFActvaHaJpWqVmO1WaKCELakrShGyqpv37DN0qcbD9_Oz3zDcqa1TITArBU85ymeMMi1zwBFWXwaACVShBO-tN6ONc5oSJBD3qQaMCLymjCXrrt8q30Cq5pHi_omy_eokPqPfDAIhqGuusVzVUtmP_MapTmEcStO6dH5X2Mc0YzRL0ZC5AyYjiRCrQorUG2vNQewtNiIcZfzFNM8jWrXLOdJDXplFz54Pk-RA7IHx1XVy1KSOF5JQxAZsEp1iILA8DN3UAcQh25hyjXT-POtpmweXDbLu6msIETLIFpguK7wgpMC0YDSJU9BBvcJMUNxJJgiB9U-kHpwbbnpdgGEcDvWuO_64F5izlEusGkHKqzOTXqgs8HArenK7KoDDZk52C-tJ99kdz_bE0QccvAO3Q9s4AehiVq9_DNSj7-QU%2A",
+            "tag": "2192447425762077596-8587763649890507976",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "452,99 \u20ac",
+            "price_raw": 452.99,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34628617,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34628617"
+            },
+            "estimated_cpc": "0,18 \u20ac",
+            "estimated_cpc_raw": 0.1815,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34628617.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34628617b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34628617vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6689147,
+            "merchant": {
+                "merchant_id": 6689147,
+                "name": "Lesara",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=6689147",
+                "domain": "lesara",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/6689147.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 6434385116829592404,
+            "name": "Apple iPhone 5 16\/32\/64 GB - Wei\u00df - 16 GB",
+            "description": "Sie suchen einen neuen Begleiter, der \u00fcber s\u00e4mtliche technische Raffinessen verf\u00fcgt? Das iPhone 5 bietet nicht nur moderne Technologie, es sieht in seinem schwarzen oder wei\u00dfen Design zudem auch noch klasse aus. Mit Haupt- und Frontkamera sowie einem leistungss",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAoGQ5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcbD9_Oz3zDeqGlRmLGVpzgnJclrwgjLMElRfnEYlqlGCdsbr2JflBWEiQY_KKVTiJWU0QW_DVvoOWnOg4_2Ksv3qJT6g3jsHiGxbY42XDVS24_AxylOYRxK0HqwfpfIx5YzyBD3pC1A4kRnJpSiEUgpoz67xBppQFmb8xTTlkK07aa3uIW90K-feB8nzIXZA-Gr7uGpTRQoBf0zAJpFRLAQvwsBNE0Acgp0-x2g3zKOKtllw-TCbvqmnMAETvsB0QfEdISWmJaNBhIwe4g1ukuJGkpMgSN1UemelM915CYZxNDDY9vjvWmD4jizHqgWkmmo9-bXsAw-HgtenqzIoTOZkpqC-sp_DUV9_LE3Q8QtA47rBakAPo7TNe7gGZT-_",
+            "tag": "2192447425762077596-6434385116829592404",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "452,99 \u20ac",
+            "price_raw": 452.99,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34628617,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34628617"
+            },
+            "estimated_cpc": "0,18 \u20ac",
+            "estimated_cpc_raw": 0.1815,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34628617.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34628617b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34628617vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6689147,
+            "merchant": {
+                "merchant_id": 6689147,
+                "name": "Lesara",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=6689147",
+                "domain": "lesara",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/6689147.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 9192940856408361480,
+            "name": "Bose - QuietComfort 20i iPhone\/iPod Headphones",
+            "description": "Bose - QuietComfort 20i iPhone\/iPod Headphones",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFdT8MgFP0rhuduAuWj7ZtuPjTGuGTVJ1-QUkvWUdZSzWL8716YLiHkfp1zz4FvVLeoKklJS4YLLuDKBWEFzlBz9gZVqEEZ2ttg4lzOWc4oydCD9hpVeE1knmfoddyp0MNsIQqK327hPKcD0DvvoaG6zjobVAuV3TR-TOoY-YBpM7owKR1SyhnlGXo0Z4BwogQplCyl1hpgT74NFoaQiBx_Mc05ZJteOWcGyFvTqWUIUfLyniYgfHFDWrWtEwS8MiZhkxQUS8nLSLhtYxPHYG9OKdqPy6STbcZohu4XO7TNHBkw4StMVxTfEFJhWjEaRajkIT3BVVLaSAoSBemryuCd8rY_rcEwTgZG1x3-XUssWC4KrDvo1HNj5rBRQ8ThWAjmeFEGhdke7RzV1-5zPJjLj8GHHL6gaX0_OoN-fgE%2A",
+            "tag": "2192447425762077596-9192940856408361480",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "259,00 \u20ac",
+            "price_raw": 259,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": true,
+            "ean": 17817607223,
+            "estimated_cpc": "0,17 \u20ac",
+            "estimated_cpc_raw": 0.1733,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_9192940856408361480.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_9192940856408361480b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_9192940856408361480vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3543421,
+            "merchant": {
+                "merchant_id": 1746621,
+                "name": "Musicstore Deutschland",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1746621",
+                "domain": "musicstore",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/2\/1746621.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 1588449260174220710,
+            "name": "iPhone 5s Silber (16 GB)",
+            "description": "iPhone 5s Silber (16 GB)",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAgFCctvaHaJpWqVmO1WaKCELakrShGyqpv37DN0qcbD9_Oz3zDcqa1QQLiVjORWYZIxSnBGcoOoyGFSgCiVoZ70JfSkXVAiSoEc9aFTgJWG5TNBbv1W-hV4pJMX7FWX71Ut8wL0fBkBU01hnvaqhsh37j1Gd4uIErXvnR6X9VQejPEFP5gIUTpQgUmV5prUG2vNQewtNSIQZfzFNOWTrVjlnOshr06i580HzfIgdEL66Lq7alJFCcsoY-OSZAKsZz8PATR1AHIKdOcdo18-jjr4Zowl6mG1XV1OYgAlfYLqg-I6QAtOC0SBCRQ_xBjdJcSORJAjSN5V-cGqw7XkJhnE00Lvm-O86w4KlQmLdAFJOlZn8WnWBh0PBm9NVGRQme7JTUF-6z_5orl-WJuj4BaAd2t4ZQA-jcvV7uAZlP78%2A",
+            "tag": "2192447425762077596-1588449260174220710",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "599,90 \u20ac",
+            "price_raw": 599.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625427,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625427"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625427.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625427b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34625427vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2042543286965977882,
+            "name": "iPhone 6 Gold (64 GB) Tarif Vodafone Smart S",
+            "description": "4,7 Zoll Retina Display (11,94 cm)A8 ChipTouch ID Preis in Verbindung mit Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiFActvaHaJpWqVmO1WaKCELakrShGyqpv37DN0qcbD97Of3zDcqa1RQzGjGUip5zrNcCClpgqrLYFCBKpSgnfUm9KUZp5yTBD3qQaMCLwnLZYLe-q3yLfRKLineryjbr17ig9n7YQBENY111qsaKtux_xjVKRAC1bp3flTaxzQDHQl6MhcYyYjiRCqRC601jD0PtbfQhHjg-ItpmkG2bpVzpoO8No2aOx80z4fYAeGr6-KqTRlHSE4ZE7BJcIqFyPJAuKkDiEOwM-cY7fp51NE3Y3CPh9l2dTUFBkyyBaYLiu8IKTAtGA0iVPQQb3CTFDcSSYIgfVPpB6cG256XYBhHA71rjv-uBeYs5RLrBpByqszk16oLczgUvDldlUFhsic7BfWl--yP5vplaYKOXwDaoe2dAfQwKle_h2tQ9vML",
+            "tag": "2192447425762077596-2042543286965977882",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "449,90 \u20ac",
+            "price_raw": 449.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 5246789481854045270,
+            "name": "iPhone 6 Gold (64 GB) Tarif Vodafone Smart M",
+            "description": "4,7 Zoll Retina Display (11,94 cm)A8 ChipTouch ID Preis in Verbindung mit Vodafone Smart M",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2o5fyQ1aDhVCVGrgVAm5jkOtpk6aOKAK8e-sXaiUw-7OzuyM843WNSo5ZUKqgimiOMOMU4kzVF16i0pUoQxtXbBxL-eCCkEy9Gh6g0o8J6xQGXrrNjocYFcJRfFuQdlu8ZI-4N73PSC6aZx3Qdcw2Qzdx6BPURCklp0PgzYhtZxRnqEnewEKJ1oQpWUhjTFAe-7r4GAJiajxV9OcQ7c8aO9tC31tGz21IXqe9mkDylffplOrdaKQgjIm4ZIUFEvJiyi4qiOIY7G151Rtu2kwKTdjNEMPk2vraowKmPAZpjOK7wgpMS0ZjSZ0ypDe4GYpXSSKREPm5jL0XvfucJ5DYJwCdL45_qeWWLBcKGwaQNZjZcew1G3k4TgI9nR1BoPRndwY3a_9Z3e011-WZ-j4BaDrD523gO4H7ev3-BqU_fwC",
+            "tag": "2192447425762077596-5246789481854045270",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "379,90 \u20ac",
+            "price_raw": 379.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 550432341674951913,
+            "name": "iPhone 6 Silber (64 GB) Tarif Vodafone Smart S",
+            "description": "4,7 Zoll Retina Display (11,94 cm)A8 ChipTouch ID Preis in Verbindung mit Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFNT8MwDP0rKOduS9J8tL3BxqFCiEkrnCahLE1ptC7t2hQ0If47TgaTcrD97Of3nG9U1qjgHLOUpowIyXJOcpImqLoMBhWoQgnaWW9CW8oFFYIk6FEPGhV4SVieJeit3yrfQm8mMor3K8r2q5f4YPZ-GABRTWOd9aqGynbsP0Z1CoRAte6dH5X2MeWM8gQ9mQuMcKIEyZTMpdYaxp6H2ltoQiJw_MU05ZCtW-Wc6SCvTaPmzgfN8yF2QPjqurhqU8YRklPGJGySgmIpeR4IN3UAcQh25hyjXT-POvpmjCboYbZdXU2BARO-wHRB8R0hBaYFo0GEih7iDW6S4kaSkSBI31T6wanBtuclGMbRQO-a479riQVLRYZ1A0g5VWbya9WFORwK3pyuyqAw2ZOdgvrSffZHc_0y-LvjF4B2aHtnAD2MytXv4RqU_fwC",
+            "tag": "2192447425762077596-550432341674951913",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "449,90 \u20ac",
+            "price_raw": 449.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 5992956556670520229,
+            "name": "iPhone 6 Silber (64 GB) Tarif Vodafone Smart M",
+            "description": "4,7 Zoll Retina Display (11,94 cm)A8 ChipTouch ID Preis in Verbindung mit Vodafone Smart M",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2hvbedyg5VAhRKUGTpWQ6zjUauqkiQOqEP_O2oVKOezu7MzOON9kXZNSFAUUQgohZUYFUIAiIdWlN6QkFUnI1noT9lIhQUqWkEfda1LSOeNFnpC3bqP8AXdzmQPdLYDvFi_xQ-593yOimsY661WNk83QfQzqFARRatk5PyjtYys4iIQ8mQtSBFOS5SorMq010p772ltcIjJo_NWQCuyWB-WcabGvTaOm1gfP0z5uYPnq2nhqtY4UVgDnGV7KJNAsE0UQXNUBpKHYmnOstt006Jibc0jIw2TbuhqDAmViRmEG9I6xkkLJIZhQMUN8g5uleJHlLBjSN5e-d6q3h_McA9MYoHPN8T91RiVPZU51g8h6rMzol6oNPBoG3pyuznAw2pMdg_u1--yO5vrL0oQcvxC0_aFzBtH9oFz9Hl4D-M8v",
+            "tag": "2192447425762077596-5992956556670520229",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "379,90 \u20ac",
+            "price_raw": 379.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3219785386747076158,
+            "name": "iPhone 6 Spacegrau (64 GB) Tarif Vodafone Smart M",
+            "description": "4,7 Zoll Retina Display(11,94 cm)A8 ChipTouch ID Preis in Verbindung mit Vodafone Smart M",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2o4fSW7QcogQolIDp0rIdRxiNXXSxAFViH9n7UKlHHZ3ZmdnnG9U1qhIKcllxtNMSCaxFIRnCaoug0EFqlCCdtabyOOCCkES9KgHjQq8JCwH5lu_Vb4FbiYyivcryvarl_jB7v0wAKKaxjrrVQ2T7dh_jOoUBEFq3Ts_Ku1jyxnlCXoyF1jhRAmSKZlLrTWsPQ-1t0BCImj81TTl0K1b5ZzpoK9No-bOB8_zITKgfHVdPLUp4wrJKWMSLklBsZQ8D4KbOoA4FDtzjtWun0cdczNGE_Qw266upqCACV9guqD4jpAC04LRYELFDPENbpbiRZKRYEjfXPrBqcG25yUExjFA75rjf2qJBUtFhnUDSDlVZvJr1YU9HAbenK7OYDDZk52C-9J99kdz_WVpgo5fANqh7Z0B9DAqV7-H16Ds5xc%2A",
+            "tag": "2192447425762077596-3219785386747076158",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "379,90 \u20ac",
+            "price_raw": 379.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 6542509367419340597,
+            "name": "Bluetooth iPhone Piano \u00bb iPlay: Digitales Keyboard f\u00fcr iOS!",
+            "description": "Bluetooth Piano f\u00fcr iPhone & iPad Die perfekte Symbiose aus vollwertigem Keyboard und genialem iOS Gadget! Sp\u00e4testens jetzt gibt es keine Ausrede mehr: Der Alleinunterhalter wird wieder ausgeladen, der Bub spielt heut selbst sein Solo f\u00fcr die Oma! Und sein iPho",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBTsMwDP0VlHM3kjRN2t5g41AhxKQVTlxCmtJoXZK1KWhC_DtOBpN8sP387PeSb9R0qOYFowWuci4YqXKGi0pkqD17jWrUogztTdBpruQiJ4A9KK9QjdeEVWWGXt1OhgFmS15S_HYL8ZwCqHfeAyD73lgTZAed3eQ-JnmM-0iGNs6GSaqQyigjQ4_6DJSCSE5KKSqhlALak--CgSHE446_nOYFVJtBWqtHqDvdy2UMUfLyniYgfbFjOrVtEoVUlDEBlwSnWIiiigu3XQRxTPb6lLK9WyaVbDNGM3S_mLFr57gBk2KF6YriG0JqTGtGowiZPKQnuEpKF0lJoiB1VRm8ld4MpzUYxsmAs_3h37XAnOW8xKoHpJlbPYeNHCMPx0bQx4syaMzmaOaovrGf7qAvP5Zn6PAFoPGDsxr9_AI%2A",
+            "tag": "2192447425762077596-6542509367419340597",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "69,90 \u20ac",
+            "price_raw": 69.9,
+            "currency": "\u20ac",
+            "shipping_cost": "3,90 \u20ac",
+            "shipping_cost_raw": 3.9,
+            "has_ean": true,
+            "ean": 4250410321813,
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i41.twenga.com\/0-tp_6542509367419340597.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i41.twenga.com\/0-tp_6542509367419340597b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i41.twenga.com\/0-tp_6542509367419340597vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6867317,
+            "merchant": {
+                "merchant_id": 6867317,
+                "name": "Geheimshop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=6867317",
+                "domain": "geheimshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/6867317.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 8945183437600574764,
+            "name": "Apple iTunes $50 Gutschein-Code US iPhone Store",
+            "description": "G\u00fcnstige 50$ Itunes Karten f\u00fcr den US-Store (Itunes 50 USD Card) - bei GameLaden kaufen! Itunes Codes k\u00f6nnen einfach und schnell im Itunes-Programm aktiviert werden! Unser Lieferservice ist legal, schnell & nat\u00fcrlich kostenlos",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HNabMePJDdoOUQIUamBExfjOMRq6riJA6oQ_87ahUo-7GtmZ9bfqG5RVZSMkyJnuRQYc8mkYBlqzt6gCjUoQ3sbTJzLeUlIQTL0oL1GFV4TVhYZeh13KvQwW4iC4rdbeM_pAfTOe2iorrPOBtVCZTeNH5M6Rj5g2owuTEqHlHJGeYYezRkgnChBCiVLqbUG2JNvg4UhJCLHX0xzDtmmV86ZAfLWdGoZQpS8vKcJCF_ckFZt6wQhJWVMwiYpKJaSl5Fw28YmjsHenFK0H5dJJ9uM0QzdL3ZomzkyYMJXmK4oviGkwrRiNIpQyUM6wVVS2ggXi4L0VWXwTnnbn9ZgGCcDo-sO_64lFiwXBdYddOq5MXPYqCHicCwEc7wog8Jsj3aO6mv3OR7M5cfyDB2-oGl9PzqDfn4B",
+            "tag": "2192447425762077596-8945183437600574764",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "45,89 \u20ac",
+            "price_raw": 45.89,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_8945183437600574764.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_8945183437600574764b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_8945183437600574764vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3591181,
+            "merchant": {
+                "merchant_id": 3591181,
+                "name": "Gameladen",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=3591181",
+                "domain": "gameladen",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/3591181.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 6898559488035713039,
+            "name": "iPhone 6 Plus Silber (128 GB) Tarif Vodafone Smart L",
+            "description": "iPhone 6 Plus Silber (128 GB) Tarif Vodafone Smart L",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFBTsMwEPwK8jltbcd2nNyg5RAhRKUGTpWQ6zjEauqkiQOqEH9n7UKlHHZ3dmZnnG9U1qgQMpec50xKnPKMpDjNE1RdBoMKVKEE7aw3YS_lggpBEvSoB40KvCQslwl667fKt7ArhaR4v6Jsv3qJH3DvhwEQ1TTWWa9qmGzH_mNUpyAIUuve-VFpH1vOKE_Qk7kAhRMliFRZnmmtgfY81N7CEhJB46-mKYdu3SrnTAd9bRo1dz54ng9xA8pX18VTmzJSSE4Zy-BSJijOMp4HwU0dQByKnTnHatfPo465GaMJephtV1dTUMCELzBdUHxHSIFpwWgwoWKG-AY3S_EikSQY0jeXfnBqsO15CYFxDNC75vifOsOCpUJi3QBSTpWZ_Fp1gYfDwJvT1RkMJnuyU3Bfus_-aK6_LE3Q8QtAO7S9M4AeRuXq9_AalP38Ag%2A%2A",
+            "tag": "2192447425762077596-6898559488035713039",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "469,90 \u20ac",
+            "price_raw": 469.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669137,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669137"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 259940296015943244,
+            "name": "iPhone Raketenwerfer mit Bluetooth Steuerung f\u00fcr iOS \u00bb iLaunch!",
+            "description": "iPhone Raketenwerfer iLaunch Thunder Der Bluetooth Raketenwerfer f\u00fcr iOS ist das wohl modernste Spielzeug der Welt! Ein stilles Zimmer im D\u00e4mmerlicht. Ein Umriss zeichnet sich im Halbschatten ab. Ein Bluetooth Raketenwerfer Gadget bewegt sich wie von Geisterhan",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFdT8MgFP0rhmc2gVJo-6abD40xLln1yRek1JJ1lLVUsxj_uxemS3i4X-fccy7fqG5RxfKy5ISVgtC85BnjHKPm7A2qUIMw2ttg4pgohMyoxOhBe40qsqa8LDB6HXcq9DBbiIKRt1t4z-kB9M57aKius84G1UJlN40fkzpGPorRZnRhUjqkNOcsx-jRnAGSUyVooWQptdYAe_JtsDCEROT4i1mWQ7bplXNmgLw1nVqGECUv72kCwhc3pFXbOkFoCfYkbJKCESnzMhJu29gkMdibU4r24zLpZJtzhtH9Yoe2mSMDHGlF2IqRG0orwirOogiVPKQTXCWljbSgUZC-qgzeKW_70xoMk2RgdN3h37UkgmeiILqDTj03Zg4bNUQciYVgjhdlUJjt0c5Rfe0-x4O5_FiG0eELmtb3ozPo5xc%2A",
+            "tag": "2192447425762077596-259940296015943244",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "69,90 \u20ac",
+            "price_raw": 69.9,
+            "currency": "\u20ac",
+            "shipping_cost": "3,90 \u20ac",
+            "shipping_cost_raw": 3.9,
+            "has_ean": false,
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_259940296015943244.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_259940296015943244b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_259940296015943244vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6867317,
+            "merchant": {
+                "merchant_id": 6867317,
+                "name": "Geheimshop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=6867317",
+                "domain": "geheimshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/6867317.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 8467590153218483099,
+            "name": "iPhone 6 Spacegrau (64 GB)",
+            "description": "4,7 Zoll Retina Display(11,94 cm)A8 ChipTouch ID Preis ohne Karte",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiGE5La1O0TTtErNdqo0UUIW1JTQhGyqpv37DN0qcbD97Of3zDeqGlQKxvOswCRLKRFMpLgoElRfnEYlqlGCdsbr0JdmnHJOEvSonEIlXhJWiAS9DVvpO-gVXFC8X1G2X73EB7P3zgEi29ZY42UDle04fIzyFAiBaj1YP0rlY5oxmiXoSV9gJCOSEyHzIldKwdiza7yBJsQDx19M0wyydSet1T3kjW7l3PugeT7EDghfbR9Xbao4QgrKWA6bck5xDsYD4aYJIA7BTp9jtBvmUUXfjNEEPcymb-opMMClFpguKL4jpMS0ZDSIkNFDvMFNUtxIBAmC1E2ld1Y6052XYBhHA4Ntj_-uc8xZygVWLSDVVOvJr2Uf5nAoeH26KoPCZE5mCuor-zkc9fXL0gQdvwA0rhusBvQwStu8h2tQ9vML",
+            "tag": "2192447425762077596-8467590153218483099",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "799,90 \u20ac",
+            "price_raw": 799.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2526181467481207576,
+            "name": "iDrum elektrisches iPhone Schlagzeug \u00bb Virtuelle Drums f\u00fcr iOS!",
+            "description": "Elektrisches Schlagzeug e-Drums Set Mit den iDrum lernen, oder perfektionieren Sie Ihre Schlagzeug Skills im Nu! Ein weiterer genialer Geniestreich aus dem Hause Dream Cheeky kommt in Form des portablen iDrum-Sets f\u00fcr alle iOS Ger\u00e4te zu uns. Das leichte und han",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HNabMePJDdoOUQIUamBExfjOMRq6riJA6oQ_87ahUo-7GtmZ9bfqG5RRTkVpCBMSFYQiiWXIkPN2RtUoQZlaG-DiXOiEDInMkMP2mtU4TVhZZGh13GnQg-zhSgofruF95weQO-8h4bqOutsUC1UdtP4Malj5CMZ2owuTEqHlHJGeYYezRkgnCjQpGQptdYAe_JtsDCEROT4i2nOIdv0yjkzQN6aTi1DiJKX9zQB4Ysb0qptnSCkpIxJ2CQFWJW8jITbNjZxDPbmlKL9uEw62WaMZuh-sUPbzJEBE77CdEXxDSEVphWjUYRKHtIJrpLSRrhsFKSvKoN3ytv-tAbDOBkYXXf4dy2xYLkosO6gU8-NmcNGDRGHYyGY40UZFGZ7tHNUX7vP8WAuP5Zn6PAFTev70Rn08ws%2A",
+            "tag": "2192447425762077596-2526181467481207576",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": false,
+            "has_category": true,
+            "has_product": false,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "59,90 \u20ac",
+            "price_raw": 59.9,
+            "currency": "\u20ac",
+            "shipping_cost": "3,90 \u20ac",
+            "shipping_cost_raw": 3.9,
+            "has_ean": true,
+            "ean": 872888003226,
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.153025,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_2526181467481207576.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_2526181467481207576b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i40.twenga.com\/0-tp_2526181467481207576vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 6867317,
+            "merchant": {
+                "merchant_id": 6867317,
+                "name": "Geheimshop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=6867317",
+                "domain": "geheimshop",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/6867317.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 1175467866289026083,
+            "name": "iPhone 6 Plus Silber (16 GB)",
+            "description": "iPhone 6 Plus Silber (16 GB)",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiFActvaHaJpWqVmO1WaKCELakrShGyqpv37DN0qcbD9_Oz3zDcqa1QQIjLGheScyhxTjmWaoOoyGFSgCiVoZ70JfWnGKeckQY960KjAS8JymaC3fqt8C72SS4r3K8r2q5f4gHs_DICoprHOelVDZTv2H6M6xcUJWvfOj0r7mGaMZgl6MhegZERxIpXIhdYaaM9D7S00IR5m_MU0zSBbt8o500Fem0bNnQ-a50PsgPDVdXHVpowUklPGBGwSnGIhsjwM3NQBxCHYmXOMdv086uibMZqgh9l2dTWFCZhkC0wXFN8RUmBaMBpEqOgh3uAmKW4kkgRB-qbSD04Ntj0vwTCOBnrXHP9dC8xZyiXWDSDlVJnJr1UXeDgUvDldlUFhsic7BfWl--yP5vpl8HfHLwDt0PbOAHoYlavfwzUo-_kF",
+            "tag": "2192447425762077596-1175467866289026083",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "799,90 \u20ac",
+            "price_raw": 799.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669057,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669057"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669057.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669057b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669057vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2104925765583325976,
+            "name": "iPhone 6 Silber (128 GB) Tarif Vodafone Smart S",
+            "description": "iPhone 6 Silber (128 GB) Tarif Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2o4fSW7QcogQolIDp0rIdRxiNXXSxAFViH9n7UIlH3Z3dsYz9jcqa1RQgllOuRScZ2lKeS5FgqrLYFCBKpSgnfUm7KVcUCFIgh71oFGBl4TlWYLe-q3yLexmIqN4v6Jsv3qJB7j3wwCIahrrrFc1TLZj_zGqUxAEqXXv_Ki0jy1nlCfoyVyAwokSJFMyl1proD0PtbewhETQ-KtpyqFbt8o500Ffm0bNnQ-e50PcgPLVdfGqTRkpJKeMSRbyUiwlz4Pgpg4gDsXOnGO16-dRx9yM0QQ9zLarqykoYMIXmC4oviOkwLRgNJhQMUN8g5uleCPJSDCkby794NRg2_MSAuMYoHfN8T-1xIKlIsO6AaScKjP5teoCD4eBN6erMxhM9mSn4L50n_3RXL8sTdDxC0A7tL0zgB5G5er38BqU_fwC",
+            "tag": "2192447425762077596-2104925765583325976",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "549,90 \u20ac",
+            "price_raw": 549.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669257,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669257"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 2185917105301178431,
+            "name": "iPhone 6 Plus Silber (64 GB)",
+            "description": "iPhone 6 Plus Silber (64 GB)",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2o4fSW7QcogQolIDp0rIdRxiNXXSxAFViH9n7UKlHHZ3dmZnnG9U1qigJOM5kQTzFBMiM5aSBFWXwaACVShBO-tN2Eu5oEIA9qgHjQq8JCzPEvTWb5VvYTcTGcX7FWX71Uv8gHs_DICoprHOelXDZDv2H6M6BUGQWvfOj0r72HJGeYKezAUonChBMiVzqbUG2vNQewtLSASNv5qmHLp1q5wzHfS1adTc-eB5PsQNKF9dF09tykghOWVMwiUpKJaS50FwUwcQh2JnzrHa9fOoY27GaIIeZtvV1RQUMOELTBcU3xFSYFowGkyomCG-wc1SvEgyEgzpm0s_ODXY9ryEwDgG6F1z_E8tsWCpyLBuACmnykx-rbrAw2HgzenqDAaTPdkpuC_dZ38011-WJuj4BaAd2t4ZQA-jcvV7eA3Kfn4B",
+            "tag": "2192447425762077596-2185917105301178431",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "899,90 \u20ac",
+            "price_raw": 899.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669097,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669097"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669097.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669097b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669097vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 30682667404840343,
+            "name": "iPhone 6 Plus Silber (128 GB) Tarif Vodafone Smart S",
+            "description": "iPhone 6 Plus Silber (128 GB) Tarif Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFdT8MgFP0rhuduA0qh7ZtuPjTGuGTVpyWGUWrJOspaqlmM_90L0yU83I9zzj338o2qBpUp5jnlXDDMcoZTliaovjiNSlSjBO2M1xGVcQCRBD0qp1CJl4QVeYLehq30HWBzEMH7FWX71Ut8wL13DjqybY01XjZQ2Y7DxyhPQRCk1oP1o1Q-phmjWYKe9AUoGZGc5FIUQikFtGfXeAMgxIPGX0zTDLJ1J63VPeSNbuXc--B5PkQEhK-2j6M2VaSQgjImYJLgFAuRFUFw04QmDsFOn2O0G-ZRxb0Zowl6mE3f1FNQwCRbYLqg-I6QEtOS0WBCxh3iDW6W4kSSk2BI3Vx6Z6Uz3XkJC-O4wGDb4__WAnOW8hyrFjrVVOvJr2UfeDgUvD5dnUFhMiczBfeV_RyO-vpl8HfHL2ga1w1WQ_cwStu8h2tQ9vML",
+            "tag": "2192447425762077596-30682667404840343",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "649,90 \u20ac",
+            "price_raw": 649.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669137,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669137"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669137vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 6725826964017030877,
+            "name": "iPhone 4s Wei\u00df (8 GB)",
+            "description": "iPhone 4s Wei\u00df (8 GB)",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFBTsMwEPwK8jltbcexndyg5RAhRKUGTpWQ6zjEauqkiQOqEH9n7UKlHHZ3dmZnnG9U1qjggmaS8pwzTAROsRQiQdVlMKhAFUrQznoT9tKMU85Jgh71oFGBl4TlMkFv_Vb5FnYllxTvV5TtVy_xA-79MACimsY661UNk-3Yf4zqFARBat07PyrtY5sxmiXoyVyAkhHFiVQiF1proD0PtbewhHjQ-KtpmkG3bpVzpoO-No2aOx88z4e4AeWr6-KpTRkpJKeMCbgkOMVCZHkQ3NQBxKHYmXOsdv086pibMZqgh9l2dTUFBUyyBaYLiu8IKTAtGA0mVMwQ3-BmKV4kkgRD-ubSD04Ntj0vITCOAXrXHP9TC8xZyiXWDSDlVJnJr1UXeDgMvDldncFgsic7Bfel--yP5vrL0gQdvwC0Q9s7A-hhVK5-D69B2c8v",
+            "tag": "2192447425762077596-6725826964017030877",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "379,90 \u20ac",
+            "price_raw": 379.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34631607,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34631607"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34631607.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34631607b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34631607vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 7341931322186593137,
+            "name": "iPhone 6 Silber (64 GB)",
+            "description": "iPhone 6 Silber (64 GB)",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2o4fSW7QcogQolIDp0rIdRxiNXXSxAFViH9n7UKlHHZ3dmZnnG9U1qiQKSN5SlJKSSZ4qGSCqstgUIEqlKCd9SbspVxQIUiCHvWgUYGXhOVZgt76rfIt7GYio3i_omy_eokfcO-HARDVNNZZr2qYbMf-Y1SnIAhS6975UWkfW84oT9CTuQCFEyVIpmQutdZAex5qb2EJiaDxV9OUQ7dulXOmg742jZo7HzzPh7gB5avr4qlNGSkkp4xJuCQFxVLyPAhu6gDiUOzMOVa7fh51zM0YTdDDbLu6moICJnyB6YLiO0IKTAtGgwkVM8Q3uFmKF0lGgiF9c-kHpwbbnpcQGMcAvWuO_6klFiwVGdYNIOVUmcmvVRd4OAy8OV2dwWCyJzsF96X77I_m-svSBB2_ALRD2zsD6GFUrn4Pr0HZzy8%2A",
+            "tag": "2192447425762077596-7341931322186593137",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "799,90 \u20ac",
+            "price_raw": 799.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 8657674060728127604,
+            "name": "iPhone 6 Spacegrau (64 GB) Tarif Vodafone Smart S",
+            "description": "iPhone 6 Spacegrau (64 GB) Tarif Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHBbsMgDP2ViXPaAiFActvaHaJpWqVmO1WaKCELakrShGyqpv37DN0qcbD9_J6fzTcqa1RIngkuGOZYUEmo4JglqLoMBhWoQgnaWW9CX5pxyjlJ0KMeNCrwkrBcJuit3yrfQq_kkuL9irL96iU-4N4PAyCqaayzXtVQ2Y79x6hOQRCk1r3zo9I-phmjWYKezAUoGVGcSCVyobUG2vNQewtNiAeNv5imGWTrVjlnOshr06i588HzfIgdEL66Lo7alJFCcsqYgEmCUyxElgfBTR1AHIKdOcdo18-jjnszRhP0MNuurqaggEm2wHRB8R0hBaYFo8GE8tdbwg1uluJEIkkwpG8u_eDUYNvzEhbGcYHeNcf_rQXmLOUS6waQcqrM5NeqCzwcCt6crs6gMNmTnYL70n32R3P9sjRBxy8A7dD2zgB6GJWr38M1KPv5BQ%2A%2A",
+            "tag": "2192447425762077596-8657674060728127604",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "449,90 \u20ac",
+            "price_raw": 449.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669217,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669217"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669217vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3139813582235964041,
+            "name": "iPhone 6 Spacegrau (16 GB) Tarif Vodafone Smart S",
+            "description": "iPhone 6 Spacegrau (16 GB) Tarif Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFBTsMwEPwK8jltbcdxnNyg5RAhRKUGTpWQ6zjEauq4iQOqEH9n7UKlHHZ3ZnZnnG9UNahMSVoIkmaC0jQrOMOMJKi-OI1KVKME7YzXkZdxyjlgj8opVOIlYYVI0Nuwlb4DruCC4v2Ksv3qJX6gvXcOENm2xhovG5hsx-FjlKewEFatB-tHqXxsM0azBD3pC0gyIjkRMi9ypRTInl3jDZAQDzv-avAL3bqT1uoe-ka3cu598DwfIgPKV9vHU5sqSkhBGcvhUs4pznMIDJxNE0Acip0-x2o3zKOKuRmjCXqYTd_UU9iASbbAdEHxHSElpiWjwYSMGeIb3CzFi0SQYEjdXHpnpTPdeQmBcQww2Pb4nzrHnKVcYNUCUk21nvxa9kGHw8Dr09UZDCZzMlNwX9nP4aivvyxN0PELQOO6wWpAD6O0zXt4Dcp-fgE%2A",
+            "tag": "2192447425762077596-3139813582235964041",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "349,90 \u20ac",
+            "price_raw": 349.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669177,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669177"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3467696582813147820,
+            "name": "iPhone 6 Plus Silber (16 GB) Tarif Vodafone Smart S",
+            "description": "iPhone 6 Plus Silber (16 GB) Tarif Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFBTsMwEPwK8jltbcexndyg5RAhRKUGTpWQ6zjEauqkiQOqEH9n7UKlHHZ3dmZnnG9U1qhIGRc855mkkqSECUlxgqrLYFCBKpSgnfUm7mWcck4S9KgHjQq8JCyXCXrrt8q3sCs5MPcryvarl_gB934YAFFNY531qobJduw_RnUKgiC17p0flfaxzRjNEvRkLkDJiOJEKpELrTXQnofaW1hCPGj81TTNoFu3yjnTQV-bRs2dD57nQ9yA8tV18dSmjBSSU8YEXBKcYiGyPAhu6gDiUOzMOVa7fh51zM0YTdDDbLu6moICJtkC0wXFd4QUmBaMBhMqZohvcLMULxJJgiF9c-kHpwbbnpcQGMcAvWuO_6kF5izlEusGkHKqzOTXqgs8HAbenK7OYDDZk52C-9J99kdz_WVpgo5fANqh7Z0B9DAqV7-H16Ds5xc%2A",
+            "tag": "2192447425762077596-3467696582813147820",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "449,90 \u20ac",
+            "price_raw": 449.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669057,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669057"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669057vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3481620384478091137,
+            "name": "iPhone 5s Silber (16 GB) Tarif Vodafone Smart S",
+            "description": "iPhone 5s Silber (16 GB) Tarif Vodafone Smart S",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVFBTsMwEPwK8jltbcexndyg5RAhRKUGTpWQ6zjEauqkiQOqEH9n7UKlHHZ3dmZnnG9U1qhImSSc4lQyJiTOCUlFgqrLYFCBKpSgnfUm7mWcck4S9KgHjQq8JCyXCXrrt8q3sCu5pHi_omy_eokfcO-HARDVNNZZr2qYbMf-Y1SnIAhS6975UWkf24zRLEFP5gKUjChOpBK50FoD7XmovYUlxIPGX03TDLp1q5wzHfS1adTc-eB5PsQNKF9dF09tykghOYWccElAZiGyPAhu6gDiUOzMOVa7fh51zM0YTdDDbLu6moICJtkC0wXFd4QUmBaMBhMqZohvcLMULxJJgiF9c-kHpwbbnpcQGMcAvWuO_6kF5izlEusGkHKqzOTXqgs8HAbenK7OYDDZk52C-9J99kdz_WVpgo5fANqh7Z0B9DAqV7-H16Ds5xc%2A",
+            "tag": "2192447425762077596-3481620384478091137",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "299,90 \u20ac",
+            "price_raw": 299.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34625427,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34625427"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34625427vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3875432065201121259,
+            "name": "iPhone 6 Gold (16 GB)",
+            "description": "iPhone 6 Gold (16 GB)",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2hvbedyg5VAhRKUGTpWQ6zjUauqkiQOqEP_O2oVKOezu7MzOON9kXZMyzTPBU6BSAGUMGIgiIdWlN6QkFUnI1noT94QEKVlCHnWvSUnnjBd5Qt66jfIH3M1lDnS3AL5bvMQPufd9j4hqGuusVzVONkP3MahTEESpZef8oLSPreAgEvJkLkgRTEmWq6zItNZIe-5rb3GJyKDxV0MqsFselHOmxb42jZpaHzxP-7iB5atr46nVOlJYAZxneCmTQLNMFEFwVQeQhmJrzrHadtOgY27OISEPk23ragwKlIkZhRnQO8ZKCiWHYELFDPENbpbiRZazYEjfXPreqd4eznMMTGOAzjXH_9QZlTyVOdUNIuuxMqNfqjbwaBh4c7o6w8FoT3YM7tfuszua6y9LE3L8QtD2h84ZRPeDcvV7eA3gP78%2A",
+            "tag": "2192447425762077596-3875432065201121259",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "699,90 \u20ac",
+            "price_raw": 699.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669177,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669177"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i01.twenga.com\/0-p_34669177vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }, {
+            "item_id": 3966506009876298156,
+            "name": "iPhone 6 Gold (128 GB) Tarif Vodafone Smart M",
+            "description": "iPhone 6 Gold (128 GB) Tarif Vodafone Smart M",
+            "click_url": "http:\/\/r.twenga.de\/g1.php?cpz=PVHLTsMwEPwV5HPa2o7tPG7QcogQolIDp0rIdRxiNXXcxAFViH9n7UKlHHZ3dmZnnG9UNahMCyE4FhgXeSZokRMuElRfnEYlqlGCdsbruMcFFYIk6FE5hUq8JKzIE_Q2bKXvYDcXOcX7FWX71Uv8gHvvHCCybY01XjYw2Y7DxyhPQRCk1oP1o1Q-tpxRnqAnfQEKJ1KQXGZFppQC2rNrvIElJILGX01TDt26k9bqHvpGt3LuffA8H-IGlK-2j6c2VaSQgjKWwSXIirOMF0Fw0wQQh2Knz7HaDfOoYm7GaIIeZtM39RQUMOELTBcU3xFSYloyGkzImCG-wc1SvEhyEgypm0vvrHSmOy8hMI4BBtse_1NnWLBU5Fi1gFRTrSe_ln3g4TDw-nR1BoPJnMwU3Ff2czjq6y9LE3T8AtC4brAa0MMobfMeXoOyn18%2A",
+            "tag": "2192447425762077596-3966506009876298156",
+            "has_image": true,
+            "has_merchant": true,
+            "has_brand": true,
+            "has_category": true,
+            "has_product": true,
+            "has_discount": false,
+            "has_shipping_cost": true,
+            "price": "479,90 \u20ac",
+            "price_raw": 479.9,
+            "currency": "\u20ac",
+            "shipping_cost": "0,00 \u20ac",
+            "shipping_cost_raw": 0,
+            "has_ean": false,
+            "product": {
+                "product_id": 34669257,
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/product?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&product_id=34669257"
+            },
+            "estimated_cpc": "0,15 \u20ac",
+            "estimated_cpc_raw": 0.1498,
+            "image": {
+                "small": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257.jpg",
+                    "width": 100,
+                    "height": 100
+                },
+                "medium": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257b.jpg",
+                    "width": 150,
+                    "height": 150
+                },
+                "large": {
+                    "url": "http:\/\/i00.twenga.com\/0-p_34669257vb.jpg",
+                    "width": 290,
+                    "height": 290
+                }
+            },
+            "merchant_feed_id": 3562661,
+            "merchant": {
+                "merchant_id": 1742591,
+                "name": "Vodafone Shop",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/merchant?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&merchant_id=1742591",
+                "domain": "vodafone",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s1.c4tw.net\/1\/1742591.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "brand": {
+                "brand_id": 24,
+                "name": "Apple",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/brand?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&brand_id=24",
+                "has_logo": true,
+                "logo": {
+                    "url": "http:\/\/s0.c4tw.net\/img\/brands\/24.png",
+                    "width": 87,
+                    "height": 26
+                }
+            },
+            "category": {
+                "category_id": 100,
+                "name": "Telefon",
+                "twenga_url": "http:\/\/www.twenga.de\/#&p=100&u=p",
+                "match_url": "http:\/\/api.wtpn.twenga.de\/v2.1\/match\/category?cack=ec0899e308fb9a34ad761c84de5b3483350c0af4&e=eyJrIjoiNTFhNjE4YTc5N2NjYyIsImMiOiIxIiwibCI6IjE1IiwibyI6Impzb24ifQ%3D%3D&confkey=56e8a384c1aee&category_id=100"
+            }
+        }]
+    }]
+}

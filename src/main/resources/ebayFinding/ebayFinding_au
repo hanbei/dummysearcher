@@ -1,0 +1,911 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.13.0</version>
+	<timestamp>2015-05-06T15:03:26.514Z</timestamp>
+	<searchResult count="20">
+		<item>
+			<itemId>161476346279</itemId>
+			<title>Fashion Retro Painted Pattern Hard Skin Cover Case for Apple iPhone 4 4S 5 5S 5C</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Covers, Skins</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/161476346279404000000016_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=161476346279</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>China</location>
+			<country>CN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">1.59</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">1.59</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT20H33M23S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-07T11:31:49.000Z</startTime>
+				<endTime>2015-06-05T11:36:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/161476346279_1_0_1_00000016.jpg
+			</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>161476346279</itemId>
+			<title>Fashion Retro Painted Pattern Hard Skin Cover Case for Apple iPhone 4 4S 5 5S 5C</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Covers, Skins</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/161476346279404000000016_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=161476346279</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>China</location>
+			<country>CN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">1.59</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">1.59</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT20H33M23S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-07T11:31:49.000Z</startTime>
+				<endTime>2015-06-05T11:36:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/161476346279_1_0_1_00000016.jpg
+			</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>161476346279</itemId>
+			<title>Fashion Retro Painted Pattern Hard Skin Cover Case for Apple iPhone 4 4S 5 5S 5C</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Covers, Skins</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/161476346279404000000016_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=161476346279</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>China</location>
+			<country>CN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">1.59</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">1.59</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P29DT20H33M23S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-07T11:31:49.000Z</startTime>
+				<endTime>2015-06-05T11:36:49.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/161476346279_1_0_1_00000016.jpg
+			</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>161474706142</itemId>
+			<title>White USB AC Wall Travel Charger For Apple iPhone 6 5S Samsung Galaxy Note 4</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>123417</categoryId>
+				<categoryName>Chargers, Cradles</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/pict/1614747061424040_2.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=161474706142</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<location>Hong Kong</location>
+			<country>HK</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<shipToLocations>NZ</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">4.19</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">4.19</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P28DT9H14M20S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-11-06T00:12:46.000Z</startTime>
+				<endTime>2015-06-04T00:17:46.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/161474706142_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>261875776128</itemId>
+			<title>Apple Iphone 5 5s 3 in 1 Breathalyser Charging Hard Case 16gb 32gb 64gb LCD NEW</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>33713</categoryId>
+				<categoryName>LED Lights</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mIXx7bU3DOdQHnvmAz-Q-Ig/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=261875776128</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2783</postalCode>
+			<location>Lawson,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">7.4</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>AU</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">25.0</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">25.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT16H32M32S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-04T07:35:58.000Z</startTime>
+				<endTime>2015-05-09T07:35:58.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/261875776128_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>271701827363</itemId>
+			<title>8/16/32/64GB i Flash Disk USB Adding Extra Storage For Apple iPhone 5 5s 5c iPad</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>176982</categoryId>
+				<categoryName>Other</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/pict/271701827363404000000001_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=271701827363</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Singapore</location>
+			<country>SG</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">71.29</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">71.29</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P1DT16H21M47S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-12-09T07:20:13.000Z</startTime>
+				<endTime>2015-05-08T07:25:13.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/271701827363_1_0_1_00000001.jpg
+			</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New: Never Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>321503440828</itemId>
+			<title>16G 32G i Flash Disk USB adding extra storage For Apple iPhone 5 5s 5c iPad iPod</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>176976</categoryId>
+				<categoryName>Memory Card &amp; USB Adapters</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/pict/321503440828404000000001_1.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=321503440828</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<location>Hong Kong</location>
+			<country>HK</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">127.89</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">127.89</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P17DT18H22M29S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-08-27T09:20:55.000Z</startTime>
+				<endTime>2015-05-24T09:25:55.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321503440828_1_0_1_00000001.jpg
+			</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>270889279474</itemId>
+			<title>GENUINE Mophie Space Pack 16GB Battery Case 1700mAh for Apple iPhone 5S 5 White</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Covers, Skins</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m1heUoPTfHJ33lbHHdn78gg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=270889279474</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PersonalCheck</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2122</postalCode>
+			<location>Eastwood,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">169.0</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">169.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P16DT3H54M38S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-01-08T18:53:04.000Z</startTime>
+				<endTime>2015-05-22T18:58:04.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/270889279474_1_7_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>280960928027</itemId>
+			<title>GENUINE Mophie Space Pack 16GB Battery Case 1700mAh for Apple iPhone 5S 5 Black</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>20349</categoryId>
+				<categoryName>Cases, Covers, Skins</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mVrgNJ05h-1atXaOwX9C5Ew/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=280960928027</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PersonalCheck</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2122</postalCode>
+			<location>Eastwood,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">169.0</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">169.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT0H18M43S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-09-07T15:17:09.000Z</startTime>
+				<endTime>2015-05-25T15:22:09.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/280960928027_1_3_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>321265548517</itemId>
+			<title>Unlocked Apple iPhone 5S 16GB Smartphone Mobile Phone Black</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mQeQ47TGBJXYsa5FjXeFfew/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=321265548517</viewItemURL>
+			<productId type="ReferenceID">170455521</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2122</postalCode>
+			<location>Eastwood,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">564.76</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">564.76</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT20H8M38S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-12-02T11:07:04.000Z</startTime>
+				<endTime>2015-05-26T11:12:04.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/321265548517_1_2_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New: Never Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>221329274430</itemId>
+			<title>Unlocked Apple iPhone 5S 16GB Smartphone Mobile Phone Silver</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m0dreDK_brBVbLzbrmxAIcA/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=221329274430</viewItemURL>
+			<productId type="ReferenceID">170539720</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2122</postalCode>
+			<location>Eastwood,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">596.76</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">596.76</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT20H7M56S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-12-02T11:06:22.000Z</startTime>
+				<endTime>2015-05-26T11:11:22.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/221329274430_1_2_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New: Never Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>251947779098</itemId>
+			<title>Apple iPhone 5S 16GB Black Phone Unlocked - New Mobile Phone Smartphone</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mEsCURLcJw2kG25fWAKf17w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=251947779098</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<postalCode>3168</postalCode>
+			<location>Clayton,VIC,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">599.0</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">599.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P28DT14H12M40S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-05-05T05:11:06.000Z</startTime>
+				<endTime>2015-06-04T05:16:06.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/251947779098_1_2_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>121227558019</itemId>
+			<title>Unlocked Apple iPhone 5S 16GB Smartphone Mobile Phone Space Grey</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mRd8A2I1GxHwt2e5zLHuGUQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=121227558019</viewItemURL>
+			<productId type="ReferenceID">170455521</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2190</postalCode>
+			<location>Greenacre,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">625.55</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">625.55</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT20H13M45S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-12-02T11:12:11.000Z</startTime>
+				<endTime>2015-05-26T11:17:11.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/121227558019_1_2_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New: Never Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>221360442192</itemId>
+			<title>Unlocked Apple iPhone 5S 16GB Smartphone Mobile Phone Gold</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mL_6on8Fgad0Zl8_5J3aKbg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=221360442192</viewItemURL>
+			<productId type="ReferenceID">170505369</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2122</postalCode>
+			<location>Eastwood,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<shipToLocations>NZ</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">628.76</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">628.76</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT13H28M51S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-01-24T04:27:17.000Z</startTime>
+				<endTime>2015-05-19T04:32:17.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/221360442192_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New: Never Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>301427119255</itemId>
+			<title>NEW ❶❻GB Apple iPhone 5S (16 GB) Space Grey ★UNLOCKED★ 16GB ✔ SEE DESCRIPTION</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mEE5vQ_Y3ViH8fpIQyxIPig/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=301427119255</viewItemURL>
+			<productId type="ReferenceID">170455521</productId>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>3000</postalCode>
+			<location>Melbourne,VIC,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">649.0</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">649.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P28DT14H10M58S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>true</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-12-06T05:09:24.000Z</startTime>
+				<endTime>2015-06-04T05:14:24.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/301427119255_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400730209366</itemId>
+			<title>Apple iPhone 5S 16GB Silver (Non Retail Packaging) - Unlocked ~100% Australian S</title>
+			<globalId>EBAY-AU</globalId>
+			<subtitle>12 Months - Seller Warranty +Free Pickup</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mHErWacRm8z3dPvzQwQ0XEQ/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=400730209366</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PersonalCheck</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2150</postalCode>
+			<location>Parramatta,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">655.8</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">655.8</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P10DT16H11M14S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-06-21T07:09:40.000Z</startTime>
+				<endTime>2015-05-17T07:14:40.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/400730209366_1_9_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>161140749557</itemId>
+			<title>Apple iPhone 5S 16GB Grey (Non Retail Packaging) - Unlocked ~100% Australian Sto</title>
+			<globalId>EBAY-AU</globalId>
+			<subtitle>12 Months - Seller Warranty +Free Pickup</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mUK0iQTXZduG856ujeYeWnw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=161140749557</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PersonalCheck</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2150</postalCode>
+			<location>Parramatta,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">655.8</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">655.8</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT13H17M29S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-11-01T04:15:55.000Z</startTime>
+				<endTime>2015-05-25T04:20:55.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/161140749557_1_8_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>400734279885</itemId>
+			<title>Apple iPhone 5S 16GB Gold (Non Retail Packaging) - Unlocked ~100% Australian Sto</title>
+			<globalId>EBAY-AU</globalId>
+			<subtitle>12 Months - Seller Warranty +Free Pickup</subtitle>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mJRLSMESghyCcgZVTLBgI1w/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=400734279885</viewItemURL>
+			<paymentMethod>CIPInCheckoutEnabled</paymentMethod>
+			<paymentMethod>CashOnPickup</paymentMethod>
+			<paymentMethod>MOCC</paymentMethod>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>PersonalCheck</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2150</postalCode>
+			<location>Parramatta,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">655.8</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">655.8</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P18DT16H2M41S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2014-06-29T07:01:07.000Z</startTime>
+				<endTime>2015-05-25T07:06:07.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/400734279885_1_9_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>151180090483</itemId>
+			<title>Unlocked Apple iPhone 5S 16GB Smartphone Mobile Phone Silver</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m_AueVHyd51RSXI2R9Meobg/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=151180090483</viewItemURL>
+			<productId type="ReferenceID">170539720</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<paymentMethod>MoneyXferAccepted</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>2190</postalCode>
+			<location>Greenacre,NSW,Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">667.87</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">667.87</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P19DT20H13M22S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-12-02T11:11:48.000Z</startTime>
+				<endTime>2015-05-26T11:16:48.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/151180090483_1_2_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New: Never Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>141610875738</itemId>
+			<title>★ 16GB microSD Card Re@der Kit ★ APPLE iPhone 5s 4G (A1530) Gold 16GB</title>
+			<globalId>EBAY-AU</globalId>
+			<primaryCategory>
+				<categoryId>9355</categoryId>
+				<categoryName>Mobile Phones</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mPPTef5b0XjELAvKzsuv8Iw/140.jpg</galleryURL>
+			<viewItemURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=2&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;vectorid=229515&amp;item=141610875738</viewItemURL>
+			<productId type="ReferenceID">170505369</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>true</autoPay>
+			<location>Australia</location>
+			<country>AU</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="AUD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>Americas</shipToLocations>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="AUD">660.68</currentPrice>
+				<convertedCurrentPrice currencyId="AUD">660.68</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P12DT20H21M29S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2015-03-20T11:19:55.000Z</startTime>
+				<endTime>2015-05-19T11:24:55.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/141610875738_1_1_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>Brand New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>20</entriesPerPage>
+		<totalPages>4</totalPages>
+		<totalEntries>78</totalEntries>
+	</paginationOutput>
+	<itemSearchURL>http://rover.ebay.com/rover/1/705-53470-19255-0/1?ff3=4&amp;toolid=10041&amp;campid=5337103190&amp;customid=1001&amp;lgeo=1&amp;mpre=http%3A%2F%2Fwww.ebay.com.au%2Fsch%2Fi.html%3FLH_BIN%3D1%26LH_ItemCondition%3D1%26LH_IncludeSIF%3D1%26_nkw%3DApple%2BiPhone%2B5s%2B16GB%26_ddo%3D1%26_ipg%3D20%26_pgn%3D1%26_sop%3D15</itemSearchURL>
+</findItemsByKeywordsResponse>

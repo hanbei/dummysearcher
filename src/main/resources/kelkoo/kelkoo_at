@@ -1,0 +1,2631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductSearch xmlns="urn:yahoo:prods">
+	<SearchId>1076982503206_1440417580331_16044</SearchId>
+	<Products totalResultsAvailable="58093" firstResultPosition="1" totalResultsReturned="50" totalMerchantsAvailable="16" searchOperator="and">
+		<Product>
+			<Offer id="ee84f986513154326282d4259b07e329" type="MANUFACTURER_PRODUCTS">
+				<Title>BARTS Phone Home Beanie</Title>
+				<Description>Kinderstrickmütze</Description>
+				<LastModified>2015-08-24 00:00:22</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14391913/100332323/90/90/http%3A%2F%2Fwww.barrabes.com%2Fimages%2Ftienda%2Fproducts%2Flarge%2F176967.jpg/7t1ySXe1JWI81tlrpQK3rtj0rc0S6.2jrWRH7ir56Ws-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14391913/100332323/auto/auto/http%3A%2F%2Fwww.barrabes.com%2Fimages%2Ftienda%2Fproducts%2Flarge%2F176967.jpg/7t1ySXe1JWI81tlrpQK3rtj0rc0S6.2jrWRH7ir56Ws-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580358&amp;.sig=37USR6uonpr7eUmHUY3ypTWZP_E-&amp;offerId=ee84f986513154326282d4259b07e329&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14391913&amp;comId=14391913&amp;catId=100332323&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=1</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14391913">
+					<Name>Barrabes</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14391913/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100332323">
+					<Name>Sportbekleidung Herren</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>18.9</Price>
+					<DeliveryCost>4.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>23.89</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5-7 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Kinderkleidung  Jungs  Mützen und Halswärmer  Thermo</MerchantCategory>
+				<Brand>BARTS</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="2b62a2ae2550758ff65fa88b0e4a8e47" type="MANUFACTURER_PRODUCTS">
+				<Title>Evoc Phone Case Freizeittasche-Schwarz-M</Title>
+				<LastModified>2015-08-24 00:09:04</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/100334223/90/90/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_bq5zpB.jpg/XkWI9crWVKx92LODUDY_7dmjkbDB0pU1Agb448dZfCc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/100334223/auto/auto/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_bq5zpB.jpg/XkWI9crWVKx92LODUDY_7dmjkbDB0pU1Agb448dZfCc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580358&amp;.sig=dq9V6SmQ8De7xBglbae_3_jjoH8-&amp;offerId=2b62a2ae2550758ff65fa88b0e4a8e47&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14336213&amp;comId=14336213&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=2</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14336213">
+					<Name>SportOkay.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14336213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Taschen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>22.49</Price>
+					<DeliveryCost>3.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>26.44</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>sofort lieferbar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Freizeittaschen</MerchantCategory>
+				<Brand>Evoc</Brand>
+				<BrandId>38444</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5bb69a457b57bcf52c45508817e699ae" type="MANUFACTURER_PRODUCTS">
+				<Title>Kickers - Phone by Kickers - Sneaker für Herren / braun</Title>
+				<Description>Kickers - Sneaker für Herren verfügbar in Gr. 40 41 42 43 44.</Description>
+				<LastModified>2015-08-23 16:33:53</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14142713/109301/90/90/http%3A%2F%2Fcdn.sarenza.net%2Fstatic%2F_img%2FproductsV4%2F0000115909%2FHD_0000115909_216195_09.jpg%3F201502042250/z5a1f5JJPWqLuqVp9SiwTRkd3_BK9mR.feFYMP_lQnY-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14142713/109301/auto/auto/http%3A%2F%2Fcdn.sarenza.net%2Fstatic%2F_img%2FproductsV4%2F0000115909%2FHD_0000115909_216195_09.jpg%3F201502042250/z5a1f5JJPWqLuqVp9SiwTRkd3_BK9mR.feFYMP_lQnY-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580358&amp;.sig=ZSYbo7p3Q3oG5_8YU4Opo1vgmcU-&amp;offerId=5bb69a457b57bcf52c45508817e699ae&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14142713&amp;comId=14142713&amp;catId=109301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=3</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14142713">
+					<Name>Sarenza</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14142713/logo.gif</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="109301">
+					<Name>Herrenschuhe</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>89</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>89</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-4 Werktage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>3612882635132</Ean>
+				<MerchantCategory>Sneaker</MerchantCategory>
+				<Brand>Kickers</Brand>
+				<BrandId>1738</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="0ef101275736a9840edc6bf004638850" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche AT-digital</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-AC.png/lGi3MYaYvCf1MGaG6BI1RxdWH3cu2_GewA_SVaBeK0I-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-AC.png/lGi3MYaYvCf1MGaG6BI1RxdWH3cu2_GewA_SVaBeK0I-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580358&amp;.sig=fzPuG0Dd7zc87SYuSg4irCDS_jw-&amp;offerId=0ef101275736a9840edc6bf004638850&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=4</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d4143</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1a66d1b57ca23542959a6562f6521e19" type="MANUFACTURER_PRODUCTS">
+				<Title>Chicco My First Gaming Phone</Title>
+				<Description>Erstes Spiel aus weichem Stoff, mit Ring in Frage gestellt werden oder einfach auf dem Kinderwagen befestigt.   Der Spiegel schafft Spaß Lichteffekte, Drücken der Tastatur fühlt sich "quietschen"!</Description>
+				<LastModified>2015-08-24 00:02:29</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14363413/168301/90/90/http%3A%2F%2Ffarmacialoreto.it%2Fimage%2Fdata%2F922399668.jpeg/rTSh1AzpXcrpPAq95XEQ9WepcH.0Wzomm42Ms1n1aWM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14363413/168301/auto/auto/http%3A%2F%2Ffarmacialoreto.it%2Fimage%2Fdata%2F922399668.jpeg/rTSh1AzpXcrpPAq95XEQ9WepcH.0Wzomm42Ms1n1aWM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580358&amp;.sig=kcS0wL7_PAJ99jtFIdiWqWDDj1A-&amp;offerId=1a66d1b57ca23542959a6562f6521e19&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14363413&amp;comId=14363413&amp;catId=168301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=5</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14363413">
+					<Name>Farmacia Loreto</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14363413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="168301">
+					<Name>Babyspielzeug</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>6.94</Price>
+					<DeliveryCost>5.89</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.89</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>12.83</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>24 Ore</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8003670915065</Ean>
+				<MerchantCategory>Kinder  Spiele und Geschenke</MerchantCategory>
+				<Brand>Chicco</Brand>
+				<BrandId>674</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="fb342e5ef05150b02a7a44944e33f06b" type="MANUFACTURER_PRODUCTS">
+				<Title>your Painting Ölgemälde Ring Phone Ring</Title>
+				<Description>Maße: Höhe: 80 cm Breite: 60 cm Tiefe: 2 cm, Holzart: Kiefer, Bezug: Leinen, Versandart: Paketdienst, 2 Jahre Gewährleistung,</Description>
+				<LastModified>2015-08-23 22:55:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14146713/100358623/90/90/http%3A%2F%2Fcdn.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2Fo%2Fe%2Foelgemaelde-ring-phone-ring-312010.jpg/Ni8tokp.hy_UwWsE6JflCE1AtuWEXW9QWvBUzDhCvac-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14146713/100358623/auto/auto/http%3A%2F%2Fcdn.home24.net%2Fimages%2Fmedia%2Fcatalog%2Fproduct%2Foriginal%2Fpng%2Fo%2Fe%2Foelgemaelde-ring-phone-ring-312010.jpg/Ni8tokp.hy_UwWsE6JflCE1AtuWEXW9QWvBUzDhCvac-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580358&amp;.sig=ymQj3R7g92vGlxFH9qTPKVsyS8w-&amp;offerId=fb342e5ef05150b02a7a44944e33f06b&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14146713&amp;comId=14146713&amp;catId=100358623&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=6</Url>
+				<MobileFriendly>true</MobileFriendly>
+				<Merchant id="14146713">
+					<Name>home24.at</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14146713/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100358623">
+					<Name>Poster &amp; Kunstdrucke</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>203.99</Price>
+					<DeliveryCost>0</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>0</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>203.99</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5 Wochen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4250912609136</Ean>
+				<MerchantCategory>Boutique  Wanddeko  Bilder</MerchantCategory>
+				<Brand>your Painting</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e1318265f3ec5598b2774fc74666b1df" type="MANUFACTURER_PRODUCTS">
+				<Title>Sanofi-Aventis Deutschland GmbH i BGStar® Case i Phone 3G/3Gs</Title>
+				<Description>Ein Case aus schlagfestem Kunststoff</Description>
+				<LastModified>2015-08-23 11:41:41</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14228813/134101/90/90/http%3A%2F%2Fwww.shop-apotheke.at%2Fpix%2Fproductphotos%2FD6801379.jpg/vfcz8pEJOY.tD74XXg3TLA88lasGUoEf3vLEzMzIzls-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14228813/134101/auto/auto/http%3A%2F%2Fwww.shop-apotheke.at%2Fpix%2Fproductphotos%2FD6801379.jpg/vfcz8pEJOY.tD74XXg3TLA88lasGUoEf3vLEzMzIzls-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580358&amp;.sig=Vtrw7W_jNE2iDc.n3Ya71rajI0U-&amp;offerId=e1318265f3ec5598b2774fc74666b1df&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14228813&amp;comId=14228813&amp;catId=134101&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=7</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14228813">
+					<Name>shop-apotheke.at</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14228813/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="134101">
+					<Name>Medikamente</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>10.32</Price>
+					<DeliveryCost>3.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14.27</TotalPrice>
+					<UnitaryPrice>10.32€ je  St</UnitaryPrice>
+					<PriceWithoutRebate>12.9</PriceWithoutRebate>
+					<Rebate>20</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>Lieferung in 1-2 Werktagen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Brand>Sanofi-Aventis Deutschland GmbH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="8174c4f6e3bdd2fa03761c1361337dad" type="VEHICLE">
+				<Title>Hyundai i20 Coupe 1,4 Style - Panoramadach + Smart Phone</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, parking sensors, electric windows, electric exterior mirrors, esp, hands free phone system, isofix, bending lights, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel, front fog lights, nonsmoker vehicle, panoramic glass roof,</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FF5cAAOSwl8NVeZEu%2F%24_1.JPG/ZPgdobeFqB9pCfQnhcnbjbkYx7knKRnZV_4VJZJCkbw-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FF5cAAOSwl8NVeZEu%2F%24_1.JPG/ZPgdobeFqB9pCfQnhcnbjbkYx7knKRnZV_4VJZJCkbw-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580359&amp;.sig=tagMIqkZAlAazI9syhBFxiXbpl0-&amp;offerId=8174c4f6e3bdd2fa03761c1361337dad&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=8</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>17590</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17590</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Hyundai</Brand>
+				<BrandId>1529</BrandId>
+				<Color>Schwarz</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>10</Mileage>
+				<PostCode>69115</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>4.60</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>7.20</VehicleConsumptionCity>
+				<VehicleConsumptionMix>5.50</VehicleConsumptionMix>
+				<VehicleCo2Emission>127.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="50d7e40f6c2ee9df1e52b60565754933" type="MANUFACTURER_PRODUCTS">
+				<Title>Callstel Phone-Ständer mit Telefonhörer für iPhone 3 und 4</Title>
+				<Description>Sicherer &amp; bequemer: 100% Blick aufs Display, 96% weniger Strahlenbelastung Ein echter Blickfang auf Ihrem Schreibtisch und super praktisch dazu: Der stylische Thron für Ihr iPhone macht dieses zum echten Business-Telefon! So einfach funktioniert es: Handy auflegen, mit Klinke-Anschluss verbinden, schon</Description>
+				<LastModified>2015-08-23 20:45:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14146213/125801/90/90/http%3A%2F%2Fmi.pearl.de%2Fi%2F55%2Fhz1917_0.jpg/NuiVENapvoKdQw_Qo9kmVS_SRKYtAoD2TcSqw9kZTq4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14146213/125801/auto/auto/http%3A%2F%2Fmi.pearl.de%2Fi%2F55%2Fhz1917_0.jpg/NuiVENapvoKdQw_Qo9kmVS_SRKYtAoD2TcSqw9kZTq4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580359&amp;.sig=CoqIz5mPfYARITEdnkm1xgPCw.c-&amp;offerId=50d7e40f6c2ee9df1e52b60565754933&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14146213&amp;comId=14146213&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=9</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14146213">
+					<Name>pearl.at</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14146213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Handyzubehör</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>6.9</Price>
+					<DeliveryCost>5.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>12.8</TotalPrice>
+					<PriceWithoutRebate>29.9</PriceWithoutRebate>
+					<Rebate>77</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4022107159210</Ean>
+				<MerchantCategory>Elektronik &amp; Computer  Smartphones &amp; Tablets, Telefonie  Zubehör für iPhone, iPad &amp; iPod  iPhone- &amp; iPad-Zubehör</MerchantCategory>
+				<Brand>Callstel</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="124942f9409a56cce04616f0bcb6288e" type="MANUFACTURER_PRODUCTS">
+				<Title>Luckies - Undercover Phone Sleeve</Title>
+				<Description>Was tragen Sie denn für ein schäbiges, altes Kuvert in der Hand? Oh Nein, warten Sie - das Phone Sleeve ist eine Handy-Schutzhülle, die selbst der talentiertes</Description>
+				<LastModified>2015-08-23 12:00:49</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14141213/125801/90/90/https%3A%2F%2Fwww.connox.de%2Fm%2F100031%2F171732%2Fmedia%2FLuckies%2FUndercover-Phone-Sleeve%2FUndercover-Phone-Sleeve.jpg/q1GDx24DNz19H5jrkllRmWaEzNuALInTki6ie1xOxeA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14141213/125801/auto/auto/https%3A%2F%2Fwww.connox.de%2Fm%2F100031%2F171732%2Fmedia%2FLuckies%2FUndercover-Phone-Sleeve%2FUndercover-Phone-Sleeve.jpg/q1GDx24DNz19H5jrkllRmWaEzNuALInTki6ie1xOxeA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580359&amp;.sig=hNmBuhSY2w_J75McnbpXKzEF5lc-&amp;offerId=124942f9409a56cce04616f0bcb6288e&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14141213&amp;comId=14141213&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=10</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14141213">
+					<Name>connox.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14141213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Handyzubehör</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>12.95</Price>
+					<DeliveryCost>12</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>12</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24.95</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 Werktage Tage</DeliveryTime>
+				<Warranty>1.00</Warranty>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>5060146591058</Ean>
+				<MerchantCategory>accessoires taschen</MerchantCategory>
+				<Brand></Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1f56e9f3d01517441ae1b15007cba65e" type="MANUFACTURER_PRODUCTS">
+				<Title>BARTS Phone Home Beanie</Title>
+				<Description>Kinderstrickmütze</Description>
+				<LastModified>2015-08-24 00:00:22</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14391913/108501/90/90/http%3A%2F%2Fwww.barrabes.com%2Fimages%2Ftienda%2Fproducts%2Flarge%2F176967.jpg/7t1ySXe1JWI81tlrpQK3rtj0rc0S6.2jrWRH7ir56Ws-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14391913/108501/auto/auto/http%3A%2F%2Fwww.barrabes.com%2Fimages%2Ftienda%2Fproducts%2Flarge%2F176967.jpg/7t1ySXe1JWI81tlrpQK3rtj0rc0S6.2jrWRH7ir56Ws-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580359&amp;.sig=I4r73trIDS3v37Ow1wr8oGqNdos-&amp;offerId=1f56e9f3d01517441ae1b15007cba65e&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14391913&amp;comId=14391913&amp;catId=108501&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=11</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14391913">
+					<Name>Barrabes</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14391913/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="108501">
+					<Name>Kindermode</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>18.9</Price>
+					<DeliveryCost>4.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>23.89</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5-7 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8717457371837</Ean>
+				<MerchantCategory>Kinderkleidung  Jungs  Mützen und Halswärmer  Thermo</MerchantCategory>
+				<Brand>BARTS</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5385dd921da1b6ba7ee189d5b0c49e01" type="MANUFACTURER_PRODUCTS">
+				<Title>BARTS Phone Home Beanie</Title>
+				<Description>Kinderstrickmütze</Description>
+				<LastModified>2015-08-24 00:00:22</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14391913/107401/90/90/http%3A%2F%2Fwww.barrabes.com%2Fimages%2Ftienda%2Fproducts%2Flarge%2F176968.jpg/l8v3HB.y72lCKPKDPqxULktuJMb7vrDTzyIAWn5XnUU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14391913/107401/auto/auto/http%3A%2F%2Fwww.barrabes.com%2Fimages%2Ftienda%2Fproducts%2Flarge%2F176968.jpg/l8v3HB.y72lCKPKDPqxULktuJMb7vrDTzyIAWn5XnUU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580359&amp;.sig=JDDvhSYGjd7xbqCGHeklg4r6_sQ-&amp;offerId=5385dd921da1b6ba7ee189d5b0c49e01&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14391913&amp;comId=14391913&amp;catId=107401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=12</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14391913">
+					<Name>Barrabes</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14391913/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="107401">
+					<Name>Accessoires</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>18.9</Price>
+					<DeliveryCost>4.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>4.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>23.89</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>5-7 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8717457371844</Ean>
+				<MerchantCategory>Kinderkleidung  Jungs  Mützen und Halswärmer  Thermo</MerchantCategory>
+				<Brand>BARTS</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5e71b37cc58bb78603b10deca1a81fea" type="MANUFACTURER_PRODUCTS">
+				<Title>Evoc Phone Case Freizeittasche-Schwarz-L</Title>
+				<LastModified>2015-08-24 00:09:04</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/100334223/90/90/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_rMDrhg.jpg/8wWX9iLLXf3pWp66DxX1xoDuFmVazauXVFLEA_44ChQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/100334223/auto/auto/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_rMDrhg.jpg/8wWX9iLLXf3pWp66DxX1xoDuFmVazauXVFLEA_44ChQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580359&amp;.sig=aBFnc3qb5z65SXa1jJx860bVaG0-&amp;offerId=5e71b37cc58bb78603b10deca1a81fea&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14336213&amp;comId=14336213&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=13</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14336213">
+					<Name>SportOkay.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14336213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Taschen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>22.49</Price>
+					<DeliveryCost>3.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>26.44</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>sofort lieferbar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Freizeittaschen</MerchantCategory>
+				<Brand>Evoc</Brand>
+				<BrandId>38444</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="37709cd8ba2377f7534373fa3b48b294" type="MANUFACTURER_PRODUCTS">
+				<Title>SP Phone Mount GoPro Zubehör-Schwarz-One Size</Title>
+				<LastModified>2015-08-24 00:09:04</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/124901/90/90/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_N8zOc4.jpg/j0jnoi_1jgai.zztqB1d1QBb3c6bnerGVWXj_DJOX1k-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/124901/auto/auto/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_N8zOc4.jpg/j0jnoi_1jgai.zztqB1d1QBb3c6bnerGVWXj_DJOX1k-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580359&amp;.sig=U6ZcIsMqXP4NhQ3wGercr0rGY98-&amp;offerId=37709cd8ba2377f7534373fa3b48b294&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14336213&amp;comId=14336213&amp;catId=124901&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=14</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14336213">
+					<Name>SportOkay.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14336213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="124901">
+					<Name>Digitalkameras</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>15.19</Price>
+					<DeliveryCost>3.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>19.14</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>sofort lieferbar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Digitalkamera_neu</MerchantCategory>
+				<Brand>SP</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="ae3978f21f02f456e497eeedaae3d365" type="MANUFACTURER_PRODUCTS">
+				<Title>Evoc Phone Case Freizeittasche-Rot-M</Title>
+				<LastModified>2015-08-24 00:09:04</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/100334223/90/90/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_pttWMk.jpg/h.0FZ48S3KQWngOzZtrgifRfTnJYNdlm4XfZRfeLbzQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14336213/100334223/auto/auto/http%3A%2F%2Fwww.sportokay.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcartware_3dpicture_pttWMk.jpg/h.0FZ48S3KQWngOzZtrgifRfTnJYNdlm4XfZRfeLbzQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580360&amp;.sig=VS1eWLLERKPutjJaoJ6trSydMXk-&amp;offerId=ae3978f21f02f456e497eeedaae3d365&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14336213&amp;comId=14336213&amp;catId=100334223&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=15</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14336213">
+					<Name>SportOkay.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14336213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100334223">
+					<Name>Taschen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>22.49</Price>
+					<DeliveryCost>3.95</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>3.95</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>26.44</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>sofort lieferbar</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Freizeittaschen</MerchantCategory>
+				<Brand>Evoc</Brand>
+				<BrandId>38444</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7f987d49ea439e3dc126e5ee670c2249" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche A-TACS FG</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-FG.png/gV7TfqM80tJ_gUMN7Hl0i8Jld2bCDIWAwiPNJ2OU4eo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-FG.png/gV7TfqM80tJ_gUMN7Hl0i8Jld2bCDIWAwiPNJ2OU4eo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580360&amp;.sig=Gh4ZriUV0G53daYpK2KNaPte3Uk-&amp;offerId=7f987d49ea439e3dc126e5ee670c2249&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=16</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d4647</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f797673633d9d7ce7b01d4be9ab096d0" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche flecktarn</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-BW.png/VqIP7GBlWK_r2GrYhQysSROBn7SjSIEa8lv2FNk7BpA-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-BW.png/VqIP7GBlWK_r2GrYhQysSROBn7SjSIEa8lv2FNk7BpA-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580360&amp;.sig=Z1Zh1RINxZHmivhgKonjrcWTvGY-&amp;offerId=f797673633d9d7ce7b01d4be9ab096d0&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=17</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d4257</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b100eab217eed022bc7df21ad4299cf1" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche black</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-BK.png/8FI.QQF3CVA837B4XSuhU1PwotvASCjsMIh.Fnu1.6U-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-BK.png/8FI.QQF3CVA837B4XSuhU1PwotvASCjsMIh.Fnu1.6U-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580360&amp;.sig=lKdEXXx8LpktgMkZbbhopcS7azM-&amp;offerId=b100eab217eed022bc7df21ad4299cf1&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=18</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d424b</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="16a87a3b6fa7e6b8787eb7229a05ab7c" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche coyote tan</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-TA.png/uauF.6r_b9N2LyF2BV9A8lBHoVjReXbXS0xRc2TYU04-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-TA.png/uauF.6r_b9N2LyF2BV9A8lBHoVjReXbXS0xRc2TYU04-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580360&amp;.sig=89lCPcyBzzz4odac8hu_BnLK8Hs-&amp;offerId=16a87a3b6fa7e6b8787eb7229a05ab7c&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=19</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d5441</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="b69ed5246148cbbab813974888ae7487" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche A-TACS</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-AT.png/onLzk68CVPSqkApbIrxhYR6_KPOktAS7SDavY797zQ0-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-AT.png/onLzk68CVPSqkApbIrxhYR6_KPOktAS7SDavY797zQ0-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580360&amp;.sig=_bNZ0BnTWqAz3V7AbU_vK3rkp.4-&amp;offerId=b69ed5246148cbbab813974888ae7487&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=20</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d4154</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d1e0ab4742c1dbbf3a8c761e17bc0971" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche multicam</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-MC.png/E1ZrTfJ3Ct4mNOe.P4PP0JiIdi02xT.Ase.85zEYOq8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-MC.png/E1ZrTfJ3Ct4mNOe.P4PP0JiIdi02xT.Ase.85zEYOq8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580360&amp;.sig=eagyPY5OqKiiW3_sSWnPm3e_L6A-&amp;offerId=d1e0ab4742c1dbbf3a8c761e17bc0971&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=21</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d4d43</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="e93943589de9f0a3ce25cfdf8cdaa477" type="MANUFACTURER_PRODUCTS">
+				<Title>MFH Cell Phone Pouch / Handytasche oliv</Title>
+				<Description>quer und längs tragbar, Clipverschluss, Größe: 12 x 6 cm (HxB), 100 % Polyester</Description>
+				<LastModified>2015-08-23 07:15:17</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/90/90/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-OL.png/DV8y9SIsbKl5TfzZPOqzye9h_g8bj2rRg4P.g5PoiAE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14148313/100327023/auto/auto/http%3A%2F%2Fwww.maxs-sport.com%2Fimages%2Fproduct%2Flarge%2F930-203-OL.png/DV8y9SIsbKl5TfzZPOqzye9h_g8bj2rRg4P.g5PoiAE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580361&amp;.sig=F1t0W7rohT9GI_7_U1a2u12rUn8-&amp;offerId=e93943589de9f0a3ce25cfdf8cdaa477&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14148313&amp;comId=14148313&amp;catId=100327023&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=22</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<MobileUrl>http://maxs-sport.shopgate.com/item/3933302d3230332d4f4c</MobileUrl>
+				<Merchant id="14148313">
+					<Name>Maxs-Sport.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14148313/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100327023">
+					<Name>Mannschaftssport</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>9.95</Price>
+					<DeliveryCost>7.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>7.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17.85</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>3-5 Tage</DeliveryTime>
+				<Warranty>2 Jahre verlängerte Garantie und 30 Tage verlängertes Rückgaberecht</Warranty>
+				<Promo>
+					<Promo>10 € Newsletter-Gutschein</Promo>
+				</Promo>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Airsoft/Taktische Ausrüstung/Westentaschen &amp; -module</MerchantCategory>
+				<Brand>MFH</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5b59a75ba48388979e6ff35a2d6677b1" type="MANUFACTURER_PRODUCTS">
+				<Title>IST.GANASSINI SpA Rilastil Protechnique Regenerierende Phone In 30 Ampullen aus 1 ml</Title>
+				<Description>Rilastil    PROTECNIQUE     Sterile Lösung in Einzeldosis-Fläschchen, mit NMF-Komplex formuliert, un'azionerestitutiva und Befeuchtung der empfindlichen Haut des Gesichts. Um im Falle eines pelliirritate verwendet werden, müde, gestresst, erlaubt die Behandlung an correttaomeostasi Haut wieder her und</Description>
+				<LastModified>2015-08-24 00:02:29</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14363413/133301/90/90/http%3A%2F%2Ffarmacialoreto.it%2Fimage%2Fdata%2F932654852.png/Y7pAohr14NEM52.t_aCpPURFrMqw7d_wPgbA3a1R9Z8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14363413/133301/auto/auto/http%3A%2F%2Ffarmacialoreto.it%2Fimage%2Fdata%2F932654852.png/Y7pAohr14NEM52.t_aCpPURFrMqw7d_wPgbA3a1R9Z8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580361&amp;.sig=w4t_CEjBBlbYDYKN53Z345ebuWc-&amp;offerId=5b59a75ba48388979e6ff35a2d6677b1&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14363413&amp;comId=14363413&amp;catId=133301&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=23</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14363413">
+					<Name>Farmacia Loreto</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14363413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="133301">
+					<Name>Körperpflege</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>39.22</Price>
+					<DeliveryCost>5.89</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.89</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>45.11</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>24 Ore</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>8033224815800</Ean>
+				<MerchantCategory>Hygiene und Kosmetik  Gesicht</MerchantCategory>
+				<Brand>IST.GANASSINI SpA</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c77394168a7330e17cd30bbc1321d878" type="MANUFACTURER_PRODUCTS">
+				<Title>NATURAL POINT Srl Natürliche Nahrungsergänzung 1000 PointSali Phones Tabletten</Title>
+				<Description>Kombination des Elektrolyten Calcium, Magnesium, Natrium und Kalium, besonders Eisen und Silizium.     Methode "zur Nutzung: lösen sich im Mund für 10 bis 15 Tabletten mehrmals am Tag, je nach Bedarf. Upgrade-Handys 1000 Tabletten natürlichen Punkt ist online zum Verkauf in den Kategorien iafstore.com</Description>
+				<LastModified>2015-08-24 00:02:29</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14363413/130401/90/90/http%3A%2F%2Ffarmacialoreto.it%2Fimage%2Fdata%2F902086115.jpg/Yu5zMuP0MKv8Rcgj59wouyVLczB3aFCFgxzZRPiDFIM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14363413/130401/auto/auto/http%3A%2F%2Ffarmacialoreto.it%2Fimage%2Fdata%2F902086115.jpg/Yu5zMuP0MKv8Rcgj59wouyVLczB3aFCFgxzZRPiDFIM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580361&amp;.sig=05LSQmvANPWLp9yxXe17M00H.cM-&amp;offerId=c77394168a7330e17cd30bbc1321d878&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14363413&amp;comId=14363413&amp;catId=130401&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=24</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14363413">
+					<Name>Farmacia Loreto</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14363413/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="130401">
+					<Name>Lebensmittel</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>13.09</Price>
+					<DeliveryCost>5.89</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.89</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>18.98</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<DeliveryTime>24 Ore</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Essen  Zuschläge</MerchantCategory>
+				<Brand>NATURAL POINT Srl</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4afb587daaf39e12604ba986199a77ad" type="MANUFACTURER_PRODUCTS">
+				<Title>Callstel Kfz-Induktions-Halterung m. Qi-Receiver-Pad f. Phone 6/6Plus</Title>
+				<Description>Das Komplett-Set für kabelfreies Laden mit Qi von iPhone im Auto Jetzt fährt Ihr iPhone 6/6 Plus sicher positioniert im Auto mit und wird gleichzeitig drahtlos per Induktion geladen! Alles, was Sie dafür benötigen, erhalten Sie mit diesem Komplett-Set! Großes Plus: Im Set ist sowohl eine Halterung für das</Description>
+				<LastModified>2015-08-23 20:45:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14146213/125801/90/90/http%3A%2F%2Fmi.pearl.de%2Fi%2F55%2Fhz2670_4.jpg/hWYXOfs4yP.PCOgACXKcXYUU1v.6IgytWLTNc7LCnFE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14146213/125801/auto/auto/http%3A%2F%2Fmi.pearl.de%2Fi%2F55%2Fhz2670_4.jpg/hWYXOfs4yP.PCOgACXKcXYUU1v.6IgytWLTNc7LCnFE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580361&amp;.sig=DOHln.ZqyJh7BFm5Q23W9_hM30A-&amp;offerId=4afb587daaf39e12604ba986199a77ad&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14146213&amp;comId=14146213&amp;catId=125801&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=25</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14146213">
+					<Name>pearl.at</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14146213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="125801">
+					<Name>Handyzubehör</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>54.9</Price>
+					<DeliveryCost>5.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>60.8</TotalPrice>
+					<PriceWithoutRebate>99.9</PriceWithoutRebate>
+					<Rebate>45</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>3</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<MerchantCategory>Elektronik &amp; Computer  Smartphones &amp; Tablets, Telefonie  Zubehör für iPhone, iPad &amp; iPod  iPhone- &amp; iPad-Zubehör</MerchantCategory>
+				<Brand>Callstel</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="80a2c6ee9c444bfc62dee83fdc4ac511" type="MANUFACTURER_PRODUCTS">
+				<Title>CARRYHOME Spiegel CARRYHOME, Mehrfarbig</Title>
+				<Description>Der Spiegel Phone Box von CARRYHOME hat das gewisse Etwas. Ein moderner Aufdruck ziert das hochwertige Spiegelglas: Hinter der roten Telefonzelle schaffen Impressionen aus London ein urbanes Ambiente. Dabei lässt sich der schlanke Spiegel (B x H: ca. 35 x 140 cm) spielend leicht montieren. Dieser raffinierte</Description>
+				<LastModified>2015-08-23 09:37:24</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14182213/100440723/90/90/http%253A%252F%252Fxxxlutz.scene7.com%252Fis%252Fimage%252Fxxxlutz%252F002757003301%252FSPIEGEL%252F-B0Pe4PDLY2mlqHKfGmCC1D7c_M%252F27570033-01-F01.jpg%253Fwid%253D1024%2526hei%253D1024%2526qlt%253D90%2526resmode%253Dsharp2%2526fit%253Dfit%252C1%2526d03b/x7Ba4SY8M7sy8mNnVgCaLxfhRpbYjGTwJgQWZs1vIQc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14182213/100440723/auto/auto/http%253A%252F%252Fxxxlutz.scene7.com%252Fis%252Fimage%252Fxxxlutz%252F002757003301%252FSPIEGEL%252F-B0Pe4PDLY2mlqHKfGmCC1D7c_M%252F27570033-01-F01.jpg%253Fwid%253D1024%2526hei%253D1024%2526qlt%253D90%2526resmode%253Dsharp2%2526fit%253Dfit%252C1%2526d03b/x7Ba4SY8M7sy8mNnVgCaLxfhRpbYjGTwJgQWZs1vIQc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580361&amp;.sig=urmal_OE3tri2RsE5Xgj9nXPovY-&amp;offerId=80a2c6ee9c444bfc62dee83fdc4ac511&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14182213&amp;comId=14182213&amp;catId=100440723&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=26</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14182213">
+					<Name>XXXLutz.at</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14182213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100440723">
+					<Name>Spiegel</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>29.9</Price>
+					<DeliveryCost>34.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>34.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>64.8</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>ca. 1-2 Wochen</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4250357101578</Ean>
+				<MerchantCategory>Schlafen  Spiegel</MerchantCategory>
+				<Brand>CARRYHOME</Brand>
+				<BrandId>-1</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="43146e4fa8a598aea7844953fd653f70" type="MANUFACTURER_PRODUCTS">
+				<Title>Odlo Jacket Frequency X Laufjacken Gr.L Herren</Title>
+				<Description>Odlo Jacket Frequency X  LOGIC Windprotection 3L DWR combine aux Micro 800 Stretch, Jersey 270 &amp; Thermoair Coupe  pour une parfaite liberte de mouvement   coupe-vent sur le devant et regulation thermique optimale dans le dos avec trous decoupes au laser  Poche pour Smart phone avec</Description>
+				<LastModified>2015-08-23 12:32:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/90/90/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/auto/auto/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580361&amp;.sig=tLYTPi9Nnegxsj4bhWiPFQ2ZDso-&amp;offerId=43146e4fa8a598aea7844953fd653f70&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14144813&amp;comId=14144813&amp;catId=100332323&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=27</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14144813">
+					<Name>21run.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14144813/logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100332323">
+					<Name>Sportbekleidung Herren</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>179.95</Price>
+					<DeliveryCost>1.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>181.94</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7613273663556</Ean>
+				<MerchantCategory>Laufjacken</MerchantCategory>
+				<Brand>Odlo</Brand>
+				<BrandId>8599</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f66d38d78ce5d7383976e2471d4fad21" type="MANUFACTURER_PRODUCTS">
+				<Title>Odlo Jacket Frequency X Laufjacken Gr.S Herren</Title>
+				<Description>Odlo Jacket Frequency X  LOGIC Windprotection 3L DWR combine aux Micro 800 Stretch, Jersey 270 &amp; Thermoair Coupe  pour une parfaite liberte de mouvement   coupe-vent sur le devant et regulation thermique optimale dans le dos avec trous decoupes au laser  Poche pour Smart phone avec</Description>
+				<LastModified>2015-08-23 12:32:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/90/90/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/auto/auto/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580361&amp;.sig=lbwwnI8pEtCejHogER03Ty_K7WQ-&amp;offerId=f66d38d78ce5d7383976e2471d4fad21&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14144813&amp;comId=14144813&amp;catId=100332323&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=28</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14144813">
+					<Name>21run.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14144813/logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100332323">
+					<Name>Sportbekleidung Herren</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>179.95</Price>
+					<DeliveryCost>1.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>181.94</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7613273663471</Ean>
+				<MerchantCategory>Laufjacken</MerchantCategory>
+				<Brand>Odlo</Brand>
+				<BrandId>8599</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="dce4f50b3c50d88ea12314a8542f667c" type="MANUFACTURER_PRODUCTS">
+				<Title>Odlo Jacket Frequency X Laufjacken Gr.XXL Herren</Title>
+				<Description>Odlo Jacket Frequency X  LOGIC Windprotection 3L DWR combine aux Micro 800 Stretch, Jersey 270 &amp; Thermoair Coupe  pour une parfaite liberte de mouvement   coupe-vent sur le devant et regulation thermique optimale dans le dos avec trous decoupes au laser  Poche pour Smart phone avec</Description>
+				<LastModified>2015-08-23 12:32:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/90/90/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/auto/auto/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580362&amp;.sig=vYKbhkueeGreOW0Fxa1yjCySg4E-&amp;offerId=dce4f50b3c50d88ea12314a8542f667c&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14144813&amp;comId=14144813&amp;catId=100332323&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=29</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14144813">
+					<Name>21run.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14144813/logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100332323">
+					<Name>Sportbekleidung Herren</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>179.95</Price>
+					<DeliveryCost>1.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>181.94</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7613273663631</Ean>
+				<MerchantCategory>Laufjacken</MerchantCategory>
+				<Brand>Odlo</Brand>
+				<BrandId>8599</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6b7fd6e55a6c5262ed9fb8a7f591df1d" type="MANUFACTURER_PRODUCTS">
+				<Title>Odlo Jacket Frequency X Laufjacken Gr.XL Herren</Title>
+				<Description>Odlo Jacket Frequency X  LOGIC Windprotection 3L DWR combine aux Micro 800 Stretch, Jersey 270 &amp; Thermoair Coupe  pour une parfaite liberte de mouvement   coupe-vent sur le devant et regulation thermique optimale dans le dos avec trous decoupes au laser  Poche pour Smart phone avec</Description>
+				<LastModified>2015-08-23 12:32:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/90/90/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/auto/auto/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580362&amp;.sig=fZmxqZzZQHTAPwYjWhtS6olrfIs-&amp;offerId=6b7fd6e55a6c5262ed9fb8a7f591df1d&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14144813&amp;comId=14144813&amp;catId=100332323&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=30</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14144813">
+					<Name>21run.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14144813/logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100332323">
+					<Name>Sportbekleidung Herren</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>179.95</Price>
+					<DeliveryCost>1.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>181.94</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7613273663594</Ean>
+				<MerchantCategory>Laufjacken</MerchantCategory>
+				<Brand>Odlo</Brand>
+				<BrandId>8599</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="7214dd08361d85378265e8aa76d1908c" type="MANUFACTURER_PRODUCTS">
+				<Title>Odlo Jacket Frequency X Laufjacken Gr.M Herren</Title>
+				<Description>Odlo Jacket Frequency X  LOGIC Windprotection 3L DWR combine aux Micro 800 Stretch, Jersey 270 &amp; Thermoair Coupe  pour une parfaite liberte de mouvement   coupe-vent sur le devant et regulation thermique optimale dans le dos avec trous decoupes au laser  Poche pour Smart phone avec</Description>
+				<LastModified>2015-08-23 12:32:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/90/90/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14144813/100332323/auto/auto/http%3A%2F%2Fwww.21run.com%2Fmedia%2Fcatalog%2Fproduct%2Fx%2Fc%2Fxc_tor_1415_612032_30176_a_web.jpg/fSC.RMvWXku2K8DiEyZvs5CpAck04kc28vF5ApMyvXI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580362&amp;.sig=IWMctd7njzO4ZKwGLh8cRtgSgOw-&amp;offerId=7214dd08361d85378265e8aa76d1908c&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14144813&amp;comId=14144813&amp;catId=100332323&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=31</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14144813">
+					<Name>21run.com</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14144813/logo.JPG</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100332323">
+					<Name>Sportbekleidung Herren</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>179.95</Price>
+					<DeliveryCost>1.99</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>1.99</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>181.94</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<DeliveryTime>1-2 Tage</DeliveryTime>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>7613273663518</Ean>
+				<MerchantCategory>Laufjacken</MerchantCategory>
+				<Brand>Odlo</Brand>
+				<BrandId>8599</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="93ba1a988714b45c424534cafde4fb0a" type="MANUFACTURER_PRODUCTS">
+				<Title>Lunartec App-gesteuertes LED-Kit für Motorräder und Kfz (Android)</Title>
+				<Description>Fernsteuerbar per Android-Phone: coole Lightshow für Ihr Motorrad oder Auto Machen Sie Ihr Auto oder Ihr Motorrad bei Events oder im Showroom ganz einfach zum echten Blickfang! Dank App-gesteuertem LED-Kit mit Farbwechsel-Funktion zieht Ihr Gefährt ab sofort alle Blicke auf sich. Einfach die Schaltbox an die</Description>
+				<LastModified>2015-08-23 20:45:00</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14146213/100302923/90/90/http%3A%2F%2Fmi.pearl.de%2Fi%2F55%2Fpx5924_0.jpg/C5pZHpNqsIYh2EOCgPO6LPJKvRLJyLu8eEqkO7gXwso-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14146213/100302923/auto/auto/http%3A%2F%2Fmi.pearl.de%2Fi%2F55%2Fpx5924_0.jpg/C5pZHpNqsIYh2EOCgPO6LPJKvRLJyLu8eEqkO7gXwso-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580362&amp;.sig=mJ9AA54tK854BkYqM5VOZNIcmNQ-&amp;offerId=93ba1a988714b45c424534cafde4fb0a&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14146213&amp;comId=14146213&amp;catId=100302923&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=32</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14146213">
+					<Name>pearl.at</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14146213/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100302923">
+					<Name>Spielzeug für Draußen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>119.9</Price>
+					<DeliveryCost>5.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>5.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>125.8</TotalPrice>
+					<PriceWithoutRebate>149</PriceWithoutRebate>
+					<Rebate>20</Rebate>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>4022107206891</Ean>
+				<MerchantCategory>Sport, Freizeit, Reise, Spielzeug, Games  Auto, Motorrad, Fahrrad  Alles rund ums Motorrad  Motorrad-Zubehör</MerchantCategory>
+				<Brand>Lunartec</Brand>
+				<BrandId>34067</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="37f454a39fcf39ebe2b90f70f55c5578" type="MANUFACTURER_PRODUCTS">
+				<Title>Marmot Kompressor Zip - Grün</Title>
+				<Description>Bietet Platz für die nötigsten Utensilien beim Gipfelsturm; enthält Kompressor Flask; verfügt über Befestigungsvorrichtung für Kompressor Flask. Includes Hydropak 500ml Flask Fits Cell Phone or Light Jacket</Description>
+				<LastModified>2015-08-23 03:44:01</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14160113/100333423/90/90/http%3A%2F%2Fwww.fc-moto.de%2FWebRoot%2FFCMotoDB%2FShops%2F10207048%2F54F9%2F66A0%2F07B3%2FADC1%2F631A%2F4DEB%2FAE5A%2FE376%2FMarmot-Kompressor-Zip_D25350_4691_f-kompressorzip_h.jpg/Lc_HdQPTYf3UePpjZLEcQaBKxqJi7DHz6s9GiAzypvQ-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14160113/100333423/auto/auto/http%3A%2F%2Fwww.fc-moto.de%2FWebRoot%2FFCMotoDB%2FShops%2F10207048%2F54F9%2F66A0%2F07B3%2FADC1%2F631A%2F4DEB%2FAE5A%2FE376%2FMarmot-Kompressor-Zip_D25350_4691_f-kompressorzip_h.jpg/Lc_HdQPTYf3UePpjZLEcQaBKxqJi7DHz6s9GiAzypvQ-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580362&amp;.sig=HT8LW2TFHuuC4G4Sp7mIl5.mywY-&amp;offerId=37f454a39fcf39ebe2b90f70f55c5578&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14160113&amp;comId=14160113&amp;catId=100333423&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=33</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14160113">
+					<Name>FC-Moto</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14160113/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100333423">
+					<Name>Campingzubehör</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>29</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>35.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0785562425330</Ean>
+				<MerchantCategory>Marmot Shop</MerchantCategory>
+				<Brand>Marmot</Brand>
+				<BrandId>15448</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c49aa506e62a268b168a901a44afcff1" type="MANUFACTURER_PRODUCTS">
+				<Title>Marmot Kompressor Zip - Blau</Title>
+				<Description>Bietet Platz für die nötigsten Utensilien beim Gipfelsturm; enthält Kompressor Flask; verfügt über Befestigungsvorrichtung für Kompressor Flask. Includes Hydropak 500ml Flask Fits Cell Phone or Light Jacket</Description>
+				<LastModified>2015-08-23 03:44:01</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14160113/100333423/90/90/http%3A%2F%2Fwww.fc-moto.de%2FWebRoot%2FFCMotoDB%2FShops%2F10207048%2F54F9%2F66A0%2F07B3%2FADC1%2F631A%2F4DEB%2FAE5A%2FE376%2FMarmot-Kompressor-Zip_D25350_2777_f-kompressorzip_h.jpg/NX2OR4wZs52qO27KMgqGCr.DlSbr5zCy7i0CDieOPyk-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14160113/100333423/auto/auto/http%3A%2F%2Fwww.fc-moto.de%2FWebRoot%2FFCMotoDB%2FShops%2F10207048%2F54F9%2F66A0%2F07B3%2FADC1%2F631A%2F4DEB%2FAE5A%2FE376%2FMarmot-Kompressor-Zip_D25350_2777_f-kompressorzip_h.jpg/NX2OR4wZs52qO27KMgqGCr.DlSbr5zCy7i0CDieOPyk-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580362&amp;.sig=aJctIo5G79gMAp9Xt9FRvReVaeo-&amp;offerId=c49aa506e62a268b168a901a44afcff1&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14160113&amp;comId=14160113&amp;catId=100333423&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=34</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14160113">
+					<Name>FC-Moto</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14160113/logo.jpg</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100333423">
+					<Name>Campingzubehör</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>29</Price>
+					<DeliveryCost>6.9</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>6.9</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>35.9</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Availability>1</Availability>
+				<Promo/>
+				<OffensiveContent>false</OffensiveContent>
+				<FinancingOption/>
+				<Ean>0785562425323</Ean>
+				<MerchantCategory>Marmot Shop</MerchantCategory>
+				<Brand>Marmot</Brand>
+				<BrandId>15448</BrandId>
+				<GreenProduct>false</GreenProduct>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="4e08c9331b1c4e104f43dc8b2a5077f1" type="VEHICLE">
+				<Title>BMW 218d ACTIVE TOURER (Navi LED Leder Klima)</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, roof rails, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel, navigation system, front fog lights, panoramic</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2F73kAAOSwBahVS7%7EP%2F%24_1.JPG/nXbRAzfkNOQ1pEjCCfFpp88gmK6WqIC49c_ALAbPZhE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2F73kAAOSwBahVS7%7EP%2F%24_1.JPG/nXbRAzfkNOQ1pEjCCfFpp88gmK6WqIC49c_ALAbPZhE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580362&amp;.sig=AJqJ9qxO5mnjHHpE4m0lUlVE1g4-&amp;offerId=4e08c9331b1c4e104f43dc8b2a5077f1&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=35</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>47229</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>47229</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>BMW</Brand>
+				<BrandId>467</BrandId>
+				<Color>Blau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>0</Mileage>
+				<PostCode>21244</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Diesel</Energy>
+				<Transmission>Automatik</Transmission>
+				<VehicleConsumptionHighway>3.80</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>4.70</VehicleConsumptionCity>
+				<VehicleConsumptionMix>4.10</VehicleConsumptionMix>
+				<VehicleCo2Emission>109.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f6b3e706efafa527a5b2921bcee1fbfa" type="VEHICLE">
+				<Title>BMW 218i Active Tourer (Navi LED Leder Klima)</Title>
+				<Description>Central locking, bluetooth, on board computer, roof rails, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel, navigation system, front fog lights, panoramic glass roof,</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FFnYAAOSwT6pVsEZ2%2F%24_1.JPG/kfTNdBR9tfSl7h_olWVj7W4gql24i3LBimvlp7g7.YU-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FFnYAAOSwT6pVsEZ2%2F%24_1.JPG/kfTNdBR9tfSl7h_olWVj7W4gql24i3LBimvlp7g7.YU-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580363&amp;.sig=8VUXNHowIeGNqQ9xII6M2JVAWNQ-&amp;offerId=f6b3e706efafa527a5b2921bcee1fbfa&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=36</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>42680</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>42680</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>BMW</Brand>
+				<BrandId>467</BrandId>
+				<Color>Schwarz</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>0</Mileage>
+				<PostCode>21244</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Automatik</Transmission>
+				<VehicleConsumptionHighway>4.40</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>6.30</VehicleConsumptionCity>
+				<VehicleConsumptionMix>5.10</VehicleConsumptionMix>
+				<VehicleCo2Emission>119.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5c878e4909485453f7504022289977ce" type="VEHICLE">
+				<Title>Mazda 3 URBAN LIMITED 2,0i / Navi</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, e10 enabled, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, head up display, isofix, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel, navigation system, front fog</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2F98YAAOSwjVVVr0Sk%2F%24_1.JPG/XqxsP7WnHT1sBOeaFdcrrnU2HfVkMg2kvFWyHTHmyKc-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2F98YAAOSwjVVVr0Sk%2F%24_1.JPG/XqxsP7WnHT1sBOeaFdcrrnU2HfVkMg2kvFWyHTHmyKc-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580363&amp;.sig=JGR4z9NLFvE.I9AXHJK.cBUtw0M-&amp;offerId=5c878e4909485453f7504022289977ce&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=37</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>20450</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>20450</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Mazda</Brand>
+				<BrandId>2040</BrandId>
+				<Color>Grau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>0</Mileage>
+				<PostCode>49525</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>4.3</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>6.5</VehicleConsumptionCity>
+				<VehicleConsumptionMix>5.1</VehicleConsumptionMix>
+				<VehicleCo2Emission>119</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="09051d74ba6702a20e6aaa8597895b8e" type="VEHICLE">
+				<Title>DACIA Dokker 1.6 85 Ambiance Neuwagen kurzfristig lief</Title>
+				<Description>Central locking, bluetooth, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, multifunctional wheel, power assisted steering, abs, daytime running lights, tuner</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FOWYAAOSw7aBVDVWI%2F%24_1.JPG/VBQfZGyvmDBIlgU23fkA.be9Xpk8m3qXzi4ljczFg7k-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FOWYAAOSw7aBVDVWI%2F%24_1.JPG/VBQfZGyvmDBIlgU23fkA.be9Xpk8m3qXzi4ljczFg7k-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580363&amp;.sig=Of0s9THoTbYvXtVS7siLLRM.Eog-&amp;offerId=09051d74ba6702a20e6aaa8597895b8e&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=38</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>11920</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>11920</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Dacia</Brand>
+				<BrandId>848</BrandId>
+				<Color>Blau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>10</Mileage>
+				<PostCode>88662</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>6.20</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>9.90</VehicleConsumptionCity>
+				<VehicleConsumptionMix>7.50</VehicleConsumptionMix>
+				<VehicleCo2Emission>178.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="eea896cca0a2744f81a0e51a5335095e" type="VEHICLE">
+				<Title>Volkswagen Polo 1.2 TSI Blue Motion Technology Comfortline</Title>
+				<Description>Central locking, bluetooth, cd player, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, mp3 interface, multifunctional wheel, front fog lights, power assisted steering, abs, daytime running lights, cruise control, traction control</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FMTIwMFgxNjAw%2Fz%2F3sQAAOSwMmBVxHj4%2F%24_1.JPG/shl9DRkNOSmByZXOopu1skmAxlNiRPckLJEGxgaiaAM-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FMTIwMFgxNjAw%2Fz%2F3sQAAOSwMmBVxHj4%2F%24_1.JPG/shl9DRkNOSmByZXOopu1skmAxlNiRPckLJEGxgaiaAM-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580363&amp;.sig=jIOtckVoL1lN06FgOtSG9JKcwmE-&amp;offerId=eea896cca0a2744f81a0e51a5335095e&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=39</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>14500</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>14500</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Volkswagen</Brand>
+				<BrandId>3499</BrandId>
+				<Color>Schwarz</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>10</Mileage>
+				<PostCode>93155</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>4</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>6</VehicleConsumptionCity>
+				<VehicleConsumptionMix>4.7</VehicleConsumptionMix>
+				<VehicleCo2Emission>107</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="c69a89ba9f8b7615cb259b9402eda85a" type="VEHICLE">
+				<Title>Ford Fiesta 1.0 EcoBoost AT Titanium Sitzh. Parkpil.</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, e10 enabled, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel, front fog lights, nonsmoker vehicle, automatic</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNjc1WDkwMA%3D%3D%2Fz%2FnLAAAOSwxyRU2yMg%2F%24_1.JPG/pmyGlzXMjLxpZOlReC0dov_34ksk0WOdR2.ctGMXHI8-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNjc1WDkwMA%3D%3D%2Fz%2FnLAAAOSwxyRU2yMg%2F%24_1.JPG/pmyGlzXMjLxpZOlReC0dov_34ksk0WOdR2.ctGMXHI8-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580363&amp;.sig=WEbX0ORF3d8l.zYZsO2xG5FkZ4s-&amp;offerId=c69a89ba9f8b7615cb259b9402eda85a&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=40</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>18990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>18990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Ford</Brand>
+				<BrandId>1232</BrandId>
+				<Color>Grau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>5</Mileage>
+				<PostCode>66557</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Automatik</Transmission>
+				<VehicleConsumptionHighway>3.9</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>6.6</VehicleConsumptionCity>
+				<VehicleConsumptionMix>4.9</VehicleConsumptionMix>
+				<VehicleCo2Emission>114</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="9e7318edf7e48bb68f634b152a32cde8" type="VEHICLE">
+				<Title>Volkswagen 15 x Tiguan TSI Trend &amp; Fun Navi Alu Auto Jochem</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, metallic, mp3 interface, navigation system, nonsmoker vehicle, full service history, power assisted steering, electric heated</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2Fz7gAAOSwqu9VTdgJ%2F%24_1.JPG/0Xa3Io3DREqMD9q3iN0MmmZ8c5WXk8iSJy1OIsagDss-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2Fz7gAAOSwqu9VTdgJ%2F%24_1.JPG/0Xa3Io3DREqMD9q3iN0MmmZ8c5WXk8iSJy1OIsagDss-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580364&amp;.sig=zYXgItlnqQM3ysUr4gr4FhH1TZ4-&amp;offerId=9e7318edf7e48bb68f634b152a32cde8&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=41</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>24990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Volkswagen</Brand>
+				<BrandId>3499</BrandId>
+				<Color>Schwarz</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>0</Mileage>
+				<PostCode>66557</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>5.5</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>8.3</VehicleConsumptionCity>
+				<VehicleConsumptionMix>6.5</VehicleConsumptionMix>
+				<VehicleCo2Emission>152</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="dede920db4adfa02a165a1cd5b561e97" type="VEHICLE">
+				<Title>Volkswagen 15 x Tiguan TSI Trend &amp; Fun Navi Alu Auto Jochem</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, metallic, mp3 interface, navigation system, nonsmoker vehicle, full service history, power assisted steering, electric heated</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FwCcAAOSwNSxVTdHj%2F%24_1.JPG/3jDIUMrQ5r6HogTVKuKi9bdkJglom6HRsLfc4.Ty_Os-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FwCcAAOSwNSxVTdHj%2F%24_1.JPG/3jDIUMrQ5r6HogTVKuKi9bdkJglom6HRsLfc4.Ty_Os-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580364&amp;.sig=jqanv.rm39_yI6d5uqcPtwlPt6I-&amp;offerId=dede920db4adfa02a165a1cd5b561e97&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=42</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>24990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>24990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Volkswagen</Brand>
+				<BrandId>3499</BrandId>
+				<Color>Grau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>0</Mileage>
+				<PostCode>66557</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>5.5</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>8.3</VehicleConsumptionCity>
+				<VehicleConsumptionMix>6.5</VehicleConsumptionMix>
+				<VehicleCo2Emission>152</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1915363e4b58ec85870b70119941437b" type="VEHICLE">
+				<Title>Ford Focus 1.5 Business - Automatik ohne Aufpreis</Title>
+				<Description>Central locking, bluetooth, on board computer, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, multifunctional wheel, navigation system, front fog lights, power assisted steering, abs, start stop system, cruise control</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FdVMAAOSwPcVVuF5-%2F%24_1.JPG/NWm5nbP8AT99y.uFRkTT4VEjTrQRTBoKtg_CqFGR7_4-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FdVMAAOSwPcVVuF5-%2F%24_1.JPG/NWm5nbP8AT99y.uFRkTT4VEjTrQRTBoKtg_CqFGR7_4-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580364&amp;.sig=XhuDLYuOdT498N.zDB6OtgzPVQQ-&amp;offerId=1915363e4b58ec85870b70119941437b&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=43</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>17990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Ford</Brand>
+				<BrandId>1232</BrandId>
+				<Color>Blau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>10</Mileage>
+				<PostCode>99310</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Automatik</Transmission>
+				<VehicleConsumptionHighway>5.00</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>7.50</VehicleConsumptionCity>
+				<VehicleConsumptionMix>5.80</VehicleConsumptionMix>
+				<VehicleCo2Emission>134.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="1db7ab4cfe23bbbf0f8959bf8a50a78e" type="VEHICLE">
+				<Title>Ford B-MAX EcoBoost Trend PDC v+h Freispr Auto Jochem</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, e10 enabled, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, mp3 interface, multifunctional wheel, front fog lights, nonsmoker vehicle, full service history, power assisted steering, abs,</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNjc1WDkwMA%3D%3D%2Fz%2FrGwAAOSwkNZUea3M%2F%24_1.JPG/miUKJgLJWZkjtKW1jBMB_pGtBKIVvP_5SeXWwvAO1ZI-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNjc1WDkwMA%3D%3D%2Fz%2FrGwAAOSwkNZUea3M%2F%24_1.JPG/miUKJgLJWZkjtKW1jBMB_pGtBKIVvP_5SeXWwvAO1ZI-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580364&amp;.sig=dvOjyPUX6dpAWg1NtWHgIM1ZSHQ-&amp;offerId=1db7ab4cfe23bbbf0f8959bf8a50a78e&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=44</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>17490</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>17490</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Ford</Brand>
+				<BrandId>1232</BrandId>
+				<Color>Weiß</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>10</Mileage>
+				<PostCode>66557</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>4.2</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>6</VehicleConsumptionCity>
+				<VehicleConsumptionMix>4.9</VehicleConsumptionMix>
+				<VehicleCo2Emission>114</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d84a709481ebc7190380d6ae07195b88" type="VEHICLE">
+				<Title>Ford B-MAX Titanium 125PS Kamera Sitzh Parkpil FSH</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, e10 enabled, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel, front fog lights, nonsmoker vehicle, automatic</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNTQwWDk2MA%3D%3D%2Fz%2FBt4AAOSwcu5UPkzG%2F%24_1.JPG/LWfkYRuYnH0jN4RKEQguh8VFDOkQEiGJBWBb1CnodIo-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNTQwWDk2MA%3D%3D%2Fz%2FBt4AAOSwcu5UPkzG%2F%24_1.JPG/LWfkYRuYnH0jN4RKEQguh8VFDOkQEiGJBWBb1CnodIo-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580364&amp;.sig=UmAkgG1TlQVgkZKBsvjQhqCmkzY-&amp;offerId=d84a709481ebc7190380d6ae07195b88&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=45</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>19990</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>19990</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Ford</Brand>
+				<BrandId>1232</BrandId>
+				<Color>Grau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>5</Mileage>
+				<PostCode>66557</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>4.2</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>6</VehicleConsumptionCity>
+				<VehicleConsumptionMix>4.9</VehicleConsumptionMix>
+				<VehicleCo2Emission>114</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="f85c8d7bc1d50f29659aea2e9fa3a8e1" type="VEHICLE">
+				<Title>Ford B-MAX 1.6 SYNC Edition - Automatik ohne Aufpreis</Title>
+				<Description>Central locking, bluetooth, on board computer, cd player, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, alloy wheels, mp3 interface, multifunctional wheel, front fog lights, power assisted steering, abs, tuner</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FKvwAAOSwMmBVuF5-%2F%24_1.JPG/njpH9t2y2cqP3iR4D8PO8p21X6SmpHyr4lVU07bhDfE-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDgwWDY0MA%3D%3D%2Fz%2FKvwAAOSwMmBVuF5-%2F%24_1.JPG/njpH9t2y2cqP3iR4D8PO8p21X6SmpHyr4lVU07bhDfE-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580365&amp;.sig=lLQuFMUJHEj2TJCsEAuxiZ5dFLU-&amp;offerId=f85c8d7bc1d50f29659aea2e9fa3a8e1&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=46</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>15490</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>15490</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Ford</Brand>
+				<BrandId>1232</BrandId>
+				<Color>Blau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>10</Mileage>
+				<PostCode>99310</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Benzin</Energy>
+				<Transmission>Automatik</Transmission>
+				<VehicleConsumptionHighway>5.10</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>8.60</VehicleConsumptionCity>
+				<VehicleConsumptionMix>6.40</VehicleConsumptionMix>
+				<VehicleCo2Emission>149.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="6950937b7bb28a705a256b6c4af2a8e4" type="VEHICLE">
+				<Title>Jeep Grand Cherokee 3.0I Summit inkl.4 J. Garantie</Title>
+				<Description>Four wheel drive, central locking, bluetooth, on board computer, cd player, roof rails, parking sensors, electric windows, electric exterior mirrors, electric adjustable seats, immobilizer, esp, hands free phone system, isofix, bending lights, leather seats, alloy wheels, light sensor, metallic, mp3 interface</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNjgyWDEwMjQ%3D%2Fz%2F8ygAAOSw9N1Vlnyj%2F%24_1.JPG/wXNQBKVZrKv61sGg2TakssnNewBcae876_0ZEnWdb74-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNjgyWDEwMjQ%3D%2Fz%2F8ygAAOSw9N1Vlnyj%2F%24_1.JPG/wXNQBKVZrKv61sGg2TakssnNewBcae876_0ZEnWdb74-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580365&amp;.sig=.0SAHN4GW20OhQcwimAI5l7qG5Q-&amp;offerId=6950937b7bb28a705a256b6c4af2a8e4&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=47</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>61890</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>61890</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Jeep</Brand>
+				<BrandId>1656</BrandId>
+				<Color>Grau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>0</Mileage>
+				<PostCode>76185</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Diesel</Energy>
+				<Transmission>Automatik</Transmission>
+				<VehicleConsumptionHighway>6.5</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>9.3</VehicleConsumptionCity>
+				<VehicleConsumptionMix>7.5</VehicleConsumptionMix>
+				<VehicleCo2Emission>198</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="5961737e2d8f6c7c1527dc7629047b7f" type="VEHICLE">
+				<Title>Audi Q7 SUV 3.0 TDI quattro 3x</Title>
+				<Description>Four wheel drive, central locking, bluetooth, on board computer, cd player, roof rails, parking sensors, electric windows, electric exterior mirrors, electric adjustable seats, immobilizer, esp, hands free phone system, isofix, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel,</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDI2WDY0MA%3D%3D%2Fz%2F4HsAAOSw9N1VqYd7%2F%24_1.JPG/tidz3WBaDA6LZr1Qw1X2hjydE5dduKGZRlwqA4vf1_w-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNDI2WDY0MA%3D%3D%2Fz%2F4HsAAOSw9N1VqYd7%2F%24_1.JPG/tidz3WBaDA6LZr1Qw1X2hjydE5dduKGZRlwqA4vf1_w-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580365&amp;.sig=Wo0oOGfn54gqbsovkdq3sHmS5NE-&amp;offerId=5961737e2d8f6c7c1527dc7629047b7f&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=48</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>95399</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>95399</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Audi</Brand>
+				<BrandId>298</BrandId>
+				<Color>Schwarz</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro6</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>0</Mileage>
+				<PostCode>32257</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Diesel</Energy>
+				<Transmission>Automatik</Transmission>
+				<VehicleConsumptionHighway>5.60</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>6.40</VehicleConsumptionCity>
+				<VehicleConsumptionMix>5.90</VehicleConsumptionMix>
+				<VehicleCo2Emission>153.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="3130a42c2af5438a20ebfc434afc8012" type="VEHICLE">
+				<Title>Peugeot 2008 e-HDi 92 Allure*SHZ*AKlima*Navi*PDach</Title>
+				<Description>Central locking, bluetooth, on board computer, roof rails, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, bending lights, alloy wheels, light sensor, metallic, mp3 interface, multifunctional wheel, front fog lights, nonsmoker vehicle, automatic</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNTMzWDgwMA%3D%3D%2Fz%2FdYcAAOSwQItUF%7Eh6%2F%24_19.JPG/DnxeaaxRAM9Cuxi5Ok0nhjEF6zilNNczZtCpZNlIl78-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FNTMzWDgwMA%3D%3D%2Fz%2FdYcAAOSwQItUF%7Eh6%2F%24_19.JPG/DnxeaaxRAM9Cuxi5Ok0nhjEF6zilNNczZtCpZNlIl78-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580365&amp;.sig=JZhABniVF9Hn7M1k4BCFvsrkuX0-&amp;offerId=3130a42c2af5438a20ebfc434afc8012&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=49</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>18749</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>18749</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Peugeot</Brand>
+				<BrandId>2422</BrandId>
+				<Color>Grau</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>2</Mileage>
+				<PostCode>03044</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Diesel</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>3.60</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>4.70</VehicleConsumptionCity>
+				<VehicleConsumptionMix>4.00</VehicleConsumptionMix>
+				<VehicleCo2Emission>103.00</VehicleCo2Emission>
+			</Offer>
+		</Product>
+		<Product>
+			<Offer id="d09a01e62942a3b61f97760a6ecb5cce" type="VEHICLE">
+				<Title>Volkswagen VW T5 Bus California 2.0 TDi BMT Edition 25</Title>
+				<Description>Central locking, on board computer, cd player, parking sensors, electric windows, electric exterior mirrors, immobilizer, esp, hands free phone system, isofix, bending lights, alloy wheels, mp3 interface, multifunctional wheel, nonsmoker vehicle, particulate filter diesel, full service history, power assisted</Description>
+				<LastModified>2015-08-24 08:00:08</LastModified>
+				<Images>
+					<Image available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/90/90/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FMTA2N1gxNjAw%2Fz%2FgZgAAOSwu4BVzdzX%2F%24_1.JPG/A5uL4HYNvcT99FyIuos2_YUpLyx2D0lTewX54P_I4zs-</Url>
+						<Height>90</Height>
+						<Width>90</Width>
+					</Image>
+					<ZoomImage available="true">
+						<Url>http://r.kelkoo.com/r/at/14147213/100354123/auto/auto/http%3A%2F%2Fi.ebayimg.com%2F00%2Fs%2FMTA2N1gxNjAw%2Fz%2FgZgAAOSwu4BVzdzX%2F%24_1.JPG/A5uL4HYNvcT99FyIuos2_YUpLyx2D0lTewX54P_I4zs-</Url>
+					</ZoomImage>
+				</Images>
+				<Video/>
+				<Url>http://ecs-at.kelkoo.at/ctl/go/sitesearchGo?.ts=1440417580365&amp;.sig=oDFUzNtWbEAvcm9FPNcMTWAiK1k-&amp;offerId=d09a01e62942a3b61f97760a6ecb5cce&amp;searchId=1076982503206_1440417580331_16044&amp;affiliationId=96947730&amp;country=at&amp;wait=true&amp;ecs=ok&amp;contextLevel=1&amp;merchantid=14147213&amp;comId=14147213&amp;catId=100354123&amp;searchQuery=cGhvbmU=&amp;useSearch6=true&amp;service=5&amp;contextOfferPosition=50</Url>
+				<MobileFriendly>false</MobileFriendly>
+				<Merchant id="14147213">
+					<Name>mobile.de</Name>
+					<Logo>
+						<Url>http://r6.kelkoo.com/data/merchantlogos/14147213/logo.png</Url>
+						<Width>80</Width>
+						<Height>24</Height>
+					</Logo>
+				</Merchant>
+				<Category id="100354123">
+					<Name>Neuwagen &amp; Gebrauchtwagen</Name>
+				</Category>
+				<Price currency="EUR">
+					<Price>49780</Price>
+					<DeliveryCost>P&amp;P: N.C.</DeliveryCost>
+					<DeliveryCostDetails>
+						<DeliveryCost>-1</DeliveryCost>
+					</DeliveryCostDetails>
+					<TotalPrice>49780</TotalPrice>
+				</Price>
+				<ProductClass>0</ProductClass>
+				<Brand>Volkswagen</Brand>
+				<BrandId>3499</BrandId>
+				<Color>Weiß</Color>
+				<GreenProduct>false</GreenProduct>
+				<EfficiencyClass>Euro5</EfficiencyClass>
+				<TypeSource>Händler</TypeSource>
+				<Mileage>14</Mileage>
+				<PostCode>56379</PostCode>
+				<Region></Region>
+				<Department></Department>
+				<Energy>Diesel</Energy>
+				<Transmission>Handschaltung</Transmission>
+				<VehicleConsumptionHighway>6.1</VehicleConsumptionHighway>
+				<VehicleConsumptionCity>9.1</VehicleConsumptionCity>
+				<VehicleConsumptionMix>7.2</VehicleConsumptionMix>
+				<VehicleCo2Emission>189</VehicleCo2Emission>
+			</Offer>
+		</Product>
+	</Products>
+	<Warnings>
+		<Warning>The "merchantId" parameter is not given. The default value "-1" is used.</Warning>
+	</Warnings>
+	<SearchInfo>
+		<LogicalType>and</LogicalType>
+		<IsPostCodeSearchOnDepartment>false</IsPostCodeSearchOnDepartment>
+	</SearchInfo>
+</ProductSearch>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProductResponse
+	xmlns="http://www.shopzilla.com/services/catalog">
+	<Classification>
+		<relevancyScore>566xxx</relevancyScore>
+		<searchUrl>
+			http://www.shopzilla.de/7Y_-_cat_id--15735__keyword--samsung__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+		</searchUrl>
+	</Classification>
+	<Offers includedResults="10" totalResults="250">
+		<PriceSet>
+			<minPrice integral="995">9,95 €</minPrice>
+			<maxPrice integral="86600">866,00 €</maxPrice>
+		</PriceSet>
+		<Offer merchantId="204378" categoryId="16391" id="6017028831">
+			<title>Samsung T609 / CLT-T 609 S/SEE Transfereinheit no color original</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung T609 / CLTT609SSEE Transfereinheit original - Farbe: no color - Kapazität: 50000 Seiten
+				- Garantie: 3 Jahre - Passend für: Samsung CLP-770 ND
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fclick.cptrack.de%2F%3Frd%3Dtrue%26k%3D1IBBYRV_hbjCJQVR9FwQt1ZeH1Y59QyCmLH6AZI6kwI&amp;mid=204378&amp;catId=16391&amp;atom=11498&amp;prodId=&amp;oid=6017028831&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=bf1f1570caa1db54&amp;cobrand=2&amp;ppr=0944f4f051788cb8&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4.connexity-cdn.com/resize?sq=60&amp;uid=6017028831&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4.connexity-cdn.com/resize?sq=100&amp;uid=6017028831&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4.connexity-cdn.com/resize?sq=160&amp;uid=6017028831&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4.connexity-cdn.com/resize?sq=400&amp;uid=6017028831&amp;mid=204378&amp;af_sid=22</Image>
+			</Images>
+			<sku>T609CLTT609SSEE</sku>
+			<upc>0635753724240</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--16391__oid--6017028831?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="12478">124,78 €</price>
+			<originalPrice integral="12478">124,78 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>fbd2329eaf48b35d7e539b96eef2b68d</merchantProductId>
+			<merchantName>Toner-Partner24</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">0,00 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1181.854126</relevancy>
+		</Offer>
+		<Offer merchantId="114977" categoryId="100002080" id="6192122398">
+			<title>Tablet-PC »Galaxy Tab 4 10.1 WiFi« von Samsung, weiß</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Tablet-PC »Galaxy Tab 4 10.1 WiFi«, integrierte Peripheriegeräte: Kamera, Bluetooth vorhanden:
+				Ja, Betriebssystem: Android 4.4, Breite: 243 mm, Benutzerschnittstelle: USB 2.0, microUSB, microSD,
+				Kopfhöreranschluss (3,5 mm), Speicher: 16 GB, Tiefe: 7.95...
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fwww.etracker.de%2Frdirect.php%3Fet%3DVsbsa3%26et_cid%3D1%26et_lid%3D16%26et_sub%3Dpsm_Shopzilla_2401%26et_url%3Dhttp%3A%2F%2Fwww.otto-office.com%2Fde%2Flpage.obtshop%3Fpid%3DSza10-01-mZkQAAAA-205205-2401&amp;mid=114977&amp;catId=100002080&amp;atom=11501&amp;prodId=&amp;oid=6192122398&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=ce55c495f0f85261&amp;cobrand=2&amp;ppr=3231f6864fb61867&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d3.connexity-cdn.com/resize?sq=60&amp;uid=6192122398&amp;mid=114977&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d3.connexity-cdn.com/resize?sq=100&amp;uid=6192122398&amp;mid=114977&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d3.connexity-cdn.com/resize?sq=160&amp;uid=6192122398&amp;mid=114977&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d3.connexity-cdn.com/resize?sq=400&amp;uid=6192122398&amp;mid=114977&amp;af_sid=22</Image>
+			</Images>
+			<sku>2401</sku>
+			<upc>8806086106061</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--100002080__oid--6192122398?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="23799">237,99 €</price>
+			<originalPrice integral="23799">237,99 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>2401</merchantProductId>
+			<merchantName>OTTO Office</merchantName>
+			<MerchantRating value="9.40">
+				<Image xsize="34" ysize="34">http://img11.shopzilla-images.de/site/smiley_outstanding_34x34.gif</Image>
+			</MerchantRating>
+			<MerchantCertification certified="true" level="CUSTOMER_CERTIFIED">
+				<Image xsize="18" ysize="30">http://img11.shopzilla-images.de/site/cc_ribbon_30x18_on.gif</Image>
+			</MerchantCertification>
+			<merchantLogoUrl>http://img11.shopzilla-images.de/merchant/little/114977.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="182">1,82 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1075.793579</relevancy>
+		</Offer>
+		<Offer merchantId="204378" categoryId="16391" id="6043787695">
+			<title>Samsung MLT-D 303 E/ELS Toner schwarz original</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung MLTD303EELS Toner original - Farbe: schwarz - Kapazität: 40000 Seiten - Garantie: 3
+				Jahre - Passend für: Samsung ProXpress M 4580 FX
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fclick.cptrack.de%2F%3Frd%3Dtrue%26k%3DrPP9AjEXNYakUmKUiCUV-mSnyhY-qu-oL-vO_c3kQso&amp;mid=204378&amp;catId=16391&amp;atom=11498&amp;prodId=&amp;oid=6043787695&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=bf1f1570caa1db54&amp;cobrand=2&amp;ppr=b74434ffd847366e&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4.connexity-cdn.com/resize?sq=60&amp;uid=6043787695&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4.connexity-cdn.com/resize?sq=100&amp;uid=6043787695&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4.connexity-cdn.com/resize?sq=160&amp;uid=6043787695&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4.connexity-cdn.com/resize?sq=400&amp;uid=6043787695&amp;mid=204378&amp;af_sid=22</Image>
+			</Images>
+			<sku>MLTD303EELS</sku>
+			<upc>8806086075718</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--16391__oid--6043787695?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="20103">201,03 €</price>
+			<originalPrice integral="20103">201,03 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>5a071104b8334249a65410949f2f2ed0</merchantProductId>
+			<merchantName>Toner-Partner24</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">0,00 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>1027.058716</relevancy>
+		</Offer>
+		<Offer merchantId="295474" categoryId="100002080" id="6254967801">
+			<title>Samsung ATIV Book 9 Lite 910S3G schwarz, Core i3-4020Y</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>CPU: Intel Core i3-4020Y, 2x 1.50GHz * RAM: 4GB * Festplatte: 128GB SSD * optisches Laufwerk:
+				N/A * Grafik: Intel HD Graphics 4200 (IGP), Micro HDMI * Display: 13.3&quot;, 1366x768, non-glare *
+				Anschl�sse: 1x USB 3.0, 1x USB 2.0, Gb LAN
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fwww.warenhausxxl.com%2Fproduct.php%3Fid_product%3D568&amp;mid=295474&amp;catId=100002080&amp;atom=11501&amp;prodId=&amp;oid=6254967801&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=fa76788ddc15af09&amp;cobrand=2&amp;ppr=06a0a4c860217dd0&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2.connexity-cdn.com/resize?sq=60&amp;uid=6254967801&amp;mid=295474&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2.connexity-cdn.com/resize?sq=100&amp;uid=6254967801&amp;mid=295474&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2.connexity-cdn.com/resize?sq=160&amp;uid=6254967801&amp;mid=295474&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2.connexity-cdn.com/resize?sq=400&amp;uid=6254967801&amp;mid=295474&amp;af_sid=22</Image>
+			</Images>
+			<sku>1450</sku>
+			<upc>8806085967649</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--100002080__oid--6254967801?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="55100">551,00 €</price>
+			<originalPrice integral="55100">551,00 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>1450</merchantProductId>
+			<merchantName>warenhausxxl</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img12.shopzilla-images.de/merchant/little/295474.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="1295">12,95 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>591.964722</relevancy>
+		</Offer>
+		<Offer merchantId="295474" categoryId="100002080" id="6254976975">
+			<title>Samsung Galaxy TabPRO 8.4 T325N LTE 16GB wei�</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>CPU: Qualcomm Snapdragon 800 (8974), 4x 2.30GHz, (Krait 400) * RAM: 2GB * Festplatte: 16GB
+				Flash * Grafik: Adreno 330 (IGP) * Display: 8.4&quot;, 2560x1600, Multi-Touch, glare
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fwww.warenhausxxl.com%2Fproduct.php%3Fid_product%3D978&amp;mid=295474&amp;catId=100002080&amp;atom=11501&amp;prodId=&amp;oid=6254976975&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=fa76788ddc15af09&amp;cobrand=2&amp;ppr=f9b170ebe0306381&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4.connexity-cdn.com/resize?sq=60&amp;uid=6254976975&amp;mid=295474&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4.connexity-cdn.com/resize?sq=100&amp;uid=6254976975&amp;mid=295474&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4.connexity-cdn.com/resize?sq=160&amp;uid=6254976975&amp;mid=295474&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4.connexity-cdn.com/resize?sq=400&amp;uid=6254976975&amp;mid=295474&amp;af_sid=22</Image>
+			</Images>
+			<sku>1149</sku>
+			<upc>8806086086998</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--100002080__oid--6254976975?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="29800">298,00 €</price>
+			<originalPrice integral="29800">298,00 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>1149</merchantProductId>
+			<merchantName>warenhausxxl</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img12.shopzilla-images.de/merchant/little/295474.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="1295">12,95 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>591.964722</relevancy>
+		</Offer>
+		<Offer merchantId="215277" categoryId="15735" id="5936244236">
+			<title>Tumi Mobile Accessory Hülle für Samsung Galaxy Note II LTE Leder black</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Tumi Mobile Accessory Hülle Samsung Galaxy Note II LTE aus Leder</description>
+			<manufacturer>Tumi</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fclick.cptrack.de%2F%3Frd%3Dtrue%26k%3DmspSElAOBJx_H9aE7Ljtl27R4iK5yow_4Sa47LGPLfk&amp;mid=215277&amp;catId=15735&amp;atom=11844&amp;prodId=&amp;oid=5936244236&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=f6a916d748cdf64b&amp;cobrand=2&amp;ppr=a8e4f3472b88ccfc&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d1.connexity-cdn.com/resize?sq=60&amp;uid=5936244236&amp;mid=215277&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d1.connexity-cdn.com/resize?sq=100&amp;uid=5936244236&amp;mid=215277&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d1.connexity-cdn.com/resize?sq=160&amp;uid=5936244236&amp;mid=215277&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d1.connexity-cdn.com/resize?sq=400&amp;uid=5936244236&amp;mid=215277&amp;af_sid=22</Image>
+			</Images>
+			<sku>14271DL</sku>
+			<upc>0742315988245</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--15735__oid--5936244236?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="8000">80,00 €</price>
+			<originalPrice integral="8000">80,00 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>14271-DL</merchantProductId>
+			<merchantName>koffer-arena.de</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img11.shopzilla-images.de/merchant/little/215277.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>UNKNOWN</stock>
+			<shipAmount integral="0">0,00 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>278.420868</relevancy>
+		</Offer>
+		<Offer merchantId="215277" categoryId="15735" id="6039653006">
+			<title>&quot;bugatti SlimCase leather &quot;&quot;Croco&quot;&quot; for Sony, Samsung, iPhone, BlackBerry®,
+				LG, HTC Handytasche Leder 7,3 cm grün&quot;</title>
+			<Brand id="467345">
+				<name>Bugatti</name>
+			</Brand>
+			<description>&quot;bugatti SlimCase leather &quot;&quot;Croco&quot;&quot; Größe M geeignet für: Sony
+				Ericsson Aino, C905, Cedar, K850i, M600i, Satio, Vivaz, W960i, Xperia Neo, Xperia Neo V, Xperia ray,
+				XPERIA X1, XPERIA X2, XPERIA X8 Samsung GT-B2100 Xplorer, GT-i8000 Omnia2, GT-i8320,...
+			</description>
+			<manufacturer>Bugatti</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fclick.cptrack.de%2F%3Frd%3Dtrue%26k%3DrLPVIemxuuPoqf36kbFUfGA1hStnbkY5yh-NmPzj_jY&amp;mid=215277&amp;catId=15735&amp;atom=11844&amp;prodId=&amp;oid=6039653006&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=f6a916d748cdf64b&amp;cobrand=2&amp;ppr=0a51af6d718349de&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d3.connexity-cdn.com/resize?sq=60&amp;uid=6039653006&amp;mid=215277&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d3.connexity-cdn.com/resize?sq=100&amp;uid=6039653006&amp;mid=215277&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d3.connexity-cdn.com/resize?sq=160&amp;uid=6039653006&amp;mid=215277&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d3.connexity-cdn.com/resize?sq=400&amp;uid=6039653006&amp;mid=215277&amp;af_sid=22</Image>
+			</Images>
+			<sku>07813</sku>
+			<upc>4042632078138</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--15735__oid--6039653006?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="3200">32,00 €</price>
+			<originalPrice integral="3995">39,95 €</originalPrice>
+			<markdownPercent>19.90</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>07813</merchantProductId>
+			<merchantName>koffer-arena.de</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<merchantLogoUrl>http://img11.shopzilla-images.de/merchant/little/215277.gif</merchantLogoUrl>
+			<condition>NEW</condition>
+			<stock>UNKNOWN</stock>
+			<shipAmount integral="0">0,00 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>274.341736</relevancy>
+		</Offer>
+		<Offer merchantId="204378" categoryId="16391" id="6110955726">
+			<title>Samsung CLT-W 808/SEE Druckerzubehör no color original</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung CLTW808SEE Druckerzubehör original - Farbe: no color - Kapazität: 33500 Seiten -
+				Garantie: 3 Jahre - Passend für: Samsung MultiXpress X 4250 LX
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fclick.cptrack.de%2F%3Frd%3Dtrue%26k%3D6Xxqpri0lYnvd4mKWAWk4LTcBbx352-ZE8v6RTvhams&amp;mid=204378&amp;catId=16391&amp;atom=11498&amp;prodId=&amp;oid=6110955726&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=bf1f1570caa1db54&amp;cobrand=2&amp;ppr=a7e04ef748d1dc34&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d3.connexity-cdn.com/resize?sq=60&amp;uid=6110955726&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d3.connexity-cdn.com/resize?sq=100&amp;uid=6110955726&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d3.connexity-cdn.com/resize?sq=160&amp;uid=6110955726&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d3.connexity-cdn.com/resize?sq=400&amp;uid=6110955726&amp;mid=204378&amp;af_sid=22</Image>
+			</Images>
+			<sku>CLTW808SEE</sku>
+			<upc>8806086292917</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--16391__oid--6110955726?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="2028">20,28 €</price>
+			<originalPrice integral="2028">20,28 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>7fdc4e042aa642a4645e3294d88b99c5</merchantProductId>
+			<merchantName>Toner-Partner24</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="290">2,90 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>903.552368</relevancy>
+		</Offer>
+		<Offer merchantId="204378" categoryId="16391" id="6043787703">
+			<title>Samsung MLT-D 304 S/ELS Toner schwarz original</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung MLTD304SELS Toner original - Farbe: schwarz - Kapazität: 7000 Seiten - Garantie: 3
+				Jahre - Passend für: Samsung ProXpress M 4583 FX
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fclick.cptrack.de%2F%3Frd%3Dtrue%26k%3Dhu8o30Q4UNdJZnLdARwlc3IvH_idow-IsiFJ322kS7w&amp;mid=204378&amp;catId=16391&amp;atom=11498&amp;prodId=&amp;oid=6043787703&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=bf1f1570caa1db54&amp;cobrand=2&amp;ppr=8198ced4e46a01d9&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d4.connexity-cdn.com/resize?sq=60&amp;uid=6043787703&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d4.connexity-cdn.com/resize?sq=100&amp;uid=6043787703&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d4.connexity-cdn.com/resize?sq=160&amp;uid=6043787703&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d4.connexity-cdn.com/resize?sq=400&amp;uid=6043787703&amp;mid=204378&amp;af_sid=22</Image>
+			</Images>
+			<sku>MLTD304SELS</sku>
+			<upc>8806086066976</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--16391__oid--6043787703?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="15046">150,46 €</price>
+			<originalPrice integral="15046">150,46 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>872567335d2e19b3cf2b90b466dee350</merchantProductId>
+			<merchantName>Toner-Partner24</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">0,00 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>705.804138</relevancy>
+		</Offer>
+		<Offer merchantId="204378" categoryId="16391" id="6043796061">
+			<title>Samsung MLT-D 304 L/ELS Toner schwarz original</title>
+			<Brand id="43064">
+				<name>Samsung</name>
+			</Brand>
+			<description>Samsung MLTD304LELS Toner original - Farbe: schwarz - Kapazität: 20000 Seiten - Garantie: 3
+				Jahre - Passend für: Samsung ProXpress M 4583 FX
+			</description>
+			<manufacturer>Samsung</manufacturer>
+			<url>
+				http://rd.shopzilla.de/rd2?t=http%3A%2F%2Fclick.cptrack.de%2F%3Frd%3Dtrue%26k%3DDGFpB8Oe9NtRl-ierQDj4WWVwUtrXMXp00z7bE6z_q8&amp;mid=204378&amp;catId=16391&amp;atom=11498&amp;prodId=&amp;oid=6043796061&amp;pos=1&amp;bId=18&amp;bidType=0&amp;bAmt=bf1f1570caa1db54&amp;cobrand=2&amp;ppr=d1bc9fc753ae810c&amp;af_sid=22&amp;rf=af1&amp;af_assettype_id=10&amp;af_creative_id=2912&amp;af_id=605267&amp;af_placement_id=1
+			</url>
+			<Images>
+				<Image xsize="60" ysize="60">http://d2.connexity-cdn.com/resize?sq=60&amp;uid=6043796061&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="100" ysize="100">http://d2.connexity-cdn.com/resize?sq=100&amp;uid=6043796061&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="160" ysize="160">http://d2.connexity-cdn.com/resize?sq=160&amp;uid=6043796061&amp;mid=204378&amp;af_sid=22</Image>
+				<Image xsize="400" ysize="400">http://d2.connexity-cdn.com/resize?sq=400&amp;uid=6043796061&amp;mid=204378&amp;af_sid=22</Image>
+			</Images>
+			<sku>MLTD304LELS</sku>
+			<upc>8806086066969</upc>
+			<detailUrl>
+				http://www.shopzilla.de/8N_-_cat_id--16391__oid--6043796061?af_sid=22__rf--af1__af_assettype_id--10__af_creative_id--6__af_id--605267__af_placement_id--1
+			</detailUrl>
+			<price integral="27381">273,81 €</price>
+			<originalPrice integral="27381">273,81 €</originalPrice>
+			<markdownPercent>0.00</markdownPercent>
+			<bidded>true</bidded>
+			<merchantProductId>e348e3febdfd38c5489930418de5ce2e</merchantProductId>
+			<merchantName>Toner-Partner24</merchantName>
+			<MerchantCertification certified="false" level="NO_SURVERYS"/>
+			<condition>NEW</condition>
+			<stock>IN</stock>
+			<shipAmount integral="0">0,00 €</shipAmount>
+			<shipType>CUSTOM</shipType>
+			<shipWeight>1000001.000</shipWeight>
+			<relevancy>705.804138</relevancy>
+		</Offer>
+	</Offers>
+</ProductResponse>
