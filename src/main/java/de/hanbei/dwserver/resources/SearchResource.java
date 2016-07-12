@@ -43,7 +43,7 @@ public class SearchResource {
                                       @QueryParam("country") @DefaultValue("de") String country) {
         try {
             String format = Resources.toString(getResource(searcher + "/format"), Charsets.UTF_8);
-            URL resource = getResource(searcher + "/response_" + country);
+            URL resource = getResource(searcher + "/" + searcher + "_" + country);
             String s = Resources.toString(resource, Charsets.UTF_8);
             Uninterruptibles.sleepUninterruptibly(random.nextInt(2000), TimeUnit.MILLISECONDS);
             return Response.ok(s).type(format).build();
