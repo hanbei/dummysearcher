@@ -3,6 +3,10 @@ package de.hanbei.dwserver.resources;
 import com.google.common.base.Charsets;
 import com.google.common.io.Resources;
 import com.google.common.util.concurrent.Uninterruptibles;
+import de.hanbei.dwserver.auth.User;
+import io.dropwizard.auth.Auth;
+import org.apache.commons.lang3.tuple.ImmutablePair;
+import org.apache.commons.lang3.tuple.Pair;
 
 import javax.ws.rs.DefaultValue;
 import javax.ws.rs.GET;
@@ -32,25 +36,33 @@ public class SearchResource {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     public Response respond(@QueryParam("q") String query, @QueryParam("size") int size) {
-        return respondAsSearcher("fred", query, size, "de");
+        return getSearcherResponse("fred", "br");
     }
 
     @Path("/{searcher}")
     @GET
-    public Response respondAsSearcher(@PathParam("searcher") String searcher,
+    public Response respondAsSearcher(@Auth User user,
+                                      @PathParam("searcher") String searcher,
                                       @QueryParam("q") String query,
                                       @QueryParam("size") int size,
                                       @QueryParam("country") @DefaultValue("de") String country) {
+        if (user == null) {
+            return Response.status(Response.Status.FORBIDDEN).build();
+        }
+        return getSearcherResponse(searcher, country);
+
+    }
+
+    private Response getSearcherResponse(String searcher, String country) {
         try {
+            Uninterruptibles.sleepUninterruptibly(random.nextInt(2000), TimeUnit.MILLISECONDS);
             String format = Resources.toString(getResource(searcher + "/format"), Charsets.UTF_8);
             URL resource = getResource(searcher + "/" + searcher + "_" + country);
             String s = Resources.toString(resource, Charsets.UTF_8);
-            Uninterruptibles.sleepUninterruptibly(random.nextInt(2000), TimeUnit.MILLISECONDS);
             return Response.ok(s).type(format).build();
         } catch (IOException | IllegalArgumentException e) {
             return Response.status(Response.Status.NO_CONTENT).build();
         }
-
     }
 
 }

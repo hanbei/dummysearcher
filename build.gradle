@@ -14,6 +14,7 @@ repositories {
 
 dependencies {
     compile "io.dropwizard:dropwizard-core:0.9.2"
+    compile "io.dropwizard:dropwizard-auth:0.9.2"
 
     compile "com.google.guava:guava:19.0"
     compile "org.slf4j:slf4j-api:1.7.21"
