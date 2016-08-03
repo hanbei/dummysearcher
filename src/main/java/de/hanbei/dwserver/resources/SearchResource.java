@@ -5,8 +5,6 @@ import com.google.common.io.Resources;
 import com.google.common.util.concurrent.Uninterruptibles;
 import de.hanbei.dwserver.auth.User;
 import io.dropwizard.auth.Auth;
-import org.apache.commons.lang3.tuple.ImmutablePair;
-import org.apache.commons.lang3.tuple.Pair;
 
 import javax.ws.rs.DefaultValue;
 import javax.ws.rs.GET;
@@ -21,7 +19,6 @@ import java.net.URL;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-import static com.google.common.base.Preconditions.checkState;
 import static com.google.common.io.Resources.getResource;
 
 @Path("/search")
@@ -63,6 +60,15 @@ public class SearchResource {
         } catch (IOException | IllegalArgumentException e) {
             return Response.status(Response.Status.NO_CONTENT).build();
         }
+    }
+
+    @Path("/zoom")
+    @GET
+    public Response respondAsSearcher(@Auth User user, @QueryParam("q") String query, @QueryParam("size") int size) {
+        if (user == null) {
+            return Response.status(Response.Status.FORBIDDEN).build();
+        }
+        return getSearcherResponse("zoom", "br");
     }
 
 }
