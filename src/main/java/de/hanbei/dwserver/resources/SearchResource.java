@@ -1,6 +1,9 @@
 package de.hanbei.dwserver.resources;
 
 import com.google.common.base.Charsets;
+import com.google.common.cache.CacheBuilder;
+import com.google.common.cache.CacheLoader;
+import com.google.common.cache.LoadingCache;
 import com.google.common.io.Resources;
 import com.google.common.util.concurrent.Uninterruptibles;
 import de.hanbei.dwserver.State;
@@ -18,6 +21,7 @@ import javax.ws.rs.core.Response;
 import java.io.IOException;
 import java.net.URL;
 import java.util.Random;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 import static com.google.common.io.Resources.getResource;
@@ -25,7 +29,16 @@ import static com.google.common.io.Resources.getResource;
 @Path("/search")
 public class SearchResource {
 
-    private Random random;
+    private final Random random;
+
+    private final LoadingCache<Tuple, Tuple> cache = CacheBuilder.newBuilder().maximumSize(1000).build(new CacheLoader<Tuple, Tuple>() {
+        @Override
+        public Tuple load(Tuple key) throws Exception {
+            String format = getFormat(key.searcher());
+            String content = getContent(key.searcher(), key.country());
+            return new Tuple(format, content);
+        }
+    });
 
     public SearchResource() {
         this.random = new Random();
@@ -62,8 +75,9 @@ public class SearchResource {
 
         try {
             waitRandomTime();
-            return Response.ok(getContent(searcher, country)).type(getFormat(searcher)).build();
-        } catch (IOException | IllegalArgumentException e) {
+            Tuple tuple = cache.get(new Tuple(searcher, country));
+            return Response.ok(tuple.country()).type(tuple.format()).build();
+        } catch (ExecutionException | IllegalArgumentException e) {
             return Response.status(Response.Status.NO_CONTENT).build();
         }
     }
@@ -92,4 +106,29 @@ public class SearchResource {
         return Resources.toString(getResource(searcher + "/format"), Charsets.UTF_8);
     }
 
+    private class Tuple {
+        private final String first;
+        private final String second;
+
+        public Tuple(String first, String second) {
+            this.first = first;
+            this.second = second;
+        }
+
+        public String searcher() {
+            return first;
+        }
+
+        public String country() {
+            return second;
+        }
+
+        public String format() {
+            return first;
+        }
+
+        public String content() {
+            return second;
+        }
+    }
 }
