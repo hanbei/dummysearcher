@@ -61,10 +61,16 @@ public class SearchResource {
         }
 
         try {
-            Uninterruptibles.sleepUninterruptibly(random.nextInt(2000), TimeUnit.MILLISECONDS);
+            waitRandomTime();
             return Response.ok(getContent(searcher, country)).type(getFormat(searcher)).build();
         } catch (IOException | IllegalArgumentException e) {
             return Response.status(Response.Status.NO_CONTENT).build();
+        }
+    }
+
+    private void waitRandomTime() {
+        if (State.maxWait() > 0) {
+            Uninterruptibles.sleepUninterruptibly(random.nextInt(State.maxWait()), TimeUnit.MILLISECONDS);
         }
     }
 
