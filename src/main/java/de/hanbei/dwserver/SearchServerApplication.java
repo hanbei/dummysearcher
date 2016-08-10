@@ -3,10 +3,13 @@ package de.hanbei.dwserver;
 import de.hanbei.dwserver.auth.BasicAuthAutenticator;
 import de.hanbei.dwserver.auth.User;
 import de.hanbei.dwserver.resources.SearchResource;
+import de.hanbei.dwserver.resources.StateResource;
 import io.dropwizard.Application;
 import io.dropwizard.auth.AuthDynamicFeature;
 import io.dropwizard.auth.AuthValueFactoryProvider;
 import io.dropwizard.auth.basic.BasicCredentialAuthFilter;
+import io.dropwizard.configuration.EnvironmentVariableSubstitutor;
+import io.dropwizard.configuration.SubstitutingSourceProvider;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 import org.glassfish.jersey.server.filter.RolesAllowedDynamicFeature;
@@ -21,19 +24,22 @@ public class SearchServerApplication extends Application<SearchServerConfigurati
                 new BasicCredentialAuthFilter.Builder<User>()
                         .setAuthenticator(authenticator)
                         .setAuthorizer(authenticator)
-                        //.setRealm("SUPER SECRET STUFF")
                         .buildAuthFilter()));
         environment.jersey().register(RolesAllowedDynamicFeature.class);
 
-        //If you want to use @Auth to inject a custom Principal type into your resource
         environment.jersey().register(new AuthValueFactoryProvider.Binder<>(User.class));
 
         environment.jersey().register(SearchResource.class);
+        environment.jersey().register(StateResource.class);
     }
 
     @Override
     public void initialize(Bootstrap<SearchServerConfiguration> bootstrap) {
-        // nothing to do yet
+        bootstrap.setConfigurationSourceProvider(
+                new SubstitutingSourceProvider(bootstrap.getConfigurationSourceProvider(),
+                        new EnvironmentVariableSubstitutor(false)
+                )
+        );
     }
 
     @Override

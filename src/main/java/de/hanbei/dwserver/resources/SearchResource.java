@@ -3,6 +3,7 @@ package de.hanbei.dwserver.resources;
 import com.google.common.base.Charsets;
 import com.google.common.io.Resources;
 import com.google.common.util.concurrent.Uninterruptibles;
+import de.hanbei.dwserver.State;
 import de.hanbei.dwserver.auth.User;
 import io.dropwizard.auth.Auth;
 
@@ -41,22 +42,27 @@ public class SearchResource {
     public Response respondAsSearcher(@Auth User user,
                                       @PathParam("searcher") String searcher,
                                       @QueryParam("q") String query,
-                                      @QueryParam("size") int size,
                                       @QueryParam("country") @DefaultValue("de") String country) {
-        if (user == null) {
+        if (unauthorized(user)) {
             return Response.status(Response.Status.FORBIDDEN).build();
         }
         return getSearcherResponse(searcher, country);
 
     }
 
+    private boolean unauthorized(@Auth User user) {
+        return user == null;
+    }
+
     private Response getSearcherResponse(String searcher, String country) {
+        if (State.erraticMode()) {
+            Response.Status[] status = Response.Status.values();
+            return Response.status(status[random.nextInt(status.length)]).build();
+        }
+
         try {
             Uninterruptibles.sleepUninterruptibly(random.nextInt(2000), TimeUnit.MILLISECONDS);
-            String format = Resources.toString(getResource(searcher + "/format"), Charsets.UTF_8);
-            URL resource = getResource(searcher + "/" + searcher + "_" + country);
-            String s = Resources.toString(resource, Charsets.UTF_8);
-            return Response.ok(s).type(format).build();
+            return Response.ok(getContent(searcher, country)).type(getFormat(searcher)).build();
         } catch (IOException | IllegalArgumentException e) {
             return Response.status(Response.Status.NO_CONTENT).build();
         }
@@ -65,10 +71,19 @@ public class SearchResource {
     @Path("/zoom")
     @GET
     public Response respondAsSearcher(@Auth User user, @QueryParam("q") String query, @QueryParam("size") int size) {
-        if (user == null) {
+        if (unauthorized(user)) {
             return Response.status(Response.Status.FORBIDDEN).build();
         }
         return getSearcherResponse("zoom", "br");
+    }
+
+    private String getContent(String searcher, String country) throws IOException {
+        URL resource = getResource(searcher + "/" + searcher + "_" + country);
+        return Resources.toString(resource, Charsets.UTF_8);
+    }
+
+    private String getFormat(String searcher) throws IOException {
+        return Resources.toString(getResource(searcher + "/format"), Charsets.UTF_8);
     }
 
 }
