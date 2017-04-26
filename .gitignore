@@ -2,3 +2,4 @@ rx-search.iml
 .idea
 .gradle/
 build
+/classes

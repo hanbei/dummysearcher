@@ -12,6 +12,7 @@ import io.dropwizard.configuration.EnvironmentVariableSubstitutor;
 import io.dropwizard.configuration.SubstitutingSourceProvider;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
+import io.dropwizard.views.ViewBundle;
 import org.glassfish.jersey.server.filter.RolesAllowedDynamicFeature;
 
 public class SearchServerApplication extends Application<SearchServerConfiguration> {
@@ -40,6 +41,7 @@ public class SearchServerApplication extends Application<SearchServerConfigurati
                         new EnvironmentVariableSubstitutor(false)
                 )
         );
+        bootstrap.addBundle(new ViewBundle());
     }
 
     @Override

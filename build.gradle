@@ -15,6 +15,9 @@ repositories {
 dependencies {
     compile "io.dropwizard:dropwizard-core:1.1.0"
     compile "io.dropwizard:dropwizard-auth:1.1.0"
+    compile "io.dropwizard:dropwizard-views-mustache:1.1.0"
+    compile "io.dropwizard:dropwizard-testing:1.1.0"
+    compile 'com.github.azakordonets:fabricator_2.11:2.1.4'
 
     compile "com.google.guava:guava:21.0"
     compile "org.slf4j:slf4j-api:1.7.21"
