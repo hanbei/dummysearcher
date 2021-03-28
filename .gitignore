@@ -3,3 +3,4 @@ rx-search.iml
 .gradle/
 build
 /classes
+*.iml

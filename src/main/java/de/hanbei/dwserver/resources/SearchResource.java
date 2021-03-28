@@ -97,6 +97,43 @@ public class SearchResource {
         return getSearcherResponse("zoom", "br");
     }
 
+    @Path("/random")
+    @GET
+    public Response randomData(@Auth User user, @QueryParam("q") String query, @QueryParam("size") int size) {
+        if (State.erraticMode()) {
+            Response.Status[] status = Response.Status.values();
+            return Response.status(status[random.nextInt(status.length)]).build();
+        }
+
+        if (unauthorized(user)) {
+            return Response.status(Response.Status.FORBIDDEN).build();
+        }
+
+        waitRandomTime();
+
+        return Response.ok(randomData()).build();
+    }
+
+    private String randomData() {
+        return "{\n" +
+                "    \"offerSource\": \"kelkoo\",\n" +
+                "    \"merchant\": \"14619313\",\n" +
+                "    \"imageUrl\": \"http://r.kelkoo.com/r/br/14619313/125801/90/90/http%3A%2F%2Fwww.extra-imagens.com.br%2FControl%2FArquivoExibir.aspx%3FIdArquivo%3D159616688/WWBjsZTR3U7wsZoAP_rb_MAeozJ8KaEYspeMeIC1CqE-\",\n" +
+                "    \"url\": \"http://ecs.br.kelkoo.com.br/ctl/go/offersearchGo?.ts=1455626808010&.sig=J2YeaZ1mbdPo7P9nv1x8rn2fRoA-&catId=125801&localCatId=125801&comId=14619313&offerId=cbf055c2224bfc2d82effc0f6de9064c&searchId=null&affiliationId=96947160&country=br&wait=true&contextLevel=2&service=11\",\n" +
+                "    \"merchantImageUrl\": \"https://dihpdprqz3ylr.cloudfront.net/extra_com_br.jpg\",\n" +
+                "    \"currency\": \"BRL\",\n" +
+                "    \"id\": \"cbf055c2224bfc2d82effc0f6de9064c\",\n" +
+                "    \"category\": \"Acessórios para Celulares\",\n" +
+                "    \"title\": \"Apple iPhone 6 Apple com Tela 4 7” iOS 8 Touch ID Câmera iSight 8MP Wi Fi 3G 4G GPS MP3 Bluetooth e NFC Cinza Espacial\",\n" +
+                "    \"price\": 3199.0,\n" +
+                "    \"manufacturer\": \"Apple\",\n" +
+                "    \"merchantName\": \"EXTRA\",\n" +
+                "    \"estimatedCPC\": 0.0125,\n" +
+                "    \"deliveryCost\": -1.0,\n" +
+                "    \"availability\": \"GREEN\"\n" +
+                "  }";
+    }
+
     private String getContent(String searcher, String country) throws IOException {
         URL resource = getResource(searcher + "/" + searcher + "_" + country);
         return Resources.toString(resource, Charsets.UTF_8);
